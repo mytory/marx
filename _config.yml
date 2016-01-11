@@ -1,0 +1,13 @@
+url: "http://marx.mytory.net"
+title: "마르크스의 눈"
+description: >
+  마르크스주의, 정치 평론
+timezone: "Asia/Seoul"
+paginate: 10
+paginate_path: "page/:num"
+
+email: "mail@mytory.net"
+twitter_username: "spar2003"
+
+gems:
+  - jekyll-sitemap
