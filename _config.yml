@@ -11,3 +11,4 @@ twitter_username: "spar2003"
 
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
