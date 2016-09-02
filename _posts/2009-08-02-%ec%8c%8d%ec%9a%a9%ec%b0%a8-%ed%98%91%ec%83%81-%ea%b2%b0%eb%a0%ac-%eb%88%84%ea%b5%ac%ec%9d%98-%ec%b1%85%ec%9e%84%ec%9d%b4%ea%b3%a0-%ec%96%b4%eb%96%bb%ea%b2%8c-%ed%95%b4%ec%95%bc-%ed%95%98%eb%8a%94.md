@@ -19,7 +19,7 @@ tags:
   - 쌍용차 협상 결렬
   - 점거 파업
 ---
-7월 30일부터 3일 간 진행된 끝장 교섭이 사측의 결렬 선언으로 끝났다. 내가 즐겨 보는 언론 <레프트21>에 신속하게 이 결렬을 평가한 온라인 기사가 올라왔으므로, 요약 정리한다.<figure style="width: 540px" class="wp-caption aligncenter">
+7월 30일부터 3일 간 진행된 끝장 교섭이 사측의 결렬 선언으로 끝났다. 내가 즐겨 보는 언론 &lt;레프트21&gt;에 신속하게 이 결렬을 평가한 온라인 기사가 올라왔으므로, 요약 정리한다.<figure style="width: 540px" class="wp-caption aligncenter">
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile22.uf.114621184A75A5464E2AA5.jpg" width="540" height="360" alt="점거 파업 중인 쌍용차 노동자들" filename="cfile22.uf.114621184A75A5464E2AA5.jpg" filemime="" /><figcaption class="wp-caption-text">출처 : 레프트21, http://www.left21.com/article/6830</figcaption></figure> 
 

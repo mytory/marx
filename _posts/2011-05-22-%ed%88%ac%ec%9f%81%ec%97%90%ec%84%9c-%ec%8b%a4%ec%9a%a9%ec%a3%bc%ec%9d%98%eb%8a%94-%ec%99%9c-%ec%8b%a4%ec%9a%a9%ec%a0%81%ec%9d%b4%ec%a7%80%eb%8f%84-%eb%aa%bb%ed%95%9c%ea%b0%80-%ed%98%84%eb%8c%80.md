@@ -16,7 +16,7 @@ tags:
   - 파업
   - 현대차
 ---
-<레프트21>에서 <a href="http://www.left21.com/article/9713" target="_blank" title="[http://www.left21.com/article/9713]로 이동합니다.">&#8216;[현대차 비정규직] 전주지회장은 교섭에 연연 말고 투쟁에 나서야&#8217;</a>라는 글을 봤다.<figure style="width: 540px" class="wp-caption aligncenter">
+&lt;레프트21&gt;에서 <a href="http://www.left21.com/article/9713" target="_blank" title="[http://www.left21.com/article/9713]로 이동합니다.">&#8216;[현대차 비정규직] 전주지회장은 교섭에 연연 말고 투쟁에 나서야&#8217;</a>라는 글을 봤다.<figure style="width: 540px" class="wp-caption aligncenter">
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile3.uf.171C48494DD9250A06E423.jpg" width="540" height="504" alt="" filename="cfile3.uf.171C48494DD9250A06E423.jpg" filemime="" /><figcaption class="wp-caption-text">△현대차 비정규직 노동자들의 투쟁은 모든 노동자들에게 용기를 줬다.</figcaption></figure> 
 

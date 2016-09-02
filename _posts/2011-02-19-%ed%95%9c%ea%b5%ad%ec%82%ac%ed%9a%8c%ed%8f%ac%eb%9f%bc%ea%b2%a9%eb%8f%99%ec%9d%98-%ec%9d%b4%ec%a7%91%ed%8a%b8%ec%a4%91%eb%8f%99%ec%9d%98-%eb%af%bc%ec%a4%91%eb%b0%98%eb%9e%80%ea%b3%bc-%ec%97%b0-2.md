@@ -29,7 +29,7 @@ tags:
 
 <a href="/194" target="_blank">(4)정리발언</a>
 
-## <레프트21> 발행인 김인식
+## &lt;레프트21&gt; 발행인 김인식
 
 이집트 민중에게 축하와 연대의 인사를 보낸다. 이집트 민중에게 혁명적 신의 가호가 함께 하기를 바란다.<figure style="width: 550px" class="wp-caption aligncenter">
 

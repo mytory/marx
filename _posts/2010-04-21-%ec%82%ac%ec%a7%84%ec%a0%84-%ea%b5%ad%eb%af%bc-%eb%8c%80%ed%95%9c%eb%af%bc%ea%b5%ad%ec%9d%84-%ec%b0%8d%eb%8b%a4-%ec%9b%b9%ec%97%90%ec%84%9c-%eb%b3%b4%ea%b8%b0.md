@@ -16,7 +16,7 @@ tags:
 ---
 지난 반민주적 폭거와 저항의 역사 &#8211; 아마도 최근 몇 년간 대한민국에서 가장 중요하게 생각해야 할 역사를 국민이 직접 찍었다.
 
-내가 즐겨 보는 언론 <a title="[http://www.left21.com/]로 이동합니다." href="http://www.left21.com/" target="_blank"><레프트21></a>의 기자들도 이 사진전에 출품했다.(<a title="[http://www.left21.com/article/7976]로 이동합니다." href="http://www.left21.com/article/7976" target="_blank">레프트21의 사진전 소개 보기</a>)
+내가 즐겨 보는 언론 <a title="[http://www.left21.com/]로 이동합니다." href="http://www.left21.com/" target="_blank">&lt;레프트21&gt;</a>의 기자들도 이 사진전에 출품했다.(<a title="[http://www.left21.com/article/7976]로 이동합니다." href="http://www.left21.com/article/7976" target="_blank">레프트21의 사진전 소개 보기</a>)
 
 직접 가서 보지는 못했지만 웹으로 볼 수 있다니 다행.
 

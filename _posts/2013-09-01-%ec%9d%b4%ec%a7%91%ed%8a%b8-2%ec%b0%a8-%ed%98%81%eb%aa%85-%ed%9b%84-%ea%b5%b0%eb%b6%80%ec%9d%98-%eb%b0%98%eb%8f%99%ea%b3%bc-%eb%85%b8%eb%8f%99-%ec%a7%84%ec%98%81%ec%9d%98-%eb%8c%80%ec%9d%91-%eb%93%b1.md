@@ -9,7 +9,7 @@ permalink: /archives/578
 categories:
   - 정치논평
 ---
-<a href="http://left21.com/F_recommend-external.php" target="_blank" class="tx-link"><레프트21></a><a href="http://left21.com/F_recommend-external.php" target="_blank" class="tx-link">&nbsp;추천 외부글</a>에 있는 &lt;참세상&gt; 기사 <a href="http://www.newscham.net/news/view.php?board=news&nid=71323" target="_blank" class="tx-link">&#8220;6월 30일 이후 이집트 노동자 &#8211; 무르시 해임에 대한 이집트 노동운동의 입장과 평가&#8221;</a>를 읽고 정리한 것과 떠오른 단상이다.
+<a href="http://left21.com/F_recommend-external.php" target="_blank" class="tx-link">&lt;레프트21&gt;</a><a href="http://left21.com/F_recommend-external.php" target="_blank" class="tx-link">&nbsp;추천 외부글</a>에 있는 &lt;참세상&gt; 기사 <a href="http://www.newscham.net/news/view.php?board=news&nid=71323" target="_blank" class="tx-link">&#8220;6월 30일 이후 이집트 노동자 &#8211; 무르시 해임에 대한 이집트 노동운동의 입장과 평가&#8221;</a>를 읽고 정리한 것과 떠오른 단상이다.
 
 <p style="text-align: center; clear: none; float: none;">
   <figure style="width: 540px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile30.uf.2313AB345223147A0FE706.jpg" width="540" height="357" filename="left21_0110_19.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">△이집트 군부는 ‘테러와의 전쟁’ 중 - 군부는 무슬림형제단에 이어 혁명 자체를 ‘테러’라며 도륙하고 싶어한다. ⓒ사진 출처, @Eslam Mokka (트위터), 에서 재인용</figcaption></figure>
@@ -43,7 +43,7 @@ categories:
 
 그리고, 최근에 들은 이야긴데, 무슬림형제단의 지지율이 여전히 30%라고.&nbsp;
 
-다음은 <a href="https://www.facebook.com/permalink.php?story_fbid=464892113618354&id=100002927080179" target="_blank" class="tx-link">최근 군부의 만행</a>인데,&nbsp;<레프트21> 기자 <a href="http://left21.com/cse.php?keyword=%EA%B9%80%EC%A2%85%ED%99%98" target="_blank" class="tx-link">김종환</a>이 &lt;뉴욕타임스&gt; 기사를 보고 일부를 정리해 페이스북에 올린 것이다.
+다음은 <a href="https://www.facebook.com/permalink.php?story_fbid=464892113618354&id=100002927080179" target="_blank" class="tx-link">최근 군부의 만행</a>인데,&nbsp;&lt;레프트21&gt; 기자 <a href="http://left21.com/cse.php?keyword=%EA%B9%80%EC%A2%85%ED%99%98" target="_blank" class="tx-link">김종환</a>이 &lt;뉴욕타임스&gt; 기사를 보고 일부를 정리해 페이스북에 올린 것이다.
 
 <ul style="list-style-type: disc;">
   <li>
@@ -67,7 +67,7 @@ categories:
 
 여기까지 상황을 종합해 보면 지금 이집트 RS는 군부에 맞서는 투쟁을 적극적으로 벌여야 한다. 특히 노동자들 사이에서 그래야 할 것이다. 그런데 RS가 그걸 모를 리 없다. 그건 잘 하고 있을 것이다.
 
-지난 번에 <레프트21> 기자 김종환이 언급한 게 핵심 쟁점일 것이다. 군부에 맞서 광범한 세력을 모아야 할 텐데, 거기 무슬림형제단이 포함되는가다. 위 기사들을 토대로 볼 때 무슬림형제단과도 손을 잡아야 할 것으로 보인다. <a href="https://www.facebook.com/permalink.php?story_fbid=463500860424146&id=100002927080179" target="_blank" class="tx-link">무슬림형제단 시위대가 온다고 군부 반대 시위를 서둘러 해산</a>했다는 <a href="http://en.wikipedia.org/wiki/Gihan_Ibrahim" target="_blank" class="tx-link">기기 이브라힘</a>의 언급을 보면 심한 우려가 든다. (기기 이브라힘은 영어로 곧잘 이집트 상황을 쓰는 유명한 블로거이자 RS 활동가다. 미국 무슨 잡지에서 이집트 혁명의 리더 중 하나로 꼽힌 적이 있다.)
+지난 번에 &lt;레프트21&gt; 기자 김종환이 언급한 게 핵심 쟁점일 것이다. 군부에 맞서 광범한 세력을 모아야 할 텐데, 거기 무슬림형제단이 포함되는가다. 위 기사들을 토대로 볼 때 무슬림형제단과도 손을 잡아야 할 것으로 보인다. <a href="https://www.facebook.com/permalink.php?story_fbid=463500860424146&id=100002927080179" target="_blank" class="tx-link">무슬림형제단 시위대가 온다고 군부 반대 시위를 서둘러 해산</a>했다는 <a href="http://en.wikipedia.org/wiki/Gihan_Ibrahim" target="_blank" class="tx-link">기기 이브라힘</a>의 언급을 보면 심한 우려가 든다. (기기 이브라힘은 영어로 곧잘 이집트 상황을 쓰는 유명한 블로거이자 RS 활동가다. 미국 무슨 잡지에서 이집트 혁명의 리더 중 하나로 꼽힌 적이 있다.)
 
 이집트에서는 명확한 마르크스주의적 관점과 전술적 기예가 모두 필요한 상황이고 판돈이 아주 크다. 그런데 RS는 작다. 불안한 상황이다. (그리고 군부는 상당히 유능해 보인다.) 그러나 혁명적 상황은 몇 년 더 펼쳐질 테고 (아마도&#8230;) RS에게 기회는 몇 차례 더 있을 것이다.
 
@@ -75,4 +75,4 @@ categories:
 
 이집트 RS뿐 아니라 그리스 SEK도 있고, 10~20년 동안 세계 곳곳에서 혁명적 상황이 펼쳐질 것이다. 그리고 이번 혁명기는 느리게 흐른다는 점에서 혁명가들에게 비교적 &#8216;관대한&#8217; 혁명이 될 것 같다. 이집트의 상황을 보면 조급함이 드는 것도 사실이겠지만, 혁명가들은 한편으로는 사태를 전체적/종합적으로 조망하면서 꼼꼼히 앞날을 준비해야 한다.
 
-*덧붙이자면: 아랍 혁명에 대해 더 알고 싶다면&nbsp;여기로 : <a href="http://left21.com/6_issue.php?issue_no=87" target="_blank" class="tx-link"><레프트21> 집중이슈 &#8211; 심화하는 아랍 혁명</a>
+*덧붙이자면: 아랍 혁명에 대해 더 알고 싶다면&nbsp;여기로 : <a href="http://left21.com/6_issue.php?issue_no=87" target="_blank" class="tx-link">&lt;레프트21&gt; 집중이슈 &#8211; 심화하는 아랍 혁명</a>

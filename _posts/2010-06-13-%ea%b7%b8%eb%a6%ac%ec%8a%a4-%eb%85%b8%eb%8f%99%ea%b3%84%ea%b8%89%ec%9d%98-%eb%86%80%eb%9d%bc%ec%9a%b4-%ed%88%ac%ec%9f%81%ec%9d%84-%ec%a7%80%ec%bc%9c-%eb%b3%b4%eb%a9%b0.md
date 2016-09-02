@@ -53,7 +53,7 @@ tags:
 
 그리고 그리스 노동자들은 그 대안을 향해 거대한 한 발을 내딛고 있다.
 
-내가 즐겨 보는 신문 <레프트21>에는 다른 대안의 종류가 실렸다. 인용한다.
+내가 즐겨 보는 신문 &lt;레프트21&gt;에는 다른 대안의 종류가 실렸다. 인용한다.
 
 > &nbsp;2001년에 아르헨티나 정부를 전복했던 대중 반란은 오늘날의 그리스와 매우 유사한 상황에서 촉발됐다. 아르헨티나도 IMF의 구제금융을 받았고, 그 대가로 긴축을 요구받았다.&nbsp;
 > 
@@ -91,7 +91,7 @@ tags:
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile1.uf.1335A9274C151319E77BF7.jpg" width="92" height="131" alt="파노스 가르가나스 얼굴" filename="cfile1.uf.1335A9274C151319E77BF7.jpg" filemime="" /><figcaption class="wp-caption-text">△파노스 가르가나스. 그리스 사회주의노동자당 창립자다.</figcaption></figure> 
 
-마지막으로&#8230; 그리스 투쟁 소식을 생생하게 전해 줄, <a href="http://www.sek-ist.gr/" target="_blank" title="[http://www.sek-ist.gr/]로 이동합니다.">그리스 사회주의노동자당</a>(<a href="http://translate.google.co.kr/translate?hl=ko&sl=auto&tl=en&u=http://www.sek-ist.gr/" target="_blank" title="[http://translate.google.co.kr/translate?hl=ko&sl=auto&tl=en&u=http://www.sek-ist.gr/]로 이동합니다.">영어번역 페이지</a>) 활동가가 7월 23일에 한국에 와서 연설한다. 이름은 파노스 가르가나스,&nbsp;<a href="http://left21.com/3_search.php?keyword=%ED%8C%8C%EB%85%B8%EC%8A%A4+%EA%B0%80%EB%A5%B4%EA%B0%80%EB%82%98%EC%8A%A4" target="_blank" title="[http://left21.com/3_search.php?keyword=%ED%8C%8C%EB%85%B8%EC%8A%A4+%EA%B0%80%EB%A5%B4%EA%B0%80%EB%82%98%EC%8A%A4]로 이동합니다."><레프트21>에 그리스 관련한 글</a>도 많이 쓴 사람이다. 7월에 있는&nbsp;**<a href="http://marxism.or.kr/2010/" target="_blank" title="[http://marxism.or.kr/2010/]로 이동합니다.">한국 최대 규모의 진보 포럼 맑시즘2010</a>**에서 연설한다.&nbsp;
+마지막으로&#8230; 그리스 투쟁 소식을 생생하게 전해 줄, <a href="http://www.sek-ist.gr/" target="_blank" title="[http://www.sek-ist.gr/]로 이동합니다.">그리스 사회주의노동자당</a>(<a href="http://translate.google.co.kr/translate?hl=ko&sl=auto&tl=en&u=http://www.sek-ist.gr/" target="_blank" title="[http://translate.google.co.kr/translate?hl=ko&sl=auto&tl=en&u=http://www.sek-ist.gr/]로 이동합니다.">영어번역 페이지</a>) 활동가가 7월 23일에 한국에 와서 연설한다. 이름은 파노스 가르가나스,&nbsp;<a href="http://left21.com/3_search.php?keyword=%ED%8C%8C%EB%85%B8%EC%8A%A4+%EA%B0%80%EB%A5%B4%EA%B0%80%EB%82%98%EC%8A%A4" target="_blank" title="[http://left21.com/3_search.php?keyword=%ED%8C%8C%EB%85%B8%EC%8A%A4+%EA%B0%80%EB%A5%B4%EA%B0%80%EB%82%98%EC%8A%A4]로 이동합니다.">&lt;레프트21&gt;에 그리스 관련한 글</a>도 많이 쓴 사람이다. 7월에 있는&nbsp;**<a href="http://marxism.or.kr/2010/" target="_blank" title="[http://marxism.or.kr/2010/]로 이동합니다.">한국 최대 규모의 진보 포럼 맑시즘2010</a>**에서 연설한다.&nbsp;
 
 **<span style="font-size: 18pt; ">그리스 소식이 궁금한 사람은 <a href="http://marxism.or.kr/2010/" target="_blank" title="[http://marxism.or.kr/2010/]로 이동합니다.">맑시즘2010</a>에서 <a href="http://marxism.or.kr/2010/speaker.php" target="_blank" title="[http://marxism.or.kr/2010/speaker.php]로 이동합니다.">파노스 가르가나스의 연설</a>을 듣기 바란다.</span>**
 
