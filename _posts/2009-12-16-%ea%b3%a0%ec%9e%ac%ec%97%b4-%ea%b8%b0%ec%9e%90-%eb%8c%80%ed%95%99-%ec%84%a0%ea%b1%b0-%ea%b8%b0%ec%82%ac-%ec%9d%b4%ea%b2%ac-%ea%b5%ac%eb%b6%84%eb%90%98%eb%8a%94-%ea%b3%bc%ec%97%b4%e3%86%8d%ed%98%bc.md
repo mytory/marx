@@ -23,13 +23,13 @@ tags:
 ---
 나는 <시사IN> 애독자다. 정기구독하지는 않지만, 매주 가판대에서 <시사IN>을 사 본다. 내 예전 포스트들을 보면 <시사IN>을 대상으로 한 리뷰 글이 좀 있다는 것을 알 수 있을 것이다. 아래 글은 내용을 칭찬한 경우다.
 
-<a target="_blank" href="http://spar2003.tistory.com/134"><조선일보> 수능 학교별 순위 공개와 대비되는 <시사인>의 따듯한 시선</a>
+<a target="_blank" href="http://spar2003.tistory.com/134">&lt;조선일보&gt; 수능 학교별 순위 공개와 대비되는 &lt;시사인&gt;의 따듯한 시선</a>
 
 내가 서두에 이렇게 &#8216;변명&#8217;을 쓰는 이유는, 공정성을 기하기 위해서다. <시사IN>은 조중동과 달리 대체로 정론직필하는 좋은 언론이다.
 
 그러나 <a href="http://www.sisain.co.kr/news/articleView.html?idxno=5942" target="_blank" title="[http://www.sisain.co.kr/news/articleView.html?idxno=5942]로 이동합니다.">고재열 기자의 이번 기사</a>에는 문제가 있어 보여 짤막하게 쓴다.<figure style="width: 590px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile23.uf.1469C0034B2841597003F1.jpg" width="590" height="263" alt="서울대 총학선거 부정 제기하는 장면" filename="cfile23.uf.1469C0034B2841597003F1.jpg" filemime="" /><figcaption class="wp-caption-text">지난 11월26일 예스위캔 쪽에서 감청 내용을 공개하며 박진혁 전 선거관리위원장 등의 부정선거 의혹을 제기하고 있다(오른쪽). 예스위캔이 정리한 채록 문서. <서울대저널> 동영상 캡처. 출처는 <한겨레21> http://h21.hani.co.kr/arti/special/special_general/26295.html 아래쪽에 인용과 기사 링크도 있다.</figcaption></figure> 
+<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile23.uf.1469C0034B2841597003F1.jpg" width="590" height="263" alt="서울대 총학선거 부정 제기하는 장면" filename="cfile23.uf.1469C0034B2841597003F1.jpg" filemime="" /><figcaption class="wp-caption-text">지난 11월26일 예스위캔 쪽에서 감청 내용을 공개하며 박진혁 전 선거관리위원장 등의 부정선거 의혹을 제기하고 있다(오른쪽). 예스위캔이 정리한 채록 문서. &lt;서울대저널&gt; 동영상 캡처. 출처는 <한겨레21> http://h21.hani.co.kr/arti/special/special_general/26295.html 아래쪽에 인용과 기사 링크도 있다.</figcaption></figure> 
 
 ## 모함에 비리까지 ‘대학 선거’ 맞아?
 
@@ -87,13 +87,13 @@ tags:
 > 
 > 미리 투표함을 뜯어보지 않고는 이처럼 정확한 수치를 제시하며 말할 수 없다는 것이 선본들의 주장이다.
 > 
-> &#8211; 유재연 기자, <a target="_blank" href="http://www.cbs.co.kr/nocut/Show.asp?IDX=1325296">사전개표에 불법 도청까지… 서울대 총학선거 &#8216;파행&#8217;</a>, <노컷뉴스></p> 
+> &#8211; 유재연 기자, <a target="_blank" href="http://www.cbs.co.kr/nocut/Show.asp?IDX=1325296">사전개표에 불법 도청까지… 서울대 총학선거 &#8216;파행&#8217;</a>, &lt;노컷뉴스&gt;</p> 
 
 도청은 ‘과열’은 분명해 보인다. 그러나 이번 사안은 ‘혼탁’이라고 할 수 있을지 의문이다. 차라리 <한겨레21>의 서술과 분석은 좀 나아 보인다.</p> 
 
 > 물론 **전통적 정치조직의 최종 목적지** 역시 총학이다. 서울대 무단 감청을 벌인 예스위캔 선본은 민주노동당학생위원회 쪽이다. 이들은 “사실 지난해에도 투표용지 1만 장이 없어졌을 때 고민이 많았다. 선본 차원에서 이의를 제기했는데 받아들여지지 않았다”고 말했다.
 > 
-> 설명만큼 두 진영의 골은 깊다. 지난해 선거 때 이미 지금의 비운동권 계파에 밀렸다. <서울대저널> 이진혁 편집장은 “기층 학생을 통해 조직을 키울 수 있는 큰 계기가 총학생회장 당선”이라며 “개인적 사심보다, 조직이 바라는 대로 학생 사회를 구성하려는 고민이 있는 것”이라고 말한다.
+> 설명만큼 두 진영의 골은 깊다. 지난해 선거 때 이미 지금의 비운동권 계파에 밀렸다. &lt;서울대저널&gt; 이진혁 편집장은 “기층 학생을 통해 조직을 키울 수 있는 큰 계기가 총학생회장 당선”이라며 “개인적 사심보다, 조직이 바라는 대로 학생 사회를 구성하려는 고민이 있는 것”이라고 말한다.
 > 
 > &#8211; 임인택 기자, <a target="_blank" href="http://h21.hani.co.kr/arti/special/special_general/26295.html">서울대판 ‘초원복집 사건’의 진실</a>, <한겨레21> 2009.12.11 제789호, 강조는 내가.&nbsp;
 

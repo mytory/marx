@@ -19,7 +19,7 @@ tags:
   - 신입사원 임금
   - 이명박
 ---
-어제 뉴스를 보가다가 경악했다. 이명박이 대졸 초임의 임금을 갂아야 한다고 말한 것을 봤기 때문이다. 옆에서 같이 뉴스를 보던 친척분은 “임금이 너무 많이 올랐어” 하며 이명박의 말에 동조하셨다. (관련기사 : <a target="_blank" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200901151800535&code=910203">李대통령 “임금 낮춰 일자리 나누자”</a>(<경향신문>))
+어제 뉴스를 보가다가 경악했다. 이명박이 대졸 초임의 임금을 갂아야 한다고 말한 것을 봤기 때문이다. 옆에서 같이 뉴스를 보던 친척분은 “임금이 너무 많이 올랐어” 하며 이명박의 말에 동조하셨다. (관련기사 : <a target="_blank" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200901151800535&code=910203">李대통령 “임금 낮춰 일자리 나누자”</a>(&lt;경향신문&gt;))
 
 그러나 비정규직 8백만 시대, 88만 원 세대라는 말에서 볼 수 있듯이 한국에서 사회 초년생들의 임금은 아주아주 떨어져 왔다. 당장 80~90년대만 해도 소위 명문대에는 기업 인사담당자들이 와서 졸업예정자들을 스카웃해가곤 했다. 그러나 지금은 입학 때부터 취업경쟁에 목을 맨다.
 
@@ -28,26 +28,26 @@ tags:
 > 경기침체가 깊어가고 대졸자 취업난이 점차 심각해지면서 입학 전부터 ‘취업 준비’에 나서는 예비 대학생들이 늘고 있다. (후략) 
 > 
 > <p class="rep">
->   <a title="[http://www.hani.co.kr/arti/society/schooling/332687.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/society/schooling/332687.html">예비대학생 입학도 전에 “취업전쟁” 돌입(<한겨레>)</a>
+>   <a title="[http://www.hani.co.kr/arti/society/schooling/332687.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/society/schooling/332687.html">예비대학생 입학도 전에 “취업전쟁” 돌입(&lt;한겨레&gt;)</a>
 > </p>
 
 ## 비정규직 8백만, 88만 원 세대
 
 이명박이 저런 말을 할 수밖에 없는 것은, 이명박 정부가 ‘이념형 정부’기 때문이다. 이명박은 말로는 실용을 외쳤지만 전혀 실용적이지 않았다. 만약 ‘실용적 보수’라면 지금 같은 경제 위기 시기에 엄청난 저항을 부를 수 있는 부자 위주의 정책을 펴지 않을 것이다
 
-종부세 감면을 해 <a title="경제 위기와 이명박의 서민 말살 대책" target="_blank" href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20080925T033647%2b0900:cor06-economy2:1U">이명박 자신이 2,327만 원의 혜택을 받은 것</a>부터가 그 싹수를 말해 준다. <a title="부자 세금 깎지 말고 서민 복지를 늘려라(<저항의 촛불>)&#8221; target=&#8221;\_blank&#8221; href=&#8221;http://www.resistcandle.com/0\_view.php?urn=urn:newsml:counterfire.or.kr:20080904T075810%2b0900:cor04-morewelfaretopeople:1U&#8221;>이명박이 부자에게 감세해준 돈은 총 75조 원</a>이다. 반면 복지예산은 깎기 일쑤여서 심지어 같은 당 초선의원들조차 이명박식 복지를 비판한다.(관련기사 : <a title="[http://www.hani.co.kr/arti/politics/politics_general/308596.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/politics/politics_general/308596.html">“이명박 정부 복지비전 전무” 한나라 초선모임 ‘민본 21’ 발족(<한겨레>)</a>) 이태수 꽃동네현도사회복지대 교수의 비판은 재기넘친다. 
+종부세 감면을 해 <a title="경제 위기와 이명박의 서민 말살 대책" target="_blank" href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20080925T033647%2b0900:cor06-economy2:1U">이명박 자신이 2,327만 원의 혜택을 받은 것</a>부터가 그 싹수를 말해 준다. <a title="부자 세금 깎지 말고 서민 복지를 늘려라(&lt;저항의 촛불&gt;)&#8221; target=&#8221;\_blank&#8221; href=&#8221;http://www.resistcandle.com/0\_view.php?urn=urn:newsml:counterfire.or.kr:20080904T075810%2b0900:cor04-morewelfaretopeople:1U&#8221;>이명박이 부자에게 감세해준 돈은 총 75조 원</a>이다. 반면 복지예산은 깎기 일쑤여서 심지어 같은 당 초선의원들조차 이명박식 복지를 비판한다.(관련기사 : <a title="[http://www.hani.co.kr/arti/politics/politics_general/308596.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/politics/politics_general/308596.html">“이명박 정부 복지비전 전무” 한나라 초선모임 ‘민본 21’ 발족(&lt;한겨레&gt;)</a>) 이태수 꽃동네현도사회복지대 교수의 비판은 재기넘친다. 
 
 > 후보 시절엔 생애주기별 디딤돌 복지를 하겠다 했다. 당선인이 되어서는 능동적 복지를 하겠다 했다. 대통령이 된 뒤엔 복지재정의 확충은 없단다. 대신 방만하고 비효율적인 복지시스템을 손질하겠단다. 언 발에 오줌 누는 수준인데 다른 곳에 튈지 모르니 오줌조차도 안 된다?
 > 
 > <p class="rep">
->   <a title="[http://www.hani.co.kr/arti/opinion/column/287637.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/opinion/column/287637.html">이명박식 복지개혁과 식코(<한겨레>)<br /> </a>
+>   <a title="[http://www.hani.co.kr/arti/opinion/column/287637.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/opinion/column/287637.html">이명박식 복지개혁과 식코(&lt;한겨레&gt;)<br /> </a>
 > </p>
 
 <div class="imageblock">
   <img src="http://cfs13.tistory.com/image/10/tistory/2009/01/16/15/57/49702fe61e1f2" /></p> 
   
   <p class="cap1">
-    출처 : <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20080925T033647%2b0900:cor06-economy2:1U" target="_blank">경제 위기와 이명박의 서민 말살 대책 ─ 우리의 삶을 지키기 위해 투쟁하자</a>(<저항의 촛불>)
+    출처 : <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20080925T033647%2b0900:cor06-economy2:1U" target="_blank">경제 위기와 이명박의 서민 말살 대책 ─ 우리의 삶을 지키기 위해 투쟁하자</a>(&lt;저항의 촛불&gt;)
   </p>
 </div>
 
@@ -60,7 +60,7 @@ tags:
 > 전광우 금융위원장은 “주요 국가의 1인당 국내총생산(GDP) 대비 금융업계 대졸 초임을 비교해볼 때 미국이 61%, 일본이 135%, 한국이 207%로 가장 높게 나왔다”며 대졸 초임 인하 방안을 제시했다.(후략)
 > 
 > <p class="rep">
->   <a target="_blank" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200901151800535&code=910203">李대통령 “임금 낮춰 일자리 나누자”</a>(<경향신문>)
+>   <a target="_blank" href="http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200901151800535&code=910203">李대통령 “임금 낮춰 일자리 나누자”</a>(&lt;경향신문&gt;)
 > </p>
 
 대통령이 한 말씀 하시면 금융위원장이 추임새 넣는 거 참 보기 좋다. 역사책에서 많이 보던 풍경이다. 방금 검색해보니 조선일보도 좋다고 받아썼다. 굳이 링크걸어 조선일보 좋은 일 해주긴 싫으니 보고 싶으면 직접 찾아 보시라. 참, 반박은 금세 여러 군데서 나왔는데 내가 읽은 반박은 다음 글이다.

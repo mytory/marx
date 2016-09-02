@@ -133,7 +133,7 @@ tags:
 > 
 > 
   
-> <P class=rep><A href="http://www.resistcandle.com/0\_view.php?urn=urn:newsml:counterfire.or.kr:20050816T000000%2B0900:d61-1756:1U" target=\_blank>전지윤, ‘진실을 덮으려는 범죄자들’, 격주간 <다함께>2005.8.16</A></P>
+> <P class=rep><A href="http://www.resistcandle.com/0\_view.php?urn=urn:newsml:counterfire.or.kr:20050816T000000%2B0900:d61-1756:1U" target=\_blank>전지윤, ‘진실을 덮으려는 범죄자들’, 격주간 &lt;다함께&gt;2005.8.16</A></P>
   
 
 

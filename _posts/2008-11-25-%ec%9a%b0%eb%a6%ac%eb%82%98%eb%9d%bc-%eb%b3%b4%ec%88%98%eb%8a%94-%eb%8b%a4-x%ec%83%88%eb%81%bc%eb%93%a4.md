@@ -20,6 +20,6 @@ tags:
 
 그래. 너희도 알고는 있었구나. 
 
-(출처 : <a title="[http://www.hani.co.kr/arti/opinion/column/323974.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/opinion/column/323974.html"><한겨레> 성한용 칼럼 ‘이땅의 보수는 다 얼어죽었나’</a>) 
+(출처 : <a title="[http://www.hani.co.kr/arti/opinion/column/323974.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/opinion/column/323974.html">&lt;한겨레&gt; 성한용 칼럼 ‘이땅의 보수는 다 얼어죽었나’</a>) 
 
 이 땅의 ‘진정한’ 보수가 일어서야 나라가 산다는 성한용 선임기자의 관점은 동의하기 힘들지만, 성한용의 글에는 들을만한 소리가 종종 있다.

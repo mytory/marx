@@ -56,7 +56,7 @@ tags:
   </p>
   
   <div class="txc-textbox" style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-color: rgb(193, 193, 193); border-right-color: rgb(193, 193, 193); border-bottom-color: rgb(193, 193, 193); border-left-color: rgb(193, 193, 193); background-color: rgb(238, 238, 238); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; ">
-    우리가 전범처럼 예를 들곤 하는 유럽 사회의 노블레스 오블리주도 오랜 역사과정을 통해 민중의 비판과 견제를 받아들이는 편이 민중 지배를 더욱 용이하게 한다는 점을 인식함으로써 그것을 하나의 문화로 정착시킨 것으로 봐야 한다. <a href="http://www.hani.co.kr/section-001012000/2004/02/001012000200402111806201.html" target="_blank" title="‘노블레스 오블리주’의 조건">(<한겨레> 2004년 2월 12일자)</a>
+    우리가 전범처럼 예를 들곤 하는 유럽 사회의 노블레스 오블리주도 오랜 역사과정을 통해 민중의 비판과 견제를 받아들이는 편이 민중 지배를 더욱 용이하게 한다는 점을 인식함으로써 그것을 하나의 문화로 정착시킨 것으로 봐야 한다. <a href="http://www.hani.co.kr/section-001012000/2004/02/001012000200402111806201.html" target="_blank" title="‘노블레스 오블리주’의 조건">(&lt;한겨레&gt; 2004년 2월 12일자)</a>
   </div>
   
   <p>
@@ -72,11 +72,11 @@ tags:
   </p>
   
   <p>
-    때로 그 본성이 드러날 때가 있으니 위기의 시기다. 그리고 요즘, 점점 더 그렇게 되고 있다. 다음은 <a href="http://www.redian.org/news/articleView.html?idxno=11609" target="_blank" title="[생존 위해 반자본주의 정당 불가피]로 이동합니다."><레디앙>의 한 기사</a>에서 일부 인용한 것이다.
+    때로 그 본성이 드러날 때가 있으니 위기의 시기다. 그리고 요즘, 점점 더 그렇게 되고 있다. 다음은 <a href="http://www.redian.org/news/articleView.html?idxno=11609" target="_blank" title="[생존 위해 반자본주의 정당 불가피]로 이동합니다.">&lt;레디앙&gt;의 한 기사</a>에서 일부 인용한 것이다.
   </p>
   
   <div class="txc-textbox" style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-color: rgb(193, 193, 193); border-right-color: rgb(193, 193, 193); border-bottom-color: rgb(193, 193, 193); border-left-color: rgb(193, 193, 193); background-color: rgb(238, 238, 238); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; ">
-    나이가 많은 LCR의 원로 당원 가운데 한 사람은 &#8220;나는 70년대에 감옥을 세 번 갔다 왔다. 그리곤 80년대부터 지금까진 프랑스에서 정치사상범은 거의 없었다. 하지만 최근 들어 다시 감옥에 가는 사람들이 생겨나고 있다. 노조운동으로, 정치운동으로&#8230; 이것이 자본주의 체제위기를 보여주는 단면이 아니겠느냐.&#8221;고 반문하였다. (<a href="http://www.redian.org/news/articleView.html?idxno=11609" target="_blank" title="[생존 위해 반자본주의 정당 불가피]로 이동합니다.">박지연, &#8220;생존 위해 반자본주의 정당 불가피&#8221;, <레디앙></a>)
+    나이가 많은 LCR의 원로 당원 가운데 한 사람은 &#8220;나는 70년대에 감옥을 세 번 갔다 왔다. 그리곤 80년대부터 지금까진 프랑스에서 정치사상범은 거의 없었다. 하지만 최근 들어 다시 감옥에 가는 사람들이 생겨나고 있다. 노조운동으로, 정치운동으로&#8230; 이것이 자본주의 체제위기를 보여주는 단면이 아니겠느냐.&#8221;고 반문하였다. (<a href="http://www.redian.org/news/articleView.html?idxno=11609" target="_blank" title="[생존 위해 반자본주의 정당 불가피]로 이동합니다.">박지연, &#8220;생존 위해 반자본주의 정당 불가피&#8221;, &lt;레디앙&gt;</a>)
   </div>
   
   <p>

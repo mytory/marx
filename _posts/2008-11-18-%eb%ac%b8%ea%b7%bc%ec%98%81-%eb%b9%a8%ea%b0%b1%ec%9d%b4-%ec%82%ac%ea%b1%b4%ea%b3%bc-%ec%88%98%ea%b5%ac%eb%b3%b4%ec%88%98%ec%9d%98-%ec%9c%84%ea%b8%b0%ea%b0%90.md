@@ -31,7 +31,7 @@ tags:
 
 지만원의 문근영 광주좌빨 발언으로 졸지에 어린 배우 문근영의 선행이 빨갱이 논쟁으로 확산됐다. 어처구니없는 일이다. 이 논란은 <span class="Apple-style-span" style="font-weight: bold;">이 땅 ‘보수’의 천박함</span>을 잘 보여 준다.
 
-사실 문근영에 대한 지만원의 마녀사냥은 너무 나간 것이다. <조선일보> 같은 세련된 논법을 사용<font color="gray">(해서 자기 본질을 숨기기 잘)</font>하는 신문은 저런 실수를 잘 하지 않는다.
+사실 문근영에 대한 지만원의 마녀사냥은 너무 나간 것이다. &lt;조선일보&gt; 같은 세련된 논법을 사용<font color="gray">(해서 자기 본질을 숨기기 잘)</font>하는 신문은 저런 실수를 잘 하지 않는다.
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/4923082211e2c9Z.jpg" class="aligncenter" width="500" height="350" alt="" filename="red-hunting.jpg" filemime="" />
 
@@ -41,7 +41,7 @@ tags:
 
 빨갱이 마녀사냥은 교과서에도 적용됐다. <span class="Apple-style-span" style="font-weight: bold;">금성출판사 교과서</span>는 빨갱이 교과서로 마녀사냥 당했다. 국방부의 불온서적 목록은 교양서를 직접 겨냥했다.
 
-빨갱이 마녀사냥은 자본주의에서 권력자들이 내부 분란을 잠재우기 위해 즐겨 사용한 수법이다. 대표적인 것이 미국의 ‘매카시즘’이다. 1950년~1954년 미국 상원의원 매카시가 주도한 빨갱이 마녀사냥으로 <a href="http://solidarity.tistory.com/18" target="_blank" title="[세계의 사회주의자 ① - 알버트 아인슈타인]로 이동합니다.">아인슈타인</a>, <a href="http://news.khan.co.kr/section/khan_art_view.html?mode=view&artid=200809051659325&code=900308" target="_blank" title="[http://news.khan.co.kr/section/khan_art_view.html?mode=view&artid=200809051659325&code=900308]로 이동합니다.">찰리 채플린</a> 같은 사회저명인사들이 마녀사냥 당했다. 심지어 영화 <킨제이 보고서>의 주인공 <a href="http://smog.egloos.com/3925191" target="_blank" title="[알프레드 킨제이 박사]로 이동합니다.">킨제이 박사</a>도 인간 성생활의 비밀에 손댔다는 이유로 매카시즘의 희생자가 됐다. 매카시즘에 의해 미국의 한 부부는 아무 죄 없이 사형당했다.
+빨갱이 마녀사냥은 자본주의에서 권력자들이 내부 분란을 잠재우기 위해 즐겨 사용한 수법이다. 대표적인 것이 미국의 ‘매카시즘’이다. 1950년~1954년 미국 상원의원 매카시가 주도한 빨갱이 마녀사냥으로 <a href="http://solidarity.tistory.com/18" target="_blank" title="[세계의 사회주의자 ① - 알버트 아인슈타인]로 이동합니다.">아인슈타인</a>, <a href="http://news.khan.co.kr/section/khan_art_view.html?mode=view&artid=200809051659325&code=900308" target="_blank" title="[http://news.khan.co.kr/section/khan_art_view.html?mode=view&artid=200809051659325&code=900308]로 이동합니다.">찰리 채플린</a> 같은 사회저명인사들이 마녀사냥 당했다. 심지어 영화 &lt;킨제이 보고서&gt;의 주인공 <a href="http://smog.egloos.com/3925191" target="_blank" title="[알프레드 킨제이 박사]로 이동합니다.">킨제이 박사</a>도 인간 성생활의 비밀에 손댔다는 이유로 매카시즘의 희생자가 됐다. 매카시즘에 의해 미국의 한 부부는 아무 죄 없이 사형당했다.
 
 이것이 마녀사냥의 논리다. 미국의 매카시즘은 세계 2차대전 직후 활발했던 노동운동을 분쇄하기 위한 미국 ‘보수’의 대응이었다. 사노련 마녀사냥은 촛불 여론을 잠재우기 위한 것이었다.
 
@@ -61,7 +61,7 @@ tags:
 
 <span class="Apple-style-span" style="font-weight: bold;">셋째, 촛불 운동이 조성한 반(反)이명박 정서라는 위기다.</span> 이명박의 막나가는 친부자ㆍ서민말살 정책은 지난 10년 간 피폐해질대로 피폐해진 대중의 반발을 사 100만 명이 모이는 촛불시위까지 낳았다. 이명박의 지지율은 한 때 7%까지 떨어졌다.
 
-<span class="Apple-style-span" style="font-weight: bold;">넷째,</span> 위에 말한 이유로 인한 <span class="Apple-style-span" style="font-weight: bold;">‘보수’ 세력의 대분열</span>이라는 위기다. 지만원이 <조선일보>를 욕한다. 이회창이 이명박을 욕한다. 자유선진당이 한나라당을 욕한다. 민주당이 FTA를 반대한다.(사실 이 당은 뭐하는지 모르겠다.) 대통령 이명박과 집권당인 한나라당만 어쩔 수 없이 뚝심을 발휘하고 있다. 경제 위기에 대한 대처, 대중의 반이명박 정서 눈치보기. 이 두 가지가 ‘보수’의 우스꽝스런 광대놀음의 배후다.
+<span class="Apple-style-span" style="font-weight: bold;">넷째,</span> 위에 말한 이유로 인한 <span class="Apple-style-span" style="font-weight: bold;">‘보수’ 세력의 대분열</span>이라는 위기다. 지만원이 &lt;조선일보&gt;를 욕한다. 이회창이 이명박을 욕한다. 자유선진당이 한나라당을 욕한다. 민주당이 FTA를 반대한다.(사실 이 당은 뭐하는지 모르겠다.) 대통령 이명박과 집권당인 한나라당만 어쩔 수 없이 뚝심을 발휘하고 있다. 경제 위기에 대한 대처, 대중의 반이명박 정서 눈치보기. 이 두 가지가 ‘보수’의 우스꽝스런 광대놀음의 배후다.
 
 <span class="Apple-style-span" style="font-weight: bold;">다섯째, 주류정치와 주류경제의 스텝이 꼬이고 있다.</span> 이명박 정부는 독재시절의 논리로 자본을 통제하려 든다. 금융위는 채권안정펀드를 조성하겠다고 밝히면서 은행, 증권사, 보험사가 10조 원 중 8조 원을 댈 것이라고 했다. 사전조율도 없이 한 말이다. 재벌들에게는 일방적으로 일자리를 늘리라고 요구한다. 자본과 정부이 서로 불신하는 것은 ‘보수’에 커다란 위기이며 첫 번째~세 번째 위기의 반영이다.
 

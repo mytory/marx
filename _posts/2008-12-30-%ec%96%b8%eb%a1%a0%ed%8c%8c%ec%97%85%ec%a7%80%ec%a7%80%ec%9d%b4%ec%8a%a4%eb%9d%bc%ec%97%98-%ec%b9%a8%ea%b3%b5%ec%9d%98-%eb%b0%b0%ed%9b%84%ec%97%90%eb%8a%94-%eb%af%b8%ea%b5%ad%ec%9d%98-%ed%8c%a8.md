@@ -30,7 +30,7 @@ tags:
 
 이스라엘은 왜 갑자기 팔레스타인을 침공하는 것일까?
 
-<한겨레>는 <a href="http://www.hani.co.kr/arti/international/arabafrica/330135.html" target="_blank" title="기사 보기">‘‘하마스 제거’는 명분…집권당 ‘총선 득표’ 노림수’</a>라는 기사를 통해 외부 침공으로 내부의 지지율을 끌어올린다는 전형적인 해석을 내놓았다. 물론, 틀린 말은 아니나 내가 보기엔 부족하다.
+&lt;한겨레&gt;는 <a href="http://www.hani.co.kr/arti/international/arabafrica/330135.html" target="_blank" title="기사 보기">‘‘하마스 제거’는 명분…집권당 ‘총선 득표’ 노림수’</a>라는 기사를 통해 외부 침공으로 내부의 지지율을 끌어올린다는 전형적인 해석을 내놓았다. 물론, 틀린 말은 아니나 내가 보기엔 부족하다.
 
 ## 미국의 중동정책 빨간불이 진정한 원인
 

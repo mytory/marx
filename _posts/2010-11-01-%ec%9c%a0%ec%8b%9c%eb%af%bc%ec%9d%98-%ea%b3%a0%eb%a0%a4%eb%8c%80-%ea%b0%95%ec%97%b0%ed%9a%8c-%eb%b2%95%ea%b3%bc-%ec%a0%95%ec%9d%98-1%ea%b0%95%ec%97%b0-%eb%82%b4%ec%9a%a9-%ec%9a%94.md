@@ -54,14 +54,14 @@ tags:
 
 파병, 한미FTA, 노동자 탄압, 비정규직 악법 등에서 그의 입장은 별로 ‘정의’롭지 않았던 것 같다.
 
-파병과 FTA에 대해 <한겨레>에 실린 그의 인터뷰를 보자.
+파병과 FTA에 대해 &lt;한겨레&gt;에 실린 그의 인터뷰를 보자.
 
 > -인간은 과거를 보고 미래를 평가한다. 오히려 더 미래적인 것으로 답변을 하면 될 것 같다. 사람들은 과거에 노무현이 보여줬던 모습을 보고 그를 찍었다. 그런데 진보적인 사람들조차도 등을 돌리게 된 계기가 한―미 자유무역협정이나 이라크 파병 등이다. 이를 유 후보는 적극 지지했다. 
 > 
 > “적극 지지한 건 아니고 불가피한 면이 있다는 점 알고, 대통령 욕 얻어 자시는데, 국회의원인 나는 반대하며 모면하는 건 비겁하다고 생각해서 두 번째 연장 동의안은 찬성했다. 에프티에이는 처음에 중간 수준에서 됐으면 좋겠다고 생각했는데, 그 수준에서 (체결) 돼서 찬성했다. 반대로 박원순 변호사님의 프레임에 담긴 질문을 가지고 보면 ….”
 > 
 > <p style="text-align: right; ">
->   <a href="http://www.hani.co.kr/arti/politics/politics_general/235928.html" target="_blank" title="[http://www.hani.co.kr/arti/politics/politics_general/235928.html]로 이동합니다.">유시민 “FTA·파병, 피하는건 비겁하다 생각해 찬성”</a>, <한겨레>,&nbsp;2007-09-13
+>   <a href="http://www.hani.co.kr/arti/politics/politics_general/235928.html" target="_blank" title="[http://www.hani.co.kr/arti/politics/politics_general/235928.html]로 이동합니다.">유시민 “FTA·파병, 피하는건 비겁하다 생각해 찬성”</a>, &lt;한겨레&gt;,&nbsp;2007-09-13
 > </p>
 
 파병은 정의인가? 지금 아프가니스탄과 이라크에서 벌어진 일들을 보면 이는 전혀 ‘정의’롭지 않았다.

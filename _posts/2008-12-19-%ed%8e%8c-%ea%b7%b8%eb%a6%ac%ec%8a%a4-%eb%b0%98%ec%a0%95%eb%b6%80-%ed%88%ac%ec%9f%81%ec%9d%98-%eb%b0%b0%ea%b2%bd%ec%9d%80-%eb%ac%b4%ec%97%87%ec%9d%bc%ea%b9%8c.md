@@ -19,7 +19,7 @@ tags:
 ---
 <div class="gray-textbox">
   <p>
-    이번에는 국내 트로츠키주의 단체에서 내는 신문인 <저항의 촛불>에서 그리스 투쟁의 배경에 대해 실었다. 영국 <소셜리스트 워커>에 실린 기사(<a href="http://www.socialistworker.co.uk=art.php?id=16705" target="_blank" title="[http://www.socialistworker.co.uk/art.php?id=16705]로 이동합니다.">Greece in revolt</a>)를 번역한 것이다.
+    이번에는 국내 트로츠키주의 단체에서 내는 신문인 &lt;저항의 촛불&gt;에서 그리스 투쟁의 배경에 대해 실었다. 영국 &lt;소셜리스트 워커&gt;에 실린 기사(<a href="http://www.socialistworker.co.uk=art.php?id=16705" target="_blank" title="[http://www.socialistworker.co.uk/art.php?id=16705]로 이동합니다.">Greece in revolt</a>)를 번역한 것이다.
   </p>
   
   <p>

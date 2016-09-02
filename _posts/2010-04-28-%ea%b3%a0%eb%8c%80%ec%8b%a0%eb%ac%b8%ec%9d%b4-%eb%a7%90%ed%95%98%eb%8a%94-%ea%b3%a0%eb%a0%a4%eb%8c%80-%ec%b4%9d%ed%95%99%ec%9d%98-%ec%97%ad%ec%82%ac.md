@@ -9,7 +9,7 @@ permalink: /archives/382
 categories:
   - 추천하고 싶은 글
 ---
-<고대신문>이 괜찮은 자료를 정리해서 기사로 냈다. 링크한다.
+&lt;고대신문&gt;이 괜찮은 자료를 정리해서 기사로 냈다. 링크한다.
 
 <a href="http://kukey.com/news/articleView.html?idxno=15153" target="_blank" title="[http://kukey.com/news/articleView.html?idxno=15153]로 이동합니다.">고대신문 속 안암총학의 발자취</a>
 

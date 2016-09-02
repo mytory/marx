@@ -15,7 +15,7 @@ categories:
   <figure style="width: 400px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile25.uf.203FB23F50F369D5312D48.jpg" width="400" height="242" filename="뉴보잉보잉 티켓.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">인증샷!</figcaption></figure>
 </p>
 
-남자가 바람 피는 걸 소재로 한 코믹극이다. 유명한 코믹극 <라이어>도 바람피는 걸 소재로 한 코믹극이라 초반엔 식상하다고 생각했다. 하지만, 소재를 안다고 재미가 반감되는 건 전혀 아니었다. 해당 코믹엔 해당 코믹만의 개그 코드가 있는 거다. 그래서 내내 즐겁게 웃으면서 봤다.
+남자가 바람 피는 걸 소재로 한 코믹극이다. 유명한 코믹극 &lt;라이어&gt;도 바람피는 걸 소재로 한 코믹극이라 초반엔 식상하다고 생각했다. 하지만, 소재를 안다고 재미가 반감되는 건 전혀 아니었다. 해당 코믹엔 해당 코믹만의 개그 코드가 있는 거다. 그래서 내내 즐겁게 웃으면서 봤다.
 
 제목이 보잉보잉인 이유는 이 남자가 항공사 스튜어디스들만 여친으로 고르기 때문이다. 서로 다른 비행 스케쥴을 가진 스튜어디스만 사귐으로써 바람피는 걸 들키지 않을 수 있었다는 설정. 하지만 항공기 하나가 연착하면서 사태는 걷잡을 수 없이 흘러가는데! 뭐 대충 이런 내용이다.
 

@@ -22,7 +22,7 @@ tags:
   </p>
   
   <p class="cap1">
-    출처 : <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20071128T104900%2b0900:c67-harman:1U" target="_blank">‘서브프라임 모기지’ 발 세계 금융 위기를 진단한다 ─ 이윤율 하락 경향의 경고(<저항의 촛불>)</a>
+    출처 : <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20071128T104900%2b0900:c67-harman:1U" target="_blank">‘서브프라임 모기지’ 발 세계 금융 위기를 진단한다 ─ 이윤율 하락 경향의 경고(&lt;저항의 촛불&gt;)</a>
   </p>
 </div>
 
@@ -60,13 +60,13 @@ tags:
 
 나는 여기서 더 나가볼 수 있다고 생각한다. 나는 이번 박 씨 구속 사건에는 올해 닥쳐 올 더 커다란 경제 위기에 터져나올 항쟁에 대비해 공안 정국을 만들려는 의도가 숨어있다고 본다.
 
-3월 경제 위기설은 여러 사람에 의해 제기된 바 있다. <서울신문>에 난 <a href="http://www.seoul.co.kr/news/newsView.php?id=20090114010018&spage=1" target="_blank">“3~4월 최악의 체감위기 닥친다”</a>라는 기사를 보면 몇 가지가 정리돼 있다.
+3월 경제 위기설은 여러 사람에 의해 제기된 바 있다. &lt;서울신문&gt;에 난 <a href="http://www.seoul.co.kr/news/newsView.php?id=20090114010018&spage=1" target="_blank">“3~4월 최악의 체감위기 닥친다”</a>라는 기사를 보면 몇 가지가 정리돼 있다.
 
 > 13일 정부 관계자는 “고용이 지금 어렵다고 하지만 체감할 수준이 오려면 아직 멀었다.”면서 “실물침체 충격이 고용 등 실생활 측면에서 가시화하는 3~4월이 되면 최악의 상황이 펼쳐질 것”이라고 걱정했다.
 > 
 > 송태정 우리금융지주 경영연구실 수석연구위원은 “대학 졸업생이 한 해 50만명 이상이고, 고교 졸업생은 60만~70만명으로, 여기에서만 100만명 이상의 취업 수요가 쏟아지는 상황에서 이달 말까지 기업 구조조정을 활발히 한다고 하니까 일자리 심리가 경색될 수밖에 없다.”고 말했다.
 
-세계 경제는 심하게 위축되고 있다. 3월 위기설은 공공연한 예측이다. 정부는 이 위기를 돌파할 방법으로 해고와 임금 삭감을 생각하는 듯하다. 전형적인 천민자본주의식 방법이다. ‘<a href="http://www.hani.co.kr/arti/society/labor/332825.html" target="_blank">‘비정규직 2→4년’ 내달 상정 추진(<한겨레>)</a>’이라는 기사를 보라. 정부는 비정규직을 확장해 위기를 돌파할 생각이 분명하다. 그리고 이것은 100퍼센트 노동계를 반발을 불러올 것이다. <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20081106T041716%2B0900:cor12-hyndai:1U" title="정동석(현대차 정규직 조합원), IMF 때의 고통과 투쟁을 돌아보며" target="_blank">IMF 때는 노동자들이 처음 맞는 위기</a>여서 얼떨떨한 감이 있었지만, <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20081016T180758%2B0900:cor09-imf:1U" title="IMF 때보다 나은 투쟁의 조건" target="_blank">지금은 어떤 노동자도 그 때처럼 당하고 있지만은 않으려 한다.</a>
+세계 경제는 심하게 위축되고 있다. 3월 위기설은 공공연한 예측이다. 정부는 이 위기를 돌파할 방법으로 해고와 임금 삭감을 생각하는 듯하다. 전형적인 천민자본주의식 방법이다. ‘<a href="http://www.hani.co.kr/arti/society/labor/332825.html" target="_blank">‘비정규직 2→4년’ 내달 상정 추진(&lt;한겨레&gt;)</a>’이라는 기사를 보라. 정부는 비정규직을 확장해 위기를 돌파할 생각이 분명하다. 그리고 이것은 100퍼센트 노동계를 반발을 불러올 것이다. <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20081106T041716%2B0900:cor12-hyndai:1U" title="정동석(현대차 정규직 조합원), IMF 때의 고통과 투쟁을 돌아보며" target="_blank">IMF 때는 노동자들이 처음 맞는 위기</a>여서 얼떨떨한 감이 있었지만, <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20081016T180758%2B0900:cor09-imf:1U" title="IMF 때보다 나은 투쟁의 조건" target="_blank">지금은 어떤 노동자도 그 때처럼 당하고 있지만은 않으려 한다.</a>
 
 이 두 가지를 결합하면 예측을 해볼 수 있다.&nbsp;
 

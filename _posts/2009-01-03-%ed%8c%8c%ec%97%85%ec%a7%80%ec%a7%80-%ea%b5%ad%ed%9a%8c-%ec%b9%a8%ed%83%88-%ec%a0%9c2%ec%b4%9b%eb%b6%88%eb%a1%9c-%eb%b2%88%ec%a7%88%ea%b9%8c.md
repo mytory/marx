@@ -30,13 +30,13 @@ tags:
   </p>
 </div>
 
-한나라당이 국회 농성중인 민주노동당과 민주당을 강제해산하면 100% 국민적 저항이 일어날 것이라는 예견을 봤다. <한겨레> 성한용 선임기자가 쓴 칼럼에서다. 한 블로그는 한나라당이 이제 돌이킬 수 없는 강을 건넜다면서 “안됐다”고 말하기도 했다.
+한나라당이 국회 농성중인 민주노동당과 민주당을 강제해산하면 100% 국민적 저항이 일어날 것이라는 예견을 봤다. &lt;한겨레&gt; 성한용 선임기자가 쓴 칼럼에서다. 한 블로그는 한나라당이 이제 돌이킬 수 없는 강을 건넜다면서 “안됐다”고 말하기도 했다.
 
-> <a title="[http://www.hani.co.kr/arti/politics/assembly/330408.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/politics/assembly/330408.html">‘날치기·경호권 발동’ 언제나 민심 역풍 맞았다(성한용, <한겨레>, 12.28)</a>
+> <a title="[http://www.hani.co.kr/arti/politics/assembly/330408.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/politics/assembly/330408.html">‘날치기·경호권 발동’ 언제나 민심 역풍 맞았다(성한용, &lt;한겨레&gt;, 12.28)</a>
   
 > 
   
-> <a title="[http://www.hani.co.kr/arti/politics/assembly/330607.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/politics/assembly/330607.html"><br /> 국회 또 ‘전쟁터’로…국회밖 ‘촛불’ 번질수도(성한용, <한겨레>, 12.30)</a>
+> <a title="[http://www.hani.co.kr/arti/politics/assembly/330607.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/politics/assembly/330607.html"><br /> 국회 또 ‘전쟁터’로…국회밖 ‘촛불’ 번질수도(성한용, &lt;한겨레&gt;, 12.30)</a>
   
 > 
   
@@ -89,5 +89,5 @@ YTN, MBC를 비롯한 언론노조가 투쟁 중이다. 이에 대한 국민적 
 노동자들의 조직적 참여가 왜 중요한지 궁금하면 다음 글을 읽으라. 
 
 <p class="link">
-  <a title="미친 소 수입 저지 ─ 노동계급이 열쇠를 쥐고 있다" target="_blank" href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20080515T103838%2b0900:c87-labor:1U">미친 소 수입 저지 ─ 노동계급이 열쇠를 쥐고 있다(한수영, <저항의 촛불>)</a>
+  <a title="미친 소 수입 저지 ─ 노동계급이 열쇠를 쥐고 있다" target="_blank" href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20080515T103838%2b0900:c87-labor:1U">미친 소 수입 저지 ─ 노동계급이 열쇠를 쥐고 있다(한수영, &lt;저항의 촛불&gt;)</a>
 </p>

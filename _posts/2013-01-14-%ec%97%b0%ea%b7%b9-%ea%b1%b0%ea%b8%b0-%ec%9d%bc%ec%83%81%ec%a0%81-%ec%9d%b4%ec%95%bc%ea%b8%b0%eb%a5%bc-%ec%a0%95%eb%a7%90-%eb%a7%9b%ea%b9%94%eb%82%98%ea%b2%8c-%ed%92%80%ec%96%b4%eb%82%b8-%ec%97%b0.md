@@ -9,7 +9,7 @@ permalink: /archives/571
 categories:
   - 리뷰
 ---
-극단 <a href="http://www.stageship.com/" target="_blank" class="tx-link">차이무</a>에서 문자가 왔다. 웹사이트 회원들에게 <거기>라는 연극을 특별 할인해 준다는 거다. 3만 원짜리 연극을 1만 원에 볼 수 있는 기회! 놓칠 필요가 없었다. 차이무라면 극의 품질도 걱정할 것 없다고 생각했다. 그리고 역시나였다.
+극단 <a href="http://www.stageship.com/" target="_blank" class="tx-link">차이무</a>에서 문자가 왔다. 웹사이트 회원들에게 &lt;거기&gt;라는 연극을 특별 할인해 준다는 거다. 3만 원짜리 연극을 1만 원에 볼 수 있는 기회! 놓칠 필요가 없었다. 차이무라면 극의 품질도 걱정할 것 없다고 생각했다. 그리고 역시나였다.
 
 <p style="text-align: center; clear: none; float: none;">
   <figure style="width: 400px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile8.uf.241C624150F36BD40A7A76.jpg" width="400" height="300" filename="거기 티켓.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">인증샷 ㅋ</figcaption></figure>

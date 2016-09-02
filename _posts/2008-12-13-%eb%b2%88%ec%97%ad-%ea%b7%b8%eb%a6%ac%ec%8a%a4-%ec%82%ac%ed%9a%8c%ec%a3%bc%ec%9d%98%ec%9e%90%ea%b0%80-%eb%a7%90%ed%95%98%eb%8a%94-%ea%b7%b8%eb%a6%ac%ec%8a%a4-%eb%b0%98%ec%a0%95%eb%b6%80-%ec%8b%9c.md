@@ -19,7 +19,7 @@ tags:
   - 코스타스 카라만리스
 ---
 <div class="gray-textbox">
-  그리스의 <워커스 솔리다리티>라는 매체 편집장이 쓴 글이라고 한다. 영국 사회주의 신문인 <a title="[http://socialistworker.co.uk]로 이동합니다." href="http://socialistworker.co.uk/" target="_blank"><소셜리스트 워커></a>에 실린 글이다. (원문은 <a title="[Greek mass movement rises up against the state.]로 이동합니다." href="http://socialistworker.co.uk/art.php?id=16684" target="_blank">Greek mass movement rises up against the state.</a>) <한겨레> 등의 언론이 그리스 시위 소식을 잘 알려 주고 있지만, 실제로 투쟁에 참가하고 있는 사람이 쓴 이야기는 훨씬 자세하게 사태를 파악할 수 있게 해 준다. 요즘 그리스 시위 소식에 사람들이 많이 관심을 가지는데, 조금이나마 갈증을 해소할 수 있었으면 한다.
+  그리스의 &lt;워커스 솔리다리티&gt;라는 매체 편집장이 쓴 글이라고 한다. 영국 사회주의 신문인 <a title="[http://socialistworker.co.uk]로 이동합니다." href="http://socialistworker.co.uk/" target="_blank">&lt;소셜리스트 워커&gt;</a>에 실린 글이다. (원문은 <a title="[Greek mass movement rises up against the state.]로 이동합니다." href="http://socialistworker.co.uk/art.php?id=16684" target="_blank">Greek mass movement rises up against the state.</a>) &lt;한겨레&gt; 등의 언론이 그리스 시위 소식을 잘 알려 주고 있지만, 실제로 투쟁에 참가하고 있는 사람이 쓴 이야기는 훨씬 자세하게 사태를 파악할 수 있게 해 준다. 요즘 그리스 시위 소식에 사람들이 많이 관심을 가지는데, 조금이나마 갈증을 해소할 수 있었으면 한다.
 </div>
 
 ## 그리스에서 국가에 맞선 대중운동이 분출하다.
@@ -27,7 +27,7 @@ tags:
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/4943bf6b15b3fDH.jpg" class="aligncenter" width="250" height="188" alt="" filename="chimage.jpg" filemime="△일요일에 아테네는 알렉산드로스 그리고로풀로스 살해에 대한 대규모 항의시위로 들썩였다. (사진 : [그리스] 노동자 연대)" />
 
 <p align="center">
-  △일요일에 아테네는 알렉산드로스 그리고로풀로스 살해에 대한 대규모 항의시위로 들썩였다. <br /> (사진 : [그리스] <워커스 솔리다리티>)
+  △일요일에 아테네는 알렉산드로스 그리고로풀로스 살해에 대한 대규모 항의시위로 들썩였다. <br /> (사진 : [그리스] &lt;워커스 솔리다리티&gt;)
 </p>
 
 **파노스 가르가나스가 그리스를 뒤흔들고 있는 대중시위에 대해 말한다.**
@@ -112,7 +112,7 @@ tags:
   </p>
   
   <p>
-    <strong>(파노스 가르가나스는 <소셜리스트 워커>의 그리스 자매지인 <워커스 솔리다리티>의 편집자다.)</strong>
+    <strong>(파노스 가르가나스는 &lt;소셜리스트 워커&gt;의 그리스 자매지인 &lt;워커스 솔리다리티&gt;의 편집자다.)</strong>
   </p>
 </div>
 

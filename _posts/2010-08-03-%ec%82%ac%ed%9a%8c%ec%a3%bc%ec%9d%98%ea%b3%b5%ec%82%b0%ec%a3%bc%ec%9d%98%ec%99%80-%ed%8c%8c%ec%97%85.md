@@ -141,7 +141,7 @@ IMF가 왔고, 대학들도 긴축을 해야 했다. 대학 당국들은 고민�
 
 ## 왜 국가와 사장들은 양보하지 않을까?
 
-<이웃집 남자>라는 영화를 본 사람은 알 거다. 주인공은 여기저기서 돈을 끌어모아 땅투기를 하는 부동산 업자다. 그런데 환경 파괴에 반대하는 초등학교 교사가 지역 개발에 반대한다. 그래서 공사가 늦어진다. 주인공에게 돈을 맡긴 사람들이 돈을 날릴까봐 걱정한다.
+&lt;이웃집 남자&gt;라는 영화를 본 사람은 알 거다. 주인공은 여기저기서 돈을 끌어모아 땅투기를 하는 부동산 업자다. 그런데 환경 파괴에 반대하는 초등학교 교사가 지역 개발에 반대한다. 그래서 공사가 늦어진다. 주인공에게 돈을 맡긴 사람들이 돈을 날릴까봐 걱정한다.
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile23.uf.180ABF1B4C578ECF17EFE3.jpg" class="aligncenter" width="320" height="457" alt="" filename="1-themannextdoor-poster.jpg" filemime="image/jpeg" />
 

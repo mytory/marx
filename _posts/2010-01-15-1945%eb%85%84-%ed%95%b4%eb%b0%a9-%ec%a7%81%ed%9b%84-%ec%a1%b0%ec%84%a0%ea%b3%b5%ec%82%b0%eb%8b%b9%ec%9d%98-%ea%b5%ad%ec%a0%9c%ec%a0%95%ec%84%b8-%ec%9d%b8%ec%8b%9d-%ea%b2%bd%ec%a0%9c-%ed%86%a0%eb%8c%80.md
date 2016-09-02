@@ -96,7 +96,7 @@ tags:
   
 
 
-<figure style="width: 143px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile8.uf.124550104B50A1CF028238.jpg" width="143" height="200" alt="" filename="cfile8.uf.124550104B50A1CF028238.jpg" filemime="" /><figcaption class="wp-caption-text">△<조선인민보> 1946.5.12. 1945년 9월 8일 서울에서 가장 먼저 나온 일간 신문으로 '진보적 민주주의'를 표방하였다. 1946년 9월 6일 미군정청은 미군 축출을 선동했다는 구실로 신문을 정간(停刊)시켰다. (출처 : http://www.kmoh.org/kmoh\_exh\_2f_02.html )</figcaption></figure>
+<figure style="width: 143px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile8.uf.124550104B50A1CF028238.jpg" width="143" height="200" alt="" filename="cfile8.uf.124550104B50A1CF028238.jpg" filemime="" /><figcaption class="wp-caption-text">△&lt;조선인민보&gt; 1946.5.12. 1945년 9월 8일 서울에서 가장 먼저 나온 일간 신문으로 '진보적 민주주의'를 표방하였다. 1946년 9월 6일 미군정청은 미군 축출을 선동했다는 구실로 신문을 정간(停刊)시켰다. (출처 : http://www.kmoh.org/kmoh\_exh\_2f_02.html )</figcaption></figure>
   
 
 
@@ -104,7 +104,7 @@ tags:
   
 
 
-당시 <조선인민보>는 이렇게 썼다.
+당시 &lt;조선인민보&gt;는 이렇게 썼다.
 
 
   
@@ -121,7 +121,7 @@ tags:
 > 
 > 
 > <P style="TEXT-ALIGN: right">
->   <조선인민보> 1946.6.1 &#8211; 《해방정국과 조선혁명론》 (1988), 33p에서 재인용.
+>   &lt;조선인민보&gt; 1946.6.1 &#8211; 《해방정국과 조선혁명론》 (1988), 33p에서 재인용.
 > </P>
 
 
@@ -139,7 +139,7 @@ tags:
 > 
 > 
 > <P style="TEXT-ALIGN: right">
->   <조선인민보> 1946.4.30 &#8211; 《해방정국과 조선혁명론》 (1988), 34p에서 재인용.
+>   &lt;조선인민보&gt; 1946.4.30 &#8211; 《해방정국과 조선혁명론》 (1988), 34p에서 재인용.
 > </P>
 
 
@@ -169,7 +169,7 @@ tags:
 > 
 > 
 > <P style="TEXT-ALIGN: right">
->   <조선인민보> 1946.2.25 &#8211;&nbsp;《해방정국과 조선혁명론》 (1988), 34~35pp에서 재인용.
+>   &lt;조선인민보&gt; 1946.2.25 &#8211;&nbsp;《해방정국과 조선혁명론》 (1988), 34~35pp에서 재인용.
 > </P>
 
 

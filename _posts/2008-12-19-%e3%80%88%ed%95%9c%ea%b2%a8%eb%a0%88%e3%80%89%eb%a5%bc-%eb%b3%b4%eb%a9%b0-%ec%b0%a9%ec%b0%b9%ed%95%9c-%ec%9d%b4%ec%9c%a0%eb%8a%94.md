@@ -30,10 +30,10 @@ tags:
 > 국민들은 살아남아야 한다. 생활수준을 낮춰야 한다. 생존이 최우선이다. 국가가 해 줄 수 있는 일에는 한계가 있다.
 > 
 > <p style="text-align: right; ">
->   <span id="tx_left_marker"></span><a href="http://www.hani.co.kr/arti/SERIES/64/328087.html" target="_blank" title="[http://www.hani.co.kr/arti/SERIES/64/328087.html]로 이동합니다."><span class="Apple-style-span" style="font-weight: bold;">[</span></a><a href="http://www.hani.co.kr/arti/SERIES/64/328087.html" target="_blank" title="[http://www.hani.co.kr/arti/SERIES/64/328087.html]로 이동합니다."><span class="Apple-style-span" style="font-weight: bold;">성한용칼럼] 앞으로 4년 무엇을 할 것인가, <한겨레> 12월 18일치</span></a><span id="tx_right_marker"></span>
+>   <span id="tx_left_marker"></span><a href="http://www.hani.co.kr/arti/SERIES/64/328087.html" target="_blank" title="[http://www.hani.co.kr/arti/SERIES/64/328087.html]로 이동합니다."><span class="Apple-style-span" style="font-weight: bold;">[</span></a><a href="http://www.hani.co.kr/arti/SERIES/64/328087.html" target="_blank" title="[http://www.hani.co.kr/arti/SERIES/64/328087.html]로 이동합니다."><span class="Apple-style-span" style="font-weight: bold;">성한용칼럼] 앞으로 4년 무엇을 할 것인가, &lt;한겨레&gt; 12월 18일치</span></a><span id="tx_right_marker"></span>
 > </p>
 
-<한겨레> 성한용 선임기자는 꽤 비중있는 사람이다. <한겨레>의 정치적 방향을 지도하는 것으로 보이는 글을 많이 쓴다. 
+&lt;한겨레&gt; 성한용 선임기자는 꽤 비중있는 사람이다. &lt;한겨레&gt;의 정치적 방향을 지도하는 것으로 보이는 글을 많이 쓴다. 
 
 그의 칼럼이 날카롭고 정치적이기 때문에 그의 칼럼이 실리면 빠짐없이 꼼꼼이 읽는다. 그는 꽤 괜찮은 사람이다.그러나 이런 때 보면 참 답답한 마음이 든다.
 
@@ -47,11 +47,11 @@ tags:
 
 선거가 ‘일수불퇴’라고 하는 것은 상대가 공정한 게임의 룰을 지킬 때나 가능한 소리다.
 
-당장 오늘 <한겨레>는 사설에서 <a href="http://www.hani.co.kr/arti/opinion/editorial/328588.html" target="_blank" title="[http://www.hani.co.kr/arti/opinion/editorial/328588.html]로 이동합니다.">“독재정권 시절의 날치기 악령이 다시 살아났다”</a> 하고 일갈했다. “독재정권 시절의 날치기”는 대표적인 룰 위반이다.
+당장 오늘 &lt;한겨레&gt;는 사설에서 <a href="http://www.hani.co.kr/arti/opinion/editorial/328588.html" target="_blank" title="[http://www.hani.co.kr/arti/opinion/editorial/328588.html]로 이동합니다.">“독재정권 시절의 날치기 악령이 다시 살아났다”</a> 하고 일갈했다. “독재정권 시절의 날치기”는 대표적인 룰 위반이다.
 
 이것뿐이 아니다. 공약을 지키지 않는 것도 대표적인 룰 위반이다. 이명박은 선거 때 “다함께 건강하고 편안한 사회”를 약속했다. 이주노동자들에 대해서도 “지금은 내가 사면해 줄 권한이 없습니다. 지금은 없고 권한이 생기면 반드시 진지하게 인도적 차원에서 생각”하겠다고 말했다.
 
-오늘 <한겨레> 사설도 이를 지적하고 있다. 오늘 사설에서 <한겨레>는 “국민의 눈물을 닦아주고 희망을 함께 나누는 국민성공 시대를 열겠다”고 말하지 않았느냐면서 이명박을 비판하고 있다. (<a href="http://www.hani.co.kr/arti/opinion/editorial/328553.html" target="_blank" title="[http://www.hani.co.kr/arti/opinion/editorial/328553.html]로 이동합니다.">‘사그라진 기대, 대통령은 ‘유권자 뜻’ 되새겨봐야’, 12월 19일 사설</a>)
+오늘 &lt;한겨레&gt; 사설도 이를 지적하고 있다. 오늘 사설에서 &lt;한겨레&gt;는 “국민의 눈물을 닦아주고 희망을 함께 나누는 국민성공 시대를 열겠다”고 말하지 않았느냐면서 이명박을 비판하고 있다. (<a href="http://www.hani.co.kr/arti/opinion/editorial/328553.html" target="_blank" title="[http://www.hani.co.kr/arti/opinion/editorial/328553.html]로 이동합니다.">‘사그라진 기대, 대통령은 ‘유권자 뜻’ 되새겨봐야’, 12월 19일 사설</a>)
 
 선거는 ‘일수불퇴’다? 맞다. 만약 성한용 기자의 생각대로, 이 세상이 의회를 통해 돌아가고 있으며, 정치인들의 말과 행동이 일치하는 사회라면, 즉, 게임의 룰이 공정하게 지켜지는 사회라면 맞다. 한 번 진행된 게임을 엎으려 해서는 안 된다.
 

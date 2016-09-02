@@ -30,7 +30,7 @@ tags:
   <img alt="정태호 고려대 총학생회장" src="http://cfile25.uf.tistory.com/image/145C400F49FFDF0AEB0561" /> 
   
   <p>
-    △ 정태호 고려대 총학생회장, 출처 : <a href="http://blog.ohmynews.com/matugis/236089" target="_blank">갈대밭 속 메뚜기, <고려대총학선거> &#8216;운동권&#8217;이 승리했다!? 그 집권의 의미는?</a>
+    △ 정태호 고려대 총학생회장, 출처 : <a href="http://blog.ohmynews.com/matugis/236089" target="_blank">갈대밭 속 메뚜기, &lt;고려대총학선거&gt; &#8216;운동권&#8217;이 승리했다!? 그 집권의 의미는?</a>
   </p>
 </div>
 

@@ -17,7 +17,7 @@ tags:
 
 ## 현대판 신문고?
 
-드라마 <최강칠우>의 주인공 칠우는 신문고를 두드리지 못하게 막는 역할을 하는 나졸이다.
+드라마 &lt;최강칠우&gt;의 주인공 칠우는 신문고를 두드리지 못하게 막는 역할을 하는 나졸이다.
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/4988e8d451d4dAQ.jpg" class="aligncenter" width="476" height="332" alt="" filename="chilwoo.jpg" filemime="" />
 
