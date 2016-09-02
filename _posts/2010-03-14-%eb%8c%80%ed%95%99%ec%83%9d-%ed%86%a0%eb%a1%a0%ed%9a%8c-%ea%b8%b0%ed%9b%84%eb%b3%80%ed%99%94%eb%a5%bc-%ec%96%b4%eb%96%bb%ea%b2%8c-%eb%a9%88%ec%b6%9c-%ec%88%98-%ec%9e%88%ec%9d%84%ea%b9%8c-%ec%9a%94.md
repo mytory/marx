@@ -17,7 +17,7 @@ tags:
   - 체르노빌
   - 핵발전
 ---
-발표자는 <a href="http://www.wspaper.org/3_search.php?keyword=장호종+기자" target="_blank" title="[http://www.wspaper.org/3_search.php?keyword=장호종+기자]로 이동합니다.">장호종 &lt;레프트21&gt; 기자</a>였다. 이 토론회는 <a href="http://stu.alltogether.or.kr/" target="_blank" title="[http://stu.alltogether.or.kr/]로 이동합니다.">대학생다함께</a>가 주최한 것이었고, <a href="http://club.cyworld.com/studream" target="_blank" title="[http://club.cyworld.com/studream]로 이동합니다.">공식 사이트</a>에 가면 더 많은 정보를 볼 수 있다.
+발표자는 <a href="http://wspaper.org/3_search.php?keyword=장호종+기자" target="_blank" title="[http://wspaper.org/3_search.php?keyword=장호종+기자]로 이동합니다.">장호종 &lt;레프트21&gt; 기자</a>였다. 이 토론회는 <a href="http://stu.alltogether.or.kr/" target="_blank" title="[http://stu.alltogether.or.kr/]로 이동합니다.">대학생다함께</a>가 주최한 것이었고, <a href="http://club.cyworld.com/studream" target="_blank" title="[http://club.cyworld.com/studream]로 이동합니다.">공식 사이트</a>에 가면 더 많은 정보를 볼 수 있다.
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile23.uf.136C640C4B9C9DB634FAE8.jpg" class="aligncenter" width="610" height="458" alt="" filename="100314-0004.jpg" filemime="image/jpeg" />
 

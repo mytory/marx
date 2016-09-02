@@ -26,7 +26,7 @@ tags:
   <img src="http://cfs11.tistory.com/image/33/tistory/2009/01/04/02/29/495fa085f36ae" /></p> 
   
   <p class="cap1">
-    △제2촛불은 <a title="반란의 그리스" target="_blank" href="http://www.wspaper.org/0_view.php?urn=cor12-1-greece-in-revolt">그리스 투쟁</a>처럼 돼야 할 텐데.
+    △제2촛불은 <a title="반란의 그리스" target="_blank" href="http://wspaper.org/0_view.php?urn=cor12-1-greece-in-revolt">그리스 투쟁</a>처럼 돼야 할 텐데.
   </p>
 </div>
 
@@ -62,11 +62,11 @@ YTN, MBC를 비롯한 언론노조가 투쟁 중이다. 이에 대한 국민적 
 
 ## 가장 큰 변수, 경제 위기
 
-무엇보다 경제가 위기다. 이명박의 말이 계속 변해온 것에서 알 수 있듯, 내년 위기는 최악이 될 것이다. 특히 내년 봄, 정규직 노동자들에게까지 구조조정의 칼날이 들이닥칠 때가 되면 <a title="1996년 연말 “노동법 정국”의 대중파업 10주년 - 김영삼을 산 송장으로 만든 대중 투쟁" target="_blank" href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20060429T000000%2B0900:d79-2502:1U">96년 말의 노동법 개악 반대 투쟁</a>을 연상시키는 투쟁이 벌어질 수도 있다.
+무엇보다 경제가 위기다. 이명박의 말이 계속 변해온 것에서 알 수 있듯, 내년 위기는 최악이 될 것이다. 특히 내년 봄, 정규직 노동자들에게까지 구조조정의 칼날이 들이닥칠 때가 되면 <a title="1996년 연말 “노동법 정국”의 대중파업 10주년 - 김영삼을 산 송장으로 만든 대중 투쟁" target="_blank" href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20060429T000000%2B0900:d79-2502:1U">96년 말의 노동법 개악 반대 투쟁</a>을 연상시키는 투쟁이 벌어질 수도 있다.
 
-<a title="레닌에 대한 대표적 왜곡을 반박하는 기사" target="_blank" href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2B0900:d29-660:1U">레닌</a>은 지배자들이 견디기 힘들어 자기들끼리 분열하고, 피지배자들도 더이상 견딜 수 없다고 느낄 때 혁명이 일어난다고 썼다.
+<a title="레닌에 대한 대표적 왜곡을 반박하는 기사" target="_blank" href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2B0900:d29-660:1U">레닌</a>은 지배자들이 견디기 힘들어 자기들끼리 분열하고, 피지배자들도 더이상 견딜 수 없다고 느낄 때 혁명이 일어난다고 썼다.
 
-물론, 내가 <a title="21세기 혁명을 고찰하는 크리스 하먼의 칼럼" target="_blank" href="http://www.wspaper.org/3_search.php?keyword=21%EC%84%B8%EA%B8%B0+%ED%98%81%EB%AA%85%EC%9D%84+%EA%B3%A0%EC%B0%B0%ED%95%98%EB%8A%94+%ED%81%AC%EB%A6%AC%EC%8A%A4+%ED%95%98%EB%A8%BC%EC%9D%98+%EC%B9%BC%EB%9F%BC">혁명</a>을 예견하는 것은 아니나, 그만큼 커다란 투쟁이 벌어질 수 있다는 것이다. 마치 촛불처럼 말이다.
+물론, 내가 <a title="21세기 혁명을 고찰하는 크리스 하먼의 칼럼" target="_blank" href="http://wspaper.org/3_search.php?keyword=21%EC%84%B8%EA%B8%B0+%ED%98%81%EB%AA%85%EC%9D%84+%EA%B3%A0%EC%B0%B0%ED%95%98%EB%8A%94+%ED%81%AC%EB%A6%AC%EC%8A%A4+%ED%95%98%EB%A8%BC%EC%9D%98+%EC%B9%BC%EB%9F%BC">혁명</a>을 예견하는 것은 아니나, 그만큼 커다란 투쟁이 벌어질 수 있다는 것이다. 마치 촛불처럼 말이다.
 
 ## 더 중요한 것은 제2촛불의 승리 방법
 
@@ -76,9 +76,9 @@ YTN, MBC를 비롯한 언론노조가 투쟁 중이다. 이에 대한 국민적 
 
 내가 보기엔 두 가지다. 
 
-첫째는 <a title="이명박 퇴진 논쟁 Q&A" target="_blank" href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080621T143142%2b0900:c92-2mb07-qna:1U">이명박 퇴진을 명확히 걸어야 한다.</a> 어떤 방식을 거치든 간에 말이다. 
+첫째는 <a title="이명박 퇴진 논쟁 Q&A" target="_blank" href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080621T143142%2b0900:c92-2mb07-qna:1U">이명박 퇴진을 명확히 걸어야 한다.</a> 어떤 방식을 거치든 간에 말이다. 
 
-둘째는, 시위대의 <a title="현 촛불시위의 잠재력과 과제" target="_blank" href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080605T163215%2b0900:c90-demo:1U">자발성을 높이되, 가장 중요한 몇몇 문제에서는 합의</a>를 보아 일사불란하게 움직여야 한다는 것이다. 예컨대, 경찰저지선을 뚫는 날은 함께 뚫고 안 뚫는 날은 함께 안 뚫어야지 제멋대로 하지 않는 게 좋다. 
+둘째는, 시위대의 <a title="현 촛불시위의 잠재력과 과제" target="_blank" href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080605T163215%2b0900:c90-demo:1U">자발성을 높이되, 가장 중요한 몇몇 문제에서는 합의</a>를 보아 일사불란하게 움직여야 한다는 것이다. 예컨대, 경찰저지선을 뚫는 날은 함께 뚫고 안 뚫는 날은 함께 안 뚫어야지 제멋대로 하지 않는 게 좋다. 
 
 이 두 가지가 다음 촛불에서 중요한 점이라고 본다. 
 
@@ -89,5 +89,5 @@ YTN, MBC를 비롯한 언론노조가 투쟁 중이다. 이에 대한 국민적 
 노동자들의 조직적 참여가 왜 중요한지 궁금하면 다음 글을 읽으라. 
 
 <p class="link">
-  <a title="미친 소 수입 저지 ─ 노동계급이 열쇠를 쥐고 있다" target="_blank" href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080515T103838%2b0900:c87-labor:1U">미친 소 수입 저지 ─ 노동계급이 열쇠를 쥐고 있다(한수영, &lt;저항의 촛불&gt;)</a>
+  <a title="미친 소 수입 저지 ─ 노동계급이 열쇠를 쥐고 있다" target="_blank" href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080515T103838%2b0900:c87-labor:1U">미친 소 수입 저지 ─ 노동계급이 열쇠를 쥐고 있다(한수영, &lt;저항의 촛불&gt;)</a>
 </p>

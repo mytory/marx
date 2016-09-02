@@ -24,7 +24,7 @@ tags:
 > 용산참사는 이명박 정권이 반서민ㆍ반민주적 살인 정부라는 지울 수 없는 낙인이다.
 > 
 > <p style="text-align: right; ">
->   &#8211; 김인숙,&nbsp;<a target="_blank" href="http://www.wspaper.org/article/7006">‘친서민’ 가면으로 가릴 수 없는 용산참사 살인 정부의 원죄</a>,<br /> &lt;레프트21&gt;, 2009-09-26
+>   &#8211; 김인숙,&nbsp;<a target="_blank" href="http://wspaper.org/article/7006">‘친서민’ 가면으로 가릴 수 없는 용산참사 살인 정부의 원죄</a>,<br /> &lt;레프트21&gt;, 2009-09-26
 > </p><figure style="width: 300px" class="wp-caption alignright">
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile1.uf.1928910D4ABE0D0163F302.jpg" width="300" height="399" alt="용산참사 해결하라" filename="cfile1.uf.1928910D4ABE0D0163F302.jpg" filemime="" /><figcaption class="wp-caption-text">△8개월째 이명박 정부는 용산참사 피해자들을 마녀사냥하고 있다.</figcaption></figure> 

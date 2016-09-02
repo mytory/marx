@@ -47,13 +47,13 @@ tags:
 
 “오바마가 당선된 것은 변화다. 그리고 변화 열망을 보여 준다. 그러나 오바마는 변화를 실현하지 않을 것이다.”
 
-<a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20081030T104935%2B0900:cor11-twousa:1U" target="_blank" title="[누가 어떻게 미국을 망쳐 왔는가]로 이동">《두 개의 미국》(책갈피, 2008)</a>의 작가 조너선 닐의 말이 나에게 더 설득력있다. 
+<a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20081030T104935%2B0900:cor11-twousa:1U" target="_blank" title="[누가 어떻게 미국을 망쳐 왔는가]로 이동">《두 개의 미국》(책갈피, 2008)</a>의 작가 조너선 닐의 말이 나에게 더 설득력있다. 
 
 > “가장 중요한 일은 시위, 파업, 항의 운동 등 저항이 지속되고 더 활발해지도록 활동가들이 노력하는 것이다. 두 가지 핵심 요인이 결과를 좌우할 것이다. 하나는 전 세계에서 벌어지는 시위와 행동의 규모일 것이다. 다른 하나는 오바마를 지지했던 활동가들이 사기 저하할 것인지, 아니면 그를 넘어서고 결국에는 그를 비판하게 될 것인지 하는 선택이다.” 
 
 마르크스는 역사가 지배계급과 피지배계급의 투쟁의 역사였다고 서술했다. 이 투쟁은 때로 은밀하게, 때로 직접적으로 벌어진다고 했다. (무슨 파업, 시위, 내전 등만 마르크스가 말한 ‘계급투쟁’ 이었다고 지레짐작하지 않았으면 한다.) 
 
-<a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20081106T041848%2B0900:cor12-obama-win:1U" target="_blank" title="[진정한 변화 염원을 보여 준 오바마의 승리]로 이동">미국 피억압민들의 변화 염원이 오바마 대통령을 만들어냈다.</a> 이것은 변화다. 그러나 그들이 여기에 만족한다면 더는 변화가 없을 것이다. 변화는 아래로부터 체계적으로 와야만 한다.</p> 
+<a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20081106T041848%2B0900:cor12-obama-win:1U" target="_blank" title="[진정한 변화 염원을 보여 준 오바마의 승리]로 이동">미국 피억압민들의 변화 염원이 오바마 대통령을 만들어냈다.</a> 이것은 변화다. 그러나 그들이 여기에 만족한다면 더는 변화가 없을 것이다. 변화는 아래로부터 체계적으로 와야만 한다.</p> 
 
 <div>
   <div class="txc-textbox" style="border: 1px dashed rgb(159, 211, 49); padding: 10px; background-color: rgb(231, 253, 181);">

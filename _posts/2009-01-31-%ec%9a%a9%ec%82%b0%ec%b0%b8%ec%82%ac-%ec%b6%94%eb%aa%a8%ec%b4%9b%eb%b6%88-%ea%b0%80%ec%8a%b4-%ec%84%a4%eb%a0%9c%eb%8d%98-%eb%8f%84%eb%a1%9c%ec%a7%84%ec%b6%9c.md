@@ -63,7 +63,7 @@ tags:
   <img src="http://cfs15.tistory.com/image/35/tistory/2009/02/01/01/53/49848214d8177" alt="집회장에서 본 ‘다함께’ 유인물" /> </p> 
   
   <p>
-    △집회장엔 다양한 유인물이 있었다. 지난 촛불 때 모함에 시달렸던 반전 반자본주의 노동자 운동 단체 <a href="http://www.alltogether.or.kr" target="_blank" title="다함께 홈페이지">‘다함께’</a>가 낸 <a href="http://www.wspaper.org/_UPLOAD_PDF/cor0012-3.pdf" title="‘다함께’가 낸 ‘살인정권 이명박 OUT’ 유인물 PDF 다운" target="_blank">유인물</a>, 웹에서 읽으려면 <a href="http://www.wspaper.org" target="_blank">〈저항의 촛불〉 홈페이지</a>로 가면 된다.
+    △집회장엔 다양한 유인물이 있었다. 지난 촛불 때 모함에 시달렸던 반전 반자본주의 노동자 운동 단체 <a href="http://www.alltogether.or.kr" target="_blank" title="다함께 홈페이지">‘다함께’</a>가 낸 <a href="http://wspaper.org/_UPLOAD_PDF/cor0012-3.pdf" title="‘다함께’가 낸 ‘살인정권 이명박 OUT’ 유인물 PDF 다운" target="_blank">유인물</a>, 웹에서 읽으려면 <a href="http://wspaper.org" target="_blank">〈저항의 촛불〉 홈페이지</a>로 가면 된다.
   </p>
 </div>
 
@@ -99,7 +99,7 @@ tags:
   </p>
 </div>
 
-그러나, 너무 지나쳤던 게지. 앞서 말한 이 노조 활동가는 용산참사가 터지자마자 <a href="http://www.wspaper.org/0_view.php?urn=cor12-mipo" target="_blank" title="정동석(현대자동차 조합원), 현장 기고 - 울산 현대미포조선 굴뚝 농성 투쟁, 〈저항의 촛불〉, 2009.1.20">현대중공업 미포만 굴뚝농성</a>에 들어간 사람들 문제가 거의 100% 해결됐다고 말하며, 분명 용산참사와 굴뚝 농성이 맞물리기를 원치 않아 그런 합의를 해 준 것이라 거라고 말했다. 처참한 두 투쟁… **돌아가신 철거민 열사들은 그래도 미포만 굴뚝에 오른 두 생명을 살렸다.** 청와대에 앉은 쥐새끼가 수없이 많은 사람을 살해할 동안.
+그러나, 너무 지나쳤던 게지. 앞서 말한 이 노조 활동가는 용산참사가 터지자마자 <a href="http://wspaper.org/0_view.php?urn=cor12-mipo" target="_blank" title="정동석(현대자동차 조합원), 현장 기고 - 울산 현대미포조선 굴뚝 농성 투쟁, 〈저항의 촛불〉, 2009.1.20">현대중공업 미포만 굴뚝농성</a>에 들어간 사람들 문제가 거의 100% 해결됐다고 말하며, 분명 용산참사와 굴뚝 농성이 맞물리기를 원치 않아 그런 합의를 해 준 것이라 거라고 말했다. 처참한 두 투쟁… **돌아가신 철거민 열사들은 그래도 미포만 굴뚝에 오른 두 생명을 살렸다.** 청와대에 앉은 쥐새끼가 수없이 많은 사람을 살해할 동안.
 
 ## 다시 진출한 뜨거운 거리
 

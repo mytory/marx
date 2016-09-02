@@ -61,11 +61,11 @@ nooe님은 어떤 사이트가 저런 답변을 보내왔는지 말하지 않았
     
     <p>
       <center>
-        <a href="http://www.wspaper.org/0_view.php?urn=urn%3Anewsml%3Acounterfire.or.kr%3A20081023T092709%2B0900%3Acor10-cm%3A1U" target="_blank" title="[《공산주의 선언》 출간 1백60주년 ─ 자본주의의 모순을 고발하고 대안을 제시하다]로 이동">《공산당 선언》</a>中, 강조는 모두 인용자.
+        <a href="http://wspaper.org/0_view.php?urn=urn%3Anewsml%3Acounterfire.or.kr%3A20081023T092709%2B0900%3Acor10-cm%3A1U" target="_blank" title="[《공산주의 선언》 출간 1백60주년 ─ 자본주의의 모순을 고발하고 대안을 제시하다]로 이동">《공산당 선언》</a>中, 강조는 모두 인용자.
       </center></div> </div> 
       
       <p>
-        위의 인용구는 마르크스(맑스)가 쓴 <a href="http://www.wspaper.org/0_view.php?urn=urn%3Anewsml%3Acounterfire.or.kr%3A20081023T092709%2B0900%3Acor10-cm%3A1U" target="_blank" title="[《공산주의 선언》 출간 1백60주년 ─ 자본주의의 모순을 고발하고 대안을 제시하다]로 이동">《공산당 선언》</a>의 일부를 옮긴 것이다. 마르크스(맑스)는 <a href="http://www.wspaper.org/0_view.php?urn=urn%3Anewsml%3Acounterfire.or.kr%3A20081023T092709%2B0900%3Acor10-cm%3A1U" target="_blank" title="[《공산주의 선언》 출간 1백60주년 ─ 자본주의의 모순을 고발하고 대안을 제시하다]로 이동">《공산당 선언》</a>의 첫 부분에서 자본주의의 화신인 자본가들이 어떤 세계를 창조해냈는지 서사적으로 묘사한다. 마르크스(맑스)는 부르주아지(자본가)들이 모든 봉건적 가치들을 “적나라한 이해관계” 속으로 밀어넣었다고 묘사한다.
+        위의 인용구는 마르크스(맑스)가 쓴 <a href="http://wspaper.org/0_view.php?urn=urn%3Anewsml%3Acounterfire.or.kr%3A20081023T092709%2B0900%3Acor10-cm%3A1U" target="_blank" title="[《공산주의 선언》 출간 1백60주년 ─ 자본주의의 모순을 고발하고 대안을 제시하다]로 이동">《공산당 선언》</a>의 일부를 옮긴 것이다. 마르크스(맑스)는 <a href="http://wspaper.org/0_view.php?urn=urn%3Anewsml%3Acounterfire.or.kr%3A20081023T092709%2B0900%3Acor10-cm%3A1U" target="_blank" title="[《공산주의 선언》 출간 1백60주년 ─ 자본주의의 모순을 고발하고 대안을 제시하다]로 이동">《공산당 선언》</a>의 첫 부분에서 자본주의의 화신인 자본가들이 어떤 세계를 창조해냈는지 서사적으로 묘사한다. 마르크스(맑스)는 부르주아지(자본가)들이 모든 봉건적 가치들을 “적나라한 이해관계” 속으로 밀어넣었다고 묘사한다.
       </p>
       
       <p>

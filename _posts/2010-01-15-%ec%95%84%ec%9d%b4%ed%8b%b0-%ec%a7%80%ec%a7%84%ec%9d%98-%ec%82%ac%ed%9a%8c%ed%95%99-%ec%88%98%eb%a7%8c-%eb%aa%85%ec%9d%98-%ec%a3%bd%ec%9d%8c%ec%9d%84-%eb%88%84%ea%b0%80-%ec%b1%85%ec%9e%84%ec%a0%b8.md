@@ -42,13 +42,13 @@ tags:
 
 아이티는 원래 200년 전, 프랑스 혁명의 사상에 고무받은 노예들이 반란을 일으켜 프랑스로부터 해방되면서 세운 나라다. 그러나 이 식민 본국은 아이티를 그냥 내버려 두지 않았다. 아이티는 가난해졌다.
 
-더 자세한 내용은 이 기사를 참고하라 : 클레어 퍼몬트,&nbsp;<a href="http://www.wspaper.org/article/7500" target="_blank" title="[http://www.wspaper.org/article/7500]로 이동합니다.">아이티 위기의 근원은 식민지 역사다</a>&nbsp;(레프트21, 2010.1.15)
+더 자세한 내용은 이 기사를 참고하라 : 클레어 퍼몬트,&nbsp;<a href="http://wspaper.org/article/7500" target="_blank" title="[http://wspaper.org/article/7500]로 이동합니다.">아이티 위기의 근원은 식민지 역사다</a>&nbsp;(레프트21, 2010.1.15)
 
 20세기 들어서 아이티는 미국에 놀아나야만 했다. 미국은 혁명을 일으켜 자신들의 손을 빠져나간 쿠바를 견제하는 데 아이티를 활용했다. 아이티 민중의 염원은 깡그리 무시당했다. 아이티 민중들이 자신들의 손으로 뽑은 대통령은 미국이 지원한 쿠데타에 밀려 쫓겨났다. 그가 바로 아리스티드다.
 
 아리스티드는 다시 돌아왔지만, 미국의 힘에 완전히 제압당한 채 돌아왔다. 그는 아이티를 진정으로 해방시킬 방법을 찾지 못했다.
 
-이에 대해 자세히 알고 싶다면 이 기사를 참고하면 된다 :&nbsp;<a href="http://www.wspaper.org/article/7504" target="_blank" title="[http://www.wspaper.org/article/7504]로 이동합니다.">미국이 오늘날 아이티의 위기에 책임이 있다</a>, 에슐리 스미스(미국 사회주의자), 레프트21, 2010.1.15
+이에 대해 자세히 알고 싶다면 이 기사를 참고하면 된다 :&nbsp;<a href="http://wspaper.org/article/7504" target="_blank" title="[http://wspaper.org/article/7504]로 이동합니다.">미국이 오늘날 아이티의 위기에 책임이 있다</a>, 에슐리 스미스(미국 사회주의자), 레프트21, 2010.1.15
 
 미국은 아이티에 신자유주의를 강요했다. 자신의 입맛에 맞는 정권도 강요했다. 엄청나게 부패한 정부가 들어섰다.&nbsp; 
 
@@ -60,7 +60,7 @@ tags:
 
 그리고 이 배경엔 바로 제국주의, 미국이 있다.
 
-이를 요약한 기사가 바로 이 기사다 :&nbsp;<span id="tx_left_marker"></span><a href="http://www.wspaper.org/article/7501" target="_blank" title="[http://www.wspaper.org/article/7501]로 이동합니다.">아이티의 비극 &#8211;&nbsp;</a><a href="http://www.wspaper.org/article/7501" target="_blank" title="[http://www.wspaper.org/article/7501]로 이동합니다.">자연재해에서 사회적 파국으로</a><span id="tx_right_marker"></span>, 에슐리 스미스(미국 사회주의자), 레프트21, 2010.1.15
+이를 요약한 기사가 바로 이 기사다 :&nbsp;<span id="tx_left_marker"></span><a href="http://wspaper.org/article/7501" target="_blank" title="[http://wspaper.org/article/7501]로 이동합니다.">아이티의 비극 &#8211;&nbsp;</a><a href="http://wspaper.org/article/7501" target="_blank" title="[http://wspaper.org/article/7501]로 이동합니다.">자연재해에서 사회적 파국으로</a><span id="tx_right_marker"></span>, 에슐리 스미스(미국 사회주의자), 레프트21, 2010.1.15
 
 ## 자연재해의 사회학
 

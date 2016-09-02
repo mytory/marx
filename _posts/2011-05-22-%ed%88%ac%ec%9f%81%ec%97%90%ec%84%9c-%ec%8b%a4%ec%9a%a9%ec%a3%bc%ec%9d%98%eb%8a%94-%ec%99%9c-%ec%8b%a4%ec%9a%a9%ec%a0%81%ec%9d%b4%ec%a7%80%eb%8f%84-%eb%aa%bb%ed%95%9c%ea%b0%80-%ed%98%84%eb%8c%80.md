@@ -16,11 +16,11 @@ tags:
   - 파업
   - 현대차
 ---
-&lt;레프트21&gt;에서 <a href="http://www.wspaper.org/article/9713" target="_blank" title="[http://www.wspaper.org/article/9713]로 이동합니다.">&#8216;[현대차 비정규직] 전주지회장은 교섭에 연연 말고 투쟁에 나서야&#8217;</a>라는 글을 봤다.<figure style="width: 540px" class="wp-caption aligncenter">
+&lt;레프트21&gt;에서 <a href="http://wspaper.org/article/9713" target="_blank" title="[http://wspaper.org/article/9713]로 이동합니다.">&#8216;[현대차 비정규직] 전주지회장은 교섭에 연연 말고 투쟁에 나서야&#8217;</a>라는 글을 봤다.<figure style="width: 540px" class="wp-caption aligncenter">
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile3.uf.171C48494DD9250A06E423.jpg" width="540" height="504" alt="" filename="cfile3.uf.171C48494DD9250A06E423.jpg" filemime="" /><figcaption class="wp-caption-text">△현대차 비정규직 노동자들의 투쟁은 모든 노동자들에게 용기를 줬다.</figcaption></figure> 
 
-<a href="http://www.wspaper.org/6_issue.php?issue_no=85" target="_blank" title="[http://www.wspaper.org/6_issue.php?issue_no=85]로 이동합니다.">현대차 비정규직 노동자들의 파업</a>에 대한 보복으로 현대차 사측이 대량 징계를 감행하고 있는 시점에 비정규직 노조 전주 지회장이 &#8220;징계 철회&#8221;가 아니라 &#8220;징계 최소화&#8221;로 요구사항을 수정하고 협상에 임하려는 태도를 비판하는 기사다. 일부 인용해 본다.
+<a href="http://wspaper.org/6_issue.php?issue_no=85" target="_blank" title="[http://wspaper.org/6_issue.php?issue_no=85]로 이동합니다.">현대차 비정규직 노동자들의 파업</a>에 대한 보복으로 현대차 사측이 대량 징계를 감행하고 있는 시점에 비정규직 노조 전주 지회장이 &#8220;징계 철회&#8221;가 아니라 &#8220;징계 최소화&#8221;로 요구사항을 수정하고 협상에 임하려는 태도를 비판하는 기사다. 일부 인용해 본다.
 
 > 현대차 사측이 울산, 아산에 이어 전주 공장에서도 지난해 비정규직 점거파업에 대한 보복성 징계의 칼을 빼 들었다. 해고 15명, 정직 9명, 감봉 2백80명 등 투쟁했던 조합원 대부분이 징계를 당했다.
 > 
@@ -30,7 +30,7 @@ tags:
 > 
 > 강성희 지회장은 ‘불법파견 정규직화 투쟁을 위해서도 징계 최소화가 필요하다’고 하지만, 많은 조합원들은 징계를 조금도 수용해선 안 된다고 말한다. 다수 대의원들은 지회장에 반발해 “징계 최소화는 하청업체 사장들과 그들의 징계를 인정하는 것”이라고 비판하고 있다.&nbsp;
 > 
-> 이병무, <a href="http://www.wspaper.org/article/9713" target="_blank" title="[http://www.wspaper.org/article/9713]로 이동합니다.">[현대차 비정규직] 전주지회장은 교섭에 연연 말고 투쟁에 나서야</a>, 레프트21, 2011-05-21
+> 이병무, <a href="http://wspaper.org/article/9713" target="_blank" title="[http://wspaper.org/article/9713]로 이동합니다.">[현대차 비정규직] 전주지회장은 교섭에 연연 말고 투쟁에 나서야</a>, 레프트21, 2011-05-21
 
 이런 기사를 대할 때 양편향의 반응이 나오는 것을 종종 본다. 
 

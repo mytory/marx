@@ -35,7 +35,7 @@ tags:
 
 이명박이 저런 말을 할 수밖에 없는 것은, 이명박 정부가 ‘이념형 정부’기 때문이다. 이명박은 말로는 실용을 외쳤지만 전혀 실용적이지 않았다. 만약 ‘실용적 보수’라면 지금 같은 경제 위기 시기에 엄청난 저항을 부를 수 있는 부자 위주의 정책을 펴지 않을 것이다
 
-종부세 감면을 해 <a title="경제 위기와 이명박의 서민 말살 대책" target="_blank" href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080925T033647%2b0900:cor06-economy2:1U">이명박 자신이 2,327만 원의 혜택을 받은 것</a>부터가 그 싹수를 말해 준다. <a title="부자 세금 깎지 말고 서민 복지를 늘려라(&lt;저항의 촛불&gt;)&#8221; target=&#8221;\_blank&#8221; href=&#8221;http://www.wspaper.org/0\_view.php?urn=urn:newsml:counterfire.or.kr:20080904T075810%2b0900:cor04-morewelfaretopeople:1U&#8221;>이명박이 부자에게 감세해준 돈은 총 75조 원</a>이다. 반면 복지예산은 깎기 일쑤여서 심지어 같은 당 초선의원들조차 이명박식 복지를 비판한다.(관련기사 : <a title="[http://www.hani.co.kr/arti/politics/politics_general/308596.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/politics/politics_general/308596.html">“이명박 정부 복지비전 전무” 한나라 초선모임 ‘민본 21’ 발족(&lt;한겨레&gt;)</a>) 이태수 꽃동네현도사회복지대 교수의 비판은 재기넘친다. 
+종부세 감면을 해 <a title="경제 위기와 이명박의 서민 말살 대책" target="_blank" href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080925T033647%2b0900:cor06-economy2:1U">이명박 자신이 2,327만 원의 혜택을 받은 것</a>부터가 그 싹수를 말해 준다. <a title="부자 세금 깎지 말고 서민 복지를 늘려라(&lt;저항의 촛불&gt;)&#8221; target=&#8221;\_blank&#8221; href=&#8221;http://wspaper.org/0\_view.php?urn=urn:newsml:counterfire.or.kr:20080904T075810%2b0900:cor04-morewelfaretopeople:1U&#8221;>이명박이 부자에게 감세해준 돈은 총 75조 원</a>이다. 반면 복지예산은 깎기 일쑤여서 심지어 같은 당 초선의원들조차 이명박식 복지를 비판한다.(관련기사 : <a title="[http://www.hani.co.kr/arti/politics/politics_general/308596.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/politics/politics_general/308596.html">“이명박 정부 복지비전 전무” 한나라 초선모임 ‘민본 21’ 발족(&lt;한겨레&gt;)</a>) 이태수 꽃동네현도사회복지대 교수의 비판은 재기넘친다. 
 
 > 후보 시절엔 생애주기별 디딤돌 복지를 하겠다 했다. 당선인이 되어서는 능동적 복지를 하겠다 했다. 대통령이 된 뒤엔 복지재정의 확충은 없단다. 대신 방만하고 비효율적인 복지시스템을 손질하겠단다. 언 발에 오줌 누는 수준인데 다른 곳에 튈지 모르니 오줌조차도 안 된다?
 > 
@@ -47,13 +47,13 @@ tags:
   <img src="http://cfs13.tistory.com/image/10/tistory/2009/01/16/15/57/49702fe61e1f2" /></p> 
   
   <p class="cap1">
-    출처 : <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080925T033647%2b0900:cor06-economy2:1U" target="_blank">경제 위기와 이명박의 서민 말살 대책 ─ 우리의 삶을 지키기 위해 투쟁하자</a>(&lt;저항의 촛불&gt;)
+    출처 : <a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080925T033647%2b0900:cor06-economy2:1U" target="_blank">경제 위기와 이명박의 서민 말살 대책 ─ 우리의 삶을 지키기 위해 투쟁하자</a>(&lt;저항의 촛불&gt;)
   </p>
 </div>
 
 이놈의 부자정부가 이제는 대촐 초임의 임금까지 깎겠단다. 비정규직을 양산하다 못해 이제는 드디어 정규직에까지 칼날을 들이대겠다는 말이다.
 
-오래전부터 이 나라 사회단체들은 <a title="비정규직과 정규직의 연대가 필요하다" target="_blank" href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20051109T000000%2B0900:d67-2023:1U">비정규직 확산이 정규직에게까지 영향을 미치게 될 것</a>이라고 경고해왔다. 노무현은 이명박보다 똑똑했기 때문에 절대로 그걸 노골적으로 인정하지 않았지만 이명박은 멍청하다. 이념형 정부다. 그래서 이명박은 솔직하게 말한다.
+오래전부터 이 나라 사회단체들은 <a title="비정규직과 정규직의 연대가 필요하다" target="_blank" href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20051109T000000%2B0900:d67-2023:1U">비정규직 확산이 정규직에게까지 영향을 미치게 될 것</a>이라고 경고해왔다. 노무현은 이명박보다 똑똑했기 때문에 절대로 그걸 노골적으로 인정하지 않았지만 이명박은 멍청하다. 이념형 정부다. 그래서 이명박은 솔직하게 말한다.
 
 > 이 대통령은 김기환 국민경제자문회의 부의장이 ‘공기업이 먼저 대졸 초임을 낮추는 방안을 선도하는 것이 어떻겠느냐’라고 제안한 데 대해 “한번 검토해보라”고 긍정적 입장을 피력했다. …
 > 
@@ -87,7 +87,7 @@ tags:
 
 평등? 고통분담? 좋은 거다. 그러나 사회의 학벌차별분위기가 불식되면서 고졸에 대한 우대가 높아지는 방식의 평등, 그래서 고졸이나 대졸이나 사무직이나 육체노동직이나 차별없이 동등하고 인간다운 생활을 할 정도의 임금을 받는 것이 제대로 평등할 수 있는 방법이다. 그렇지 않고 한쪽의 임금을 다른쪽이 공격하게 되면 사장들은 좋다구나 하면서 나머지 한쪽의 임금도 낮추려 할 것이다.
 
-고통분담은 더 할 말 없는 거 다 알 거다. 종부세나 복귀시켜라. 아니 나아가 <a title="권영길 후보의 정책과 공약들 ─ 세상을 바꾸기 위한 투쟁의 요구들" target="_blank" href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20071107T014851%2B0900:c64-kdlpPolitics:1U">부유세를 도입해라</a>. 웬만한 복지국가는 다 그렇게 하고 있다.
+고통분담은 더 할 말 없는 거 다 알 거다. 종부세나 복귀시켜라. 아니 나아가 <a title="권영길 후보의 정책과 공약들 ─ 세상을 바꾸기 위한 투쟁의 요구들" target="_blank" href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20071107T014851%2B0900:c64-kdlpPolitics:1U">부유세를 도입해라</a>. 웬만한 복지국가는 다 그렇게 하고 있다.
 
 마지막으로 그래프 하나 제시하고 끝내련다. 위에서 언급한 <a href="http://mel21.tistory.com/entry/%EB%8C%80%EC%A1%B8%EC%B4%88%EC%9E%84-%EA%B2%BD%EC%B4%9D" title="대졸초임 삭감해야한다는 한국경영자총협회(경총)의 허구" target="_blank">대졸초임 삭감해야한다는 한국경영자총협회(경총)의 허구</a>에서 발견한 것을 보기 좋게 수정한 것이니, 자세히 보고픈 사람은 저 글을 읽기 바란다. 진짜 열심히 찾은 것 같으니.
 

@@ -22,7 +22,7 @@ tags:
   
 
 
-아래는 존 리드가 지은&nbsp;<A title="[http://www.wspaper.org/article/2208]로 이동합니다." href="http://www.wspaper.org/article/2208" target=_blank>《세계를 뒤흔든 열흘》</A>(책갈피, 2005)에서 인상깊게 읽었던 부분인데 오늘 우연히 발견해서 저장해 둔다.
+아래는 존 리드가 지은&nbsp;<A title="[http://wspaper.org/article/2208]로 이동합니다." href="http://wspaper.org/article/2208" target=_blank>《세계를 뒤흔든 열흘》</A>(책갈피, 2005)에서 인상깊게 읽었던 부분인데 오늘 우연히 발견해서 저장해 둔다.
 
 
   

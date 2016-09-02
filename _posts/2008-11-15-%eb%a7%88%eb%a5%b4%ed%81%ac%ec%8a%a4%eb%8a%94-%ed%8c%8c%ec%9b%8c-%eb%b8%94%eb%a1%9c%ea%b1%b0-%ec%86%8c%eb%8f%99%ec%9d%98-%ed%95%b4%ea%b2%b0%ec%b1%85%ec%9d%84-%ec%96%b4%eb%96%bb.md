@@ -75,7 +75,7 @@ tags:
     </p>
     
     <p>
-      그러나 마르크스(맑스)는 자본주의의 근본적 문제를 해결하고 새로운 사회를 건설할 수 <strong>있다</strong>고 힘주어 말했다. 마르크스(맑스)가 말한 대안은 결코 <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20070320T222920%2B0900:c36-capitapALussr:1U" title="[옛 소련과 사회주의]로 이동" target="_blank">소련 같은 사회</a>나 <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080717T063748%2B0900:cor01-dok3:1U" target="_blank" title="[북한은 독재ㆍ계급사회입니다]로 이동">북한 같은 사회</a>가 아니다. 그런 사회는 오히려 마르크스(맑스)가 비판한 자본주의의 모습에 더 부합한다.
+      그러나 마르크스(맑스)는 자본주의의 근본적 문제를 해결하고 새로운 사회를 건설할 수 <strong>있다</strong>고 힘주어 말했다. 마르크스(맑스)가 말한 대안은 결코 <a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20070320T222920%2B0900:c36-capitapALussr:1U" title="[옛 소련과 사회주의]로 이동" target="_blank">소련 같은 사회</a>나 <a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080717T063748%2B0900:cor01-dok3:1U" target="_blank" title="[북한은 독재ㆍ계급사회입니다]로 이동">북한 같은 사회</a>가 아니다. 그런 사회는 오히려 마르크스(맑스)가 비판한 자본주의의 모습에 더 부합한다.
     </p>
     
     <p>
@@ -87,11 +87,11 @@ tags:
     </p>
     
     <p>
-      어찌됐건 나는 오늘 모든 피억압민들의 아래로부터의 투쟁이 자본주의의 논리를 무력화해야 한다고만 말하겠다. 마르크스(맑스)가 왜 노동자를 강조했는지, 역사상 잠깐씩 드러난 대안사회의 구체적 모습(<a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20041222T000000%2B0900:d46-1116:1U" target="_blank">파리 꼬뮌</a>, <a href="http://www.counterfire.or.kr/0_view.php?urn=urn:newsml:counterfire.or.kr:20081030T105444%2B0900:cor11-dok2:1U" target="_blank" title="[러시아 혁명 때 꽃핀 대안적 교육의 실험]으로 이동">러시아 혁명</a>, 중국 혁명, <a href="http://www.counterfire.or.kr/0_view.php?urn=urn:newsml:counterfire.or.kr:20060112T000000%2B0900:d71-2204:1U" target="_blank" title="[2006년에 기억해야 할 역사적 사건들]로 이동">스페인 혁명</a>, 이란 혁명)과 성격은 어떠했는지 등을 다루면 배보다 배꼽이 커질 것이기 때문이다.
+      어찌됐건 나는 오늘 모든 피억압민들의 아래로부터의 투쟁이 자본주의의 논리를 무력화해야 한다고만 말하겠다. 마르크스(맑스)가 왜 노동자를 강조했는지, 역사상 잠깐씩 드러난 대안사회의 구체적 모습(<a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20041222T000000%2B0900:d46-1116:1U" target="_blank">파리 꼬뮌</a>, <a href="http://www.counterfire.or.kr/0_view.php?urn=urn:newsml:counterfire.or.kr:20081030T105444%2B0900:cor11-dok2:1U" target="_blank" title="[러시아 혁명 때 꽃핀 대안적 교육의 실험]으로 이동">러시아 혁명</a>, 중국 혁명, <a href="http://www.counterfire.or.kr/0_view.php?urn=urn:newsml:counterfire.or.kr:20060112T000000%2B0900:d71-2204:1U" target="_blank" title="[2006년에 기억해야 할 역사적 사건들]로 이동">스페인 혁명</a>, 이란 혁명)과 성격은 어떠했는지 등을 다루면 배보다 배꼽이 커질 것이기 때문이다.
     </p>
     
     <p>
-      (만약 그래도 궁금한 분들이 있다면 다음 글을 참고하기 바란다. <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20060701T000000%2B0900:c3c_johnmarxism:1U" target="_blank">“노동계급의 혁명적 구실” (존 몰리뉴)</a>)
+      (만약 그래도 궁금한 분들이 있다면 다음 글을 참고하기 바란다. <a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20060701T000000%2B0900:c3c_johnmarxism:1U" target="_blank">“노동계급의 혁명적 구실” (존 몰리뉴)</a>)
     </p>
     
     <div>

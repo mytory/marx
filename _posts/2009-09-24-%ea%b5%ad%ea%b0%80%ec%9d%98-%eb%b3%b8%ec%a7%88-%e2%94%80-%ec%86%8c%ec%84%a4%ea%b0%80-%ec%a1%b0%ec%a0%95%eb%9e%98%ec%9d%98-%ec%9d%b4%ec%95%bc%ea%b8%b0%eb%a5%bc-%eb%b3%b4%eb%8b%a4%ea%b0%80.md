@@ -55,7 +55,7 @@ tags:
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile21.uf.172119104ABBA961048CC5.jpg" width="500" height="319" alt="" filename="cfile21.uf.172119104ABBA961048CC5.jpg" filemime="" /><figcaption class="wp-caption-text">얘넨 당췌 선출할 수가 없다.</figcaption></figure> 
 
-보수가 행정부 수반을 장악하지 못해서 위기에 처했을 때 군대가 나서는 건 역사상 여러 차례 있었던 일이다. 칠레의 사민주의 대통령 아옌데가 군부에 살해당한 것은 고전적 사례고, 최근에는 온두라스에서 똑같은 일이 벌어져 대통령이 축출됐다. 쫓겨난 대통령은 민주적 헌법을 국민투표에 붙이려는 찰나였다.(<a target="_blank" title="피오나 맥파일, &lt;레프트21&gt; ,  2009-08-06" href="http://www.wspaper.org/article/6858">온두라스-제국주의 쿠데타</a>)
+보수가 행정부 수반을 장악하지 못해서 위기에 처했을 때 군대가 나서는 건 역사상 여러 차례 있었던 일이다. 칠레의 사민주의 대통령 아옌데가 군부에 살해당한 것은 고전적 사례고, 최근에는 온두라스에서 똑같은 일이 벌어져 대통령이 축출됐다. 쫓겨난 대통령은 민주적 헌법을 국민투표에 붙이려는 찰나였다.(<a target="_blank" title="피오나 맥파일, &lt;레프트21&gt; ,  2009-08-06" href="http://wspaper.org/article/6858">온두라스-제국주의 쿠데타</a>)
 
 ## 경제권력
 

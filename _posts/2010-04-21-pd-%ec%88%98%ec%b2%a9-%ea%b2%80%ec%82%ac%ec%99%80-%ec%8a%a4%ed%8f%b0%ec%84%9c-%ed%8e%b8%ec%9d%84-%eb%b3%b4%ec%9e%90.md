@@ -49,7 +49,7 @@ PD수첩 진행자가 마지막 부분에 밝혔듯, 우리는 이미 &#8216;떡
 
 그래서 기사 하나 링크하고 마친다. 
 
-<a title="[http://www.wspaper.org/article/251]로 이동합니다." target="_blank" href="http://www.wspaper.org/article/251">▷부패, 자본주의의 만성 고질병</a> 
+<a title="[http://wspaper.org/article/251]로 이동합니다." target="_blank" href="http://wspaper.org/article/251">▷부패, 자본주의의 만성 고질병</a> 
 
 그리고 알자. 우리가 사는 사회가 그다지 정의로운 사회는 아니라는 것을. 
 

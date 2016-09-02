@@ -64,7 +64,7 @@ tags:
   </p>
   
   <p>
-    사실 유럽의 보수도 언제나 시민들을 통제하고, 공격하고 싶어한다. 유럽의 보수도 시민들<strong>에게서</strong> 자유로워지고 싶어한다는 점에서 한국의 보수와 <span class="Apple-style-span" style="font-weight: bold;">같다</span>. 프랑스 대통령 사르코지는 1968년 혁명 40주년이 되던 올해 초 1968년 혁명의 유산을 모두 청산하겠다고 말했다. 이게 저들의 본심이다. 2005년에는 이민자 차별 때문에 폭동이 벌어졌는데<a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20051109T000000+0900:d67-2018:1U" target="_blank" title="차별이 낳은 분노의 폭발"> 억압적 상황에 대한 증언</a>이 오늘날 한국처럼 생생하다.
+    사실 유럽의 보수도 언제나 시민들을 통제하고, 공격하고 싶어한다. 유럽의 보수도 시민들<strong>에게서</strong> 자유로워지고 싶어한다는 점에서 한국의 보수와 <span class="Apple-style-span" style="font-weight: bold;">같다</span>. 프랑스 대통령 사르코지는 1968년 혁명 40주년이 되던 올해 초 1968년 혁명의 유산을 모두 청산하겠다고 말했다. 이게 저들의 본심이다. 2005년에는 이민자 차별 때문에 폭동이 벌어졌는데<a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20051109T000000+0900:d67-2018:1U" target="_blank" title="차별이 낳은 분노의 폭발"> 억압적 상황에 대한 증언</a>이 오늘날 한국처럼 생생하다.
   </p>
   
   <p>
@@ -100,19 +100,19 @@ tags:
       </p>
       
       <p>
-        여기서 나는 <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20070425T043759%2B0900:c41-gramsciPositionWar:1U" target="_blank" title="국가, 동의, 진지전">위대한 마르크스주의자(맑스주의자) 그람시</a>의 분석을 상기하지 않을 수 없다. <strong>저들은 동의와 폭력으로 지배한다.</strong>
+        여기서 나는 <a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20070425T043759%2B0900:c41-gramsciPositionWar:1U" target="_blank" title="국가, 동의, 진지전">위대한 마르크스주의자(맑스주의자) 그람시</a>의 분석을 상기하지 않을 수 없다. <strong>저들은 동의와 폭력으로 지배한다.</strong>
       </p>
       
       <p>
-        (<a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20070425T043759%2B0900:c41-gramsciPositionWar:1U" target="_blank" title="국가, 동의, 진지전">그람시</a>는 폭압국가 러시아와는 다른 양상의, 잘 정비된 서구 사회에서 혁명이 성공하기 위해서 어떻게 해야 할지 고민했던 마르크스주의자(맑스주의자)다.)
+        (<a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20070425T043759%2B0900:c41-gramsciPositionWar:1U" target="_blank" title="국가, 동의, 진지전">그람시</a>는 폭압국가 러시아와는 다른 양상의, 잘 정비된 서구 사회에서 혁명이 성공하기 위해서 어떻게 해야 할지 고민했던 마르크스주의자(맑스주의자)다.)
       </p>
       
       <p>
-        저들은 동의시키기 힘든 위기의 시기가 오면 폭력의 막대기를 꺼내들기 시작한다. (단, 동의시켜서 통치하는 게 뭔지도 모르는 <a href="http://www.bluehouse.go.kr/" target="_blank">한국의 어떤 멍청한 놈</a>은 <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20070425T043759%2B0900:c41-gramsciPositionWar:1U" target="_blank" title="국가, 동의, 진지전">그람시</a>를 들이대며 분석할 필요도 없다.)
+        저들은 동의시키기 힘든 위기의 시기가 오면 폭력의 막대기를 꺼내들기 시작한다. (단, 동의시켜서 통치하는 게 뭔지도 모르는 <a href="http://www.bluehouse.go.kr/" target="_blank">한국의 어떤 멍청한 놈</a>은 <a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20070425T043759%2B0900:c41-gramsciPositionWar:1U" target="_blank" title="국가, 동의, 진지전">그람시</a>를 들이대며 분석할 필요도 없다.)
       </p>
       
       <p>
-        덧붙임) 참, 요즘 <a href="http://blog.hani.co.kr/gategateparagate/" target="_blank" title="박노자 글방">박노자 선생</a>과 ‘다함께’ 일부 회원들 사이에 <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20081106T045220%2B0900:cor12-reformism:1U" target="_blank" title="혁명보다는 급진적 개혁이 바람직한가?(김종환)">혁명이냐 급진적 개혁이냐 하는 논쟁</a>이 벌어졌다. <a href="http://blog.hani.co.kr/gategateparagate/" target="_blank" title="박노자 글방">박노자 선생</a>은 노르웨이를 기준으로 사태를 분석하며 아무도 혁명을 원치 않는다고 쓰고 있지만 오히려 프랑스나 미국 같은 곳으로 눈을 돌려 보면 주류 서구 사회도 위기가 꽤나 심각한 지경에 이른 것 같다는 생각이 든다.
+        덧붙임) 참, 요즘 <a href="http://blog.hani.co.kr/gategateparagate/" target="_blank" title="박노자 글방">박노자 선생</a>과 ‘다함께’ 일부 회원들 사이에 <a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20081106T045220%2B0900:cor12-reformism:1U" target="_blank" title="혁명보다는 급진적 개혁이 바람직한가?(김종환)">혁명이냐 급진적 개혁이냐 하는 논쟁</a>이 벌어졌다. <a href="http://blog.hani.co.kr/gategateparagate/" target="_blank" title="박노자 글방">박노자 선생</a>은 노르웨이를 기준으로 사태를 분석하며 아무도 혁명을 원치 않는다고 쓰고 있지만 오히려 프랑스나 미국 같은 곳으로 눈을 돌려 보면 주류 서구 사회도 위기가 꽤나 심각한 지경에 이른 것 같다는 생각이 든다.
       </p>
       
       <div class="txc-textbox" style="border-top-style: dashed; border-right-style: dashed; border-bottom-style: dashed; border-left-style: dashed; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-color: rgb(159, 211, 49); border-right-color: rgb(159, 211, 49); border-bottom-color: rgb(159, 211, 49); border-left-color: rgb(159, 211, 49); background-color: rgb(231, 253, 181); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; ">

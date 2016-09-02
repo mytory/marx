@@ -34,7 +34,7 @@ tags:
 
 한미FTA는 노무현의 말마따나 근본적으로 “외부 충격을 통해” 한국 사회를 구조조정하려는 시도였다. 이 구조조정은 좀더 자본에 유리하게 사회 구조를 뜯어 고치는 것이었다. 즉, 자본가들은 윈윈하고 미국과 한국의 노동자들은 루즈루즈(lose-lose)하는 계급적 공격이었다. 유시민이 앞서 말한 ‘정의’와도 맞지 않는 것이다.
 
-이 문제를 ‘국익’ 논리로 슬쩍 비켜간 것은 유시민의 한계를 보여 준다고 생각한다. 진보 정치인이라면 한미FTA 자체에 반대해야 한다.(한미FTA 자체에 대한 짤막하고 명료한 글을 보고 싶다면 <a href="http://www.wspaper.org/article/4074" target="_blank" title="[http://www.wspaper.org/article/4074]로 이동합니다.">‘한미FTA는 양극화 확대ㆍ강화 협정이다’</a>(강동훈, &lt;맞불&gt; 40호, 2007-04-21)를 참고하면 된다.)
+이 문제를 ‘국익’ 논리로 슬쩍 비켜간 것은 유시민의 한계를 보여 준다고 생각한다. 진보 정치인이라면 한미FTA 자체에 반대해야 한다.(한미FTA 자체에 대한 짤막하고 명료한 글을 보고 싶다면 <a href="http://wspaper.org/article/4074" target="_blank" title="[http://wspaper.org/article/4074]로 이동합니다.">‘한미FTA는 양극화 확대ㆍ강화 협정이다’</a>(강동훈, &lt;맞불&gt; 40호, 2007-04-21)를 참고하면 된다.)
 
 [2011-11-06에 추가 시작] 유시민은 2011년 10월에 분출한 한미FTA 반대 투쟁에 올라탔다. 2011년 11월 5일에 있었던 대한문 앞 집회에서 그는 <a href="http://spar2003.tistory.com/210#yoosimin" target="_blank" title="[http://spar2003.tistory.com/210#yoosimin]로 이동합니다.">&#8220;한미FTA 원안에도 반대하는 세 가지 이유&#8221;</a>를 밝혔다. 1)이익균형이 깨졌다 2)2008년 세계경제 위기가 왔다 3)FTA가 미국법보단 아래고 한국법보단 위인줄 몰랐다. 이 세 가지가 유시민이 밝힌 이유다. 그는 원안에도 반대한다고 입장을 바꾼 것이다.&nbsp;[2011-11-06에 추가 끝]
 
@@ -69,7 +69,7 @@ G20에 모이는 국가 정상들은 사기단이라고 생각할 수 있겠다.
 
 유시민은 “지금 양상으로 보면 부가가치 생길 것 같지 않다”고 말했는데, 즉, G20으로 부가가치가 생길 수도 있다는 말이다. 이는 좌파적 관점과는 거리가 멀다. 그냥 온건개혁적인 **주류 정치인**일 뿐이다.
 
-(<a href="http://www.wspaper.org/article/8553" target="_blank" title="[http://www.wspaper.org/article/8553]로 이동합니다.">G20에 반대해야 하는 10가지 이유</a>를 참고하면 도움이 될 거다. 아래는 해당 기사를 요약한 그림이다.)
+(<a href="http://wspaper.org/article/8553" target="_blank" title="[http://wspaper.org/article/8553]로 이동합니다.">G20에 반대해야 하는 10가지 이유</a>를 참고하면 도움이 될 거다. 아래는 해당 기사를 요약한 그림이다.)
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile30.uf.190AAD364CCEDBBA2CBCEF.jpg" class="aligncenter" width="540" height="378" alt="" filename="left21_0043_05.jpg" filemime="image/jpeg" />
 
@@ -93,7 +93,7 @@ G20에 모이는 국가 정상들은 사기단이라고 생각할 수 있겠다.
 
 자, 그렇다면 유시민의 의료법 개정안을 공격했던 진보진영은 완전히 헛짚은 것일까?
 
-당시 의료법 개정안에 대해서는 <a href="http://www.wspaper.org/article/4159" target="_blank" title="[http://www.wspaper.org/article/4159]로 이동합니다.">우석균 보건의료연대 정책실장의 칼럼</a>을 인용한다. 아래 강조는 내가 한 것이다.
+당시 의료법 개정안에 대해서는 <a href="http://wspaper.org/article/4159" target="_blank" title="[http://wspaper.org/article/4159]로 이동합니다.">우석균 보건의료연대 정책실장의 칼럼</a>을 인용한다. 아래 강조는 내가 한 것이다.
 
 > 둘째, 자발적 신자유주의 공세의 가속화이다. 한미FTA가 불안해진 만큼 자본과 보수 세력을 자신의 지지 세력으로 하기 위해 노무현 정부의 신자유주의 공세는 더욱 노골화할 것이다. 대표적인 예가 최근의 의료법 개정이다.
 > 
@@ -104,16 +104,16 @@ G20에 모이는 국가 정상들은 사기단이라고 생각할 수 있겠다.
 > 삼성이나 현대 병원을 중심으로 하는 전국 영리병원 네트워크가 설립되고 이 영리병원 네트워크를 삼성생명 같은 보험회사들이 지배할 수 있게 된다. 바로 이 보험회사와 영리병원 네트워크의 결합이 미국의 영리의료시스템(HMO)의 핵심이다. 결국 공적 보험제도 바깥에 보험사와 영리병원이 지배하는 별도의 의료체계를 만들겠다는 것이다. 그리 되면 의료비 폭등은 물론이고 결국 공적 건강보험의 기초가 흔들릴 수밖에 없다.
 > 
 > <p style="text-align: right; ">
->   <a href="http://www.wspaper.org/article/4159" target="_blank" title="[http://www.wspaper.org/article/4159]로 이동합니다.">한미FTA의 새로운 상황과 사회운동</a>, &lt;맞불&gt; 44호, 2007-05-19
+>   <a href="http://wspaper.org/article/4159" target="_blank" title="[http://wspaper.org/article/4159]로 이동합니다.">한미FTA의 새로운 상황과 사회운동</a>, &lt;맞불&gt; 44호, 2007-05-19
 > </p>
 
 의사협회가 돈로비를 하며 반대한 것이 의료법 개정안을 정당화해 주지 않는다. 유시민은 질문자의 논리에 약점이 있다는 것을 지적했을 뿐, 자신이 낸 개정안이 1.영리병원을 허용할 수 있는 법인지 2.보험회사가 환자를 알선할 수 있게 하는 법인지 3.보험회사가 영리병원을 지배할 수 있도록 하는 법인지 4.공적 건강보험의 기초를 흔드는 법인지 &#8211; 이런 비판에 대한 답을 해야 했다.
 
 유시민은 강연하면서 노무현 정부가 통과시킨 비정규직 악법에 대해서 &#8220;헛점이 많은 법이기 때문에 악법이며 고쳐야 한다&#8221;고 말했다. 바로 열린우리당이 통과한 법이다.
 
-2006년 12월에 “&lt;조선일보&gt;는 비정규직 개악안이 “비정규직 차별 해소와 남용 규제의 법제화”라고 했다. 노동부 장관 이상수는 “이제 비정규직은 억울한 차별에서 벗어나고, 고용 불안을 떨칠 수 있게 됐다”고 했다. 이것은 황우석도 울고 갈 대사기극이며 새빨간 거짓말이다.”(<span id="tx_left_marker"></span><a href="http://www.wspaper.org/article/3656" target="_blank" title="[http://www.wspaper.org/article/3656]로 이동합니다.">비정규직 개악안 통과에 이어 노동법 개악으로 &#8211;&nbsp;</a><a href="http://www.wspaper.org/article/3656" target="_blank" title="[http://www.wspaper.org/article/3656]로 이동합니다.">비정규직‘보호’법이라는 새빨간 거짓말</a><span id="tx_right_marker"></span>, 전지윤, &lt;맞불&gt; 23호, 2006-12-09)
+2006년 12월에 “&lt;조선일보&gt;는 비정규직 개악안이 “비정규직 차별 해소와 남용 규제의 법제화”라고 했다. 노동부 장관 이상수는 “이제 비정규직은 억울한 차별에서 벗어나고, 고용 불안을 떨칠 수 있게 됐다”고 했다. 이것은 황우석도 울고 갈 대사기극이며 새빨간 거짓말이다.”(<span id="tx_left_marker"></span><a href="http://wspaper.org/article/3656" target="_blank" title="[http://wspaper.org/article/3656]로 이동합니다.">비정규직 개악안 통과에 이어 노동법 개악으로 &#8211;&nbsp;</a><a href="http://wspaper.org/article/3656" target="_blank" title="[http://wspaper.org/article/3656]로 이동합니다.">비정규직‘보호’법이라는 새빨간 거짓말</a><span id="tx_right_marker"></span>, 전지윤, &lt;맞불&gt; 23호, 2006-12-09)
 
-&lt;조선일보&gt;가 칭찬했다는 것만으로 이 법이 악법이라는 건 충분히 증명할 수 있을 것이다. 유시민 자신도 인정했고 말이다.(물론 <a href="http://www.wspaper.org/article/3101" target="_blank" title="[http://www.wspaper.org/article/3101]로 이동합니다.">열린우리당이 주도적으로 처리</a>했는데 반성하고 있다고 한 마디라도 했다면 좋았을 것이다.)
+&lt;조선일보&gt;가 칭찬했다는 것만으로 이 법이 악법이라는 건 충분히 증명할 수 있을 것이다. 유시민 자신도 인정했고 말이다.(물론 <a href="http://wspaper.org/article/3101" target="_blank" title="[http://wspaper.org/article/3101]로 이동합니다.">열린우리당이 주도적으로 처리</a>했는데 반성하고 있다고 한 마디라도 했다면 좋았을 것이다.)
 
 의료법 개정안에 대해서는 그런 입장을 취할 생각이 없는지.
 

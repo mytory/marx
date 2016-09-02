@@ -21,7 +21,7 @@ tags:
 ---
 어제 금호타이어 사측이 해고에 반대해 농성중이던 노동자들을 폭행했다&nbsp;
 
-:&nbsp;<http://www.wspaper.org/article/8005>
+:&nbsp;<http://wspaper.org/article/8005>
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
@@ -92,7 +92,7 @@ tags:
 
 국가는 외면했고, 산업은행은 &#8220;너네 구제 안 해&#8221;라고 했습니다. &#8220;너넨 우리가 책임질 필요 없는 애들이야&#8221;라는 뜻이죠. &#8216;국민&#8217;이 아니란 말입니다.
 
-용기를 얻은 금호타이어 사측은 관리자들을 동원해 노동자들을 팼습니다.(관련기사 :&nbsp;<http://www.wspaper.org/article/8005>)
+용기를 얻은 금호타이어 사측은 관리자들을 동원해 노동자들을 팼습니다.(관련기사 :&nbsp;<http://wspaper.org/article/8005>)
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 

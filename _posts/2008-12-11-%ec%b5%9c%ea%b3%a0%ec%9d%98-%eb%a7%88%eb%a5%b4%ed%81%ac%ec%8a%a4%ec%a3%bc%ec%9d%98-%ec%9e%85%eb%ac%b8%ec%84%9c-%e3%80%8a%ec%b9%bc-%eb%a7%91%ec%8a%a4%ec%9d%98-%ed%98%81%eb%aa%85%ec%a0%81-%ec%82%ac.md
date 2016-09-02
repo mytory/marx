@@ -97,6 +97,6 @@ tags:
 
 <div class="txc-textbox" style="border-top-style: dashed; border-right-style: dashed; border-bottom-style: dashed; border-left-style: dashed; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-color: rgb(193, 193, 193); border-right-color: rgb(193, 193, 193); border-bottom-color: rgb(193, 193, 193); border-left-color: rgb(193, 193, 193); background-color: rgb(238, 238, 238); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; ">
   <p>
-    덧붙여, 알렉스 캘리니코스가 쓴 <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2b0900:d9-149:1U" target="_blank" title="[마르크스는 여전히 유효한가? ─ 마르크스에 대한 왜곡을 걷어 낸다]로 이동합니다.">‘마르크스는 여전히 유효한가? ─ 마르크스에 대한 왜곡을 걷어 낸다’</a>라는 글을 소개한다. 링크를 타고 들어가 읽어 보시라.
+    덧붙여, 알렉스 캘리니코스가 쓴 <a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2b0900:d9-149:1U" target="_blank" title="[마르크스는 여전히 유효한가? ─ 마르크스에 대한 왜곡을 걷어 낸다]로 이동합니다.">‘마르크스는 여전히 유효한가? ─ 마르크스에 대한 왜곡을 걷어 낸다’</a>라는 글을 소개한다. 링크를 타고 들어가 읽어 보시라.
   </p>
 </div>

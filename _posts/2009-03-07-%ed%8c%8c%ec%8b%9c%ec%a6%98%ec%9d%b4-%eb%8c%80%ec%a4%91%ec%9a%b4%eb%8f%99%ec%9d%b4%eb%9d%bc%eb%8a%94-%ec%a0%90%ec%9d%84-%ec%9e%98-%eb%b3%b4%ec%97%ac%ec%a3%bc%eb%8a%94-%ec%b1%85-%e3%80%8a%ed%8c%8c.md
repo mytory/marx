@@ -56,7 +56,7 @@ tags:
 > 
 > 대중운동으로서의 파시즘을 잘 다룬 글을 하나 소개한다. 도움이 될 것이다.
 > 
-> <A HREF="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20060918T000000%2B0900:c113fascism:1U" target="_blank">존 몰리뉴, 파시즘이란 무엇인가?</A>
+> <A HREF="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20060918T000000%2B0900:c113fascism:1U" target="_blank">존 몰리뉴, 파시즘이란 무엇인가?</A>
 > 
 > 이명박이나 ‘다 같이 하자’주의를 파시즘이라고 이름붙이다가는 진정한 파시즘의 위협을 간과할 수 있다. 이것은 저명한 파시즘 연구가 로버트 팩스턴의 말이다. 《파시즘》의 저자인 로버트 팩스턴은 파시즘 분야의 대가로 불리니, 권위를 빌어다 말해도 무리 없을 것이다.
 > 

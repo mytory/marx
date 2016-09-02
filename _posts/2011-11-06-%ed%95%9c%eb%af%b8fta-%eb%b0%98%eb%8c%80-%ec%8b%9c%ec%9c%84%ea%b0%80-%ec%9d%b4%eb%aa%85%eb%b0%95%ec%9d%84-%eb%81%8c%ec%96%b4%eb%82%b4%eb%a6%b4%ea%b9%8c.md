@@ -59,15 +59,15 @@ categories:
 
 ## 1%에 맞서는 99% 시위를 비롯한 세계 정세
 
-그리스에서는 얼마 전 사상 최대의 시위가 벌어졌다고 한다. <a href="http://www.wspaper.org/article/10382" target="_blank" title="[http://www.wspaper.org/article/10382]로 이동합니다.">무려 이틀 총파업이었다.</a> 그리스 얘네는 요새 총파업하면 정말 거리에 개미새끼 한 마리 안 다닌다고 한다. 아는 사람이 그리스 여행갔었는데, 작년이었다. 총파업한다고 하길래 한국 총파업처럼 생각하고 밖에 나갔다가 개고생하고 들어왔다는 이야길 들었다.(<a href="http://www.wspaper.org/article/8122" target="_blank" title="[http://www.wspaper.org/article/8122]로 이동합니다.">▷그리스 여행에서 물씬 느낀 저항 분위기</a>)<figure style="width: 540px" class="wp-caption aligncenter">
+그리스에서는 얼마 전 사상 최대의 시위가 벌어졌다고 한다. <a href="http://wspaper.org/article/10382" target="_blank" title="[http://wspaper.org/article/10382]로 이동합니다.">무려 이틀 총파업이었다.</a> 그리스 얘네는 요새 총파업하면 정말 거리에 개미새끼 한 마리 안 다닌다고 한다. 아는 사람이 그리스 여행갔었는데, 작년이었다. 총파업한다고 하길래 한국 총파업처럼 생각하고 밖에 나갔다가 개고생하고 들어왔다는 이야길 들었다.(<a href="http://wspaper.org/article/8122" target="_blank" title="[http://wspaper.org/article/8122]로 이동합니다.">▷그리스 여행에서 물씬 느낀 저항 분위기</a>)<figure style="width: 540px" class="wp-caption aligncenter">
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile22.uf.1867A4454EB685642FDF56.jpg" width="540" height="360" alt="" filename="cfile22.uf.1867A4454EB685642FDF56.jpg" filemime="" /><figcaption class="wp-caption-text">△2011년 2월 이집트 혁명의 하루 - 이런 투쟁을 통해 대중은 급속히 발전한다. ⓒ사진 호쌈 엘하말라위</figcaption></figure> 
 
-아랍 혁명은 여전히 진행중이다. 얼마 전 카다피가 죽었고<a href="http://www.wspaper.org/article/10366" target="_blank" title="[http://www.wspaper.org/article/10366]로 이동합니다."></a>, 유럽이 승전한 군대처럼 리비아를 지배하려고 하겠지만, <a href="http://www.wspaper.org/article/10366" target="_blank" title="[http://www.wspaper.org/article/10366]로 이동합니다.">리비아 민중들의 반발도 녹록치 않을 거다.</a> 이집트 혁명은 노동자 대투쟁과 함께 진행중이다. <a href="http://www.wspaper.org/article/10368" target="_blank" title="[http://www.wspaper.org/article/10368]로 이동합니다.">이집트 군부는 점점 더 통치에 한계를 느끼고 있다.</a> 큰 충돌이 불가피하다.&nbsp; 
+아랍 혁명은 여전히 진행중이다. 얼마 전 카다피가 죽었고<a href="http://wspaper.org/article/10366" target="_blank" title="[http://wspaper.org/article/10366]로 이동합니다."></a>, 유럽이 승전한 군대처럼 리비아를 지배하려고 하겠지만, <a href="http://wspaper.org/article/10366" target="_blank" title="[http://wspaper.org/article/10366]로 이동합니다.">리비아 민중들의 반발도 녹록치 않을 거다.</a> 이집트 혁명은 노동자 대투쟁과 함께 진행중이다. <a href="http://wspaper.org/article/10368" target="_blank" title="[http://wspaper.org/article/10368]로 이동합니다.">이집트 군부는 점점 더 통치에 한계를 느끼고 있다.</a> 큰 충돌이 불가피하다.&nbsp; 
 
-미국에서 60여 년만에 <a href="http://www.wspaper.org/article/10392" target="_blank" title="[http://www.wspaper.org/article/10392]로 이동합니다.">노동자들의 대규모 파업이 벌어졌다. 오클랜드에서다.</a> 1%에 맞선 99% 시위의 직접적 영향을 받은 사건이다. 학생과 노동자들은 전 도시에 파업을 호소했다고 한다.
+미국에서 60여 년만에 <a href="http://wspaper.org/article/10392" target="_blank" title="[http://wspaper.org/article/10392]로 이동합니다.">노동자들의 대규모 파업이 벌어졌다. 오클랜드에서다.</a> 1%에 맞선 99% 시위의 직접적 영향을 받은 사건이다. 학생과 노동자들은 전 도시에 파업을 호소했다고 한다.
 
-단연, 이 모든 것들을 상징하는 것은 1%에 맞선 99%를 표방하며 시작한 <a href="http://www.wspaper.org/article/10388" target="_blank" title="[http://www.wspaper.org/article/10388]로 이동합니다.">Occupy WallStreet 운동</a>이다. 야수의 심장에서 저항이 시작됐고 <a href="http://www.wspaper.org/article/10315" target="_blank" title="[http://www.wspaper.org/article/10315]로 이동합니다.">미국 노동계급이 긴 잠에서 깨어나고 있다.</a> (약간 과장 섞어 말하자면) 세계가 미국의 노동계급에 공명하고 있다.
+단연, 이 모든 것들을 상징하는 것은 1%에 맞선 99%를 표방하며 시작한 <a href="http://wspaper.org/article/10388" target="_blank" title="[http://wspaper.org/article/10388]로 이동합니다.">Occupy WallStreet 운동</a>이다. 야수의 심장에서 저항이 시작됐고 <a href="http://wspaper.org/article/10315" target="_blank" title="[http://wspaper.org/article/10315]로 이동합니다.">미국 노동계급이 긴 잠에서 깨어나고 있다.</a> (약간 과장 섞어 말하자면) 세계가 미국의 노동계급에 공명하고 있다.
 
 한국은 세계의 일부다. (당연하지;;) 한국 노동계급 역시 오큐파이 월스트리트 운동을 지켜 보고 있다. 우리도 뭔가 할 수 있다는 뜨거움을 느낄 가능성은 얼마든지 있다.
 

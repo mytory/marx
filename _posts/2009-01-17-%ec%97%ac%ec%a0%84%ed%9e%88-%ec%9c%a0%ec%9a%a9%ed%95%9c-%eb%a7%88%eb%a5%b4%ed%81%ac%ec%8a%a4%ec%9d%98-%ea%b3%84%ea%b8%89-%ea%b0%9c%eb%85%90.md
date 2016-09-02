@@ -98,7 +98,7 @@ tags:
 > 셋째, 그런 충돌의 원인은 시기심이나 라이프스타일의 차이, 심지어 단순한 불평등이 아니라 착취적 생산관계, 즉 한 집단이 다른 집단의 노동에서 잉여(이윤)를 체계적으로 수취하는 것 때문이다. 계급투쟁은 생산과정 상의 착취에서 비롯하고, 거기에서 사회생활의 모든 영역으로 확대된다.
 > 
 > <p class="rep">
->   <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20061009T000000%2b0900:c15-marxism:1U" target="_blank">계급이란 무엇인가?(존 몰리뉴, 〈맞불〉 15호, 2006.10.14)</a>
+>   <a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20061009T000000%2b0900:c15-marxism:1U" target="_blank">계급이란 무엇인가?(존 몰리뉴, 〈맞불〉 15호, 2006.10.14)</a>
 > </p>
 
 몰리뉴의 위 글은 강추다. 맑스주의 계급 개념에 대한 가장 정교한 글이다. 시간이 있다면 보기 바란다.
@@ -143,14 +143,14 @@ tags:
 
 <div class="gray-textbox">
   <p class="link">
-    <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20061009T000000%2b0900:c15-marxism:1U" target="_blank">실천가들을 위한 맑스주의 입문 8 ─ 계급이란 무엇인가?</a>(존 몰리뉴)
+    <a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20061009T000000%2b0900:c15-marxism:1U" target="_blank">실천가들을 위한 맑스주의 입문 8 ─ 계급이란 무엇인가?</a>(존 몰리뉴)
   </p>
   
   <p class="link">
-    <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20070803T215943%2b0900:jabon:1U" target="_blank">서평 《자본주의 역사 바로 알기》, 리오 휴버먼, 책벌레 ─ 만인을 위한 자본주의 역사</a>
+    <a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20070803T215943%2b0900:jabon:1U" target="_blank">서평 《자본주의 역사 바로 알기》, 리오 휴버먼, 책벌레 ─ 만인을 위한 자본주의 역사</a>
   </p>
   
   <p class="link">
-    <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2B0900:d9-149:1U" target="_balnk">마르크스에 대한 왜곡을 걷어 낸다</a>(알렉스 캘리니코스)의 신화1 부분
+    <a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2B0900:d9-149:1U" target="_balnk">마르크스에 대한 왜곡을 걷어 낸다</a>(알렉스 캘리니코스)의 신화1 부분
   </p></p>
 </div>

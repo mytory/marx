@@ -21,7 +21,7 @@ tags:
 
 ## 레프트21에 나온 사례
 
-<a target="_blank" href="http://www.wspaper.org/article/6855">살인 진압으로 대형참극이 시작되고 있다! 즉각 모두 평택으로!</a> 라는 한 기사에만 나온 사례들이다.
+<a target="_blank" href="http://wspaper.org/article/6855">살인 진압으로 대형참극이 시작되고 있다! 즉각 모두 평택으로!</a> 라는 한 기사에만 나온 사례들이다.
 
 SBS 등 방송카메라 기자는 포위돼 카메라 파손 위협을 받으며 발길질을 당했다. 
 

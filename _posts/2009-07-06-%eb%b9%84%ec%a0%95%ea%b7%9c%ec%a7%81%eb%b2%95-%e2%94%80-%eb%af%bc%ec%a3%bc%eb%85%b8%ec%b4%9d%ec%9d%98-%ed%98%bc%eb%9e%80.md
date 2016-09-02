@@ -27,7 +27,7 @@ tags:
 
 물론, 무기계약직이 조금이라도 더&nbsp;안심이야 되겠지만 그래도 이건 아니다. 마치 강도가 재산을 다 뺏은 다음 20%만 돌려줄 테니 쇼부보자고 하는데, 좋다고 하는 것이나 다름없지 않은가.
 
-이와 관련해 볼 만한 기사가 있어서 소개한다. 내가 즐겨 보는 신문, 〈레프트21〉에 오늘 올라온 온라인 기사다. 제목은 ‘<a href="http://www.wspaper.org/article/6756" target="_blank" title="[http://www.wspaper.org/article/6756]로 이동합니다.">비정규직법 논란 &#8211; 악법 적용의 유예도 현행 악법의 시행도 대안이 아니다</a>’. 필자는 김문성 객원기자다. 일부 인용한 뒤 링크한다. 처음부터 보실 분들은 그냥 위의 링크를 클릭하라.
+이와 관련해 볼 만한 기사가 있어서 소개한다. 내가 즐겨 보는 신문, 〈레프트21〉에 오늘 올라온 온라인 기사다. 제목은 ‘<a href="http://wspaper.org/article/6756" target="_blank" title="[http://wspaper.org/article/6756]로 이동합니다.">비정규직법 논란 &#8211; 악법 적용의 유예도 현행 악법의 시행도 대안이 아니다</a>’. 필자는 김문성 객원기자다. 일부 인용한 뒤 링크한다. 처음부터 보실 분들은 그냥 위의 링크를 클릭하라.
 
 참, 관련 강연도 소개한다 : <span id="tx_left_marker"></span><a href="http://blog.marxism.or.kr/11" target="_blank" title="[http://blog.marxism.or.kr/11]로 이동합니다.">맑시즘2009 &#8211;&nbsp;</a><a href="http://blog.marxism.or.kr/11" target="_blank" title="[http://blog.marxism.or.kr/11]로 이동합니다.">비정규법, 정규직 전환이 유일한 해법(하종강 한울노동문제연구소 소장)</a><span id="tx_right_marker"></span>
 
@@ -69,6 +69,6 @@ tags:
   </p>
   
   <p class="link">
-    <a href="http://www.wspaper.org/article/6756" target="_blank" title="[http://www.wspaper.org/article/6756]로 이동합니다.">‘비정규직법 논란 &#8211; 악법 적용의 유예도 현행 악법의 시행도 대안이 아니다’ 전문 보기</a>
+    <a href="http://wspaper.org/article/6756" target="_blank" title="[http://wspaper.org/article/6756]로 이동합니다.">‘비정규직법 논란 &#8211; 악법 적용의 유예도 현행 악법의 시행도 대안이 아니다’ 전문 보기</a>
   </p>
 </div>

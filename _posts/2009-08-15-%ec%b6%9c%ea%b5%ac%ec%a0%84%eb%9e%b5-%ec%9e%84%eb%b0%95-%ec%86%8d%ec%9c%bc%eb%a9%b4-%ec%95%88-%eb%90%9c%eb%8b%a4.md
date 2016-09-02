@@ -27,7 +27,7 @@ tags:
 
 ## 경기 낙관론은 틀렸다<figure style="width: 550px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile24.uf.1375BC0E4A86B3E8817438.jpg" width="550" height="277" alt="미국에서 상위 10퍼센트의 소득이 전체 소득에서 차지하는 비중  : 1917~2006 / 출처 : http://www.wspaper.org/article/5822" filename="cfile24.uf.1375BC0E4A86B3E8817438.jpg" filemime="" /><figcaption class="wp-caption-text">미국에서 상위 10퍼센트의 소득이 전체 소득에서 차지하는 비중 : 1917~2006 / 출처 : http://www.wspaper.org/article/5822 - 정성진 교수는 이런 지표를 보면 미국 경제가 위기에 있다는 것을 알 수 있다고 말한다.</figcaption></figure> 
+<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile24.uf.1375BC0E4A86B3E8817438.jpg" width="550" height="277" alt="미국에서 상위 10퍼센트의 소득이 전체 소득에서 차지하는 비중  : 1917~2006 / 출처 : http://wspaper.org/article/5822" filename="cfile24.uf.1375BC0E4A86B3E8817438.jpg" filemime="" /><figcaption class="wp-caption-text">미국에서 상위 10퍼센트의 소득이 전체 소득에서 차지하는 비중 : 1917~2006 / 출처 : http://wspaper.org/article/5822 - 정성진 교수는 이런 지표를 보면 미국 경제가 위기에 있다는 것을 알 수 있다고 말한다.</figcaption></figure> 
 
 여기저기서 주워들은 말로 긴 글은 못 쓰겠고, 몇 가지 근거만 대면서 아직 경기 회복을 기대하지 말라고 강조하고 싶다.
 
@@ -36,7 +36,7 @@ tags:
 > CNN에서 요즘 방영하는 경제 프로 제목이 &lt;경기 회복으로 가는 길&gt;입니다. 오늘 아침 프로에서는 남한의 경제 여건이 좋아지기 시작했다는 보도가 나왔습니다. 그러나 좀더 수준 있는 경제 전문가들은 위기에서 어떻게 탈출할지, 탈출한다면 언제쯤 할 수 있을지 모르겠다고 솔직히 인정합니다. 그들은 은행에 쏟아부은 수조 달러가 은행 시스템을 정상화하기에 충분한 돈인지도 잘 모릅니다. 하지만 이들은 그 많은 돈을 결국은 어딘가에서 회수해야 하며, 다른 대안이 없는 한 평범한 노동자들을 더욱 쥐어짜서 회수할 수밖에 없다는 것을 잘 알고 있습니다.
 > 
 > <p style="text-align: right; ">
->   크리스 하먼, <a href="http://www.wspaper.org/article/6868">자본주의는 왜 고장났고, 대안은 무엇인가?</a>, &lt;레프트21&gt;,&nbsp;2009-08-13
+>   크리스 하먼, <a href="http://wspaper.org/article/6868">자본주의는 왜 고장났고, 대안은 무엇인가?</a>, &lt;레프트21&gt;,&nbsp;2009-08-13
 > </p>
 
 경상대의 이정구 교수는 이렇게 말한다.
@@ -46,7 +46,7 @@ tags:
 > 주택시장이 회복하기는커녕 2차 부동산 위기 가능성까지 제기되고 있다. 그 진원지는 바로 상업용 부동산이다. 상업용 부동산은 총 6조 7천억 달러 규모로 미국 국내총생산의 13퍼센트를 차지하고 있다. 호텔과 상가 등을 담보로 한 대출에서 연체와 채무불이행이 늘고 있고 이 때문에 금융권의 차압이 급증하고 있다.
 > 
 > <p style="text-align: right; ">
->   이정구, <a href="http://www.wspaper.org/article/6829">경기회복론의 신화와 진실</a>, &lt;레프트21&gt;,&nbsp;2009-07-31
+>   이정구, <a href="http://wspaper.org/article/6829">경기회복론의 신화와 진실</a>, &lt;레프트21&gt;,&nbsp;2009-07-31
 > </p>
 
 IMF는 한국의 경제 성장률을 -3%에서 -1.5%로 상향조정했다고 한다. 상향조정이지만, 이게 경기회복의 신호는 아니다.
