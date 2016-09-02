@@ -32,7 +32,7 @@ tags:
 &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-
 
 <p style="text-align: right; ">
-  <a href="http://www.left21.com/3_search.php?keyword=%EC%A1%B4%20%EB%AA%B0%EB%A6%AC%EB%89%B4" target="_blank" title="[http://www.left21.com/3_search.php?keyword=%EC%A1%B4%20%EB%AA%B0%EB%A6%AC%EB%89%B4]로 이동합니다.">존 몰리뉴</a>
+  <a href="http://www.wspaper.org/3_search.php?keyword=%EC%A1%B4%20%EB%AA%B0%EB%A6%AC%EB%89%B4" target="_blank" title="[http://www.wspaper.org/3_search.php?keyword=%EC%A1%B4%20%EB%AA%B0%EB%A6%AC%EB%89%B4]로 이동합니다.">존 몰리뉴</a>
 </p>
 
 미켈란젤로는 누구나 아는 명사다. 미켈란젤로의 명성은 아리스토텔레스, 세익스피어, 괴테, 모차르트, 다빈치와 함께

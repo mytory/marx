@@ -66,7 +66,7 @@ tags:
 > 이화여대 미화노동자들은 아침 6시에 출근해 하루 종일 거대한 건물을 청소하고, 담당 건물 외에도 “서비스 차원”으로 외곽청소(잡초 뽑기, 낙엽 쓸기, 눈 치우기 등)까지 한다. 학교에서 하루 10시간 이상을 보내지만(종일반 기준) 기본적인 식대도 나오지 않고, “불이 날 위험이 있다”는 이유로 전기밥통조차 사용하지 못하게 해 “쥐가 다닐 것 같은 휴게실에서 찬밥 도시락을” 먹는다. 일방적인 업무 전환배치와 반복되는 재계약으로 스트레스를 받고 있지만, 이렇게 일해서 받는 돈은 한 달에 고작 78만 원이다. 
 > 
 > <p style="text-align: right; ">
->   성지현(이화여대 학생), <a href="http://www.left21.com/article/7569" target="_blank" title="[http://www.left21.com/article/7569]로 이동합니다.">노조를 만들어 권리 찾기에 나선 이화여대 미화노동자들</a>,<br /> 레프트21, 2010.1.30
+>   성지현(이화여대 학생), <a href="http://www.wspaper.org/article/7569" target="_blank" title="[http://www.wspaper.org/article/7569]로 이동합니다.">노조를 만들어 권리 찾기에 나선 이화여대 미화노동자들</a>,<br /> 레프트21, 2010.1.30
 > </p>
 
 위와 같은 노동조건에서 일한다는 거, 해보지 않은 사람들은 말하기 어렵다. (물론, 우리 사회 노동인구의 50% 이상이 위와 같은 혹은 유사한 상황에서 일한다는 점을 밝힌다. 아마 그런 조건에서 일하는 사람들은 내 블로그 글을 읽을 기회도 훨씬 적을 것이다.)
@@ -89,7 +89,7 @@ tags:
 
 하지만, 자본주의는 위기를 겪는다. 그리고 위기 때마다 노동자들의 생활수준을 공격한다. 간단하다. 돈을 뽑아먹을 수 있는 가장 간단한 수단이 노동자들의 돈을 뺏는 것이기 때문이다.
 
-이 분석은 현실에 기반한 것이다. 한국에서 생생한 사례가 펼쳐지고 있다. <a href="http://left21.com/" target="_blank" title="[http://left21.com/]로 이동합니다.">레프트21</a> 기사를 보자.&nbsp;
+이 분석은 현실에 기반한 것이다. 한국에서 생생한 사례가 펼쳐지고 있다. <a href="http://wspaper.org/" target="_blank" title="[http://wspaper.org/]로 이동합니다.">레프트21</a> 기사를 보자.&nbsp;
 
 > 경제가 회복하는 듯 보이자, 이명박 정부와 보수 언론들은 국가 부채 문제를 해결해야 한다고 한목소리를 내고 있다. 특히 이명박 정부 들어 정부 부채보다 공기업 부채가 급증하자 이를 해결해야 한다는 목소리가 높다. 
 > 
@@ -102,12 +102,12 @@ tags:
 > 세계 각국 정부는 기업을 지원하느라 급증한 공공부채의 책임을 공무원 임금 삭감, 교육ㆍ복지 예산 삭감, 간접세 인상 등으로 노동자ㆍ서민에게 전가하고 있다.
 > 
 > <p style="text-align: right; ">
->   강동훈,&nbsp;<span id="tx_left_marker"></span><a href="http://www.left21.com/article/8086" target="_blank" title="[http://www.left21.com/article/8086]로 이동합니다.">한국 경제 &#8211;&nbsp;</a><a href="http://www.left21.com/article/8086" target="_blank" title="[http://www.left21.com/article/8086]로 이동합니다.">회복 뒤에 도사린 불안정</a><span id="tx_right_marker"></span>, 레프트21,&nbsp;2010-05-08
+>   강동훈,&nbsp;<span id="tx_left_marker"></span><a href="http://www.wspaper.org/article/8086" target="_blank" title="[http://www.wspaper.org/article/8086]로 이동합니다.">한국 경제 &#8211;&nbsp;</a><a href="http://www.wspaper.org/article/8086" target="_blank" title="[http://www.wspaper.org/article/8086]로 이동합니다.">회복 뒤에 도사린 불안정</a><span id="tx_right_marker"></span>, 레프트21,&nbsp;2010-05-08
 > </p>
 
 구체적인 예가 하도 많아서 다 인용할 수가 없다. 여튼간에, 그래서 경제 위기는 저항을 낳을 가능성이 크다. 
 
-그리고 지금 그걸 <a href="http://www.left21.com/6_issue.php?issue_no=69" target="_blank" title="[http://www.left21.com/6_issue.php?issue_no=69]로 이동합니다.">가장 잘 보여 주고 있는 사례가 그리스 노동자들</a>이다. 그리스 노동자들은 올해 들어서만 벌써 7차례의 하루 총파업[footnote]한국 민주노총이 하는 식의 ‘가짜’ 총파업이 아니라, 진짜 총파업 하면 버스 한 대, 지하철 한 대도 안 다니는 진정한 의미의 총파업[/footnote]을 벌였다.
+그리고 지금 그걸 <a href="http://www.wspaper.org/6_issue.php?issue_no=69" target="_blank" title="[http://www.wspaper.org/6_issue.php?issue_no=69]로 이동합니다.">가장 잘 보여 주고 있는 사례가 그리스 노동자들</a>이다. 그리스 노동자들은 올해 들어서만 벌써 7차례의 하루 총파업[footnote]한국 민주노총이 하는 식의 ‘가짜’ 총파업이 아니라, 진짜 총파업 하면 버스 한 대, 지하철 한 대도 안 다니는 진정한 의미의 총파업[/footnote]을 벌였다.
 
 ## 총파업 &#8211; 회사가 아니라 국가
 
@@ -125,7 +125,7 @@ IMF가 왔고, 대학들도 긴축을 해야 했다. 대학 당국들은 고민�
 
 국가가 노동자들에게 전면전을 선포하는 때, 그런 때가 있다.
 
-이 때 노동자들이 (외딴 섬의 유적지 관리인까지 포함한[footnote]http://www.left21.com/article/8122[/footnote]) 전국적 총파업을 벌이는 것은 ‘공격’인가 ‘정당방위’인가? 이것은 개인에게나 사회에나 심각한 물음이다.
+이 때 노동자들이 (외딴 섬의 유적지 관리인까지 포함한[footnote]http://www.wspaper.org/article/8122[/footnote]) 전국적 총파업을 벌이는 것은 ‘공격’인가 ‘정당방위’인가? 이것은 개인에게나 사회에나 심각한 물음이다.
 
 사회주의자들은 이를&nbsp;**정당방위**라고 말한다.<figure style="width: 540px" class="wp-caption aligncenter">
 

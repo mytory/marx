@@ -27,7 +27,7 @@ tags:
 > &#8211; ‘자발적 출근자’들에게 쌍용차 사측이 보낸 문자
 > 
 > <p class="rep">
->   <a href="http://www.left21.com/article/6665" target="_blank" title="새 창에서 기사를 엽니다">세상은 요지경, 레프트21 8호, 2009-06-18</a>
+>   <a href="http://www.wspaper.org/article/6665" target="_blank" title="새 창에서 기사를 엽니다">세상은 요지경, 레프트21 8호, 2009-06-18</a>
 > </p>
 
 노회찬 의원도 이렇게 말했다.
@@ -35,7 +35,7 @@ tags:
 > 노회찬 대표는 “떡볶이, 오뎅을 먹으며 서민 행보 한다더니 하루 만에 용역깡패를 앞세워 경찰 병력을 투입했다”고 규탄했다. 이어 “언론은 노노 갈등이라고 호도하면 안 된다. 사측이 돈 주고 고용한 용역깡패가 침탈한 것이다. 노노 갈등이 아니다”고 강조했다.
 > 
 > <p class="rep">
->   <a href="http://www.left21.com/article/6705" target="_blank" title="새 창에서 기사를 엽니다">김문성 객원기자, “국민 여러분 쌍용차로 와 주십시오”, 레프트21, 2009-06-27</a>
+>   <a href="http://www.wspaper.org/article/6705" target="_blank" title="새 창에서 기사를 엽니다">김문성 객원기자, “국민 여러분 쌍용차로 와 주십시오”, 레프트21, 2009-06-27</a>
 > </p>
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile22.uf.1234591A4A47742DDCC310.jpg" class="aligncenter" width="550" height="371" alt="" filename="27121900_DSC04868(1).jpg" filemime="image/jpeg" />

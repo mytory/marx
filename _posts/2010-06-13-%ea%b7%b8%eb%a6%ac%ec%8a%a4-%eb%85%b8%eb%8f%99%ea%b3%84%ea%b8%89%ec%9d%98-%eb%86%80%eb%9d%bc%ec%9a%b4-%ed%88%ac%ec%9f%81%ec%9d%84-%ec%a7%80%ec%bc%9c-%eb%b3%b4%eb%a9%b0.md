@@ -23,7 +23,7 @@ tags:
   - 총파업
   - 파업
 ---
-<figure style="width: 540px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile29.uf.114FD9104C150DABD2164B.jpg" width="540" height="252" alt="그리스 시위 모습" filename="cfile29.uf.114FD9104C150DABD2164B.jpg" filemime="" /><figcaption class="wp-caption-text">△총파업이 반자본주의 사상을 확산시키고 있다. 출처 : http://left21.com/article/8205</figcaption></figure>놀라운 일이 벌어졌다. 그리스다. 유로존 금융 위기의 새로운 진원지로 꼽히는 그리스다. 총파업이 수개월째 반복됐고, 사람들은 자본주의 자체에 의문을 제기하고 있다. 유럽에서 말이다. 좀 과장해서 말하면 **마치 혁명 전야같다.**(물론 혁명 전야는 아니다. 당연히.)
+<figure style="width: 540px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile29.uf.114FD9104C150DABD2164B.jpg" width="540" height="252" alt="그리스 시위 모습" filename="cfile29.uf.114FD9104C150DABD2164B.jpg" filemime="" /><figcaption class="wp-caption-text">△총파업이 반자본주의 사상을 확산시키고 있다. 출처 : http://wspaper.org/article/8205</figcaption></figure>놀라운 일이 벌어졌다. 그리스다. 유로존 금융 위기의 새로운 진원지로 꼽히는 그리스다. 총파업이 수개월째 반복됐고, 사람들은 자본주의 자체에 의문을 제기하고 있다. 유럽에서 말이다. 좀 과장해서 말하면 **마치 혁명 전야같다.**(물론 혁명 전야는 아니다. 당연히.)
 
 2008-2009년 경제 위기로 아이슬란드가 파산했고, 때문에 정권이 교체됐다는 이야기는 들었다. 그러나 그리고 끝이었다. 그곳 새로운 정권은 다시 노동자들을 옥죌 가능성이 클 테다. 노동자들은 자신들의 손으로 뽑은, 자신들을 대변할 것이라고 생각한 정권이 왜 자신들을 공격하는지 혼란스러워할 것이고, 나름대로 실망할 것이다. 누군가는 어쩔 수 없다고 생각할지 모른다.
 
@@ -66,7 +66,7 @@ tags:
 > 2002년에 아르헨티나 정부는 결국 IMF에게 빌린 돈을 갚지 않았다. IMF 차관의 많은 부분이 사실상 탕감됐다. 대중 운동이 혁명적 상황을 조성한 끝에 상당한 승리를 얻어낸 것이다. 그러나 이 운동은 권력을 장악하고 체제를 전복하는 데까지는 나아가지 못했다.
 > 
 > <p style="text-align: right; ">
->   <a href="http://left21.com/article/8159" target="_blank" title="[http://left21.com/article/8159]로 이동합니다.">그리스 노동자들이 전투에서 이기려면</a>
+>   <a href="http://wspaper.org/article/8159" target="_blank" title="[http://wspaper.org/article/8159]로 이동합니다.">그리스 노동자들이 전투에서 이기려면</a>
 > </p>
 
 그리스 노동자들이 &#8216;긴축 정책&#8217;을 받아들이지 않는다면 국가 파산을 면치 못할 것이라고들 경고를 퍼부었다. 그러나 결론은? 결국 구제금융을 지원하는 것이었다. 물론 이게 해결책이 되진 않을 것이다. 아직 위기는 여러 단계를 남겨 두고 있을 것 같다.
@@ -83,15 +83,15 @@ tags:
 
 하나 덧붙이자면, 아래 링크에서 그리스 소식들을 자세하게 알 수 있다. 다른 언론들과 달리 아래로부터의 관점에서 철저하게 분석한 기사들이다.
 
-<a href="http://left21.com/6_issue.php?issue_no=69" target="_blank" title="[http://left21.com/6_issue.php?issue_no=69]로 이동합니다.">집중이슈 &#8211; 그리스 노동자 투쟁</a>
+<a href="http://wspaper.org/6_issue.php?issue_no=69" target="_blank" title="[http://wspaper.org/6_issue.php?issue_no=69]로 이동합니다.">집중이슈 &#8211; 그리스 노동자 투쟁</a>
 
-그리고 이 글은 알렉스 캘리니코스가 유럽 경제를 분석한 것인데 명쾌하다 :&nbsp;<a href="http://left21.com/article/8207" target="_blank" title="[http://left21.com/article/8207]로 이동합니다.">국가 부채 위기와 유로존의 구조적 약점</a> 
+그리고 이 글은 알렉스 캘리니코스가 유럽 경제를 분석한 것인데 명쾌하다 :&nbsp;<a href="http://wspaper.org/article/8207" target="_blank" title="[http://wspaper.org/article/8207]로 이동합니다.">국가 부채 위기와 유로존의 구조적 약점</a> 
 
 ## 그리스 투쟁의 생생한 소식을 듣고 싶다면<figure style="width: 92px" class="wp-caption alignleft">
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile1.uf.1335A9274C151319E77BF7.jpg" width="92" height="131" alt="파노스 가르가나스 얼굴" filename="cfile1.uf.1335A9274C151319E77BF7.jpg" filemime="" /><figcaption class="wp-caption-text">△파노스 가르가나스. 그리스 사회주의노동자당 창립자다.</figcaption></figure> 
 
-마지막으로&#8230; 그리스 투쟁 소식을 생생하게 전해 줄, <a href="http://www.sek-ist.gr/" target="_blank" title="[http://www.sek-ist.gr/]로 이동합니다.">그리스 사회주의노동자당</a>(<a href="http://translate.google.co.kr/translate?hl=ko&sl=auto&tl=en&u=http://www.sek-ist.gr/" target="_blank" title="[http://translate.google.co.kr/translate?hl=ko&sl=auto&tl=en&u=http://www.sek-ist.gr/]로 이동합니다.">영어번역 페이지</a>) 활동가가 7월 23일에 한국에 와서 연설한다. 이름은 파노스 가르가나스,&nbsp;<a href="http://left21.com/3_search.php?keyword=%ED%8C%8C%EB%85%B8%EC%8A%A4+%EA%B0%80%EB%A5%B4%EA%B0%80%EB%82%98%EC%8A%A4" target="_blank" title="[http://left21.com/3_search.php?keyword=%ED%8C%8C%EB%85%B8%EC%8A%A4+%EA%B0%80%EB%A5%B4%EA%B0%80%EB%82%98%EC%8A%A4]로 이동합니다.">&lt;레프트21&gt;에 그리스 관련한 글</a>도 많이 쓴 사람이다. 7월에 있는&nbsp;**<a href="http://marxism.or.kr/2010/" target="_blank" title="[http://marxism.or.kr/2010/]로 이동합니다.">한국 최대 규모의 진보 포럼 맑시즘2010</a>**에서 연설한다.&nbsp;
+마지막으로&#8230; 그리스 투쟁 소식을 생생하게 전해 줄, <a href="http://www.sek-ist.gr/" target="_blank" title="[http://www.sek-ist.gr/]로 이동합니다.">그리스 사회주의노동자당</a>(<a href="http://translate.google.co.kr/translate?hl=ko&sl=auto&tl=en&u=http://www.sek-ist.gr/" target="_blank" title="[http://translate.google.co.kr/translate?hl=ko&sl=auto&tl=en&u=http://www.sek-ist.gr/]로 이동합니다.">영어번역 페이지</a>) 활동가가 7월 23일에 한국에 와서 연설한다. 이름은 파노스 가르가나스,&nbsp;<a href="http://wspaper.org/3_search.php?keyword=%ED%8C%8C%EB%85%B8%EC%8A%A4+%EA%B0%80%EB%A5%B4%EA%B0%80%EB%82%98%EC%8A%A4" target="_blank" title="[http://wspaper.org/3_search.php?keyword=%ED%8C%8C%EB%85%B8%EC%8A%A4+%EA%B0%80%EB%A5%B4%EA%B0%80%EB%82%98%EC%8A%A4]로 이동합니다.">&lt;레프트21&gt;에 그리스 관련한 글</a>도 많이 쓴 사람이다. 7월에 있는&nbsp;**<a href="http://marxism.or.kr/2010/" target="_blank" title="[http://marxism.or.kr/2010/]로 이동합니다.">한국 최대 규모의 진보 포럼 맑시즘2010</a>**에서 연설한다.&nbsp;
 
 **<span style="font-size: 18pt; ">그리스 소식이 궁금한 사람은 <a href="http://marxism.or.kr/2010/" target="_blank" title="[http://marxism.or.kr/2010/]로 이동합니다.">맑시즘2010</a>에서 <a href="http://marxism.or.kr/2010/speaker.php" target="_blank" title="[http://marxism.or.kr/2010/speaker.php]로 이동합니다.">파노스 가르가나스의 연설</a>을 듣기 바란다.</span>**
 

@@ -77,7 +77,7 @@ tags:
 > 부동산 값 폭등 속에 집 없는 서민들의 내집 마련 꿈은 그야말로 꿈이 됐다. 개발과 주택 공급 확대 속에서 건설업자와 투기꾼들은 배를 불렸지만, 무주택 가구의 비율은 1989년 48퍼센트에서 2007년 45퍼센트로 제자리걸음이다.
 > 
 > <p class="rep">
->   <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20080430T170243%2B0900:c85-graph:1U" target="_blank" title="바로 가기">한규한, 강부자 ‘천국’과 무주택 서민 ‘지옥’은 어떻게 만들어졌는가, 〈맞불〉, 2008.4.30</a>
+>   <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080430T170243%2B0900:c85-graph:1U" target="_blank" title="바로 가기">한규한, 강부자 ‘천국’과 무주택 서민 ‘지옥’은 어떻게 만들어졌는가, 〈맞불〉, 2008.4.30</a>
 > </p>
 
 일단 리카르도님이 말한 ‘대부분의 서민’에서 전체 국민의 45%는 제외된다. 나머지 55%가 모두 집값 상승에서 큰 폭의 이득을 본 것이라해도 ‘대부분’은 아닌 것으로 보이는데, 과연 나머지 55%가 집값 상승으로 “집단 신분상승”을 했을까?
@@ -91,7 +91,7 @@ tags:
 > 2년 전 4.7퍼센트의 대출 금리로 1억 5천만 원을 빌린 사람의 경우, 금리 인상으로 대출 금리가 6.26퍼센트로 늘어나 이자 부담만 연간 2백34만 원이 늘어나기도 했다. 늘어난 이자 부담은 소비를 위축시켜 내수 부진도 심화시킬 것이다.
 > 
 > <p class="rep">
->   <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20070815T103037%2B0900:c54-mogiji02:1U" target="_blank" title="기사 보기">강동훈, 서브프라임 모기지 위기와 한국 경제, 〈맞불〉, 2007.8.18</a>
+>   <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20070815T103037%2B0900:c54-mogiji02:1U" target="_blank" title="기사 보기">강동훈, 서브프라임 모기지 위기와 한국 경제, 〈맞불〉, 2007.8.18</a>
 > </p>
 
 미국발 서브프라임 모기지(낮은 신용에도 주택담보대출을 해 주는 제도) 위기 탓에 은행들이 바짝 긴장했다.(서브프라임 모기지 위기의 원인과 효과에 대해서는 내 글 <a href="http://spar2003.tistory.com/4" target="_blank" title="글 보기">종부세 폐지의 속내 ─ 집값 거품 유지를 통한 ‘부자’부양</a>을 참고하라.) 돈이 안 돌고, 금리는 올랐다. 이명박도 금리를 올렸다. 2008년 7월의 상황을 보자.
@@ -99,7 +99,7 @@ tags:
 > 물가 폭등에 동반해 금리도 가파르게 치솟고 있다. 가계 대출 금리가 7퍼센트대로, 주택담보대출 금리는 무려 9.1퍼센트까지 올랐다.
 > 
 > <p class="rep">
->   <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20080717T055508%2b0900:cor01-economy2:1U" target="_blank" title="기사 보기">이상우, 금리 인상은 서민 경제 두 번 죽이기다, 〈맞불〉, 2008.7.21</a>
+>   <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080717T055508%2b0900:cor01-economy2:1U" target="_blank" title="기사 보기">이상우, 금리 인상은 서민 경제 두 번 죽이기다, 〈맞불〉, 2008.7.21</a>
 > </p>
 
 저금리 시대가 막을 내렸다. 너도나도 주택을 담보로 돈을 빌릴 수 있기는커녕, 빌린 돈을 갚으라 허덕이는 시대가 됐다.
@@ -111,7 +111,7 @@ tags:
 > 한국은행 발표를 보면 올해 3월 말까지 국민 1인당 부채가 무려 1천5백58만 원에 이른다. 고금리는 집을 사기 위해 대출을 받거나 부족한 생활비를 메우기 위해 돈을 빌린 서민 가계를 빚더미로 내몰 것이다.
 > 
 > <p class="rep">
->   <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20080717T055508%2b0900:cor01-economy2:1U" target="_blank" title="기사 보기">이상우, 금리 인상은 서민 경제 두 번 죽이기다, 〈맞불〉, 2008.7.21</a>
+>   <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080717T055508%2b0900:cor01-economy2:1U" target="_blank" title="기사 보기">이상우, 금리 인상은 서민 경제 두 번 죽이기다, 〈맞불〉, 2008.7.21</a>
 > </p>
 
 > 한국은행의 기준금리 인하에도 불구 은행들의 대출금리 내림세는 이에 못미친 것으로 나타났다. …
@@ -131,7 +131,7 @@ tags:
 > 1996년과 2000년의 가구 소비 실태를 조사한 보건사회연구원의 연구를 보면 하위 1퍼센트의 소득이 28.9퍼센트 하락한 반면, 상위 1퍼센트의 소득은 무려 77.5퍼센트 증가했다.
 > 
 > <p class="rep">
->   <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2B0900:d21-440:1U" target="_blank" title="기사 보기">한상원, 이윤 체제와 주택 문제, 격주간 〈다함께〉, 2003.12.13</a>
+>   <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2B0900:d21-440:1U" target="_blank" title="기사 보기">한상원, 이윤 체제와 주택 문제, 격주간 〈다함께〉, 2003.12.13</a>
 > </p>
 
 > 보수 우파 신문인 〈조선일보〉가 실시한 여론조사에 따르면, 90퍼센트 이상의 사람들이 빈부격차가 커졌다고 생각한다. …
@@ -139,7 +139,7 @@ tags:
 > 실제로 통계청 조사에 따르면, 1979년 이래로 빈부격차가 가장 심화됐다. … 1인당 최저 생계비(월 23만 원) 이하로 살아가는 빈곤 인구수가 1천만 명을 넘어 빈곤율이 18퍼센트에 이른다.
 > 
 > <p class="rep">
->   <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20070803T215047%2B0900:woori:1U" target="_blank" title="기사 보기">김인식, 우리 사회는 왜 이토록 불평등할까?, 〈열린 주장과 대안〉, 2000.5.1</a>
+>   <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20070803T215047%2B0900:woori:1U" target="_blank" title="기사 보기">김인식, 우리 사회는 왜 이토록 불평등할까?, 〈열린 주장과 대안〉, 2000.5.1</a>
 > </p>
 
 이게 김대중 정부 때의 진실이다. 양극화가 심화했다. 노무현 정부 때를 보자.
@@ -180,7 +180,7 @@ tags:
 
 ## 결론
 
-사실 마르크스주의 현실 분석은 간단하다. 자본주의는 정신적ㆍ물질적으로 위기를 향해 치닫게 돼있고(<a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20061219T202546%2B0900:c25-marxism:1U" target="_blank" title="존 몰리뉴, 소외의 근원, 〈맞불〉, 2006.12.23">소외</a>, <a href="" target="_blank" title="존 몰리뉴, 자본주의의 모순, 〈맞불〉, 2007.1.20">이윤율 저하 경향</a>), 때문에 계급 갈등이 필연적으로 발생한다는 것이다.(<a href="http://www.resistcandle.com/0_view.php?urn=urn%3Anewsml%3Acounterfire.or.kr%3A20081002T074000%2B0900%3Acor07-class%3A1U" target="_blank" title="존 리즈, 불황과 계급투쟁, 〈저항의 촛불〉, 2008.10.6">계급 투쟁</a>) 그리고 이 계급 갈등에서 피지배계급이 승리하느냐 지배계급이 승리하느냐는 사람들의 대응에 달려있다는 것이다.(<a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20050330T000000%2B0900:d52-1333:1U" target="_blank" title="크리스 하먼, 혁명의 성공은 조직에 달려 있다, 격주간 〈다함께〉, 2005.3.30">변혁인가 야만인가</a>)
+사실 마르크스주의 현실 분석은 간단하다. 자본주의는 정신적ㆍ물질적으로 위기를 향해 치닫게 돼있고(<a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20061219T202546%2B0900:c25-marxism:1U" target="_blank" title="존 몰리뉴, 소외의 근원, 〈맞불〉, 2006.12.23">소외</a>, <a href="" target="_blank" title="존 몰리뉴, 자본주의의 모순, 〈맞불〉, 2007.1.20">이윤율 저하 경향</a>), 때문에 계급 갈등이 필연적으로 발생한다는 것이다.(<a href="http://www.wspaper.org/0_view.php?urn=urn%3Anewsml%3Acounterfire.or.kr%3A20081002T074000%2B0900%3Acor07-class%3A1U" target="_blank" title="존 리즈, 불황과 계급투쟁, 〈저항의 촛불〉, 2008.10.6">계급 투쟁</a>) 그리고 이 계급 갈등에서 피지배계급이 승리하느냐 지배계급이 승리하느냐는 사람들의 대응에 달려있다는 것이다.(<a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20050330T000000%2B0900:d52-1333:1U" target="_blank" title="크리스 하먼, 혁명의 성공은 조직에 달려 있다, 격주간 〈다함께〉, 2005.3.30">변혁인가 야만인가</a>)
 
 리카르도님은 한 번 본 돈맛을 사람들이 잊지 못한다고 썼다. 내가 논증한 것을 보면 대체 그 “돈맛”을 누가 얼마나 봤는지도 의문이지만, 리카르도님의 주장을 수용한다고 해도 그게 현실의 고통을 무한히 감내하게 할지 의문이다.
 
@@ -200,9 +200,9 @@ tags:
 >   크리스 하먼, 《세계를 뒤흔든 1968》, 책갈피, 2004, pp17~18
 > </p>
 
-그러나 <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2B0900:d26-584:1U" target="_blank" title="이수현, 역자가 쓴 서평(세계를 뒤흔든 1968≫ 크리스 하먼, 책갈피), 격주간 〈다함께〉2004.3.13">1968년에 일어난 반란</a>은 이 주장을 현실로써 완전히 깨버렸다.
+그러나 <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2B0900:d26-584:1U" target="_blank" title="이수현, 역자가 쓴 서평(세계를 뒤흔든 1968≫ 크리스 하먼, 책갈피), 격주간 〈다함께〉2004.3.13">1968년에 일어난 반란</a>은 이 주장을 현실로써 완전히 깨버렸다.
 
-사실, 리카르도님이 2009년 1월에 이 글을 썼다는 것 자체가 아이러니다. 2008년, 21년만에 1백만 촛불이 거리로 뛰쳐나와 <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20080605T163215%2b0900:c90-demo:1U" target="_blank" title="최일붕, 현 촛불시위의 잠재력과 과제, 〈맞불〉, 2008.6.9">신자유주의 정책을 총체적으로 반대</a>하고, 실로 오랜만에 파업에 대한 대중적 지지가 감지되는 시점에 이런 비관적인 글을 쓸 수 있다는 것이 경이롭다.
+사실, 리카르도님이 2009년 1월에 이 글을 썼다는 것 자체가 아이러니다. 2008년, 21년만에 1백만 촛불이 거리로 뛰쳐나와 <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080605T163215%2b0900:c90-demo:1U" target="_blank" title="최일붕, 현 촛불시위의 잠재력과 과제, 〈맞불〉, 2008.6.9">신자유주의 정책을 총체적으로 반대</a>하고, 실로 오랜만에 파업에 대한 대중적 지지가 감지되는 시점에 이런 비관적인 글을 쓸 수 있다는 것이 경이롭다.
 
 사실, 처음에 트랙백이 달렸을 때 ‘비관주의가 흐르는 글이네’하고 그냥 넘겼었다. 그러나 지금 이명박은 막나가고 있고, 일부 사람들은 또 불안해 한다. 이런 상황에서는 한 마디 논평을 보태는 게 필요하겠다 싶었다. <a href="http://spar2003.tistory.com/79" target="_blank" title="김석기 사퇴로 안 된다. 이명박이 남아있다.">용산 참사와 이메일 지시로 이명박에 대한 분노가 폭발</a>할만한 시기 운동동 세력들이 이명박에 정면으로 도전하지 않고 실기한 것 같아 아쉽다.
 

@@ -21,9 +21,9 @@ tags:
 ---
 7월 30일부터 3일 간 진행된 끝장 교섭이 사측의 결렬 선언으로 끝났다. 내가 즐겨 보는 언론 &lt;레프트21&gt;에 신속하게 이 결렬을 평가한 온라인 기사가 올라왔으므로, 요약 정리한다.<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile22.uf.114621184A75A5464E2AA5.jpg" width="540" height="360" alt="점거 파업 중인 쌍용차 노동자들" filename="cfile22.uf.114621184A75A5464E2AA5.jpg" filemime="" /><figcaption class="wp-caption-text">출처 : 레프트21, http://www.left21.com/article/6830</figcaption></figure> 
+<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile22.uf.114621184A75A5464E2AA5.jpg" width="540" height="360" alt="점거 파업 중인 쌍용차 노동자들" filename="cfile22.uf.114621184A75A5464E2AA5.jpg" filemime="" /><figcaption class="wp-caption-text">출처 : 레프트21, http://www.wspaper.org/article/6830</figcaption></figure> 
 
-사실, 이런 글을 아무나 쓸 수 있는 것이 아니다. 쌍용차 투쟁에 깊숙이 들어가 취재를 해야 쓸 수 있는 글로, 주류 언론에서는 찾아볼 수 없는 글이다. 물론, 나도 이런 글을 쓸 수 없다. 현장에서 발로 뛴 사람만이 쓸 수 있는 기사의 요약본을 읽어 보라. 원문은 <a target="_blank" href="http://www.left21.com/article/6851">&#8216;쌍용차 사측의 협상 결렬 선언 ─ 지금 당장 연대 투쟁과 연대 파업이 조직돼야 한다!&#8217;</a>다.
+사실, 이런 글을 아무나 쓸 수 있는 것이 아니다. 쌍용차 투쟁에 깊숙이 들어가 취재를 해야 쓸 수 있는 글로, 주류 언론에서는 찾아볼 수 없는 글이다. 물론, 나도 이런 글을 쓸 수 없다. 현장에서 발로 뛴 사람만이 쓸 수 있는 기사의 요약본을 읽어 보라. 원문은 <a target="_blank" href="http://www.wspaper.org/article/6851">&#8216;쌍용차 사측의 협상 결렬 선언 ─ 지금 당장 연대 투쟁과 연대 파업이 조직돼야 한다!&#8217;</a>다.
 
 <div class="gray-textbox">
   <p>
@@ -151,4 +151,4 @@ tags:
   </p>
 </div>
 
-**&nbsp;원문 보기 :&nbsp;**<a target="_blank" href="http://www.left21.com/article/6851"><strong>&#8216;쌍용차 사측의 협상 결렬 선언 ─ 지금 당장 연대 투쟁과 연대 파업이 조직돼야 한다!&#8217;</strong></a>
+**&nbsp;원문 보기 :&nbsp;**<a target="_blank" href="http://www.wspaper.org/article/6851"><strong>&#8216;쌍용차 사측의 협상 결렬 선언 ─ 지금 당장 연대 투쟁과 연대 파업이 조직돼야 한다!&#8217;</strong></a>

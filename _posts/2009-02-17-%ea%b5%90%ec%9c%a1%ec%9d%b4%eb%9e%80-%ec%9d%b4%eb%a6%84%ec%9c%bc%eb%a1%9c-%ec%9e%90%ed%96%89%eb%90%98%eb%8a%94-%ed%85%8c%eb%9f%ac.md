@@ -34,7 +34,7 @@ tags:
 > 따라서 ‘일제고사’는 법적 근거도 없는 권력 집단의 월권행위이며 청소년에 대한 권력형 ‘테러’다.
 > 
 > <p class="rep">
->   <A HREF="http://www.resistcandle.com/0_view.php?urn=urn%3Anewsml%3Acounterfire.or.kr%3A20081023T092517%2B0900%3Acor10-ilje%3A1U"  target="_blank">송재혁(전교조 교사), 일제고사 는 청소년에 대한 ‘테러’다, 〈저항의 촛불〉</A>
+>   <A HREF="http://www.wspaper.org/0_view.php?urn=urn%3Anewsml%3Acounterfire.or.kr%3A20081023T092517%2B0900%3Acor10-ilje%3A1U"  target="_blank">송재혁(전교조 교사), 일제고사 는 청소년에 대한 ‘테러’다, 〈저항의 촛불〉</A>
 > </p>
 
 한마디로 일제고사는 불법이다. 그냥 불법도 아니고 권력형 불법행위다. 오늘자 〈한겨레〉에서 정석구 논설위원실장은 이렇게 말하는데, 들을만하다.
@@ -100,7 +100,7 @@ tags:
 > 노무현의 노조 상근 간부 기반은 김금수ㆍ이원보ㆍ김영대ㆍ박태주 씨 등의 경우처럼 직접적 연계에 의한 것일 수도 있고, 민변이나 여성단체연합 등 온건 시민단체 지도자들의 정치적 중개에 의한 것일 수도 있고, 개혁국민정당(독일사민당 강령을 그대로 본떴음을 자부한다)이나 노사모 등의 중개에 의한 것일 수도 있다.
 > 
 > <p class="rep">
->   <A HREF="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2B0900:d12-214:1U"  target="_blank">최일붕, 노무현 정권의 성격, 격주간〈다함께〉, 2003.7.12</A>
+>   <A HREF="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2B0900:d12-214:1U"  target="_blank">최일붕, 노무현 정권의 성격, 격주간〈다함께〉, 2003.7.12</A>
 > </p>
 
 그러나 노무현은 철저하게 이 **체제의 논리를 수용하며 행동했다.** 그 점에서 그는 이명박과 다를 게 없다. 다른 점이라면 이명박이 체제의 논리를 극적으로 수용해 완전히 막무가내라면, 노무현은 체제의 논리와 법이 상충할 때 살살 눈치를 봐가며 한다는 점이다.
@@ -129,7 +129,7 @@ tags:
 
 그래서 노무현의 소심한 교육‘개혁’은 본질의 털끝하나 못 건드리고 되려 입시경쟁을 부추겼던 것이다. 공교육 정상화? 입시로 계급을 결정짓는 체제에서 기준이 내신이든 수능이든 무슨 상관인가? 문제는 상위권에 진입하기 위해 모든 것을 내버리는 헌신성이다. 물론, 총알은 많은 놈이 장땡이다.
 
-<A HREF="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20060308T000000%2B0900:d75-2368:1U" target="_blank" title="김현옥, 서평 - 노무현의 ‘교육 개혁’ 사기극에 대한 통렬한 고발, 격주간 〈다함께〉, 2006.3.8">《교육부의 대국민 사기극》</A>이라는 책은 자유주의 정권의 교육‘개혁’의 본질에 대해 철저히 파헤친 책이다. 탐구를 하고픈 분들에게는 이 책을 추천한다.
+<A HREF="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20060308T000000%2B0900:d75-2368:1U" target="_blank" title="김현옥, 서평 - 노무현의 ‘교육 개혁’ 사기극에 대한 통렬한 고발, 격주간 〈다함께〉, 2006.3.8">《교육부의 대국민 사기극》</A>이라는 책은 자유주의 정권의 교육‘개혁’의 본질에 대해 철저히 파헤친 책이다. 탐구를 하고픈 분들에게는 이 책을 추천한다.
 
 ## 핀란드 교육
 
@@ -146,5 +146,5 @@ tags:
 아, 읽을만한 글을 하나 링크한다.
 
 <p class="link">
-  <A HREF="http://www.resistcandle.com/0_view.php?urn=urn%3Anewsml%3Acounterfire.or.kr%3A20081023T092236%2B0900%3Acor10-sch%3A1U"  target="_blank">한수영, 왜 학교는 재미없고 가기 싫을까?, 〈저항의 촛불〉2008.10.23</A>
+  <A HREF="http://www.wspaper.org/0_view.php?urn=urn%3Anewsml%3Acounterfire.or.kr%3A20081023T092236%2B0900%3Acor10-sch%3A1U"  target="_blank">한수영, 왜 학교는 재미없고 가기 싫을까?, 〈저항의 촛불〉2008.10.23</A>
 </p>

@@ -33,7 +33,7 @@ tags:
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile6.uf.112994544D5F7629223639.jpg" width="540" height="360" alt="" filename="cfile6.uf.112994544D5F7629223639.jpg" filemime="" /><figcaption class="wp-caption-text">△무바라크의 깡패들로부터 타흐리르 광장을 지키고 있는 이집트 민중 이집트 혁명이 정치 혁명에서 사회 혁명으로 발전하려면 아래로부터 건설되는 민중 권력 기관이 필요하다. ⓒ사진 출처 Nasser Nouri
    
-http://www.left21.com/article/9240</figcaption></figure> 
+http://www.wspaper.org/article/9240</figcaption></figure> 
 
 이집트란 나라가 직면한 역사적 과제와, 처해 있는 세계적 상황이 당시와 다르다.
 

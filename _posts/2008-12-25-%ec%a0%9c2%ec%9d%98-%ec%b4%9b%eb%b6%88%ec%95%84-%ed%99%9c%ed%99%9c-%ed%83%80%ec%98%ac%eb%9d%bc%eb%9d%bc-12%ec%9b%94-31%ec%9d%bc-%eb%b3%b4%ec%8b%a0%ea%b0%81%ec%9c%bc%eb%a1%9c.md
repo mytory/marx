@@ -40,7 +40,7 @@ tags:
   <img src="http://cfs15.tistory.com/image/7/tistory/2008/12/25/23/44/49539c6bd69d0" height="364" title="△ 12월 19일 마지막 수업에서 울고 있는 아이들을 꼭 끌어안고 있는 김윤주 교사" width="546" /> 
   
   <div class="cap1">
-    <a href="http://www.resistcandle.com/0_view.php?urn=cor12-2-comeback-teacher" target="_blank" title="[7명의 선생님을 아이들 품으로!]로 이동합니다.">△ 12월 19일 마지막 수업에서 울고 있는 아이들을 꼭 끌어안고 있는 김윤주 교사</a>
+    <a href="http://www.wspaper.org/0_view.php?urn=cor12-2-comeback-teacher" target="_blank" title="[7명의 선생님을 아이들 품으로!]로 이동합니다.">△ 12월 19일 마지막 수업에서 울고 있는 아이들을 꼭 끌어안고 있는 김윤주 교사</a>
   </div>
 </div>
 
@@ -54,13 +54,13 @@ tags:
   </div>
 </div>
 
-언론이 탄압당하고 있다. <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20040907T000000%2B0900:w14.0-267" target="_blank" title="[http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20040907T000000%2B0900:w14.0-267]로 이동합니다.">87년 6월 항쟁의 성과에 쐐기를 박은 7~9월 노동자 대투쟁</a>의 여파로 언론노조가 만들어졌고, 이들의 방송 민주화 투쟁은 언론이 더이상 정권의 나팔수가 아닐 수 있다는 희망을 줬다.
+언론이 탄압당하고 있다. <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040907T000000%2B0900:w14.0-267" target="_blank" title="[http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040907T000000%2B0900:w14.0-267]로 이동합니다.">87년 6월 항쟁의 성과에 쐐기를 박은 7~9월 노동자 대투쟁</a>의 여파로 언론노조가 만들어졌고, 이들의 방송 민주화 투쟁은 언론이 더이상 정권의 나팔수가 아닐 수 있다는 희망을 줬다.
 
 (물론, 그럼에도 불구하고 많은 한계가 있었다. 방송이 노동자의 폭력을 경찰의 폭력보다 심각하게 그린 것은 어제오늘 일이 아니니까. 그래도, 그게 독재 때보단 나은 것이었다.)
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/4953a0f9d5d79E5.jpg" class="aligncenter" width="350" height="525" alt="" filename="c91-woonha.jpg" filemime="" />
 
-4대강 정비계획 추진에 다시 박차를 가하는 것도, <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20081016T160355%2b0900:cor09-seo:1U" target="_blank" title="[서중석 교수 “이것은 역사를 거꾸로 돌리는 것입니다”]로 이동합니다.">근현대사 교과서 수정을 강요</a>하는 것도, 모두 이명박을 위시한 우파 무리의 본색을 잘 보여 준다.
+4대강 정비계획 추진에 다시 박차를 가하는 것도, <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20081016T160355%2b0900:cor09-seo:1U" target="_blank" title="[서중석 교수 “이것은 역사를 거꾸로 돌리는 것입니다”]로 이동합니다.">근현대사 교과서 수정을 강요</a>하는 것도, 모두 이명박을 위시한 우파 무리의 본색을 잘 보여 준다.
 
 ## 계급투쟁
 
@@ -76,7 +76,7 @@ tags:
 
 국민연금으로 주식투자를 한 것도 저들의 계급투쟁이다. 연기금의 주식투자는 피억압계급에게서 돈을 빼앗아 자신들의 재산을 불리는 데 사용하는 것 이상도 이하도 아니었다. 그들의 좋은 포장은 포장일 뿐이다. 저들 중 아무도 연기금 자체를 지키는 것을 진지하게 고민한 자는 없을 것이다. (철저한 시장주의 신념에 가득찬 저들의 중간계급 전문직[footnote]교사, 변호사 등. 특히 국회의원들 중 중간계급 상층 출신이 많은데, 이것은 자본가들이 직접 정치를 할 말빨도, 지적 능력도 안 되는데다 시간도 없기 때문에 그런 것이다. 지배계급은 자본을 소유한 것 외에 별로 하는 게 없다. 요즘은 심지어 자본가 본연의 업무인 돈을 굴리는 것조차 전문직인 CEO에게 맡긴다. 물론 CEO를 중간계급 상층 전문직으로 단순히 분류할 수 있는지는 복잡한 문제다.[/footnote] 출신 수하들을 제외하면 말이다.)
 
-대운하&#8230; 환경, 서민경제 이런 걸로 입씨름할 필요는 있다. <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20080612T194201%2B0900:c91-woonha:1U" target="_blank" title="한양대학교 경제금융학부 홍종호 교수, “운하 계획은 빨리 접는 것이 대안입니다”]로 이동합니다.">대운하 사업에 대한 저들의 포장</a>이 그거니까. 그러나 우리가 그것을 반박하면서도 결코 잊어서는 안 되는 게 있다. 그것은 저들이 결코! 절대로! 한 번도! 환경문제나 서민경제 때문에 대운하를 추진하려 한 게 아니라는 것이다. 저들의 계산은 간단하고 합리적이다. 지배계급의 일부이자, 모든 지배계급과 안팎으로 복잡하게 연결된 건설자본에게 돈을 몰아줘야 하고 그 수단이 대운하라는 것이다.
+대운하&#8230; 환경, 서민경제 이런 걸로 입씨름할 필요는 있다. <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080612T194201%2B0900:c91-woonha:1U" target="_blank" title="한양대학교 경제금융학부 홍종호 교수, “운하 계획은 빨리 접는 것이 대안입니다”]로 이동합니다.">대운하 사업에 대한 저들의 포장</a>이 그거니까. 그러나 우리가 그것을 반박하면서도 결코 잊어서는 안 되는 게 있다. 그것은 저들이 결코! 절대로! 한 번도! 환경문제나 서민경제 때문에 대운하를 추진하려 한 게 아니라는 것이다. 저들의 계산은 간단하고 합리적이다. 지배계급의 일부이자, 모든 지배계급과 안팎으로 복잡하게 연결된 건설자본에게 돈을 몰아줘야 하고 그 수단이 대운하라는 것이다.
 
 얼마나 합리적인가? (저들 입장에서는 말이다.) 거대 토목사업을 벌인다. 건설사가 돈을 번다. 고로 손해는 없다. 나머지는 모두 부차적인 문제일 뿐이다.
 

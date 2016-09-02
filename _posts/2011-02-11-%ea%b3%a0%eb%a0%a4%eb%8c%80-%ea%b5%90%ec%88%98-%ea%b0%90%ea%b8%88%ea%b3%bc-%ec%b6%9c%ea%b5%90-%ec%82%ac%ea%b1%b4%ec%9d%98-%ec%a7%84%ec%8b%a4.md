@@ -195,7 +195,7 @@ tags:
 
 여튼간에, 출교생들 때문에 공학타워가 날아갔다는 마녀사냥은 공대의 소외정서라는 온당한 불만을, 소수 사람들 탓으로 돌려서 학교 당국을 향한 분노의 칼날을 비껴가게 하려는 것이다. 전형적인 마녀사냥 수법이다.&nbsp;
 
-  * 마녀사냥 관련해 참고할 만한 글 두 개를 링크한다:&nbsp;<a href="http://www.left21.com/article/3865" target="_blank" title="[http://www.left21.com/article/3865]로 이동합니다.">마녀사냥의 전형 ─ 1692년 세일럼 마녀 재판</a>,&nbsp;<a href="http://www.left21.com/article/3866" target="_blank" title="[http://www.left21.com/article/3866]로 이동합니다.">냉전기 매카시즘 마녀사냥의 속죄양 로젠버그 부부</a>
+  * 마녀사냥 관련해 참고할 만한 글 두 개를 링크한다:&nbsp;<a href="http://www.wspaper.org/article/3865" target="_blank" title="[http://www.wspaper.org/article/3865]로 이동합니다.">마녀사냥의 전형 ─ 1692년 세일럼 마녀 재판</a>,&nbsp;<a href="http://www.wspaper.org/article/3866" target="_blank" title="[http://www.wspaper.org/article/3866]로 이동합니다.">냉전기 매카시즘 마녀사냥의 속죄양 로젠버그 부부</a>
 
 **요약해 보자**&nbsp;: 학교 당국이 실제로 공대에 투자를 해서 경쟁력을 확보하고 싶다면, 시위가 있든 없든 투자를 한다. 경영대를 보라. 경영대 학생회장이 이건희 시위 주도했지만 투자는 계속된다. 그런데 공대는 심지어 시위 당사자도 없는데 투자를 안 한다. 이게 왜 이건희 시위 탓인가. 공학 타워 날아갔다고? 마녀사냥에 속지 말자.
 

@@ -42,7 +42,7 @@ tags:
 
 한가롭게 &#8216;다른 데 취업하라&#8217;고 말하는 다른 노동자가 있다면, 다시 한 번 생각해 봐야 할 것이다. 왜냐..
 
-쌍용차는 경제 위기 초입의 희생양이다. 경제 위기는 더 넓게 퍼질 것이 분명하다.(지금은 일시적 반등기지만, 위기를 불러온 근본 요소들은 치유되지 않았다 : <a href="http://www.left21.com/article/6684" target="_blank" title="[http://www.left21.com/article/6684]로 이동합니다.">정성진, 1930년대 세계대공황보다 더 심각한 21세기 세계대공황</a>)
+쌍용차는 경제 위기 초입의 희생양이다. 경제 위기는 더 넓게 퍼질 것이 분명하다.(지금은 일시적 반등기지만, 위기를 불러온 근본 요소들은 치유되지 않았다 : <a href="http://www.wspaper.org/article/6684" target="_blank" title="[http://www.wspaper.org/article/6684]로 이동합니다.">정성진, 1930년대 세계대공황보다 더 심각한 21세기 세계대공황</a>)
 
 몇 년 안에 흑자 도산도 속출할 수 있다. 의미없이 희생당하는 노동자의 숫자도 늘어날 것이다. 현재 <a href="http://www.hani.co.kr/arti/economy/economy_general/356896.html" target="_blank" title="[http://www.hani.co.kr/arti/economy/economy_general/356896.html]로 이동합니다.">비공식 실업률은 10% 내외</a>다. 이 실업률은 20~30퍼센트까지 치솟을 수 있다.(당장을 말하는 것은 아니지만, 공황이 최악으로 치달으면 충분히 가능한 소리다.)
 

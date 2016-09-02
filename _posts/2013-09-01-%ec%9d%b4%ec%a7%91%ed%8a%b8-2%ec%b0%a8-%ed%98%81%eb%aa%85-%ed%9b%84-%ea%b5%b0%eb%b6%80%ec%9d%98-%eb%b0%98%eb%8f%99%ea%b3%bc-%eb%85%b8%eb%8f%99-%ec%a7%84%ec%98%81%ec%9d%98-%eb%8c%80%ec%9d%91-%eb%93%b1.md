@@ -9,7 +9,7 @@ permalink: /archives/578
 categories:
   - 정치논평
 ---
-<a href="http://left21.com/F_recommend-external.php" target="_blank" class="tx-link">&lt;레프트21&gt;</a><a href="http://left21.com/F_recommend-external.php" target="_blank" class="tx-link">&nbsp;추천 외부글</a>에 있는 &lt;참세상&gt; 기사 <a href="http://www.newscham.net/news/view.php?board=news&nid=71323" target="_blank" class="tx-link">&#8220;6월 30일 이후 이집트 노동자 &#8211; 무르시 해임에 대한 이집트 노동운동의 입장과 평가&#8221;</a>를 읽고 정리한 것과 떠오른 단상이다.
+<a href="http://wspaper.org/F_recommend-external.php" target="_blank" class="tx-link">&lt;레프트21&gt;</a><a href="http://wspaper.org/F_recommend-external.php" target="_blank" class="tx-link">&nbsp;추천 외부글</a>에 있는 &lt;참세상&gt; 기사 <a href="http://www.newscham.net/news/view.php?board=news&nid=71323" target="_blank" class="tx-link">&#8220;6월 30일 이후 이집트 노동자 &#8211; 무르시 해임에 대한 이집트 노동운동의 입장과 평가&#8221;</a>를 읽고 정리한 것과 떠오른 단상이다.
 
 <p style="text-align: center; clear: none; float: none;">
   <figure style="width: 540px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile30.uf.2313AB345223147A0FE706.jpg" width="540" height="357" filename="left21_0110_19.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">△이집트 군부는 ‘테러와의 전쟁’ 중 - 군부는 무슬림형제단에 이어 혁명 자체를 ‘테러’라며 도륙하고 싶어한다. ⓒ사진 출처, @Eslam Mokka (트위터), 에서 재인용</figcaption></figure>
@@ -43,7 +43,7 @@ categories:
 
 그리고, 최근에 들은 이야긴데, 무슬림형제단의 지지율이 여전히 30%라고.&nbsp;
 
-다음은 <a href="https://www.facebook.com/permalink.php?story_fbid=464892113618354&id=100002927080179" target="_blank" class="tx-link">최근 군부의 만행</a>인데,&nbsp;&lt;레프트21&gt; 기자 <a href="http://left21.com/cse.php?keyword=%EA%B9%80%EC%A2%85%ED%99%98" target="_blank" class="tx-link">김종환</a>이 &lt;뉴욕타임스&gt; 기사를 보고 일부를 정리해 페이스북에 올린 것이다.
+다음은 <a href="https://www.facebook.com/permalink.php?story_fbid=464892113618354&id=100002927080179" target="_blank" class="tx-link">최근 군부의 만행</a>인데,&nbsp;&lt;레프트21&gt; 기자 <a href="http://wspaper.org/cse.php?keyword=%EA%B9%80%EC%A2%85%ED%99%98" target="_blank" class="tx-link">김종환</a>이 &lt;뉴욕타임스&gt; 기사를 보고 일부를 정리해 페이스북에 올린 것이다.
 
 <ul style="list-style-type: disc;">
   <li>
@@ -75,4 +75,4 @@ categories:
 
 이집트 RS뿐 아니라 그리스 SEK도 있고, 10~20년 동안 세계 곳곳에서 혁명적 상황이 펼쳐질 것이다. 그리고 이번 혁명기는 느리게 흐른다는 점에서 혁명가들에게 비교적 &#8216;관대한&#8217; 혁명이 될 것 같다. 이집트의 상황을 보면 조급함이 드는 것도 사실이겠지만, 혁명가들은 한편으로는 사태를 전체적/종합적으로 조망하면서 꼼꼼히 앞날을 준비해야 한다.
 
-*덧붙이자면: 아랍 혁명에 대해 더 알고 싶다면&nbsp;여기로 : <a href="http://left21.com/6_issue.php?issue_no=87" target="_blank" class="tx-link">&lt;레프트21&gt; 집중이슈 &#8211; 심화하는 아랍 혁명</a>
+*덧붙이자면: 아랍 혁명에 대해 더 알고 싶다면&nbsp;여기로 : <a href="http://wspaper.org/6_issue.php?issue_no=87" target="_blank" class="tx-link">&lt;레프트21&gt; 집중이슈 &#8211; 심화하는 아랍 혁명</a>

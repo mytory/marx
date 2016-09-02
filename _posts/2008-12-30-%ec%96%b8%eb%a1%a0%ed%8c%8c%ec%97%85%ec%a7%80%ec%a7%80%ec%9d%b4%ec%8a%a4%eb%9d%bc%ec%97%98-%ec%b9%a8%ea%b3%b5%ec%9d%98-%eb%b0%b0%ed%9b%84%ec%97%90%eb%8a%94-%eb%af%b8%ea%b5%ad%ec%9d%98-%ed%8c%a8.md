@@ -18,7 +18,7 @@ tags:
 ---
 ## 이번 침공의 배경 ㅡ 총선 득표 노림수만 원인이 아니다
 
-이스라엘이 팔레스타인 가자 지구에 걸핏하면 폭격을 했던 것은 알만한 사람들은 다 아는 사실이다. 이 폭격은 <a href="http://www.resistcandle.com/0_view.php?urn=cor12-gaza-israel" target="_blank" title="[http://www.resistcandle.com/0_view.php?urn=cor12-gaza-israel]로 이동합니다.">40년만의 최대 폭격이다.</a>
+이스라엘이 팔레스타인 가자 지구에 걸핏하면 폭격을 했던 것은 알만한 사람들은 다 아는 사실이다. 이 폭격은 <a href="http://www.wspaper.org/0_view.php?urn=cor12-gaza-israel" target="_blank" title="[http://www.wspaper.org/0_view.php?urn=cor12-gaza-israel]로 이동합니다.">40년만의 최대 폭격이다.</a>
 
 이번 침공에서 중요한 것은 이게 단순한 폭격이 아니라 전면전으로 확대할 가능성이 무척 크다는 데 있다.
 
@@ -74,10 +74,10 @@ tags:
   </p>
   
   <p class="link">
-    <a href="http://www.resistcandle.com/0_view.php?urn=cor12-israel-imperialism-pal-resistance" target="_blank" title="[http://www.resistcandle.com/0_view.php?urn=cor12-israel-imperialism-pal-resistance]로 이동합니다.">《이스라엘, 제국주의, 팔레스타인 항쟁》 텍스트 보기</a>
+    <a href="http://www.wspaper.org/0_view.php?urn=cor12-israel-imperialism-pal-resistance" target="_blank" title="[http://www.wspaper.org/0_view.php?urn=cor12-israel-imperialism-pal-resistance]로 이동합니다.">《이스라엘, 제국주의, 팔레스타인 항쟁》 텍스트 보기</a>
   </p>
   
   <p class="link">
-    <a href="http://www.resistcandle.com/_UPLOAD_PDF/pam-israel-imperialism-palestine.pdf" target="_blank" title="[http://www.resistcandle.com/_UPLOAD_PDF/pam-israel-imperialism-palestine.pdf]로 이동합니다.">《이스라엘, 제국주의, 팔레스타인 항쟁》 PDF 보기</a>
+    <a href="http://www.wspaper.org/_UPLOAD_PDF/pam-israel-imperialism-palestine.pdf" target="_blank" title="[http://www.wspaper.org/_UPLOAD_PDF/pam-israel-imperialism-palestine.pdf]로 이동합니다.">《이스라엘, 제국주의, 팔레스타인 항쟁》 PDF 보기</a>
   </p>
 </div>

@@ -25,7 +25,7 @@ tags:
   <img src="http://cfs13.tistory.com/image/21/tistory/2009/01/28/10/32/497fb5a4b5b06" /></p> 
   
   <p class="cap1">
-    △ 10월 9일 경찰은 용역깡패 폭력에 항의하는 성동구 철거예정지 주민들을 무자비하게 끌어냈다(<a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20081030T103410%2b0900:cor11-wang10ri:1U" target="_blank">이종우, 서민들을 집에서 내쫓고 있는 뉴타운 건설, &lt;저항의 촛불&gt;, 2008.11.3)</a>
+    △ 10월 9일 경찰은 용역깡패 폭력에 항의하는 성동구 철거예정지 주민들을 무자비하게 끌어냈다(<a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20081030T103410%2b0900:cor11-wang10ri:1U" target="_blank">이종우, 서민들을 집에서 내쫓고 있는 뉴타운 건설, &lt;저항의 촛불&gt;, 2008.11.3)</a>
   </p>
 </div>
 
@@ -48,7 +48,7 @@ tags:
 > 그러나 노동자들의 대중 운동을 진압하기 위해 군대를 동원하는 일은 엄청난 분노와 저항에 직면했다. 그래서 살인 장비로 무장하지는 않았지만 군대식으로 편제한 억압 기구를 만들 필요가 있었다. 이 때부터 경찰은 자본주의 체제의 일반적인 제도로 자리잡았다.
 > 
 > <p class="rep">
->   <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20040628T000000%2B0900:w1.0-16" target="_blank">정진희, 마르크스주의 기초배우기 ─ 경찰은 왜 그토록 폭력적일까?, 월간 &lt;다함께&gt;, 2001.4.28</a>
+>   <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040628T000000%2B0900:w1.0-16" target="_blank">정진희, 마르크스주의 기초배우기 ─ 경찰은 왜 그토록 폭력적일까?, 월간 &lt;다함께&gt;, 2001.4.28</a>
 > </p>
 
 [프랑스 혁명을 다룬 대중개설서 《혁명만세》](http://spar2003.tistory.com/tag/%ED%98%81%EB%AA%85%EB%A7%8C%EC%84%B8 "마르크스의 눈에서 《혁명만세》 관련 포스트 보기")에도 비슷한 언급이 나온다. 1787년 최초의 폭동이 일어났을 때를 다루면서 나온 언급이다.
@@ -66,7 +66,7 @@ tags:
 > 보통들 경찰은 범죄를 예방하고 국민의 생명과 재산을 보호한다고 말한다. 하지만 이것은 사실이 아니다. 통계에 따르면, 경찰이 &#8216;민생치안&#8217;에 관련된 범죄를 해결하는 비율은 전체의 10분의 1도 안 된다.
 > 
 > <p class="rep">
->   <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20040628T000000%2B0900:w1.0-16" target="_blank">정진희, 마르크스주의 기초배우기 ─ 경찰은 왜 그토록 폭력적일까?, 월간 &lt;다함께&gt;, 2001.4.28</a>
+>   <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040628T000000%2B0900:w1.0-16" target="_blank">정진희, 마르크스주의 기초배우기 ─ 경찰은 왜 그토록 폭력적일까?, 월간 &lt;다함께&gt;, 2001.4.28</a>
 > </p>
 
 ## 검찰
@@ -79,13 +79,13 @@ tags:
 >   <a href="http://www.hani.co.kr/arti/politics/politics_general/335394.html" target="_blank">신승근 최현준 김남일 기자, 용산참사 처리 ‘거꾸로 정부’, &lt;한겨레&gt;, 2009.1.28</a>
 > </p>
 
-마르크스는 대안사회의 대략적 형태를 다룬 책 《프랑스 내전》(<a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20041222T000000%2B0900:d46-1116:1U" target="_blank" title="폴, 자유를 향해 고동치는 심장, 격주간 &lt;다함께&gt;">파리 꼬뮌</a>을 다뤘다)에서 사법부에 대해 이렇게 말했다. 검찰을 다룬 것은 아니라서 다소 동떨어져 있다고 생각할 수도 있겠지만, 근본 속성은 비슷하다고 본다.
+마르크스는 대안사회의 대략적 형태를 다룬 책 《프랑스 내전》(<a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20041222T000000%2B0900:d46-1116:1U" target="_blank" title="폴, 자유를 향해 고동치는 심장, 격주간 &lt;다함께&gt;">파리 꼬뮌</a>을 다뤘다)에서 사법부에 대해 이렇게 말했다. 검찰을 다룬 것은 아니라서 다소 동떨어져 있다고 생각할 수도 있겠지만, 근본 속성은 비슷하다고 본다.
 
 > 그 가면은 법관들이 역대 모든 정부에 대해 충성의 맹세를 한 다음 다시 그것을 파기하곤 했던 자신들의 비굴한 복종을 은폐하는 데 기여했던 것입니다.
 > 
 > 칼 맑스, 《프랑스 내전》, 박종철 출판사, 2003
 
-마르크스는 권력의 시녀가 됐던 사법부를 통제하기 위해 <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20041222T000000%2B0900:d46-1116:1U" target="_blank" title="폴, 자유를 향해 고동치는 심장, 격주간 &lt;다함께&gt;">파리 꼬뮌</a>이 다음 조치를 취했다고 썼다.
+마르크스는 권력의 시녀가 됐던 사법부를 통제하기 위해 <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20041222T000000%2B0900:d46-1116:1U" target="_blank" title="폴, 자유를 향해 고동치는 심장, 격주간 &lt;다함께&gt;">파리 꼬뮌</a>이 다음 조치를 취했다고 썼다.
 
 > 사이비 독립성의 가면이 법관들로부터 벗겨졌습니다. … 나머지 관리들과 마찬가지로, 치안판사와 법관도 선거로 선출되고, 책임을 져야 했으며, 소환될 수 있어야 했습니다.
 > 
@@ -104,7 +104,7 @@ tags:
 > 비록 2년 뒤 김영삼·김대중이 공모해 두 살인마를 풀어줬지만, 이 투쟁의 교훈은 여전히 의미 있다.
 > 
 > <p class="rep">
->   <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20080424T105523%2B0900:c84-samsung:1U" target="_blank" title="삼성 특검과 이건희 퇴진 기사 하단의 박스기사임">장호종, 두 살인마를 처벌한 대중투쟁의 힘, &lt;맞불&gt;, 2008.4.28</a>
+>   <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080424T105523%2B0900:c84-samsung:1U" target="_blank" title="삼성 특검과 이건희 퇴진 기사 하단의 박스기사임">장호종, 두 살인마를 처벌한 대중투쟁의 힘, &lt;맞불&gt;, 2008.4.28</a>
 > </p>
 
 자본주의 국가에 ‘중립성’을 요구할 수 있다. 뭔들 요구를 못하겠는가. 하지만 이것이 가까스로나마 실현되려면 대중 운동이라는 거대한 압력이 있어야 한다. 더더군다나 독재로 자신의 나침반 바늘을 명확히하고 있는 이명박 정부 하에서라면 더더욱.

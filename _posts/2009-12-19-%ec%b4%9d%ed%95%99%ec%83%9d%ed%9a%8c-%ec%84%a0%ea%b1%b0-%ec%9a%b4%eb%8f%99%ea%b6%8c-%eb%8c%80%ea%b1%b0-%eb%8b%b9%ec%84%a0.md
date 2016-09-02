@@ -29,7 +29,7 @@ tags:
 
 ## 레프트21의 분석
 
-내가 즐겨 읽는 언론이고 가장 신뢰하는 언론인 &lt;레프트21&gt;의 분석은 다르다. 기사 제목부터가 다르다. &lt;레프트21&gt;의 기사 제목은 <a target="_blank" href="http://www.left21.com/article/7392">‘2010년 대학 총학생회 선거 결과 &#8211;&nbsp;‘운동권’ 후보들의 대거 당선, ‘비권’의 좌향좌’</a>다.<figure style="width: 540px" class="wp-caption aligncenter">
+내가 즐겨 읽는 언론이고 가장 신뢰하는 언론인 &lt;레프트21&gt;의 분석은 다르다. 기사 제목부터가 다르다. &lt;레프트21&gt;의 기사 제목은 <a target="_blank" href="http://www.wspaper.org/article/7392">‘2010년 대학 총학생회 선거 결과 &#8211;&nbsp;‘운동권’ 후보들의 대거 당선, ‘비권’의 좌향좌’</a>다.<figure style="width: 540px" class="wp-caption aligncenter">
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile9.uf.13311A134B2C5CA22D7EBD.jpg" width="540" height="357" alt="반값 등록금 실현 손팻말을 든 대학생" filename="cfile9.uf.13311A134B2C5CA22D7EBD.jpg" filemime="" /><figcaption class="wp-caption-text">△&lt;레프트21&gt;은 이런 활동이 올해 운동권 대거 당선을 낳을 수 있었다고 분석한다.</figcaption></figure> 
 
@@ -47,4 +47,4 @@ tags:
 > 
 > 주류 언론들은 올해 총학생회 선거의 핵심적 특징을 ‘기성 정치판이나 다름 없는 선거 부정’으로 꼽으며 핵심을 흐렸지만, 선거 파행은 진보 후보에게 총학생회를 내줄지도 모른다는 위기감을 느낀 ‘비권’ 경향 선관위의 부정행위와 편파적 결정에서 비롯한 경우가 많았다.
 
-기사 전문 : <a target="_blank" href="http://www.left21.com/article/7392">‘2010년 대학 총학생회 선거 결과 &#8211;&nbsp;‘운동권’ 후보들의 대거 당선, ‘비권’의 좌향좌’</a>
+기사 전문 : <a target="_blank" href="http://www.wspaper.org/article/7392">‘2010년 대학 총학생회 선거 결과 &#8211;&nbsp;‘운동권’ 후보들의 대거 당선, ‘비권’의 좌향좌’</a>

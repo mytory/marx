@@ -39,5 +39,5 @@ tags:
 2002년 인도 구자라트 주의 힌두 극우 단체원들은 이슬람 지구를 대거 습격했다. BJP가 집권한 구자라트 지방 정부는 이 공격을 비호했을 뿐 아니라 직접 지도하기까지 했다. (중략)
 
 <div class="txc-textbox" style="BORDER-RIGHT: #c1c1c1 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #c1c1c1 1px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; BORDER-LEFT: #c1c1c1 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #c1c1c1 1px solid; BACKGROUND-COLOR: #eeeeee">
-  이 글도 중략하고 링크를 첨부한다.<br /> <a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2b0900:d14-264:1U" target="_blank">▶뭄바이 폭파 사건 ─ 인도 무슬림들의 분노와 저항 전문</a>
+  이 글도 중략하고 링크를 첨부한다.<br /> <a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20040629T000000%2b0900:d14-264:1U" target="_blank">▶뭄바이 폭파 사건 ─ 인도 무슬림들의 분노와 저항 전문</a>
 </div>

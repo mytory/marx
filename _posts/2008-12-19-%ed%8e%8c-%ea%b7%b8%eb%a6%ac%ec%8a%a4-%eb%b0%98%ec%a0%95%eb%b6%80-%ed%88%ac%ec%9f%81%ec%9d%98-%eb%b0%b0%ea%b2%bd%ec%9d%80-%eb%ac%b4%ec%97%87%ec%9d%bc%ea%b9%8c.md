@@ -68,5 +68,5 @@ tags:
 신민주당은 다양한 노동자 집단들의 연금을 개악하려 했고, 이에 맞선 투쟁들이 일어났다. 단기 계약ㆍ파트타임 노동자들도 싸웠다. 그리스에서는 이런 노동자 집단이 수십만 명에 달하는데, 대다수가 청년들이다. 신민주당은 이런 청년들에게 PASOK이 당신들을 착취하고 있고, 자신들이 당선하면 정규직으로 만들어 주겠다고 약속했다.
 
 <p class="link">
-  <a href="http://www.resistcandle.com/0_view.php?urn=cor12-1-greece-in-revolt" target="_blank" title="[http://www.resistcandle.com/0_view.php?urn=cor12-1-greece-in-revolt]로 이동합니다.">반란의 그리스 전문 보기</a>
+  <a href="http://www.wspaper.org/0_view.php?urn=cor12-1-greece-in-revolt" target="_blank" title="[http://www.wspaper.org/0_view.php?urn=cor12-1-greece-in-revolt]로 이동합니다.">반란의 그리스 전문 보기</a>
 </p>

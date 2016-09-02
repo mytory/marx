@@ -118,8 +118,8 @@ tags:
 
 **추천 관련 기사**
 
-[▶경제 위기의 속죄양이 되기를 거부한 노동자들의 반격 ─ 그리스를 멈추게 한 노동자 총파업(2008.10.27)](http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20081023T092003%2B0900:cor10-gre:1U)
+[▶경제 위기의 속죄양이 되기를 거부한 노동자들의 반격 ─ 그리스를 멈추게 한 노동자 총파업(2008.10.27)](http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20081023T092003%2B0900:cor10-gre:1U)
   
-[▶그리스 ─ 우익 정부에 맞선 총파업, 노동자의 해를 예고하다(2007.12.24)](http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20071221T103429%2B0900:c70-greek:1U)
+[▶그리스 ─ 우익 정부에 맞선 총파업, 노동자의 해를 예고하다(2007.12.24)](http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20071221T103429%2B0900:c70-greek:1U)
   
-[▶그리스 ─ 대학생과 노동자들이 신자유주의 교육 개혁에 반대하다(2007.1.27)](http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20070123T171439%2B0900:c29-greece:1U)
+[▶그리스 ─ 대학생과 노동자들이 신자유주의 교육 개혁에 반대하다(2007.1.27)](http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20070123T171439%2B0900:c29-greece:1U)

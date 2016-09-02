@@ -79,8 +79,8 @@ tags:
 
 내가 즐겨 읽는 신문 &lt;레프트21&gt;에도 소외론 관련 기사가 실린 적이 있다. 목록을 소개한다.
 
-<a target="_blank" href="http://www.left21.com/article/6770">자본주의를 의심하는 이들을 위한 마르크스주의 ①&nbsp;소외란 무엇인가?</a>
+<a target="_blank" href="http://www.wspaper.org/article/6770">자본주의를 의심하는 이들을 위한 마르크스주의 ①&nbsp;소외란 무엇인가?</a>
 
-<a target="_blank" href="http://www.left21.com/article/3708">실천가들을 위한 마르크스주의 입문 13&nbsp;소외의 근원</a>
+<a target="_blank" href="http://www.wspaper.org/article/3708">실천가들을 위한 마르크스주의 입문 13&nbsp;소외의 근원</a>
 
-<a target="_blank" href="http://www.left21.com/article/5935">자본주의와 소외 ─&nbsp;우리는 왜 월요일을 싫어할까?</a>
+<a target="_blank" href="http://www.wspaper.org/article/5935">자본주의와 소외 ─&nbsp;우리는 왜 월요일을 싫어할까?</a>

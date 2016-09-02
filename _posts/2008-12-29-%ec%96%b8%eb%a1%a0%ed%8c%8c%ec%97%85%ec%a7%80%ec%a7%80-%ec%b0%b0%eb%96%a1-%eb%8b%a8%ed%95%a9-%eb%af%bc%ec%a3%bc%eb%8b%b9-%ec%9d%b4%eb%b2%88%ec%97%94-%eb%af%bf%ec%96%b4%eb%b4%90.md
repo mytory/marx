@@ -47,7 +47,7 @@ tags:
   <img src="http://cfs15.tistory.com/image/13/tistory/2008/12/29/10/06/495822879d384" title="지난 촛불 정국 때 “△ 어디서 뭐하다 잠깐 와서 금방 사라진 손학규”라는 캡션과 함께 등장했던 사진" /></p> 
   
   <div class="cap1">
-    △<a href="http://www.resistcandle.com/0_view.php?urn=urn:newsml:counterfire.or.kr:20080619T031602%2B0900:c92-minjudang:1U" target="_blank" title="기사 보러 가기">‘가장 늦게 와서 가장 먼저 촛불을 끄는 민주당’</a> 이라는 &lt;맞불&gt;의 기사에 났던 사진
+    △<a href="http://www.wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20080619T031602%2B0900:c92-minjudang:1U" target="_blank" title="기사 보러 가기">‘가장 늦게 와서 가장 먼저 촛불을 끄는 민주당’</a> 이라는 &lt;맞불&gt;의 기사에 났던 사진
   </div>
 </div>
 

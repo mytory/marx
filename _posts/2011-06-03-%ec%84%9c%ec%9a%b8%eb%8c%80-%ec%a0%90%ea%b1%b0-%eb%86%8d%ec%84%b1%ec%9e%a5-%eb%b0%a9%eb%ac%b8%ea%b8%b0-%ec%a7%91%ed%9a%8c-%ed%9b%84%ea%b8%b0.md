@@ -25,7 +25,7 @@ tags:
 
 국립대 법인화는 기업화다. 대학으로 가는 정부 지원을 줄이기 위한 정부의 꼼수다. 국립대의 등록금 책정을 대학 자율에 맡기게 된다는데 그럼 등록금 인상이 불보듯 뻔하지 않은가?
 
-그래서 이런 일들이 벌어지고 있는 거다. 사진 위주의 글이니 자세한 건 <a href="http://www.google.co.kr/search?q=%EB%B2%95%EC%9D%B8%ED%99%94&hl=ko&sa=N&sitesearch=www.left21.com%2Farticle%2F&tbo=0&newwindow=1&tbs=img%3A0#q=%EB%B2%95%EC%9D%B8%ED%99%94&hl=ko&newwindow=1&sitesearch=www.left21.com/article/&prmd=ivnslu&ei=9QnpTc6qIoGmugPC-ozsDw&start=10&sa=N&fp=4d6e889b2f169263&biw=1280&bih=675" target="_blank" title="레프트21의 법인화 관련 기사들을 구글에서 검색합니다.">국립대 법인화에 대한 레프트21의 글들을 참고</a>하기 바란다.
+그래서 이런 일들이 벌어지고 있는 거다. 사진 위주의 글이니 자세한 건 <a href="http://www.google.co.kr/search?q=%EB%B2%95%EC%9D%B8%ED%99%94&hl=ko&sa=N&sitesearch=www.wspaper.org%2Farticle%2F&tbo=0&newwindow=1&tbs=img%3A0#q=%EB%B2%95%EC%9D%B8%ED%99%94&hl=ko&newwindow=1&sitesearch=www.wspaper.org/article/&prmd=ivnslu&ei=9QnpTc6qIoGmugPC-ozsDw&start=10&sa=N&fp=4d6e889b2f169263&biw=1280&bih=675" target="_blank" title="레프트21의 법인화 관련 기사들을 구글에서 검색합니다.">국립대 법인화에 대한 레프트21의 글들을 참고</a>하기 바란다.
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile1.uf.18524E4E4DE9054027CF26.jpg" class="aligncenter" width="610" height="455" alt="" filename="IMG_4181.jpg" filemime="image/jpeg" />
 
@@ -105,7 +105,7 @@ Run 총장 Run. 소녀시대의 Run Devil Run을 개사한 것이다. &#8220;그
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile7.uf.17524E4E4DE905873447BB.jpg" class="aligncenter" width="610" height="455" alt="" filename="IMG_4202.jpg" filemime="image/jpeg" />
 
-1층 로비에 붙어 있는 건데, &#8220;연대 감사합니다&#8221; 하고 큰 글씨로 적혀 있다. &#8220;대학원 선배님들 만두, 우유, 햄버거 어쩌고 저쩌고&#8230;) 정말 많은 사람들의 연대가 있었다. 이런 걸 보면 <a href="http://www.left21.com/article/9736" target="_blank" title="[http://www.left21.com/article/9736]로 이동합니다.">점거 농성은 연대의 구심 역할을 하기 때문에 중요한 것</a>이라는 점을 알 수 있다.
+1층 로비에 붙어 있는 건데, &#8220;연대 감사합니다&#8221; 하고 큰 글씨로 적혀 있다. &#8220;대학원 선배님들 만두, 우유, 햄버거 어쩌고 저쩌고&#8230;) 정말 많은 사람들의 연대가 있었다. 이런 걸 보면 <a href="http://www.wspaper.org/article/9736" target="_blank" title="[http://www.wspaper.org/article/9736]로 이동합니다.">점거 농성은 연대의 구심 역할을 하기 때문에 중요한 것</a>이라는 점을 알 수 있다.
 
 <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile2.uf.13524E4E4DE9058E364296.jpg" class="aligncenter" width="610" height="816" alt="" filename="IMG_4204.jpg" filemime="image/jpeg" />
 

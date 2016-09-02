@@ -66,7 +66,7 @@ tags:
 
 파병은 정의인가? 지금 아프가니스탄과 이라크에서 벌어진 일들을 보면 이는 전혀 ‘정의’롭지 않았다.
 
-이 글을 참고하라 :&nbsp;<span id="tx_left_marker"></span><a href="http://www.left21.com/article/8772" target="_blank" title="[http://www.left21.com/article/8772]로 이동합니다.">위키리크스 폭로 &#8211;&nbsp;</a><a href="http://www.left21.com/article/8772" target="_blank" title="[http://www.left21.com/article/8772]로 이동합니다.">학살과 고문으로 점철된 이라크 전쟁</a><span id="tx_right_marker"></span>
+이 글을 참고하라 :&nbsp;<span id="tx_left_marker"></span><a href="http://www.wspaper.org/article/8772" target="_blank" title="[http://www.wspaper.org/article/8772]로 이동합니다.">위키리크스 폭로 &#8211;&nbsp;</a><a href="http://www.wspaper.org/article/8772" target="_blank" title="[http://www.wspaper.org/article/8772]로 이동합니다.">학살과 고문으로 점철된 이라크 전쟁</a><span id="tx_right_marker"></span>
 
 FTA에 대해서는 질의응답 시간에 유시민이 입장을 밝혔으므로 <a href="http://spar2003.tistory.com/180" target="_blank" title="[http://spar2003.tistory.com/180]로 이동합니다.">두 번째 글</a>에서 다루겠다.
 

@@ -20,7 +20,7 @@ tags:
   </p>
   
   <p class="link">
-    <a href="http://www.resistcandle.com/0_view.php?urn=cor12-mbc-strike-4th-day" target="_blank" title="기사 원문으로 이동합니다">“우리들의 MBC, 너희들의 조중동”(&lt;저항의 촛불&gt;)</a>
+    <a href="http://www.wspaper.org/0_view.php?urn=cor12-mbc-strike-4th-day" target="_blank" title="기사 원문으로 이동합니다">“우리들의 MBC, 너희들의 조중동”(&lt;저항의 촛불&gt;)</a>
   </p>
 </div>
 
@@ -47,6 +47,6 @@ tags:
   </p>
   
   <p class="link">
-    <a href="http://www.resistcandle.com/0_view.php?urn=cor12-mbc-strike-4th-day" target="_blank" title="기사 원문으로 이동합니다">“우리들의 MBC, 너희들의 조중동”(&lt;저항의 촛불&gt;)</a>
+    <a href="http://www.wspaper.org/0_view.php?urn=cor12-mbc-strike-4th-day" target="_blank" title="기사 원문으로 이동합니다">“우리들의 MBC, 너희들의 조중동”(&lt;저항의 촛불&gt;)</a>
   </p>
 </div>

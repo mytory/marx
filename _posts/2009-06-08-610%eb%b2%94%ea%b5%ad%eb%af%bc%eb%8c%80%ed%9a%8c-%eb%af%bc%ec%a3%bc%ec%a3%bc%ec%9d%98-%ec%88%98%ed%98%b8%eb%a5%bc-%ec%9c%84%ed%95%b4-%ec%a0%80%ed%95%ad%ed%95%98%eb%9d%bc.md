@@ -96,7 +96,7 @@ tags:
   </p>
   
   <p class="link">
-    <a href="http://www.left21.com/article/6627" target="_blank">6월의 저항을 효과적으로 건설하려면</a>
+    <a href="http://www.wspaper.org/article/6627" target="_blank">6월의 저항을 효과적으로 건설하려면</a>
   </p></p>
 </div>
 
