@@ -4,7 +4,7 @@ title: 이란의 민주화 시위를 지지합니다
 date: 2009-06-25T15:05:11+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/06/25/%ec%9d%b4%eb%9e%80%ec%9d%98-%eb%af%bc%ec%a3%bc%ed%99%94-%ec%8b%9c%ec%9c%84%eb%a5%bc-%ec%a7%80%ec%a7%80%ed%95%a9%eb%8b%88%eb%8b%a4/
+guid: http://marx.mytory.net/2009/06/25/%ec%9d%b4%eb%9e%80%ec%9d%98-%eb%af%bc%ec%a3%bc%ed%99%94-%ec%8b%9c%ec%9c%84%eb%a5%bc-%ec%a7%80%ec%a7%80%ed%95%a9%eb%8b%88%eb%8b%a4/
 permalink: /archives/219
 categories:
   - 정치논평
@@ -52,7 +52,7 @@ tags:
 이란이 혁명적 정부라면, 그래서 고립 속에서 어쩔 수 없는 난처한 정책을 펼쳐야 하는 상황이라면, 상황에 대한 정상참작이 가능할 수도 있다. [footnote]심지어 그런 상황이라도 비무장 시위대에 대한 발포는 용서받기 힘든 행위다. 혁명 직후의 러시아에서 시위대에 발포한 지역 소비에트가 있었는데, 발포 당일 지역 소비에트 집행위원 전원이 사퇴할 수밖에 없었다. 만약 이란이 민주적인 혁명 정권이라면 시위대에 대한 발포가 정권 내부로부터도 용납되지 않을 것이다.[/footnote] 
 
 <p style="text-align: center;">
-  <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile3.uf.1510D90F4A4390E628AF41.jpg" class="aligncenter" width="540" height="362" alt="한국 시민단체들의 이란 대사관 앞 항의시위 사진(20090625)" filename="protest_to_iran_G.jpg" filemime="image/jpeg" /><br /> △한국 시민단체들이 <a href="http://wspaper.org/article/6702" target="_blank" title="조명훈, “이란 대사관 앞 항의 집회 - “이란 정부는 민주화 요구 시민들에 대한 탄압과 살해를 중단하라!””, 레프트21, 2009-06-25">이란 대사관 앞에서 항의 기자회견</a>을 했다.
+  <img src="http://marx.mytory.net/wp-content/uploads/1/cfile3.uf.1510D90F4A4390E628AF41.jpg" class="aligncenter" width="540" height="362" alt="한국 시민단체들의 이란 대사관 앞 항의시위 사진(20090625)" filename="protest_to_iran_G.jpg" filemime="image/jpeg" /><br /> △한국 시민단체들이 <a href="http://wspaper.org/article/6702" target="_blank" title="조명훈, “이란 대사관 앞 항의 집회 - “이란 정부는 민주화 요구 시민들에 대한 탄압과 살해를 중단하라!””, 레프트21, 2009-06-25">이란 대사관 앞에서 항의 기자회견</a>을 했다.
 </p>
 
 따라서 현재 이란에서 ‘민주화’를 요구하는 시위가 일어난다면 전적으로 민중의 입장이 옳다. 게다가 이란 정부는 비무장 시위대에 발포했다. 용서받을 수 없다. 이명박이 시위대에 발포한 거나 다름 없다.

@@ -4,7 +4,7 @@ title: '[언론파업지지] ‘찰떡 단합’ 민주당, 이번엔 믿어봐�
 date: 2008-12-29T01:56:02+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/12/29/%ec%96%b8%eb%a1%a0%ed%8c%8c%ec%97%85%ec%a7%80%ec%a7%80-%ec%b0%b0%eb%96%a1-%eb%8b%a8%ed%95%a9-%eb%af%bc%ec%a3%bc%eb%8b%b9-%ec%9d%b4%eb%b2%88%ec%97%94-%eb%af%bf%ec%96%b4%eb%b4%90/
+guid: http://marx.mytory.net/2008/12/29/%ec%96%b8%eb%a1%a0%ed%8c%8c%ec%97%85%ec%a7%80%ec%a7%80-%ec%b0%b0%eb%96%a1-%eb%8b%a8%ed%95%a9-%eb%af%bc%ec%a3%bc%eb%8b%b9-%ec%9d%b4%eb%b2%88%ec%97%94-%eb%af%bf%ec%96%b4%eb%b4%90/
 permalink: /archives/76
 categories:
   - 정치논평

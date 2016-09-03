@@ -4,7 +4,7 @@ title: 6.10범국민대회-“민주주의 수호를 위해 저항하라!”
 date: 2009-06-08T00:50:33+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/06/08/610%eb%b2%94%ea%b5%ad%eb%af%bc%eb%8c%80%ed%9a%8c-%eb%af%bc%ec%a3%bc%ec%a3%bc%ec%9d%98-%ec%88%98%ed%98%b8%eb%a5%bc-%ec%9c%84%ed%95%b4-%ec%a0%80%ed%95%ad%ed%95%98%eb%9d%bc/
+guid: http://marx.mytory.net/2009/06/08/610%eb%b2%94%ea%b5%ad%eb%af%bc%eb%8c%80%ed%9a%8c-%eb%af%bc%ec%a3%bc%ec%a3%bc%ec%9d%98-%ec%88%98%ed%98%b8%eb%a5%bc-%ec%9c%84%ed%95%b4-%ec%a0%80%ed%95%ad%ed%95%98%eb%9d%bc/
 permalink: /archives/201
 categories:
   - 정치논평
@@ -22,7 +22,7 @@ tags:
   - 촛불
   - 한반도대운하
 ---
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile21.uf.1551721F4A2C5D667FC2E4.jpg" class="aligncenter" width="500" height="295" alt="" filename="20090610poster.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile21.uf.1551721F4A2C5D667FC2E4.jpg" class="aligncenter" width="500" height="295" alt="" filename="20090610poster.jpg" filemime="image/jpeg" />
 
 시민단체들, 전국의 대학 교수들, 총학생회들, 스님들, 신부님들이 나섰다. 이명박이 위협하는 민주주의를 지키기 위해. 한 목사님은 자결로서 자신의 뜻을 말했다… 그래서다. **6월 10일**, 그날의 함성을 다시 듣고 싶은 이유는.
 
@@ -42,9 +42,9 @@ tags:
 
 기억해 보라. 이명박은 집권한 지 1년 6개월밖에 안 됐다. 논리적 계산은 아니지만, 1.5년에 21가지 대표악행을 저질렀다면, 산술적으로 5년 간 70가지 악행을 저지를 수 있다. 그림으로 표현해 보면 다음과 같다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile4.uf.1451721F4A2C5D66809C41.png" class="aligncenter" width="450" height="320" alt="" filename="EvilGrapthOfLee.png" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile4.uf.1451721F4A2C5D66809C41.png" class="aligncenter" width="450" height="320" alt="" filename="EvilGrapthOfLee.png" filemime="image/jpeg" />
     
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile4.uf.1551721F4A2C5D6681132B.png" class="aligncenter" width="450" height="301" alt="" filename="EvilGrapthOfLee2.png" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile4.uf.1551721F4A2C5D6681132B.png" class="aligncenter" width="450" height="301" alt="" filename="EvilGrapthOfLee2.png" filemime="image/jpeg" />
 
 ## 철거민 한 명의 목숨
 
@@ -54,7 +54,7 @@ tags:
 
 광우병과 노무현 ─ 두 항목에만 벌써 수백만의 눈물이 스며있다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile1.uf.1151721F4A2C5D657C29BB.jpg" class="aligncenter" width="500" height="384" alt="" filename="0529Rho.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile1.uf.1151721F4A2C5D657C29BB.jpg" class="aligncenter" width="500" height="384" alt="" filename="0529Rho.jpg" filemime="image/jpeg" />
 
 ## 구제불능
 
@@ -62,7 +62,7 @@ tags:
 
 그러나 눈을 부릅뜨고 이명박을 보라. 어디 생각을 고쳐먹을성 싶나.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile22.uf.142767224A2C5E4E887119.jpg" class="aligncenter" width="499" height="445" alt="" filename="SmileOfLeeMB.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.142767224A2C5E4E887119.jpg" class="aligncenter" width="499" height="445" alt="" filename="SmileOfLeeMB.jpg" filemime="image/jpeg" />
 
 전 대통령의 영결식에서 표정관리 하나 제대로 못하는 천박한 정신의 소유자가 바로 이명박이다.
 
@@ -84,11 +84,11 @@ tags:
 
 22년 전 그 날처럼.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile1.uf.132B3C234A2C5FA59A0F50.jpg" class="aligncenter" width="450" height="522" alt="" filename="20090610poster2.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile1.uf.132B3C234A2C5FA59A0F50.jpg" class="aligncenter" width="450" height="522" alt="" filename="20090610poster2.jpg" filemime="image/jpeg" />
     
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile3.uf.1251721F4A2C5D657D68A2.jpg" class="aligncenter" width="500" height="375" alt="" filename="19870610-01.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile3.uf.1251721F4A2C5D657D68A2.jpg" class="aligncenter" width="500" height="375" alt="" filename="19870610-01.jpg" filemime="image/jpeg" />
     
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile22.uf.1451721F4A2C5D667E238C.jpg" class="aligncenter" width="500" height="375" alt="" filename="19870610-02.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.1451721F4A2C5D667E238C.jpg" class="aligncenter" width="500" height="375" alt="" filename="19870610-02.jpg" filemime="image/jpeg" />
 
 <div id="" class="gray-textbox">
   <p>
@@ -102,4 +102,4 @@ tags:
 
 <a href="http://www.blogkorea.net" target="_blank">블로그 코리아</a> 메인에 걸렸다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile22.uf.144514214A2C660EEFD771.PNG" class="aligncenter" width="550" height="246" alt="" filename="인증샷.PNG" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.144514214A2C660EEFD771.PNG" class="aligncenter" width="550" height="246" alt="" filename="인증샷.PNG" filemime="image/jpeg" />

@@ -4,7 +4,7 @@ title: 3월 경제 위기 전망과 ‘미네르바’ 구속
 date: 2009-01-14T06:57:24+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/01/14/3%ec%9b%94-%ea%b2%bd%ec%a0%9c-%ec%9c%84%ea%b8%b0-%ec%a0%84%eb%a7%9d%ea%b3%bc-%eb%af%b8%eb%84%a4%eb%a5%b4%eb%b0%94-%ea%b5%ac%ec%86%8d/
+guid: http://marx.mytory.net/2009/01/14/3%ec%9b%94-%ea%b2%bd%ec%a0%9c-%ec%9c%84%ea%b8%b0-%ec%a0%84%eb%a7%9d%ea%b3%bc-%eb%af%b8%eb%84%a4%eb%a5%b4%eb%b0%94-%ea%b5%ac%ec%86%8d/
 permalink: /archives/99
 categories:
   - 정치논평

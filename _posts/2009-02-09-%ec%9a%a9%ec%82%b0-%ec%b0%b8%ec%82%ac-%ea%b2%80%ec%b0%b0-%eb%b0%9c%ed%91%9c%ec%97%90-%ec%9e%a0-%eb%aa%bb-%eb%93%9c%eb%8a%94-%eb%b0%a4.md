@@ -4,7 +4,7 @@ title: 용산 참사 검찰 발표에 잠 못 드는 밤
 date: 2009-02-09T16:06:54+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/02/09/%ec%9a%a9%ec%82%b0-%ec%b0%b8%ec%82%ac-%ea%b2%80%ec%b0%b0-%eb%b0%9c%ed%91%9c%ec%97%90-%ec%9e%a0-%eb%aa%bb-%eb%93%9c%eb%8a%94-%eb%b0%a4/
+guid: http://marx.mytory.net/2009/02/09/%ec%9a%a9%ec%82%b0-%ec%b0%b8%ec%82%ac-%ea%b2%80%ec%b0%b0-%eb%b0%9c%ed%91%9c%ec%97%90-%ec%9e%a0-%eb%aa%bb-%eb%93%9c%eb%8a%94-%eb%b0%a4/
 permalink: /archives/141
 categories:
   - 정치논평
@@ -47,7 +47,7 @@ tags:
 
 오늘 지하철에서 <A HREF="http://mbout.jinbo.net"  target="_blank" title="용산참사대책위 홈페이지">대책위</A> 사람들이 나눠주는 유인물을 받았다. 힘 내시라는 말 한마디 하고 싶었다. 겨를이 없어 하지를 못해 못내 아쉬웠다. 거기서 이런 말을 봤다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/4990542503235EK.jpg" class="aligncenter" width="386" height="275" alt="" filename="pd-note.jpg" filemime="" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/4990542503235EK.jpg" class="aligncenter" width="386" height="275" alt="" filename="pd-note.jpg" filemime="" />
 
 > 저희는 결과 갖고 싸울 거예요, 왜 싸울 것이냐면 아이들한테 뭐라고 그러겠어요? 너희 할아버지 떼쟁이라고 그래요? 너희 할아버지 불 질러서 그렇게 됐다고 얘기해요? 아니잖아요.(이현선, 故이상림 씨 딸, <A HREF="http://www.imbc.com/broad/tv/culture/pd/vod/index.html?kind=text&#038;progCode=1000836100385100000&#038;pagesize=15&#038;pagenum=1&#038;cornerFlag=1&#038;ContentTypeID=1"  target="_blank" title="PD수첩 ‘용산 참사, 그들은 왜 망루에 올랐을까?’ 다시 보기"><PD수첩></A>)
 

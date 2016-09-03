@@ -4,7 +4,7 @@ title: 티스토리 통계와 구글 아날리틱스 Analytics 통계 격차
 date: 2008-11-16T12:57:37+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/11/16/%ed%8b%b0%ec%8a%a4%ed%86%a0%eb%a6%ac-%ed%86%b5%ea%b3%84%ec%99%80-%ea%b5%ac%ea%b8%80-%ec%95%84%eb%82%a0%eb%a6%ac%ed%8b%b1%ec%8a%a4-analytics-%ed%86%b5%ea%b3%84-%ea%b2%a9%ec%b0%a8/
+guid: http://marx.mytory.net/2008/11/16/%ed%8b%b0%ec%8a%a4%ed%86%a0%eb%a6%ac-%ed%86%b5%ea%b3%84%ec%99%80-%ea%b5%ac%ea%b8%80-%ec%95%84%eb%82%a0%eb%a6%ac%ed%8b%b1%ec%8a%a4-analytics-%ed%86%b5%ea%b3%84-%ea%b2%a9%ec%b0%a8/
 permalink: /archives/27
 categories:
   - 웹
@@ -47,11 +47,11 @@ tags:
 
 
   
-<P align=center><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/4920175277fa59Z.jpg" class="aligncenter" width="610" height="97" alt="" filename="blogkorea1.jpg" filemime="" />
+<P align=center><img src="http://marx.mytory.net/wp-content/uploads/1/4920175277fa59Z.jpg" class="aligncenter" width="610" height="97" alt="" filename="blogkorea1.jpg" filemime="" />
 
 
   
-<P align=center><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/492017531ed6a9Z.jpg" class="aligncenter" width="348" height="196" alt="" filename="blogkorea2.jpg" filemime="" /></P>
+<P align=center><img src="http://marx.mytory.net/wp-content/uploads/1/492017531ed6a9Z.jpg" class="aligncenter" width="348" height="196" alt="" filename="blogkorea2.jpg" filemime="" /></P>
   
 
 

@@ -4,7 +4,7 @@ title: 마르크스는 사회주의 사회 운영방법을 제시하지 못했�
 date: 2008-11-14T16:59:06+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/11/14/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%eb%8a%94-%ec%82%ac%ed%9a%8c%ec%a3%bc%ec%9d%98-%ec%82%ac%ed%9a%8c-%ec%9a%b4%ec%98%81%eb%b0%a9%eb%b2%95%ec%9d%84-%ec%a0%9c%ec%8b%9c%ed%95%98%ec%a7%80-%eb%aa%bb/
+guid: http://marx.mytory.net/2008/11/14/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%eb%8a%94-%ec%82%ac%ed%9a%8c%ec%a3%bc%ec%9d%98-%ec%82%ac%ed%9a%8c-%ec%9a%b4%ec%98%81%eb%b0%a9%eb%b2%95%ec%9d%84-%ec%a0%9c%ec%8b%9c%ed%95%98%ec%a7%80-%eb%aa%bb/
 permalink: /archives/19
 categories:
   - 마르크스주의

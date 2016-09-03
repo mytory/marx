@@ -4,7 +4,7 @@ title: 마르크스주의 입장에서 본 엘리트주의와 마르크스주의
 date: 2012-02-07T15:16:12+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2012/02/07/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98-%ec%9e%85%ec%9e%a5%ec%97%90%ec%84%9c-%eb%b3%b8-%ec%97%98%eb%a6%ac%ed%8a%b8%ec%a3%bc%ec%9d%98%ec%99%80-%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4/
+guid: http://marx.mytory.net/2012/02/07/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98-%ec%9e%85%ec%9e%a5%ec%97%90%ec%84%9c-%eb%b3%b8-%ec%97%98%eb%a6%ac%ed%8a%b8%ec%a3%bc%ec%9d%98%ec%99%80-%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4/
 permalink: /archives/541
 categories:
   - 마르크스주의
@@ -28,7 +28,7 @@ tags:
 
 대중을 무시했는가? 그렇다. 그럼 마르크스, 레닌은 엘리트주의자인가? 아니다. (왜 그런지는 읽어 보면 알 거다.)
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile24.uf.170F1D394F31401B2862D9.gif" class="aligncenter" width="333" height="349" alt="" filename="marx-4.gif" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile24.uf.170F1D394F31401B2862D9.gif" class="aligncenter" width="333" height="349" alt="" filename="marx-4.gif" filemime="image/jpeg" />
 
 ## 중요한 기준점 &#8211; 변화의 가능성에 대한 태도
 

@@ -4,7 +4,7 @@ title: 이명박, 차라리 국민을 다시 뽑아라.
 date: 2008-11-17T19:39:43+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/11/17/%ec%9d%b4%eb%aa%85%eb%b0%95-%ec%b0%a8%eb%9d%bc%eb%a6%ac-%ea%b5%ad%eb%af%bc%ec%9d%84-%eb%8b%a4%ec%8b%9c-%eb%bd%91%ec%95%84%eb%9d%bc/
+guid: http://marx.mytory.net/2008/11/17/%ec%9d%b4%eb%aa%85%eb%b0%95-%ec%b0%a8%eb%9d%bc%eb%a6%ac-%ea%b5%ad%eb%af%bc%ec%9d%84-%eb%8b%a4%ec%8b%9c-%eb%bd%91%ec%95%84%eb%9d%bc/
 permalink: /archives/30
 categories:
   - 마르크스주의
@@ -37,7 +37,7 @@ tags:
 위대하신 대통령 각하께서 오해 잘 하는 국민 만나서 힘드시니 조언 한마디 해 드리고 싶다. “여기 기막힌 해결책이 있는데 한 번 해보시던가.”
 
 <p align="center">
-  <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/4921c64f5f624CN.jpg" class="aligncenter" width="500" height="250" alt="" filename="stal-lee.jpg" filemime="" />
+  <img src="http://marx.mytory.net/wp-content/uploads/1/4921c64f5f624CN.jpg" class="aligncenter" width="500" height="250" alt="" filename="stal-lee.jpg" filemime="" />
 </p><p align=center>△ 차라리 국민을 다시 뽑아라.</p> </p> 
 
 <div class="txc-textbox" style="border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-top-color: rgb(193, 193, 193); border-right-color: rgb(193, 193, 193); border-bottom-color: rgb(193, 193, 193); border-left-color: rgb(193, 193, 193); background-color: rgb(238, 238, 238); padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px; ">

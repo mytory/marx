@@ -4,7 +4,7 @@ title: 1945년 해방 직후 조선공산당이 인민공화국을 대한 태도
 date: 2010-01-15T18:02:46+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2010/01/15/1945%eb%85%84-%ed%95%b4%eb%b0%a9-%ec%a7%81%ed%9b%84-%ec%a1%b0%ec%84%a0%ea%b3%b5%ec%82%b0%eb%8b%b9%ec%9d%b4-%ec%9d%b8%eb%af%bc%ea%b3%b5%ed%99%94%ea%b5%ad%ec%9d%84-%eb%8c%80%ed%95%9c-%ed%83%9c%eb%8f%84/
+guid: http://marx.mytory.net/2010/01/15/1945%eb%85%84-%ed%95%b4%eb%b0%a9-%ec%a7%81%ed%9b%84-%ec%a1%b0%ec%84%a0%ea%b3%b5%ec%82%b0%eb%8b%b9%ec%9d%b4-%ec%9d%b8%eb%af%bc%ea%b3%b5%ed%99%94%ea%b5%ad%ec%9d%84-%eb%8c%80%ed%95%9c-%ed%83%9c%eb%8f%84/
 permalink: /archives/346
 categories:
   - 학습
@@ -45,7 +45,7 @@ tags:
   
 
 
-<figure style="width: 500px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile23.uf.1365D40D4B50AD9006D085.png" width="500" height="375" alt="" filename="cfile23.uf.1365D40D4B50AD9006D085.png" filemime="" /><figcaption class="wp-caption-text">△제주도에도 미군정이 실시된다. 내려진 일장기 대신 태극기가 아닌 성조기가 올라간다. / 제주도의 건국준비위원회 지부는 1945년 9월 22일 인민위원회로 재편성된다. / 출처 : http://jeju.cc/1886</figcaption></figure>
+<figure style="width: 500px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile23.uf.1365D40D4B50AD9006D085.png" width="500" height="375" alt="" filename="cfile23.uf.1365D40D4B50AD9006D085.png" filemime="" /><figcaption class="wp-caption-text">△제주도에도 미군정이 실시된다. 내려진 일장기 대신 태극기가 아닌 성조기가 올라간다. / 제주도의 건국준비위원회 지부는 1945년 9월 22일 인민위원회로 재편성된다. / 출처 : http://jeju.cc/1886</figcaption></figure>
   
 
 

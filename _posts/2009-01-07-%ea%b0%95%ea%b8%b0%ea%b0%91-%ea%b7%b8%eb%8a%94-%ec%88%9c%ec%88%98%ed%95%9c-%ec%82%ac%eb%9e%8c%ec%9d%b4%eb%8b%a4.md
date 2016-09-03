@@ -4,7 +4,7 @@ title: 강기갑, 그는 순수한 사람이다.
 date: 2009-01-07T00:00:00+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/01/07/%ea%b0%95%ea%b8%b0%ea%b0%91-%ea%b7%b8%eb%8a%94-%ec%88%9c%ec%88%98%ed%95%9c-%ec%82%ac%eb%9e%8c%ec%9d%b4%eb%8b%a4/
+guid: http://marx.mytory.net/2009/01/07/%ea%b0%95%ea%b8%b0%ea%b0%91-%ea%b7%b8%eb%8a%94-%ec%88%9c%ec%88%98%ed%95%9c-%ec%82%ac%eb%9e%8c%ec%9d%b4%eb%8b%a4/
 permalink: /archives/93
 categories:
   - 세상살이
@@ -39,7 +39,7 @@ tags:
   
 
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/493ea4360329aE0.jpg" class="aligncenter" width="600" height="400" alt="" filename="kangdalp.jpg" filemime="" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/493ea4360329aE0.jpg" class="aligncenter" width="600" height="400" alt="" filename="kangdalp.jpg" filemime="" />
 
 
   

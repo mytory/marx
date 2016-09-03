@@ -4,7 +4,7 @@ title: 고대녀 김지윤, 출교 관련한 글 모음
 date: 2011-11-14T15:14:17+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2011/11/14/%ea%b3%a0%eb%8c%80%eb%85%80-%ea%b9%80%ec%a7%80%ec%9c%a4-%ec%b6%9c%ea%b5%90-%ea%b4%80%eb%a0%a8%ed%95%9c-%ea%b8%80-%eb%aa%a8%ec%9d%8c/
+guid: http://marx.mytory.net/2011/11/14/%ea%b3%a0%eb%8c%80%eb%85%80-%ea%b9%80%ec%a7%80%ec%9c%a4-%ec%b6%9c%ea%b5%90-%ea%b4%80%eb%a0%a8%ed%95%9c-%ea%b8%80-%eb%aa%a8%ec%9d%8c/
 permalink: /archives/532
 categories:
   - 투쟁
@@ -35,7 +35,7 @@ tags:
 
 당연히 나는 지윤이를 응원하는 입장이다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile9.uf.162A73334EC1300F0F1C61.jpg" class="aligncenter" width="550" height="400" alt="" filename="28035620_kim01.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile9.uf.162A73334EC1300F0F1C61.jpg" class="aligncenter" width="550" height="400" alt="" filename="28035620_kim01.jpg" filemime="image/jpeg" />
 
 <p style="text-align: center; ">
   △지윤이. 출처:&nbsp;<a href="http://www.vop.co.kr/A00000276475.html" target="_blank" title="[http://www.vop.co.kr/A00000276475.html]로 이동합니다.">유학준비생 김지윤이 ‘고대녀’가 된 까닭은?</a>

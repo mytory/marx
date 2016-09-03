@@ -4,7 +4,7 @@ title: 마르크스주의와 노동자 투쟁
 date: 2009-07-01T10:45:45+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/07/01/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98%ec%99%80-%eb%85%b8%eb%8f%99%ec%9e%90-%ed%88%ac%ec%9f%81/
+guid: http://marx.mytory.net/2009/07/01/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98%ec%99%80-%eb%85%b8%eb%8f%99%ec%9e%90-%ed%88%ac%ec%9f%81/
 permalink: /archives/230
 categories:
   - 마르크스주의
@@ -39,7 +39,7 @@ tags:
 ## 노동계급</p> 
 
 <p style="text-align: center;">
-  <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile23.uf.116807174A4B3DCD7EDE10.jpg" class="aligncenter" width="540" height="360" filename="_MG_8616.jpg" filemime="image/jpeg" />
+  <img src="http://marx.mytory.net/wp-content/uploads/1/cfile23.uf.116807174A4B3DCD7EDE10.jpg" class="aligncenter" width="540" height="360" filename="_MG_8616.jpg" filemime="image/jpeg" />
 </p>
 
 
@@ -64,7 +64,7 @@ tags:
 
 <p style="text-align: center; ">
   <p style="text-align: center;">
-    <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile5.uf.1126AC154A4B3DE20374F0.jpg" class="aligncenter" width="500" height="358" filename="73.jpg" filemime="image/jpeg" />
+    <img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.1126AC154A4B3DE20374F0.jpg" class="aligncenter" width="500" height="358" filename="73.jpg" filemime="image/jpeg" />
   </p>
   
   <p>

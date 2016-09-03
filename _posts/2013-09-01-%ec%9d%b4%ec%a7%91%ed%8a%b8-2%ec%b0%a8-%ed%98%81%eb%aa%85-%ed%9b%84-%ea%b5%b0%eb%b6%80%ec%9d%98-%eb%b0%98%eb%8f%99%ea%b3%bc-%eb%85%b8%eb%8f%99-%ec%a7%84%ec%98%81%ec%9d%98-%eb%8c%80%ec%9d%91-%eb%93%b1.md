@@ -4,7 +4,7 @@ title: '[이집트] 2차 혁명 후 군부의 반동과 노동 진영의 대응 
 date: 2013-09-01T10:20:24+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2013/09/01/%ec%9d%b4%ec%a7%91%ed%8a%b8-2%ec%b0%a8-%ed%98%81%eb%aa%85-%ed%9b%84-%ea%b5%b0%eb%b6%80%ec%9d%98-%eb%b0%98%eb%8f%99%ea%b3%bc-%eb%85%b8%eb%8f%99-%ec%a7%84%ec%98%81%ec%9d%98-%eb%8c%80%ec%9d%91-%eb%93%b1/
+guid: http://marx.mytory.net/2013/09/01/%ec%9d%b4%ec%a7%91%ed%8a%b8-2%ec%b0%a8-%ed%98%81%eb%aa%85-%ed%9b%84-%ea%b5%b0%eb%b6%80%ec%9d%98-%eb%b0%98%eb%8f%99%ea%b3%bc-%eb%85%b8%eb%8f%99-%ec%a7%84%ec%98%81%ec%9d%98-%eb%8c%80%ec%9d%91-%eb%93%b1/
 permalink: /archives/578
 categories:
   - 정치논평
@@ -12,7 +12,7 @@ categories:
 <a href="http://wspaper.org/F_recommend-external.php" target="_blank" class="tx-link">&lt;레프트21&gt;</a><a href="http://wspaper.org/F_recommend-external.php" target="_blank" class="tx-link">&nbsp;추천 외부글</a>에 있는 &lt;참세상&gt; 기사 <a href="http://www.newscham.net/news/view.php?board=news&nid=71323" target="_blank" class="tx-link">&#8220;6월 30일 이후 이집트 노동자 &#8211; 무르시 해임에 대한 이집트 노동운동의 입장과 평가&#8221;</a>를 읽고 정리한 것과 떠오른 단상이다.
 
 <p style="text-align: center; clear: none; float: none;">
-  <figure style="width: 540px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile30.uf.2313AB345223147A0FE706.jpg" width="540" height="357" filename="left21_0110_19.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">△이집트 군부는 ‘테러와의 전쟁’ 중 - 군부는 무슬림형제단에 이어 혁명 자체를 ‘테러’라며 도륙하고 싶어한다. ⓒ사진 출처, @Eslam Mokka (트위터), 에서 재인용</figcaption></figure>
+  <figure style="width: 540px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile30.uf.2313AB345223147A0FE706.jpg" width="540" height="357" filename="left21_0110_19.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">△이집트 군부는 ‘테러와의 전쟁’ 중 - 군부는 무슬림형제단에 이어 혁명 자체를 ‘테러’라며 도륙하고 싶어한다. ⓒ사진 출처, @Eslam Mokka (트위터), 에서 재인용</figcaption></figure>
 </p>
 
 <span style="font-family: 돋움; font-size: 9pt; line-height: 1.5;">낯선 단체와 이름 때문에 심혈을 기울여 봐야 하는데, 여튼간에 핵심적으로 볼 수 있는 것은 다음과 같다. (독립노조연맹과 민주노동회의는 독립노조들의 연맹체이며 혁명 이후 새로 생겼다. 어용 노조였던 곳은 이집트노총이다.)</span>

@@ -4,7 +4,7 @@ title: 마르크스는 오늘날 경제 위기를 어떻게 볼까?
 date: 2008-11-13T19:20:04+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/11/13/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%eb%8a%94-%ec%98%a4%eb%8a%98%eb%82%a0-%ea%b2%bd%ec%a0%9c-%ec%9c%84%ea%b8%b0%eb%a5%bc-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%b3%bc%ea%b9%8c/
+guid: http://marx.mytory.net/2008/11/13/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%eb%8a%94-%ec%98%a4%eb%8a%98%eb%82%a0-%ea%b2%bd%ec%a0%9c-%ec%9c%84%ea%b8%b0%eb%a5%bc-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%b3%bc%ea%b9%8c/
 permalink: /archives/16
 categories:
   - 마르크스주의
@@ -26,7 +26,7 @@ tags:
 
 물론 이런 정도는 자본주의를 옹호하는 경제학자들도 ‘경험적으로’<font color="gray">(그들은 결코 이것을 과학적으로 분석하지 못한다)</font>&nbsp;알고 있는 사실이다. 그렇지만 마르크스의 독창적 기여는 위기가 심화하는 경향성(이윤율 저하 경향)을 밝혀낸 데 있다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile5.uf.14098D4D4E1C8A27231AE1.jpg" class="aligncenter" width="289" height="174" alt="" filename="images (1).jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.14098D4D4E1C8A27231AE1.jpg" class="aligncenter" width="289" height="174" alt="" filename="images (1).jpg" filemime="image/jpeg" />
 
 위 그림은 독일과 미국, 일본의 제조업 순이율 그래프다.&nbsp;이윤율이 계속 하락해 온 것을 알 수 있다.
 

@@ -4,7 +4,7 @@ title: 마르크스주의는 결정론·교조주의다?
 date: 2009-12-13T13:17:44+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/12/13/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98%eb%8a%94-%ea%b2%b0%ec%a0%95%eb%a1%a0%c2%b7%ea%b5%90%ec%a1%b0%ec%a3%bc%ec%9d%98%eb%8b%a4/
+guid: http://marx.mytory.net/2009/12/13/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98%eb%8a%94-%ea%b2%b0%ec%a0%95%eb%a1%a0%c2%b7%ea%b5%90%ec%a1%b0%ec%a3%bc%ec%9d%98%eb%8b%a4/
 permalink: /archives/322
 categories:
   - 마르크스주의
@@ -30,7 +30,7 @@ tags:
 
 ## 마르크스ㆍ레닌주의 = 스탈린주의
 
-<figure style="width: 250px" class="wp-caption alignright"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile22.uf.136369274B24E877191082.jpg" width="250" height="356" alt="독재자들" filename="cfile22.uf.136369274B24E877191082.jpg" filemime="" /><figcaption class="wp-caption-text">마르크스ㆍ레닌주의는 독재자였던 스탈린의 사상을 일컽는 말이다. 마르크스ㆍ레닌주의라는 이름과 전혀 어울리지 않는다.
+<figure style="width: 250px" class="wp-caption alignright"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.136369274B24E877191082.jpg" width="250" height="356" alt="독재자들" filename="cfile22.uf.136369274B24E877191082.jpg" filemime="" /><figcaption class="wp-caption-text">마르크스ㆍ레닌주의는 독재자였던 스탈린의 사상을 일컽는 말이다. 마르크스ㆍ레닌주의라는 이름과 전혀 어울리지 않는다.
   
 물론 스탈린과 히틀러는 다른 유형의 독재자다. http://wspaper.org/article/385</figcaption></figure>내 이론적 내공이 짧긴 하지만, 간단하게 쓸 수는 있다. 위 글에 등장하는 마르크스ㆍ레닌주의라는 단어는 실상 ‘스탈린주의’를 의미한다. 러시아에서 스탈린은 동료 혁명가들을 모두 살해하거나 추방했다. 노동자 민주주의는 17개국의 침입과 반혁명군이 일으킨 내전으로 인해 질식했다. 산업이 붕괴한 상황에서 ‘노동자 민주주의’라는 말 자체가 성립 불가능했다.
 
@@ -48,7 +48,7 @@ tags:
 
 중앙위원뿐 아니라 대의원들도 스탈린에게는 두려움의 대상이었던 모양이다. 혁명의 기억을 가진, 다시 말해 노동자 민주주의의 기억을 가진 이들은 모두 없어져야 했다.<figure style="width: 610px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile2.uf.1305760B4B24E6201DFA4E.jpg" width="610" height="664" alt="1917년 볼셰비키 중앙위원들" filename="cfile2.uf.1305760B4B24E6201DFA4E.jpg" filemime="" /><figcaption class="wp-caption-text">1917년 당시 볼셰비키 중앙위원들 사진. 빨간 글씨는 처형/암살, 초록 글씨는 스탈린 밑에서 오래 산 사람들, 회색은 병사, 자주색은 전사나 자살인 듯하다.(영어가 짧아서.) 출처는 marxists.org라고 써있다.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile2.uf.1305760B4B24E6201DFA4E.jpg" width="610" height="664" alt="1917년 볼셰비키 중앙위원들" filename="cfile2.uf.1305760B4B24E6201DFA4E.jpg" filemime="" /><figcaption class="wp-caption-text">1917년 당시 볼셰비키 중앙위원들 사진. 빨간 글씨는 처형/암살, 초록 글씨는 스탈린 밑에서 오래 산 사람들, 회색은 병사, 자주색은 전사나 자살인 듯하다.(영어가 짧아서.) 출처는 marxists.org라고 써있다.</figcaption></figure> 
 
 이게 바로 <시사IN>에서 말한 ‘배교자 숙청’의 진상일 터다.
 
@@ -74,7 +74,7 @@ tags:
 
 ## 마르크스주의는 자본주의가 ‘절대적으로 궁핍화된’ 노동계급을 낳는다고 주장하는가?<figure style="width: 307px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile27.uf.191076284B24E92F311578.jpg" width="307" height="449" alt="마르크스 뉴욕에 가다 책표지" filename="cfile27.uf.191076284B24E92F311578.jpg" filemime="" /><figcaption class="wp-caption-text">마르크스에 대해 간단히 알고 싶으면 이 책 추천한다.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile27.uf.191076284B24E92F311578.jpg" width="307" height="449" alt="마르크스 뉴욕에 가다 책표지" filename="cfile27.uf.191076284B24E92F311578.jpg" filemime="" /><figcaption class="wp-caption-text">마르크스에 대해 간단히 알고 싶으면 이 책 추천한다.</figcaption></figure> 
 
 그리고 절대적으로 빈곤한 노동계급이 폭력혁명을 일으킬 것이라는 부분에 대한 마르크스주의자의 견해를 들어 보자.(알렉스 캘리니코스는 세계적인 마르크스주의자니까.)
 

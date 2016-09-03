@@ -4,7 +4,7 @@ title: 마르크스주의와 변증법
 date: 2010-08-29T07:23:53+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2010/08/29/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98%ec%99%80-%eb%b3%80%ec%a6%9d%eb%b2%95/
+guid: http://marx.mytory.net/2010/08/29/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98%ec%99%80-%eb%b3%80%ec%a6%9d%eb%b2%95/
 permalink: /archives/401
 categories:
   - 마르크스주의
@@ -64,7 +64,7 @@ tags:
 첫째, 외부 충격으로 인한 변화가 있다.&nbsp;
 
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile6.uf.157CC8024C79FC2A486A3F.jpg" class="aligncenter" width="480" height="309" alt="" filename="c0092287_4bbd6e7b4efd8.jpg" filemime="image/jpeg" /> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile6.uf.157CC8024C79FC2A486A3F.jpg" class="aligncenter" width="480" height="309" alt="" filename="c0092287_4bbd6e7b4efd8.jpg" filemime="image/jpeg" /> 
 
 천안함이 내부 모순으로 무너졌을지 외부 충격으로 폭파됐을지는 모르지만 여튼간에 어뢰를 맞은 배는 철조각으로 ‘변한다’. 
 
@@ -74,7 +74,7 @@ tags:
 
 천안함이 균열로 인해 무너졌다고 보는 입장이라면 아래같은 그림을 그릴 수 있겠죠.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile5.uf.132635044C79FD22093972.jpg" class="aligncenter" width="540" height="270" alt="" filename="MA0401D피로파괴40 copy.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.132635044C79FD22093972.jpg" class="aligncenter" width="540" height="270" alt="" filename="MA0401D피로파괴40 copy.jpg" filemime="image/jpeg" />
 
 (<a href="http://www.cinema4d.co.kr/939943" target="_blank" title="[http://www.cinema4d.co.kr/939943]로 이동합니다.">이 사진의 출처는 씨네마포디 한국 유저 그룹</a>입니다.)
 
@@ -129,7 +129,7 @@ tags:
 
 노조가 ‘추가 성희롱 피해 사례를 모으기 시작했다’는 부분이 있죠? 노조가 조사를 하기 전에는 사람들이 그냥 참았다는 말입니다. 왜요? 경제적으로 자유롭지 못하니까 사장한테 함부로 대들 수가 없었던 거죠. <figure style="width: 300px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile25.uf.17750A1B4C7A056F37CB94.gif" width="300" height="362" alt="" filename="cfile25.uf.17750A1B4C7A056F37CB94.gif" filemime="" /><figcaption class="wp-caption-text">△사장에게 성희롱 당하는 여성들이 바보라서 아무 말도 못할까요?</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile25.uf.17750A1B4C7A056F37CB94.gif" width="300" height="362" alt="" filename="cfile25.uf.17750A1B4C7A056F37CB94.gif" filemime="" /><figcaption class="wp-caption-text">△사장에게 성희롱 당하는 여성들이 바보라서 아무 말도 못할까요?</figcaption></figure> 
 
 정치적 자유와 경제적 자유 사이의 모순입니다. 이게 자본주의예요.
 
@@ -155,7 +155,7 @@ tags:
 
 &#8220;상인들이 먹여 살립니다.&#8221;<figure style="width: 480px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile5.uf.1559DD1E4C7A03DA5BED4C.jpg" width="480" height="319" alt="" filename="cfile5.uf.1559DD1E4C7A03DA5BED4C.jpg" filemime="" /><figcaption class="wp-caption-text">△“장사치들이란 자신의 이익을 위해서 속임수도 가리지 않는데, 그런 장사치들이 백성을 먹여살린다고?” 하는 전우치의 말은 자본주의의 모순을 날카롭게 지적하는 말입니다.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.1559DD1E4C7A03DA5BED4C.jpg" width="480" height="319" alt="" filename="cfile5.uf.1559DD1E4C7A03DA5BED4C.jpg" filemime="" /><figcaption class="wp-caption-text">△“장사치들이란 자신의 이익을 위해서 속임수도 가리지 않는데, 그런 장사치들이 백성을 먹여살린다고?” 하는 전우치의 말은 자본주의의 모순을 날카롭게 지적하는 말입니다.</figcaption></figure> 
 
 오호 통재라! 우리 전우치는 한탄합니다.
 
@@ -169,7 +169,7 @@ tags:
 
 물론 자본주의를 옹호하는 경제학자들은 사적 소유를 향한 이기심이 자연히 공공성을 충족시키니 이 얼마나 아름다운가! 하고 외칩니다.&nbsp;<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile28.uf.1974E60C4C7A04BA70E91B.jpg" width="540" height="420" alt="" filename="cfile28.uf.1974E60C4C7A04BA70E91B.jpg" filemime="" /><figcaption class="wp-caption-text">△이건희의 이기심이 우리를 먹여살리니 얼마나 아름다운가!</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile28.uf.1974E60C4C7A04BA70E91B.jpg" width="540" height="420" alt="" filename="cfile28.uf.1974E60C4C7A04BA70E91B.jpg" filemime="" /><figcaption class="wp-caption-text">△이건희의 이기심이 우리를 먹여살리니 얼마나 아름다운가!</figcaption></figure> 
 
 정말 그런가요? 삼성 이건희가 반도체 공장 노동자들이 백혈병에 걸려 죽어 나자빠져도 결코 산업재해라고 인정하지 않고 외면하는 걸 보면 별로 그런 것 같지도 않습니다.
 
@@ -192,7 +192,7 @@ tags:
   </li>
 </ul><figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile2.uf.185851254C7A05004A8D9B.jpg" width="540" height="362" alt="" filename="cfile2.uf.185851254C7A05004A8D9B.jpg" filemime="" /><figcaption class="wp-caption-text">△니가 뭔데 우릴 맘대로 짜르냐구!</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile2.uf.185851254C7A05004A8D9B.jpg" width="540" height="362" alt="" filename="cfile2.uf.185851254C7A05004A8D9B.jpg" filemime="" /><figcaption class="wp-caption-text">△니가 뭔데 우릴 맘대로 짜르냐구!</figcaption></figure> 
 
 이런 그림 자주 보시죠? 네. 쌍용차 때 그랬습니다. 완전 모순이죠. 이런 모순은 경제 위기 때만 되면 첨예해 집니다.
 
@@ -228,7 +228,7 @@ tags:
 
 제가 무슨 말을 하려고 하는지 아시겠어요? “따지고 보면, 이런 문제는 소위 ‘민주화’ 과정이라고 부르는 지난 10~20년 동안에 꾸준히 발전해 왔던 일이다.” 이 부분입니다. 즉, 촛불이라는 질적 도약이 있기까지 수많은 변화가 천천히 쌓여 왔다는 것입니다.<figure style="width: 480px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile6.uf.190BAD0F4C7A099D446F36.jpg" width="480" height="360" alt="" filename="cfile6.uf.190BAD0F4C7A099D446F36.jpg" filemime="" /><figcaption class="wp-caption-text">△이런 엄청난 시위가 느닷없이 등장했다고 설명하는 거 자체가 이상하죠. 대중이 보수화했네 하면서 예상 못한 사회운동가들은 반성해야 합니다. 대중 투쟁의 가능성을 주장했던 거의 유일한 진보진영 세력은 ‘다함께’였습니다. http://wspaper.org/article/4883</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile6.uf.190BAD0F4C7A099D446F36.jpg" width="480" height="360" alt="" filename="cfile6.uf.190BAD0F4C7A099D446F36.jpg" filemime="" /><figcaption class="wp-caption-text">△이런 엄청난 시위가 느닷없이 등장했다고 설명하는 거 자체가 이상하죠. 대중이 보수화했네 하면서 예상 못한 사회운동가들은 반성해야 합니다. 대중 투쟁의 가능성을 주장했던 거의 유일한 진보진영 세력은 ‘다함께’였습니다. http://wspaper.org/article/4883</figcaption></figure> 
 
 촛불의 시발점이 된 광우병 쇠고기 문제 역시 한미FTA 반대 투쟁을 할 때 민주노동당 등에서 꾸준히 제기해 온 문제입니다. 그런 꾸준한 제기가 쌓여서 촛불에 불을 댕긴 것이지요.
 

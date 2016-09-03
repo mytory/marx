@@ -4,7 +4,7 @@ title: '애완동물 분양 전문 쇼핑몰 굿사파리의 구매후기 고소
 date: 2011-01-11T12:01:37+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2011/01/11/%ec%95%a0%ec%99%84%eb%8f%99%eb%ac%bc-%eb%b6%84%ec%96%91-%ec%a0%84%eb%ac%b8-%ec%87%bc%ed%95%91%eb%aa%b0-%ea%b5%bf%ec%82%ac%ed%8c%8c%eb%a6%ac%ec%9d%98-%ea%b5%ac%eb%a7%a4%ed%9b%84%ea%b8%b0-%ea%b3%a0/
+guid: http://marx.mytory.net/2011/01/11/%ec%95%a0%ec%99%84%eb%8f%99%eb%ac%bc-%eb%b6%84%ec%96%91-%ec%a0%84%eb%ac%b8-%ec%87%bc%ed%95%91%eb%aa%b0-%ea%b5%bf%ec%82%ac%ed%8c%8c%eb%a6%ac%ec%9d%98-%ea%b5%ac%eb%a7%a4%ed%9b%84%ea%b8%b0-%ea%b3%a0/
 permalink: /archives/431
 categories:
   - 세상살이
@@ -102,7 +102,7 @@ tags:
 
 굿사파리는 많은 글에 위 공지와 같은 내용의 글을 댓글로 달고 있다.&nbsp;<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile10.uf.141E603B4D2C42401DEFEF.jpg" width="540" height="631" alt="" filename="cfile10.uf.141E603B4D2C42401DEFEF.jpg" filemime="" /><figcaption class="wp-caption-text">△위 댓글의 출처는 http://blog.naver.com/PostView.nhn?blogId=blueblack12&logNo=80116888630 여기다. 내가 맨 앞에 인용한 그 글에 달린 댓글이다.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile10.uf.141E603B4D2C42401DEFEF.jpg" width="540" height="631" alt="" filename="cfile10.uf.141E603B4D2C42401DEFEF.jpg" filemime="" /><figcaption class="wp-caption-text">△위 댓글의 출처는 http://blog.naver.com/PostView.nhn?blogId=blueblack12&logNo=80116888630 여기다. 내가 맨 앞에 인용한 그 글에 달린 댓글이다.</figcaption></figure> 
 
 때문에 자신의 후기를 삭제한 사용자도 있다. 아래 글이 바로 그런 글이다.</p> 
 

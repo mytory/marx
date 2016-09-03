@@ -4,7 +4,7 @@ title: 2월 7일(토) 오후 4시 청계광장에서 모입시다 (영상)
 date: 2009-02-04T14:49:50+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/02/04/2%ec%9b%94-7%ec%9d%bc%ed%86%a0-%ec%98%a4%ed%9b%84-4%ec%8b%9c-%ec%b2%ad%ea%b3%84%ea%b4%91%ec%9e%a5%ec%97%90%ec%84%9c-%eb%aa%a8%ec%9e%85%ec%8b%9c%eb%8b%a4-%ec%98%81%ec%83%81/
+guid: http://marx.mytory.net/2009/02/04/2%ec%9b%94-7%ec%9d%bc%ed%86%a0-%ec%98%a4%ed%9b%84-4%ec%8b%9c-%ec%b2%ad%ea%b3%84%ea%b4%91%ec%9e%a5%ec%97%90%ec%84%9c-%eb%aa%a8%ec%9e%85%ec%8b%9c%eb%8b%a4-%ec%98%81%ec%83%81/
 permalink: /archives/140
 categories:
   - 추천하고 싶은 글

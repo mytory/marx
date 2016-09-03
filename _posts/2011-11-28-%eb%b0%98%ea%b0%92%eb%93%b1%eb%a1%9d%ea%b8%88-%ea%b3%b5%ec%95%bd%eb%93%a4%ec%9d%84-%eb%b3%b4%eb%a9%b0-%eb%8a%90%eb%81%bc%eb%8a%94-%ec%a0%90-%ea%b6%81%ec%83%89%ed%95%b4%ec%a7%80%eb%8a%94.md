@@ -4,7 +4,7 @@ title: '반값등록금 공약들을 보며 느끼는 점 &#8211; 궁색해지�
 date: 2011-11-28T01:15:08+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2011/11/28/%eb%b0%98%ea%b0%92%eb%93%b1%eb%a1%9d%ea%b8%88-%ea%b3%b5%ec%95%bd%eb%93%a4%ec%9d%84-%eb%b3%b4%eb%a9%b0-%eb%8a%90%eb%81%bc%eb%8a%94-%ec%a0%90-%ea%b6%81%ec%83%89%ed%95%b4%ec%a7%80%eb%8a%94/
+guid: http://marx.mytory.net/2011/11/28/%eb%b0%98%ea%b0%92%eb%93%b1%eb%a1%9d%ea%b8%88-%ea%b3%b5%ec%95%bd%eb%93%a4%ec%9d%84-%eb%b3%b4%eb%a9%b0-%eb%8a%90%eb%81%bc%eb%8a%94-%ec%a0%90-%ea%b6%81%ec%83%89%ed%95%b4%ec%a7%80%eb%8a%94/
 permalink: /archives/535
 categories:
   - 투쟁
@@ -53,7 +53,7 @@ categories:
 
 역설적으로 내 기억에 지난 10년 간 가장 고율의 등록금 인상이 됐던 때가 바로 박상하가 총학생회장이었던 2007년이다. 7.5퍼센트 인상으로 당시 5년 간 최고의 등록금 인상률이었는데, 박상하는 당시 그걸 정당화하기 위해서였는지 예전엔 등록금 투쟁에 2천 만 원이 사용됐다면서 투쟁을 비난했다. 어이없다. 만약 2007년에도 등록금 인상률이 2006년처럼 6퍼센트에 머물렀다면 학생들은 32억을 덜 내게 됐을 것이다. 산술적인 계산이지만 말이다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile2.uf.175EDB334ED2E3C305D2AB.jpg" class="alignleft" width="300" height="447" alt="" filename="20110611130626_0045.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile2.uf.175EDB334ED2E3C305D2AB.jpg" class="alignleft" width="300" height="447" alt="" filename="20110611130626_0045.jpg" filemime="image/jpeg" />
 
 2008년은 등록금 투쟁에서 전환점이 되는 해다. 그 해 등록금 네트워크가 만들어졌고, 드디어 등록금이 사회적 의제가 됐다. 2000년대 초반부터 등록금 문제를 대학생들이 제기하고 투쟁해 온 성과였다. 박상하는 이 점을 이해하지 못하겠지만 말이다. 2007년 말에 이명박이 반값등록금을 대선 공약으로 걸었던 이유는 뭐라고 생각하는가? 학생들이 투쟁하지 않고 박상하처럼 총장‘님’과 대화나 하고 ‘아 오르는 데는 이유가 있군요’ 했다면 이명박 같은 놈이 그걸 공약으로 걸었을까.
 

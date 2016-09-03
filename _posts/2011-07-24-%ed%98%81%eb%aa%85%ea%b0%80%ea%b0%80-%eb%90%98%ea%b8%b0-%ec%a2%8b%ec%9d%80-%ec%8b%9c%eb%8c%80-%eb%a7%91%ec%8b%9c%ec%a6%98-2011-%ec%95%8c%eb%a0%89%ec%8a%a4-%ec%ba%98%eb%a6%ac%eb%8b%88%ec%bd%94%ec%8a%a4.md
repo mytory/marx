@@ -4,12 +4,12 @@ title: '&#8220;혁명가가 되기 좋은 시대&#8221; &#8211; 맑시즘 2011 �
 date: 2011-07-24T09:46:18+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2011/07/24/%ed%98%81%eb%aa%85%ea%b0%80%ea%b0%80-%eb%90%98%ea%b8%b0-%ec%a2%8b%ec%9d%80-%ec%8b%9c%eb%8c%80-%eb%a7%91%ec%8b%9c%ec%a6%98-2011-%ec%95%8c%eb%a0%89%ec%8a%a4-%ec%ba%98%eb%a6%ac%eb%8b%88%ec%bd%94%ec%8a%a4/
+guid: http://marx.mytory.net/2011/07/24/%ed%98%81%eb%aa%85%ea%b0%80%ea%b0%80-%eb%90%98%ea%b8%b0-%ec%a2%8b%ec%9d%80-%ec%8b%9c%eb%8c%80-%eb%a7%91%ec%8b%9c%ec%a6%98-2011-%ec%95%8c%eb%a0%89%ec%8a%a4-%ec%ba%98%eb%a6%ac%eb%8b%88%ec%bd%94%ec%8a%a4/
 permalink: /archives/515
 categories:
   - 강연회/토론회 후기
 ---
-<figure style="width: 540px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile4.uf.165A28564E3BBC48369B4D.jpg" width="540" height="360" alt="" filename="cfile4.uf.165A28564E3BBC48369B4D.jpg" filemime="" /><figcaption class="wp-caption-text">△강연 중인 알렉스</figcaption></figure> 
+<figure style="width: 540px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile4.uf.165A28564E3BBC48369B4D.jpg" width="540" height="360" alt="" filename="cfile4.uf.165A28564E3BBC48369B4D.jpg" filemime="" /><figcaption class="wp-caption-text">△강연 중인 알렉스</figcaption></figure> 
 
 ## 맑스의 자유무역에 대한 견해
 

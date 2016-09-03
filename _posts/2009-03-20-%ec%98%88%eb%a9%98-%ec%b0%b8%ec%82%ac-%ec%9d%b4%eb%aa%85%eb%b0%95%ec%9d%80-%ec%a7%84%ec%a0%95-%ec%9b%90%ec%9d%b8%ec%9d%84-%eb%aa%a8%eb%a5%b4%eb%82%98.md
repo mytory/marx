@@ -4,7 +4,7 @@ title: 예멘 참사, 이명박은 진정 원인을 모르나
 date: 2009-03-20T16:33:30+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/03/20/%ec%98%88%eb%a9%98-%ec%b0%b8%ec%82%ac-%ec%9d%b4%eb%aa%85%eb%b0%95%ec%9d%80-%ec%a7%84%ec%a0%95-%ec%9b%90%ec%9d%b8%ec%9d%84-%eb%aa%a8%eb%a5%b4%eb%82%98/
+guid: http://marx.mytory.net/2009/03/20/%ec%98%88%eb%a9%98-%ec%b0%b8%ec%82%ac-%ec%9d%b4%eb%aa%85%eb%b0%95%ec%9d%80-%ec%a7%84%ec%a0%95-%ec%9b%90%ec%9d%b8%ec%9d%84-%eb%aa%a8%eb%a5%b4%eb%82%98/
 permalink: /archives/164
 categories:
   - 정치논평

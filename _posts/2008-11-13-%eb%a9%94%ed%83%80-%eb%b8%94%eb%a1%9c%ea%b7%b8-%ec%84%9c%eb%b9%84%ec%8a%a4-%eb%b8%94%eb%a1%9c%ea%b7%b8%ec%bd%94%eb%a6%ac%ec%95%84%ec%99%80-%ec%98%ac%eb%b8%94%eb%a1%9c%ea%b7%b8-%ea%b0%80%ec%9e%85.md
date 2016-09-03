@@ -4,7 +4,7 @@ title: 메타 블로그 서비스, 블로그코리아와 올블로그 가입절�
 date: 2008-11-13T11:32:21+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/11/13/%eb%a9%94%ed%83%80-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%b8%94%eb%a1%9c%ea%b7%b8%ec%bd%94%eb%a6%ac%ec%95%84%ec%99%80-%ec%98%ac%eb%b8%94%eb%a1%9c%ea%b7%b8-%ea%b0%80%ec%9e%85/
+guid: http://marx.mytory.net/2008/11/13/%eb%a9%94%ed%83%80-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%b8%94%eb%a1%9c%ea%b7%b8%ec%bd%94%eb%a6%ac%ec%95%84%ec%99%80-%ec%98%ac%eb%b8%94%eb%a1%9c%ea%b7%b8-%ea%b0%80%ec%9e%85/
 permalink: /archives/15
 categories:
   - 웹

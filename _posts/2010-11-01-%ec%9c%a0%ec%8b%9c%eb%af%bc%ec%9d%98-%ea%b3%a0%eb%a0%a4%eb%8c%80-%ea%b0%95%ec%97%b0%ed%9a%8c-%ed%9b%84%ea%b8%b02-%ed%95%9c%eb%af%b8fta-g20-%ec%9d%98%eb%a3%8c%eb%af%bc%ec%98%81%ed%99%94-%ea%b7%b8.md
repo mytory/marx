@@ -4,7 +4,7 @@ title: '유시민의 고려대 강연회 후기(2) &#8211; 한미FTA, G20, 의�
 date: 2010-11-01T16:25:06+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2010/11/01/%ec%9c%a0%ec%8b%9c%eb%af%bc%ec%9d%98-%ea%b3%a0%eb%a0%a4%eb%8c%80-%ea%b0%95%ec%97%b0%ed%9a%8c-%ed%9b%84%ea%b8%b02-%ed%95%9c%eb%af%b8fta-g20-%ec%9d%98%eb%a3%8c%eb%af%bc%ec%98%81%ed%99%94-%ea%b7%b8/
+guid: http://marx.mytory.net/2010/11/01/%ec%9c%a0%ec%8b%9c%eb%af%bc%ec%9d%98-%ea%b3%a0%eb%a0%a4%eb%8c%80-%ea%b0%95%ec%97%b0%ed%9a%8c-%ed%9b%84%ea%b8%b02-%ed%95%9c%eb%af%b8fta-g20-%ec%9d%98%eb%a3%8c%eb%af%bc%ec%98%81%ed%99%94-%ea%b7%b8/
 permalink: /archives/422
 categories:
   - 강연회/토론회 후기
@@ -24,7 +24,7 @@ tags:
 
 진보/개혁을 바라는 많은 학생들이 강연에 참가했다. 강연이 열린 법대501호는 법대 신관에서 가장 큰 강의실인데도 복도까지 사람이 가득했다. 사진을 보면 사람들이 얼마나 이 강연에 많이 참가했는지 알 수 있다.<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile21.uf.18357A104CCEC7648CFD35.jpg" width="540" height="403" alt="" filename="cfile21.uf.18357A104CCEC7648CFD35.jpg" filemime="" /><figcaption class="wp-caption-text">△강연이 7시 5분에 시작했고, 이 사진은 8시 51분에 찍은 것이다. 질의응답이 거의 끝나갈 무렵이었는데 사람들이 거의 자리를 뜨지 않았다. 강연 시작할 때의 사진은 앞에 말한 (1)번 글에 넣어 뒀다.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile21.uf.18357A104CCEC7648CFD35.jpg" width="540" height="403" alt="" filename="cfile21.uf.18357A104CCEC7648CFD35.jpg" filemime="" /><figcaption class="wp-caption-text">△강연이 7시 5분에 시작했고, 이 사진은 8시 51분에 찍은 것이다. 질의응답이 거의 끝나갈 무렵이었는데 사람들이 거의 자리를 뜨지 않았다. 강연 시작할 때의 사진은 앞에 말한 (1)번 글에 넣어 뒀다.</figcaption></figure> 
 
 ## 한미FTA
 
@@ -71,7 +71,7 @@ G20에 모이는 국가 정상들은 사기단이라고 생각할 수 있겠다.
 
 (<a href="http://wspaper.org/article/8553" target="_blank" title="[http://wspaper.org/article/8553]로 이동합니다.">G20에 반대해야 하는 10가지 이유</a>를 참고하면 도움이 될 거다. 아래는 해당 기사를 요약한 그림이다.)
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile30.uf.190AAD364CCEDBBA2CBCEF.jpg" class="aligncenter" width="540" height="378" alt="" filename="left21_0043_05.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile30.uf.190AAD364CCEDBBA2CBCEF.jpg" class="aligncenter" width="540" height="378" alt="" filename="left21_0043_05.jpg" filemime="image/jpeg" />
 
 ## 의료민영화
 

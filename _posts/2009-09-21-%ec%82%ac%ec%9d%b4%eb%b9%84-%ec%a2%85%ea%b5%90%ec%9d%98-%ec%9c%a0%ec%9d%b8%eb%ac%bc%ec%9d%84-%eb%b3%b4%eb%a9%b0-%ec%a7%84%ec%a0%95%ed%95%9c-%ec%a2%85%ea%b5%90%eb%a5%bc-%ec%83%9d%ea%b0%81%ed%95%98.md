@@ -4,7 +4,7 @@ title: 사이비 종교(?)의 유인물을 보며 진정한 종교를 생각하�
 date: 2009-09-21T16:27:48+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/09/21/%ec%82%ac%ec%9d%b4%eb%b9%84-%ec%a2%85%ea%b5%90%ec%9d%98-%ec%9c%a0%ec%9d%b8%eb%ac%bc%ec%9d%84-%eb%b3%b4%eb%a9%b0-%ec%a7%84%ec%a0%95%ed%95%9c-%ec%a2%85%ea%b5%90%eb%a5%bc-%ec%83%9d%ea%b0%81%ed%95%98/
+guid: http://marx.mytory.net/2009/09/21/%ec%82%ac%ec%9d%b4%eb%b9%84-%ec%a2%85%ea%b5%90%ec%9d%98-%ec%9c%a0%ec%9d%b8%eb%ac%bc%ec%9d%84-%eb%b3%b4%eb%a9%b0-%ec%a7%84%ec%a0%95%ed%95%9c-%ec%a2%85%ea%b5%90%eb%a5%bc-%ec%83%9d%ea%b0%81%ed%95%98/
 permalink: /archives/271
 categories:
   - 세상살이
@@ -24,7 +24,7 @@ tags:
 
 > <span style="color: rgb(255, 0, 0); "><span style="font-size: x-large; ">기다리지 마십시오!!</span></span>
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile29.uf.196A561F4AB7A8C29F8A98.jpg" class="aligncenter" width="610" height="458" alt="" filename="090922-0002.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile29.uf.196A561F4AB7A8C29F8A98.jpg" class="aligncenter" width="610" height="458" alt="" filename="090922-0002.jpg" filemime="image/jpeg" />
 
 두 번째로 내 눈을 잡아 끈 것은, 접힌 채로 뒤로 돌렸을 때 보이는 문구였다. 이것도 아주 효과적으로 짜여 있었다.
 
@@ -44,7 +44,7 @@ tags:
 
 죽음은 자연의 섭리가 아니다&#8230; 원래는 &#8220;영원한 생명&#8221;이 예정돼 있었다&#8230; 호기심을 자아내는 문구였다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile21.uf.17037F1F4AB7A8BF2D5A30.jpg" class="aligncenter" width="610" height="458" alt="" filename="090922-0001.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile21.uf.17037F1F4AB7A8BF2D5A30.jpg" class="aligncenter" width="610" height="458" alt="" filename="090922-0001.jpg" filemime="image/jpeg" />
 
 나머지 내용은 위 그림을 유심히 읽어보면 다 볼 수야 있겠지만, 아래 내가 인용한 부분만 봐도 충분하다고 본다.
 
@@ -96,7 +96,7 @@ tags:
 
 그런데 웬걸? 예수의 제자들이 늙어 죽기 전에 올 것이라 철썩같이 믿었던 예수는 제자들 1세대가 지나도록 오지 않았다. 2세대가 지나도 오지 않았다. 예수의 제자들은 곧 종말이 올 것이니 굳이 재산 같은 거 모으지 않아도 된다고 생각하고 공동체 생활을 했다. 그런데 100년이 지나도 예수는 오지 않았다.<figure style="width: 610px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile3.uf.1471631F4AB7A8C357FCF0.jpg" width="610" height="342" alt="" filename="cfile3.uf.1471631F4AB7A8C357FCF0.jpg" filemime="" /><figcaption class="wp-caption-text">△온다던 예수는 100년이 지나도 오지 않았다</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile3.uf.1471631F4AB7A8C357FCF0.jpg" width="610" height="342" alt="" filename="cfile3.uf.1471631F4AB7A8C357FCF0.jpg" filemime="" /><figcaption class="wp-caption-text">△온다던 예수는 100년이 지나도 오지 않았다</figcaption></figure> 
 
 그래, 예수는 오지 않았던 것이다. 그게 초대 기독교의 모순이었고, 블라블라블라한 과정을 거쳐서 결국 로마의 국교가 되고, 이 모순은 &#8220;믿으면 <u>**죽어서**</u> 구원받지롱~&#8221; 하는 교리로 해결해 버린다.
 
@@ -110,7 +110,7 @@ tags:
 
 어쨌든, 말이 옆길로 좀 샜는데, 그래, &#8220;부자는 나빠!!&#8221; 라고 하던 예수가 &#8220;나를 믿기만 하면, 남녀노소 빈부를 불문하고 다 천국행이란다~&#8221; (개차반으로 살다가 죽기 전에 주문만 외워도 말이지!) 하고 인자하게 말하는 무기력한 인간이 됐다.<figure style="width: 610px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile10.uf.136FF41F4AB7A8C45B3C13.jpg" width="610" height="407" alt="" filename="cfile10.uf.136FF41F4AB7A8C45B3C13.jpg" filemime="" /><figcaption class="wp-caption-text">우리 명박이 행님도 구원받을 게 뻔하다. 예수님 몰래.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile10.uf.136FF41F4AB7A8C45B3C13.jpg" width="610" height="407" alt="" filename="cfile10.uf.136FF41F4AB7A8C45B3C13.jpg" filemime="" /><figcaption class="wp-caption-text">우리 명박이 행님도 구원받을 게 뻔하다. 예수님 몰래.</figcaption></figure> 
 
 ## 사이비 종교가 판치는 건
 

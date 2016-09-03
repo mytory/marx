@@ -4,7 +4,7 @@ title: '[번역] 미켈란젤로와 인간 해방'
 date: 2011-01-08T06:31:16+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2011/01/08/%eb%b2%88%ec%97%ad-%eb%af%b8%ec%bc%88%eb%9e%80%ec%a0%a4%eb%a1%9c%ec%99%80-%ec%9d%b8%ea%b0%84-%ed%95%b4%eb%b0%a9/
+guid: http://marx.mytory.net/2011/01/08/%eb%b2%88%ec%97%ad-%eb%af%b8%ec%bc%88%eb%9e%80%ec%a0%a4%eb%a1%9c%ec%99%80-%ec%9d%b8%ea%b0%84-%ed%95%b4%eb%b0%a9/
 permalink: /archives/429
 categories:
   - 예술
@@ -27,7 +27,7 @@ tags:
 ---
 이 글은 제 친구인 이원웅이 번역한 것입니다. 원문은 <a href="http://www.isj.org.uk/index.php4?id=685&issue=128" target="_blank" title="[http://www.isj.org.uk/index.php4?id=685&issue=128]로 이동합니다.">International Socialism에 실린 Michelangelo and human emancipation(존 몰리뉴) 입니다.</a>
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile5.uf.166A84464D2804912F6371.jpg" class="aligncenter" width="170" height="238" alt="" filename="cover128.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.166A84464D2804912F6371.jpg" class="aligncenter" width="170" height="238" alt="" filename="cover128.jpg" filemime="image/jpeg" />
 
 &#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;-
 

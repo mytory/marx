@@ -4,7 +4,7 @@ title: 제2의 촛불아, 활활 타올라라! 12월 31일 보신각으로!
 date: 2008-12-25T16:46:33+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/12/25/%ec%a0%9c2%ec%9d%98-%ec%b4%9b%eb%b6%88%ec%95%84-%ed%99%9c%ed%99%9c-%ed%83%80%ec%98%ac%eb%9d%bc%eb%9d%bc-12%ec%9b%94-31%ec%9d%bc-%eb%b3%b4%ec%8b%a0%ea%b0%81%ec%9c%bc%eb%a1%9c/
+guid: http://marx.mytory.net/2008/12/25/%ec%a0%9c2%ec%9d%98-%ec%b4%9b%eb%b6%88%ec%95%84-%ed%99%9c%ed%99%9c-%ed%83%80%ec%98%ac%eb%9d%bc%eb%9d%bc-12%ec%9b%94-31%ec%9d%bc-%eb%b3%b4%ec%8b%a0%ea%b0%81%ec%9c%bc%eb%a1%9c/
 permalink: /archives/71
 categories:
   - 정치논평
@@ -58,7 +58,7 @@ tags:
 
 (물론, 그럼에도 불구하고 많은 한계가 있었다. 방송이 노동자의 폭력을 경찰의 폭력보다 심각하게 그린 것은 어제오늘 일이 아니니까. 그래도, 그게 독재 때보단 나은 것이었다.)
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/4953a0f9d5d79E5.jpg" class="aligncenter" width="350" height="525" alt="" filename="c91-woonha.jpg" filemime="" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/4953a0f9d5d79E5.jpg" class="aligncenter" width="350" height="525" alt="" filename="c91-woonha.jpg" filemime="" />
 
 4대강 정비계획 추진에 다시 박차를 가하는 것도, <a href="http://wspaper.org/0_view.php?urn=urn:newsml:counterfire.or.kr:20081016T160355%2b0900:cor09-seo:1U" target="_blank" title="[서중석 교수 “이것은 역사를 거꾸로 돌리는 것입니다”]로 이동합니다.">근현대사 교과서 수정을 강요</a>하는 것도, 모두 이명박을 위시한 우파 무리의 본색을 잘 보여 준다.
 

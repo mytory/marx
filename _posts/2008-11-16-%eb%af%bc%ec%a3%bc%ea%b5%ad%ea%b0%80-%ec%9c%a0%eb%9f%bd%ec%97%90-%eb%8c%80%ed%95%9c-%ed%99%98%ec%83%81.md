@@ -4,7 +4,7 @@ title: 민주국가 유럽에 대한 환상
 date: 2008-11-16T11:04:33+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/11/16/%eb%af%bc%ec%a3%bc%ea%b5%ad%ea%b0%80-%ec%9c%a0%eb%9f%bd%ec%97%90-%eb%8c%80%ed%95%9c-%ed%99%98%ec%83%81/
+guid: http://marx.mytory.net/2008/11/16/%eb%af%bc%ec%a3%bc%ea%b5%ad%ea%b0%80-%ec%9c%a0%eb%9f%bd%ec%97%90-%eb%8c%80%ed%95%9c-%ed%99%98%ec%83%81/
 permalink: /archives/24
 categories:
   - 마르크스주의
@@ -23,7 +23,7 @@ tags:
 <center>
   <div align="center" style="width:300px">
     <p>
-      <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/491feebf97548CH.jpg" class="aligncenter" width="300" height="209" alt="" filename="0102906a.jpg" filemime="" />
+      <img src="http://marx.mytory.net/wp-content/uploads/1/491feebf97548CH.jpg" class="aligncenter" width="300" height="209" alt="" filename="0102906a.jpg" filemime="" />
     </p>
     
     <p style="text-align: center; ">
@@ -87,7 +87,7 @@ tags:
     <center>
       <div align="center" style="width:248px">
         <p>
-          <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/491ffc98bfd84CH.jpg" class="aligncenter" width="248" height="358" alt="" filename="c66-gramsci.jpg" filemime="" />
+          <img src="http://marx.mytory.net/wp-content/uploads/1/491ffc98bfd84CH.jpg" class="aligncenter" width="248" height="358" alt="" filename="c66-gramsci.jpg" filemime="" />
         </p>
         
         <p>

@@ -4,7 +4,7 @@ title: '&lt;조선일보&gt; 수능 학교별 순위 공개와 대비되는 &lt;
 date: 2009-10-14T16:38:29+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/10/14/%ec%a1%b0%ec%84%a0%ec%9d%bc%eb%b3%b4-%ec%88%98%eb%8a%a5-%ed%95%99%ea%b5%90%eb%b3%84-%ec%88%9c%ec%9c%84-%ea%b3%b5%ea%b0%9c%ec%99%80-%eb%8c%80%eb%b9%84%eb%90%98%eb%8a%94-%ec%8b%9c%ec%82%ac%ec%9d%b8/
+guid: http://marx.mytory.net/2009/10/14/%ec%a1%b0%ec%84%a0%ec%9d%bc%eb%b3%b4-%ec%88%98%eb%8a%a5-%ed%95%99%ea%b5%90%eb%b3%84-%ec%88%9c%ec%9c%84-%ea%b3%b5%ea%b0%9c%ec%99%80-%eb%8c%80%eb%b9%84%eb%90%98%eb%8a%94-%ec%8b%9c%ec%82%ac%ec%9d%b8/
 permalink: /archives/306
 categories:
   - 정치논평
@@ -20,7 +20,7 @@ tags:
 ---
 마침 시기가 절묘하게 맞아 떨어졌다. &lt;조선일보&gt;가 수능 학교별 순위를 공개한 것과, &lt;시사인&gt;이 자퇴하는 고등학생들에 대해 보도한 게 말이다.<figure style="width: 300px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile30.uf.1760CE2D4AD5FDE65D39D5.jpg" width="300" height="400" alt="시사인 109호, 나는 가난하다 고로 자퇴한다" filename="cfile30.uf.1760CE2D4AD5FDE65D39D5.jpg" filemime="" /><figcaption class="wp-caption-text">이번 &lt;시사인&gt;은 저소득층 고등학생들의 현실을 다뤘다. 강추다.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile30.uf.1760CE2D4AD5FDE65D39D5.jpg" width="300" height="400" alt="시사인 109호, 나는 가난하다 고로 자퇴한다" filename="cfile30.uf.1760CE2D4AD5FDE65D39D5.jpg" filemime="" /><figcaption class="wp-caption-text">이번 &lt;시사인&gt;은 저소득층 고등학생들의 현실을 다뤘다. 강추다.</figcaption></figure> 
 
 조선일보가 수능성적의 학교별 순위를 공개하면서 노린 바는 뻔하다. 경쟁교육을 부추기려는 것이다. 그건 자유와 평등이 살아 숨쉬는 학교를 막기 위한 것이다. 경쟁에 지치고, 5가지 문항 중 하나의 답은 반드시 있다고 생각하는 학생들을 양산해, 진실로 스스로가 생각하는 그런 능력을 퇴보하게 만들기 위해서다.
 

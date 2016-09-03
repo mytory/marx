@@ -4,7 +4,7 @@ title: 전태일 분신 40주기 비정규직 노동자대회
 date: 2010-10-30T11:59:12+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2010/10/30/%ec%a0%84%ed%83%9c%ec%9d%bc-%eb%b6%84%ec%8b%a0-40%ec%a3%bc%ea%b8%b0-%eb%b9%84%ec%a0%95%ea%b7%9c%ec%a7%81-%eb%85%b8%eb%8f%99%ec%9e%90%eb%8c%80%ed%9a%8c/
+guid: http://marx.mytory.net/2010/10/30/%ec%a0%84%ed%83%9c%ec%9d%bc-%eb%b6%84%ec%8b%a0-40%ec%a3%bc%ea%b8%b0-%eb%b9%84%ec%a0%95%ea%b7%9c%ec%a7%81-%eb%85%b8%eb%8f%99%ec%9e%90%eb%8c%80%ed%9a%8c/
 permalink: /archives/417
 categories:
   - 투쟁
@@ -16,7 +16,7 @@ tags:
 ---
 오늘 전태일 분신 40주기 비정규직 노동자대회가 열렸다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile23.uf.157D8D174CCC08854778F2.jpg" class="aligncenter" width="400" alt="" filename="itistory-photo-1" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile23.uf.157D8D174CCC08854778F2.jpg" class="aligncenter" width="400" alt="" filename="itistory-photo-1" filemime="image/jpeg" />
   
 현대차에서 전규직 비정규직 연대가 탄력을 받고, 비정규직 해고까지 막아냈던 일이 단순히 일회성 사건이 아니라는 점을 확인할 수 있었다고 생각한다.
   
@@ -24,7 +24,7 @@ tags:
   
 바로 후에 열린 비정규직 노동자대회에 이 집회에 참가한 노동자들이 대거 참석했다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile23.uf.165E28154CCC088C181788.jpg" class="aligncenter" width="400" alt="" filename="itistory-photo-2" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile23.uf.165E28154CCC088C181788.jpg" class="aligncenter" width="400" alt="" filename="itistory-photo-2" filemime="image/jpeg" />
   
 정규직이 이렇게 많이 참석한 &#8216;비정규직 노동자대회,&#8217; 가슴 벅차지 않은가.
   

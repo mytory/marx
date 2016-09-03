@@ -4,7 +4,7 @@ title: 솔직히 신해철이 맘에는 안들지만 국가보안법 고발이�
 date: 2009-04-17T16:07:26+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/04/17/%ec%86%94%ec%a7%81%ed%9e%88-%ec%8b%a0%ed%95%b4%ec%b2%a0%ec%9d%b4-%eb%a7%98%ec%97%90%eb%8a%94-%ec%95%88%eb%93%a4%ec%a7%80%eb%a7%8c-%ea%b5%ad%ea%b0%80%eb%b3%b4%ec%95%88%eb%b2%95-%ea%b3%a0%eb%b0%9c/
+guid: http://marx.mytory.net/2009/04/17/%ec%86%94%ec%a7%81%ed%9e%88-%ec%8b%a0%ed%95%b4%ec%b2%a0%ec%9d%b4-%eb%a7%98%ec%97%90%eb%8a%94-%ec%95%88%eb%93%a4%ec%a7%80%eb%a7%8c-%ea%b5%ad%ea%b0%80%eb%b3%b4%ec%95%88%eb%b2%95-%ea%b3%a0%eb%b0%9c/
 permalink: /archives/173
 categories:
   - 정치논평

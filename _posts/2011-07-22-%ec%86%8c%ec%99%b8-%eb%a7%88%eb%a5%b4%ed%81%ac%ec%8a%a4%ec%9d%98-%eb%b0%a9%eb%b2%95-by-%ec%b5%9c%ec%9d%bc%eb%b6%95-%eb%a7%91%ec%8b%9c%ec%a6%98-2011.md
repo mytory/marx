@@ -4,7 +4,7 @@ title: '소외 &#8211; 마르크스의 방법 by 최일붕 (맑시즘 2011)'
 date: 2011-07-22T06:36:34+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2011/07/22/%ec%86%8c%ec%99%b8-%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%9d%98-%eb%b0%a9%eb%b2%95-by-%ec%b5%9c%ec%9d%bc%eb%b6%95-%eb%a7%91%ec%8b%9c%ec%a6%98-2011/
+guid: http://marx.mytory.net/2011/07/22/%ec%86%8c%ec%99%b8-%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%9d%98-%eb%b0%a9%eb%b2%95-by-%ec%b5%9c%ec%9d%bc%eb%b6%95-%eb%a7%91%ec%8b%9c%ec%a6%98-2011/
 permalink: /archives/511
 categories:
   - 강연회/토론회 후기
@@ -24,7 +24,7 @@ tags:
 
 아이폰으로 적었기 때문에 오타가 많다. → 이후 컴퓨터로 수정을 봤다.&nbsp;
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile24.uf.116679534E3BBD9706C65D.jpg" class="aligncenter" width="540" height="360" alt="" filename="맑시즘.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile24.uf.116679534E3BBD9706C65D.jpg" class="aligncenter" width="540" height="360" alt="" filename="맑시즘.jpg" filemime="image/jpeg" />
 
 ## 소외 &#8211; 마르크스의 방법
 

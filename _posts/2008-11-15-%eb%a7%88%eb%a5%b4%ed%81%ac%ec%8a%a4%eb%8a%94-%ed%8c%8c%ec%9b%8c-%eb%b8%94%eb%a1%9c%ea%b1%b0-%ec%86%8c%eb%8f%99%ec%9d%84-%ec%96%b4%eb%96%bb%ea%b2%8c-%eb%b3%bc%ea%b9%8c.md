@@ -4,7 +4,7 @@ title: 마르크스는 ‘파워 블로거’ 소동을 어떻게 볼까?
 date: 2008-11-15T16:17:36+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/11/15/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%eb%8a%94-%ed%8c%8c%ec%9b%8c-%eb%b8%94%eb%a1%9c%ea%b1%b0-%ec%86%8c%eb%8f%99%ec%9d%84-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%b3%bc%ea%b9%8c/
+guid: http://marx.mytory.net/2008/11/15/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%eb%8a%94-%ed%8c%8c%ec%9b%8c-%eb%b8%94%eb%a1%9c%ea%b1%b0-%ec%86%8c%eb%8f%99%ec%9d%84-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%b3%bc%ea%b9%8c/
 permalink: /archives/20
 categories:
   - 마르크스주의
@@ -33,7 +33,7 @@ tags:
 
 nooe(누에)님의 다음 그림은 나를 완전 좌절하게 만들었다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/491ec645979c29U.jpg" class="aligncenter" width="600" height="532" alt="" filename="nooegoch.net_11_15_21_52_53.jpg" filemime="" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/491ec645979c29U.jpg" class="aligncenter" width="600" height="532" alt="" filename="nooegoch.net_11_15_21_52_53.jpg" filemime="" />
 
 △ 위 그림은 nooe님의 “<a href="http://nooegoch.net/169" target="_blank">이것이 파워블로그다!</a>”에서 퍼온 것입니다.
 

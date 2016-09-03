@@ -4,7 +4,7 @@ title: '[한국사회포럼]격동의 이집트:중동의 민중반란과 연속
 date: 2011-02-19T08:15:02+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2011/02/19/%ed%95%9c%ea%b5%ad%ec%82%ac%ed%9a%8c%ed%8f%ac%eb%9f%bc%ea%b2%a9%eb%8f%99%ec%9d%98-%ec%9d%b4%ec%a7%91%ed%8a%b8%ec%a4%91%eb%8f%99%ec%9d%98-%eb%af%bc%ec%a4%91%eb%b0%98%eb%9e%80%ea%b3%bc-%ec%97%b0-4/
+guid: http://marx.mytory.net/2011/02/19/%ed%95%9c%ea%b5%ad%ec%82%ac%ed%9a%8c%ed%8f%ac%eb%9f%bc%ea%b2%a9%eb%8f%99%ec%9d%98-%ec%9d%b4%ec%a7%91%ed%8a%b8%ec%a4%91%eb%8f%99%ec%9d%98-%eb%af%bc%ec%a4%91%eb%b0%98%eb%9e%80%ea%b3%bc-%ec%97%b0-4/
 permalink: /archives/455
 categories:
   - 강연회/토론회 후기
@@ -31,7 +31,7 @@ tags:
 
 여러분이 아직 나를 싫어하지 않으시길 바란다. 아랍 세계에서는 혼자 말 많이 하는 사람을 싫어한다. 내가 오늘 말을 너무 많이 한다고 싫어하지 않기를 바란다.<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile24.uf.1743F54A4D5F7BE10574C9.jpg" width="540" height="360" alt="" filename="cfile24.uf.1743F54A4D5F7BE10574C9.jpg" filemime="" /><figcaption class="wp-caption-text">2월 14일 이집트노동조합연맹(EFTU) 노동자들이 임금인상을 요구하며 구호를 외치고 있다. ⓒ Sarah Carr</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile24.uf.1743F54A4D5F7BE10574C9.jpg" width="540" height="360" alt="" filename="cfile24.uf.1743F54A4D5F7BE10574C9.jpg" filemime="" /><figcaption class="wp-caption-text">2월 14일 이집트노동조합연맹(EFTU) 노동자들이 임금인상을 요구하며 구호를 외치고 있다. ⓒ Sarah Carr</figcaption></figure> 
 
 일단 여러분 이야기를 잘 들었다. 특히 이집트 상황에 대해 열심히 공부했다는 점을 알 수 있어 고마웠다. 다른 혁명의 사례들을 들어서 이집트에서 일어날 수 있는 문제점들을 우려하는 것을 인상깊게 들었다. 여러분의 문제제기를 많이 수용한다.
 

@@ -4,7 +4,7 @@ title: 동대문역사문화공원의 화려한 외장을 보면서 화가나는
 date: 2010-04-09T16:01:46+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2010/04/09/%eb%8f%99%eb%8c%80%eb%ac%b8%ec%97%ad%ec%82%ac%eb%ac%b8%ed%99%94%ea%b3%b5%ec%9b%90%ec%9d%98-%ed%99%94%eb%a0%a4%ed%95%9c-%ec%99%b8%ec%9e%a5%ec%9d%84-%eb%b3%b4%eb%a9%b4%ec%84%9c-%ed%99%94%ea%b0%80/
+guid: http://marx.mytory.net/2010/04/09/%eb%8f%99%eb%8c%80%eb%ac%b8%ec%97%ad%ec%82%ac%eb%ac%b8%ed%99%94%ea%b3%b5%ec%9b%90%ec%9d%98-%ed%99%94%eb%a0%a4%ed%95%9c-%ec%99%b8%ec%9e%a5%ec%9d%84-%eb%b3%b4%eb%a9%b4%ec%84%9c-%ed%99%94%ea%b0%80/
 permalink: /archives/370
 categories:
   - 세상살이
@@ -18,7 +18,7 @@ tags:
 ---
 일단 사진 찍은 사진부터 보시라. 
 
-<figure style="width: 300px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile2.uf.136960234BBF4C391D45EE.jpg" width="300" height="400" alt="지하철 5호선 동대문역사문화공원 풍경" filename="cfile2.uf.136960234BBF4C391D45EE.jpg" filemime="" /><figcaption class="wp-caption-text">△깔끔한 기둥 모습이다.</figcaption></figure><figure style="width: 610px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile6.uf.126960234BBF4C3A1E32FF.jpg" width="610" height="458" alt="지하철 5호선 동대문역사문화공원 풍경" filename="cfile6.uf.126960234BBF4C3A1E32FF.jpg" filemime="" /><figcaption class="wp-caption-text">△안내판도 장난 아니고 은은한 불빛이 죽인다.</figcaption></figure><figure style="width: 610px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile22.uf.146960234BBF4C3B1F8A8C.jpg" width="610" height="458" alt="지하철 5호선 동대문역사문화공원 풍경" filename="cfile22.uf.146960234BBF4C3B1F8A8C.jpg" filemime="" /><figcaption class="wp-caption-text">△전체적인 모습을 보라. 호텔같다.</figcaption></figure>내가 열받는 이유는 간단하다. 나도 건물 이뻐지는 걸 반대하는 게 아니다. 발전이라면 발전이니까. 
+<figure style="width: 300px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile2.uf.136960234BBF4C391D45EE.jpg" width="300" height="400" alt="지하철 5호선 동대문역사문화공원 풍경" filename="cfile2.uf.136960234BBF4C391D45EE.jpg" filemime="" /><figcaption class="wp-caption-text">△깔끔한 기둥 모습이다.</figcaption></figure><figure style="width: 610px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile6.uf.126960234BBF4C3A1E32FF.jpg" width="610" height="458" alt="지하철 5호선 동대문역사문화공원 풍경" filename="cfile6.uf.126960234BBF4C3A1E32FF.jpg" filemime="" /><figcaption class="wp-caption-text">△안내판도 장난 아니고 은은한 불빛이 죽인다.</figcaption></figure><figure style="width: 610px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.146960234BBF4C3B1F8A8C.jpg" width="610" height="458" alt="지하철 5호선 동대문역사문화공원 풍경" filename="cfile22.uf.146960234BBF4C3B1F8A8C.jpg" filemime="" /><figcaption class="wp-caption-text">△전체적인 모습을 보라. 호텔같다.</figcaption></figure>내가 열받는 이유는 간단하다. 나도 건물 이뻐지는 걸 반대하는 게 아니다. 발전이라면 발전이니까. 
 
 그런데 나도 모르게 화가 나는 이유는, 이런 공사가 경제 위기 시기에 됐기 때문이다. 아니, 경제 위기 시기에 되지 않았더라도 마찬가지다. 
 

@@ -4,7 +4,7 @@ title: 마르크스는 ‘파워 블로거’ 소동의 해결책을 어떻게 �
 date: 2008-11-15T16:25:26+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/11/15/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%eb%8a%94-%ed%8c%8c%ec%9b%8c-%eb%b8%94%eb%a1%9c%ea%b1%b0-%ec%86%8c%eb%8f%99%ec%9d%98-%ed%95%b4%ea%b2%b0%ec%b1%85%ec%9d%84-%ec%96%b4%eb%96%bb/
+guid: http://marx.mytory.net/2008/11/15/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%eb%8a%94-%ed%8c%8c%ec%9b%8c-%eb%b8%94%eb%a1%9c%ea%b1%b0-%ec%86%8c%eb%8f%99%ec%9d%98-%ed%95%b4%ea%b2%b0%ec%b1%85%ec%9d%84-%ec%96%b4%eb%96%bb/
 permalink: /archives/22
 categories:
   - 마르크스주의
@@ -20,7 +20,7 @@ tags:
 ---
 이 글은 앞선 글, “<a href="http://spar2003.tistory.com/17" target="_blank" title="[http://spar2003.tistory.com/17]로 이동합니다.">마르크스는 ‘파워 블로거’ 소동을 어떻게 볼까?</a>” 에 이어지는 글입니다. 
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/491ef8d78a6b0EO.jpg" class="aligncenter" width="250" height="328" alt="" filename="hannah_humphrey.jpg" filemime="" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/491ef8d78a6b0EO.jpg" class="aligncenter" width="250" height="328" alt="" filename="hannah_humphrey.jpg" filemime="" />
 
 <p align="center">
   △ 자본은 모든 것을 흡수해 돈 버는 데 쓴다.<br /> 출처 : <a href="http://the1tree.tistory.com/477" target="_blank" title="[http://the1tree.tistory.com/477]로 이동합니다.">자본의 감추어진 진실 혹은 거짓</a>(<a href="http://the1tree.tistory.com/" target="_blank" title="[http://the1tree.tistory.com/]로 이동합니다.">the1tree season2</a>)

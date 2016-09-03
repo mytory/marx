@@ -4,7 +4,7 @@ title: 경제 위기를 앞둔 전초전, 쌍용차 파업을 곱씹으며
 date: 2009-08-10T11:58:36+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/08/10/%ea%b2%bd%ec%a0%9c-%ec%9c%84%ea%b8%b0%eb%a5%bc-%ec%95%9e%eb%91%94-%ec%a0%84%ec%b4%88%ec%a0%84-%ec%8c%8d%ec%9a%a9%ec%b0%a8-%ed%8c%8c%ec%97%85%ec%9d%84-%ea%b3%b1%ec%94%b9%ec%9c%bc%eb%a9%b0/
+guid: http://marx.mytory.net/2009/08/10/%ea%b2%bd%ec%a0%9c-%ec%9c%84%ea%b8%b0%eb%a5%bc-%ec%95%9e%eb%91%94-%ec%a0%84%ec%b4%88%ec%a0%84-%ec%8c%8d%ec%9a%a9%ec%b0%a8-%ed%8c%8c%ec%97%85%ec%9d%84-%ea%b3%b1%ec%94%b9%ec%9c%bc%eb%a9%b0/
 permalink: /archives/251
 categories:
   - 정치논평
@@ -29,7 +29,7 @@ tags:
 
 축구를 봐도, 전쟁을 해도 사람들은 늘상 묻는다. 승리인가 패배인가. 그러나 세상 모든 일이 그렇듯, 진실은 완승도 완패도 아닌 경우가 많다.&nbsp;<figure style="width: 550px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile5.uf.195383274A800A49941153.jpg" width="550" height="413" alt="파업이 끝나고 서로 끌어안은 노동자들" filename="cfile5.uf.195383274A800A49941153.jpg" filemime="" /><figcaption class="wp-caption-text">이들에게서 패색을 찾아볼 수 있는가. 처절하고 훌륭히 사운 투사들에게 '패배'를 찾을 수는 없다.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.195383274A800A49941153.jpg" width="550" height="413" alt="파업이 끝나고 서로 끌어안은 노동자들" filename="cfile5.uf.195383274A800A49941153.jpg" filemime="" /><figcaption class="wp-caption-text">이들에게서 패색을 찾아볼 수 있는가. 처절하고 훌륭히 사운 투사들에게 '패배'를 찾을 수는 없다.</figcaption></figure> 
 
 누군가 이렇게 썼다. 저들은 쌍용을 자동차 업체 중 가장 만만한 상대로 보고 정리해고를 단행했다가 쓴 맛을 봤다고. 결국 그 &#8216;만만한 상대&#8217;를 상대로 경찰 특공대와 헬기까지 동원한 후에야 껍데기뿐인 &#8216;승리&#8217;를 얻어냈다고 말이다.
 
@@ -47,7 +47,7 @@ tags:
 
 좀 더 처절한 비유를 들어 보자. 영화 &lt;300&gt;에서 몰살당한 300의 전사들(이 영화 쫌 냉전주의적이라 맘엔 안 들지만)은 패배했는가 승리했는가. (물론 쌍용차가 몰살당하지는 않았다.) 쌍용차 투쟁도 이와 **비슷한 점**이 있다.(아주 똑같다고 할 수는 없을지 모르겠다.)<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile1.uf.194B88144A800AFAC3DFFB.jpg" width="540" height="362" alt="쌍용차에 최루액 투하하는 경찰 헬기" filename="cfile1.uf.194B88144A800AFAC3DFFB.jpg" filemime="" /><figcaption class="wp-caption-text">최루액 세례 속에서도 노동자들은 무릎꿇지 않았다.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile1.uf.194B88144A800AFAC3DFFB.jpg" width="540" height="362" alt="쌍용차에 최루액 투하하는 경찰 헬기" filename="cfile1.uf.194B88144A800AFAC3DFFB.jpg" filemime="" /><figcaption class="wp-caption-text">최루액 세례 속에서도 노동자들은 무릎꿇지 않았다.</figcaption></figure> 
 
 양측의 사기에 중요한 역할을 하는 **전초전**이라는 점에서는 영화 &lt;300&gt;과 좀 더 비슷하고, **선방**이라는 점에서는 앞서 든 축구의 예와 비슷하다고 할 것이다.
 

@@ -4,7 +4,7 @@ title: 국가의 본질 ─ 소설가 조정래의 이야기를 보다가…
 date: 2009-09-24T17:18:54+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/09/24/%ea%b5%ad%ea%b0%80%ec%9d%98-%eb%b3%b8%ec%a7%88-%e2%94%80-%ec%86%8c%ec%84%a4%ea%b0%80-%ec%a1%b0%ec%a0%95%eb%9e%98%ec%9d%98-%ec%9d%b4%ec%95%bc%ea%b8%b0%eb%a5%bc-%eb%b3%b4%eb%8b%a4%ea%b0%80/
+guid: http://marx.mytory.net/2009/09/24/%ea%b5%ad%ea%b0%80%ec%9d%98-%eb%b3%b8%ec%a7%88-%e2%94%80-%ec%86%8c%ec%84%a4%ea%b0%80-%ec%a1%b0%ec%a0%95%eb%9e%98%ec%9d%98-%ec%9d%b4%ec%95%bc%ea%b8%b0%eb%a5%bc-%eb%b3%b4%eb%8b%a4%ea%b0%80/
 permalink: /archives/285
 categories:
   - 마르크스주의
@@ -27,7 +27,7 @@ tags:
 
 다만, 분명한 것은 장관 차관, 그리고 그 바로 아래를 형성하고 있는 온갖 관료들은 국가기구라 할 만하다는 점이다.<figure style="width: 462px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile5.uf.202119104ABBA96206E35B.jpg" width="462" height="237" alt="" filename="cfile5.uf.202119104ABBA96206E35B.jpg" filemime="" /><figcaption class="wp-caption-text">이정도 되야 국가기구의 일원이라 할 만하겠지?</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.202119104ABBA96206E35B.jpg" width="462" height="237" alt="" filename="cfile5.uf.202119104ABBA96206E35B.jpg" filemime="" /><figcaption class="wp-caption-text">이정도 되야 국가기구의 일원이라 할 만하겠지?</figcaption></figure> 
 
 소설가 조정래 씨가 《태백산맥》 덕분에 검찰한테 탄압받았던 때를 이야기하면서 후배가 한 말을 인용했는데, 국가기구의 본질을 잘 통찰한 것이라 생각해 인용한다.
 
@@ -53,7 +53,7 @@ tags:
 
 군대와 검찰 경찰, 그리고 국정원은 더더욱 선출에서 멀리 있는 직책이다.<figure style="width: 500px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile21.uf.172119104ABBA961048CC5.jpg" width="500" height="319" alt="" filename="cfile21.uf.172119104ABBA961048CC5.jpg" filemime="" /><figcaption class="wp-caption-text">얘넨 당췌 선출할 수가 없다.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile21.uf.172119104ABBA961048CC5.jpg" width="500" height="319" alt="" filename="cfile21.uf.172119104ABBA961048CC5.jpg" filemime="" /><figcaption class="wp-caption-text">얘넨 당췌 선출할 수가 없다.</figcaption></figure> 
 
 보수가 행정부 수반을 장악하지 못해서 위기에 처했을 때 군대가 나서는 건 역사상 여러 차례 있었던 일이다. 칠레의 사민주의 대통령 아옌데가 군부에 살해당한 것은 고전적 사례고, 최근에는 온두라스에서 똑같은 일이 벌어져 대통령이 축출됐다. 쫓겨난 대통령은 민주적 헌법을 국민투표에 붙이려는 찰나였다.(<a target="_blank" title="피오나 맥파일, &lt;레프트21&gt; ,  2009-08-06" href="http://wspaper.org/article/6858">온두라스-제국주의 쿠데타</a>)
 
@@ -61,7 +61,7 @@ tags:
 
 삼성의 X-File 사례에서 보듯이 이 국가기구 관료들은 경제 권력과 밀접하게 연관돼 있다. 이들은 서로 기득권의 영역을 놓고 서로 치고받고 하기도 하지만, 대체로 피지배민중을 향해서는 단결한다.<figure style="width: 550px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile21.uf.152119104ABBA95E035902.gif" width="550" height="391" alt="" filename="cfile21.uf.152119104ABBA95E035902.gif" filemime="" /><figcaption class="wp-caption-text">얘네는 심지어 세습한다.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile21.uf.152119104ABBA95E035902.gif" width="550" height="391" alt="" filename="cfile21.uf.152119104ABBA95E035902.gif" filemime="" /><figcaption class="wp-caption-text">얘네는 심지어 세습한다.</figcaption></figure> 
 
 다시 마르크스로 돌아가 보자.
 

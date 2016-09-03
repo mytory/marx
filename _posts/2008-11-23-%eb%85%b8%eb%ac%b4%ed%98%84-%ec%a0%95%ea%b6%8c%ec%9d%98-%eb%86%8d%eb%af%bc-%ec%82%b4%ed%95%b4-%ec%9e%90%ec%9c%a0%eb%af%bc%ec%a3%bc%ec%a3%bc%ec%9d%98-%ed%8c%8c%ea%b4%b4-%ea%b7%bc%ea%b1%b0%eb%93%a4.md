@@ -4,7 +4,7 @@ title: 노무현 정권의 농민 살해, 자유민주주의 파괴 근거들
 date: 2008-11-23T13:30:14+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/11/23/%eb%85%b8%eb%ac%b4%ed%98%84-%ec%a0%95%ea%b6%8c%ec%9d%98-%eb%86%8d%eb%af%bc-%ec%82%b4%ed%95%b4-%ec%9e%90%ec%9c%a0%eb%af%bc%ec%a3%bc%ec%a3%bc%ec%9d%98-%ed%8c%8c%ea%b4%b4-%ea%b7%bc%ea%b1%b0%eb%93%a4/
+guid: http://marx.mytory.net/2008/11/23/%eb%85%b8%eb%ac%b4%ed%98%84-%ec%a0%95%ea%b6%8c%ec%9d%98-%eb%86%8d%eb%af%bc-%ec%82%b4%ed%95%b4-%ec%9e%90%ec%9c%a0%eb%af%bc%ec%a3%bc%ec%a3%bc%ec%9d%98-%ed%8c%8c%ea%b4%b4-%ea%b7%bc%ea%b1%b0%eb%93%a4/
 permalink: /archives/39
 categories:
   - 정치논평

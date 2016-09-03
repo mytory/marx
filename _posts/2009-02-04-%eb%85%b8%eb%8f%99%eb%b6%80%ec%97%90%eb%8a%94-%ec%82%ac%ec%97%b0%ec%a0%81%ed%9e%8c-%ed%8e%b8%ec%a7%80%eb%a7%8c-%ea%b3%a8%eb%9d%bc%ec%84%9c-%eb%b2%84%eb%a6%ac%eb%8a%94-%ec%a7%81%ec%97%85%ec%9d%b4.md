@@ -4,7 +4,7 @@ title: 노동부에는 사연적힌 편지만 골라서 버리는 직업이 있�
 date: 2009-02-04T01:01:42+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/02/04/%eb%85%b8%eb%8f%99%eb%b6%80%ec%97%90%eb%8a%94-%ec%82%ac%ec%97%b0%ec%a0%81%ed%9e%8c-%ed%8e%b8%ec%a7%80%eb%a7%8c-%ea%b3%a8%eb%9d%bc%ec%84%9c-%eb%b2%84%eb%a6%ac%eb%8a%94-%ec%a7%81%ec%97%85%ec%9d%b4/
+guid: http://marx.mytory.net/2009/02/04/%eb%85%b8%eb%8f%99%eb%b6%80%ec%97%90%eb%8a%94-%ec%82%ac%ec%97%b0%ec%a0%81%ed%9e%8c-%ed%8e%b8%ec%a7%80%eb%a7%8c-%ea%b3%a8%eb%9d%bc%ec%84%9c-%eb%b2%84%eb%a6%ac%eb%8a%94-%ec%a7%81%ec%97%85%ec%9d%b4/
 permalink: /archives/138
 categories:
   - 세상살이
@@ -19,7 +19,7 @@ tags:
 
 드라마 &lt;최강칠우&gt;의 주인공 칠우는 신문고를 두드리지 못하게 막는 역할을 하는 나졸이다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/4988e8d451d4dAQ.jpg" class="aligncenter" width="476" height="332" alt="" filename="chilwoo.jpg" filemime="" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/4988e8d451d4dAQ.jpg" class="aligncenter" width="476" height="332" alt="" filename="chilwoo.jpg" filemime="" />
 
 칠우의 아버지는 신문고를 친 중인이었는데, 역모죄로 살해당한다.
 

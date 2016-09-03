@@ -4,7 +4,7 @@ title: '[강추] 이론과 실천의 결합, 새로 나온 계간지 《마르�
 date: 2010-04-06T11:38:16+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2010/04/06/%ea%b0%95%ec%b6%94-%ec%9d%b4%eb%a1%a0%ea%b3%bc-%ec%8b%a4%ec%b2%9c%ec%9d%98-%ea%b2%b0%ed%95%a9-%ec%83%88%eb%a1%9c-%eb%82%98%ec%98%a8-%ea%b3%84%ea%b0%84%ec%a7%80-%e3%80%8a%eb%a7%88%eb%a5%b4%ed%81%ac/
+guid: http://marx.mytory.net/2010/04/06/%ea%b0%95%ec%b6%94-%ec%9d%b4%eb%a1%a0%ea%b3%bc-%ec%8b%a4%ec%b2%9c%ec%9d%98-%ea%b2%b0%ed%95%a9-%ec%83%88%eb%a1%9c-%eb%82%98%ec%98%a8-%ea%b3%84%ea%b0%84%ec%a7%80-%e3%80%8a%eb%a7%88%eb%a5%b4%ed%81%ac/
 permalink: /archives/368
 categories:
   - 마르크스주의
@@ -26,7 +26,7 @@ tags:
 
 인터넷 서점들 중 내가 가장 괜찮게 생각하는 알라딘의 인증샷.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile5.uf.116193254BBB18D69478B4.jpg" class="aligncenter" width="550" height="276" alt="" filename="마르크스21.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.116193254BBB18D69478B4.jpg" class="aligncenter" width="550" height="276" alt="" filename="마르크스21.jpg" filemime="image/jpeg" />
 
 알라딘은 10% 할인 중이다. 하지만 이런 출판사 원래 돈이 없으니깐, 진짜로 이 잡지가 잘 됐으면 좋겠다고 생각하는 사람은 직접 <a href="http://marx21.or.kr/" target="_blank" title="[http://marx21.or.kr/]로 이동합니다.">마르크스21 홈페이지</a>에 가서 <a href="http://marx21.or.kr/subs/subs.marx" target="_blank" title="[http://marx21.or.kr/subs/subs.marx]로 이동합니다.">정기구독</a>을 하기 바란다.
 

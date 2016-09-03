@@ -4,7 +4,7 @@ title: 여전히 유용한 마르크스의 계급 개념
 date: 2009-01-17T16:32:34+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/01/17/%ec%97%ac%ec%a0%84%ed%9e%88-%ec%9c%a0%ec%9a%a9%ed%95%9c-%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%9d%98-%ea%b3%84%ea%b8%89-%ea%b0%9c%eb%85%90/
+guid: http://marx.mytory.net/2009/01/17/%ec%97%ac%ec%a0%84%ed%9e%88-%ec%9c%a0%ec%9a%a9%ed%95%9c-%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%9d%98-%ea%b3%84%ea%b8%89-%ea%b0%9c%eb%85%90/
 permalink: /archives/109
 categories:
   - 마르크스주의

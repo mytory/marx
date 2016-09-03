@@ -4,7 +4,7 @@ title: 오바마의 ‘Change’? 기대만큼 가능할지…
 date: 2008-11-14T13:02:36+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/11/14/%ec%98%a4%eb%b0%94%eb%a7%88%ec%9d%98-change-%ea%b8%b0%eb%8c%80%eb%a7%8c%ed%81%bc-%ea%b0%80%eb%8a%a5%ed%95%a0%ec%a7%80/
+guid: http://marx.mytory.net/2008/11/14/%ec%98%a4%eb%b0%94%eb%a7%88%ec%9d%98-change-%ea%b8%b0%eb%8c%80%eb%a7%8c%ed%81%bc-%ea%b0%80%eb%8a%a5%ed%95%a0%ec%a7%80/
 permalink: /archives/18
 categories:
   - 마르크스주의

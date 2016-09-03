@@ -4,7 +4,7 @@ title: 이집트 혁명, 끝이 아니라 시작이다
 date: 2011-02-17T12:35:22+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2011/02/17/%ec%9d%b4%ec%a7%91%ed%8a%b8-%ed%98%81%eb%aa%85-%eb%81%9d%ec%9d%b4-%ec%95%84%eb%8b%88%eb%9d%bc-%ec%8b%9c%ec%9e%91%ec%9d%b4%eb%8b%a4/
+guid: http://marx.mytory.net/2011/02/17/%ec%9d%b4%ec%a7%91%ed%8a%b8-%ed%98%81%eb%aa%85-%eb%81%9d%ec%9d%b4-%ec%95%84%eb%8b%88%eb%9d%bc-%ec%8b%9c%ec%9e%91%ec%9d%b4%eb%8b%a4/
 permalink: /archives/445
 categories:
   - 정치논평
@@ -16,7 +16,7 @@ tags:
 ---
 이것은 제가 쓴 게 아니라 다함께가 주최한 서부 사회포럼 &#8220;격동의 이집트:저항에서 혁명으로&#8221;에서 최일붕 씨가 자유토론 때 한 발언을 정리한 것입니다. 옮겨적는 과정에서 실수가 있었을 수 있습니다. <figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile26.uf.11762F544D5DD6DF1B6183.jpg" width="540" height="360" alt="" filename="cfile26.uf.11762F544D5DD6DF1B6183.jpg" filemime="" /><figcaption class="wp-caption-text">△파업에 나선 대중교통 노동자들이 구호를 외치고 있다. ⓒ사진 제공 Hossam el-Hamalawy</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile26.uf.11762F544D5DD6DF1B6183.jpg" width="540" height="360" alt="" filename="cfile26.uf.11762F544D5DD6DF1B6183.jpg" filemime="" /><figcaption class="wp-caption-text">△파업에 나선 대중교통 노동자들이 구호를 외치고 있다. ⓒ사진 제공 Hossam el-Hamalawy</figcaption></figure> 
 
 2007년에 나는 이집트 카이로에서 열린 반전회의에 참석한 적이 있다. 언론회관에 2천 명이 넘게 왔다. 
 

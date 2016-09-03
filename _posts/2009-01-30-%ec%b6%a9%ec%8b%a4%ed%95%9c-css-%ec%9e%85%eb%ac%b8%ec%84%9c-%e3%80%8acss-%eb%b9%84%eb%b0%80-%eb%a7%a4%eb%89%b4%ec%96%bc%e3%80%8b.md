@@ -4,7 +4,7 @@ title: 충실한 CSS 입문서, 《CSS 비밀 매뉴얼》
 date: 2009-01-30T14:52:43+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/01/30/%ec%b6%a9%ec%8b%a4%ed%95%9c-css-%ec%9e%85%eb%ac%b8%ec%84%9c-%e3%80%8acss-%eb%b9%84%eb%b0%80-%eb%a7%a4%eb%89%b4%ec%96%bc%e3%80%8b/
+guid: http://marx.mytory.net/2009/01/30/%ec%b6%a9%ec%8b%a4%ed%95%9c-css-%ec%9e%85%eb%ac%b8%ec%84%9c-%e3%80%8acss-%eb%b9%84%eb%b0%80-%eb%a7%a4%eb%89%b4%ec%96%bc%e3%80%8b/
 permalink: /archives/129
 categories:
   - 리뷰
@@ -14,7 +14,7 @@ tags:
   - html
   - 웹디자인
 ---
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/4983142068355DY.jpg" class="aligncenter" width="150" height="206" alt="" filename="css-missing-manual.jpg" filemime="" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/4983142068355DY.jpg" class="aligncenter" width="150" height="206" alt="" filename="css-missing-manual.jpg" filemime="" />
 
 CSS 공부를 해야했기 때문에 도서관에서 CSS로 검색을 했었다. 몇 개 책이 안 나왔는데, 아는 건 없었기 때문에 그냥 최신 서적들 중 하나를 골랐다. 그렇게 우연히 고른 책이 <A HREF="http://www.aladdin.co.kr/shop/wproduct.aspx?isbn=8979144784" title="알라딘에서 책 보기" target="_blank">《CSS 비밀 매뉴얼》</A>이다.
 

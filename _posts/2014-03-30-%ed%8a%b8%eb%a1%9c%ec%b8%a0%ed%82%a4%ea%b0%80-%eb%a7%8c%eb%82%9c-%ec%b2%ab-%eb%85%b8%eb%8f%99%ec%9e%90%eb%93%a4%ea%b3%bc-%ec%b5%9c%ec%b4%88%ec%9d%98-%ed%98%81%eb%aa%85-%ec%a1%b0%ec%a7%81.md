@@ -4,7 +4,7 @@ title: 트로츠키가 만난 첫 노동자들과 최초의 혁명 조직
 date: 2014-03-30T16:29:47+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2014/03/30/%ed%8a%b8%eb%a1%9c%ec%b8%a0%ed%82%a4%ea%b0%80-%eb%a7%8c%eb%82%9c-%ec%b2%ab-%eb%85%b8%eb%8f%99%ec%9e%90%eb%93%a4%ea%b3%bc-%ec%b5%9c%ec%b4%88%ec%9d%98-%ed%98%81%eb%aa%85-%ec%a1%b0%ec%a7%81/
+guid: http://marx.mytory.net/2014/03/30/%ed%8a%b8%eb%a1%9c%ec%b8%a0%ed%82%a4%ea%b0%80-%eb%a7%8c%eb%82%9c-%ec%b2%ab-%eb%85%b8%eb%8f%99%ec%9e%90%eb%93%a4%ea%b3%bc-%ec%b5%9c%ec%b4%88%ec%9d%98-%ed%98%81%eb%aa%85-%ec%a1%b0%ec%a7%81/
 permalink: /archives/582
 categories:
   - 추천하고 싶은 글
@@ -13,7 +13,7 @@ categories:
 트로츠키는 레닌과 함께 1917년 러시아 혁명을 이끌었고, 스탈린과 투쟁을 벌이다가 1928년 러시아에서 추방당했다. 스탈린의 독재와 마르크스주의 왜곡에 맞서 진정한 마르크스주의 보존을 위해 투신하다가 1940년 스탈린이 보낸 자객에게 망명지에서 암살당했다.**
 
 <p style="text-align: center; clear: none; float: none;">
-  <figure style="width: 300px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile29.uf.2260EF4B533846E8349C1B.jpg" width="300" height="428" filename="트로츠키 젊은 시절.jpg" filemime="image/jpeg" style="width: 300px; height: 428px;" /><figcaption class="wp-caption-text">젊은 시절의 트로츠키. 아마 이런 모습으로 첫 실천 활동에 나섰을 것이다.</figcaption></figure>
+  <figure style="width: 300px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile29.uf.2260EF4B533846E8349C1B.jpg" width="300" height="428" filename="트로츠키 젊은 시절.jpg" filemime="image/jpeg" style="width: 300px; height: 428px;" /><figcaption class="wp-caption-text">젊은 시절의 트로츠키. 아마 이런 모습으로 첫 실천 활동에 나섰을 것이다.</figcaption></figure>
 </p>
 
 1896년 가을, 나는 그럼에도 불구하고 시골로 돌아갔다. 하지만 그것은 가족과의 잠깐 동안의 휴전에 지나지 않았다. 아버지는 내가 기사가 되길 바라고 계셨지만, 나는 큰 매력을 느끼고 있는 순수 수학과 조금씩 나를 사로잡고 있는 혁명 사이에서 아직 주저하고 있었다. 이 문제가 제기될 때마다 심각한 가족적 위기가 발생했다. …

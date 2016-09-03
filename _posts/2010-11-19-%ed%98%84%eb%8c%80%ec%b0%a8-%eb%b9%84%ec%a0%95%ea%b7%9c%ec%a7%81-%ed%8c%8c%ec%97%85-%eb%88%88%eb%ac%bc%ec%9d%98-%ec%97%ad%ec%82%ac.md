@@ -4,7 +4,7 @@ title: 현대차 비정규직 파업 _ 눈물의 역사
 date: 2010-11-19T10:21:37+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2010/11/19/%ed%98%84%eb%8c%80%ec%b0%a8-%eb%b9%84%ec%a0%95%ea%b7%9c%ec%a7%81-%ed%8c%8c%ec%97%85-%eb%88%88%eb%ac%bc%ec%9d%98-%ec%97%ad%ec%82%ac/
+guid: http://marx.mytory.net/2010/11/19/%ed%98%84%eb%8c%80%ec%b0%a8-%eb%b9%84%ec%a0%95%ea%b7%9c%ec%a7%81-%ed%8c%8c%ec%97%85-%eb%88%88%eb%ac%bc%ec%9d%98-%ec%97%ad%ec%82%ac/
 permalink: /archives/425
 categories:
   - 투쟁
@@ -42,7 +42,7 @@ tags:
 > &#8220;새벽 5시 30분, 울산 현대차 비정규직 시트1부 노동자 40여 명이 사측의 폐업에 맞서 시트1부를 점거했다. 그러나 사측은 곧바로 관리직과 용역깡패 5백 명을 동원해 노동자들을 무참하게 짓밟았다. 무자비한 폭력 때문에 점거는 오래 지속되지 못했다.&#8221;(레프트21,&nbsp;<a href="http://wspaper.org/article/8866" target="_blank" title="[http://wspaper.org/article/8866]로 이동합니다.">현대차 비정규직 투쟁 현장 취재(11월 15일) &#8211;&nbsp;비정규직 노동자들의 분노가 투쟁으로 폭발하다</a>) 인용한 기사에 있는 사진이다.&#8221;]
 
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile8.uf.18626C324CE694F18A23A2.jpg" width="540" height="324" alt="" filename="cfile8.uf.18626C324CE694F18A23A2.jpg" filemime="" /> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile8.uf.18626C324CE694F18A23A2.jpg" width="540" height="324" alt="" filename="cfile8.uf.18626C324CE694F18A23A2.jpg" filemime="" /> 
 
 여기까지는 투쟁에서 흔히 있는 일이었다. 그런데 놀라운 일이 벌어진 것은 그 다음이다.
 

@@ -4,7 +4,7 @@ title: 김석기 사퇴로 안된다. 이명박이 남아있다.
 date: 2009-02-18T15:28:41+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/02/18/%ea%b9%80%ec%84%9d%ea%b8%b0-%ec%82%ac%ed%87%b4%eb%a1%9c-%ec%95%88%eb%90%9c%eb%8b%a4-%ec%9d%b4%eb%aa%85%eb%b0%95%ec%9d%b4-%eb%82%a8%ec%95%84%ec%9e%88%eb%8b%a4/
+guid: http://marx.mytory.net/2009/02/18/%ea%b9%80%ec%84%9d%ea%b8%b0-%ec%82%ac%ed%87%b4%eb%a1%9c-%ec%95%88%eb%90%9c%eb%8b%a4-%ec%9d%b4%eb%aa%85%eb%b0%95%ec%9d%b4-%eb%82%a8%ec%95%84%ec%9e%88%eb%8b%a4/
 permalink: /archives/145
 categories:
   - 정치논평

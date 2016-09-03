@@ -4,7 +4,7 @@ title: 최고의 마르크스주의 입문서, 《칼 맑스의 혁명적 사상
 date: 2008-12-11T15:54:44+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/12/11/%ec%b5%9c%ea%b3%a0%ec%9d%98-%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98-%ec%9e%85%eb%ac%b8%ec%84%9c-%e3%80%8a%ec%b9%bc-%eb%a7%91%ec%8a%a4%ec%9d%98-%ed%98%81%eb%aa%85%ec%a0%81-%ec%82%ac/
+guid: http://marx.mytory.net/2008/12/11/%ec%b5%9c%ea%b3%a0%ec%9d%98-%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98-%ec%9e%85%eb%ac%b8%ec%84%9c-%e3%80%8a%ec%b9%bc-%eb%a7%91%ec%8a%a4%ec%9d%98-%ed%98%81%eb%aa%85%ec%a0%81-%ec%82%ac/
 permalink: /archives/59
 categories:
   - 리뷰

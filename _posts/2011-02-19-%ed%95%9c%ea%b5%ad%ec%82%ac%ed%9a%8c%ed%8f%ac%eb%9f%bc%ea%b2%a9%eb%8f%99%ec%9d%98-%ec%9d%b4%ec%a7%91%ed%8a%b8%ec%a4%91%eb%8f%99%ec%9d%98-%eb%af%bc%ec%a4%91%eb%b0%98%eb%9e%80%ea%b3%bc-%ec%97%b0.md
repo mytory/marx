@@ -4,7 +4,7 @@ title: '[한국사회포럼]격동의 이집트:중동의 민중반란과 연속
 date: 2011-02-19T07:44:24+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2011/02/19/%ed%95%9c%ea%b5%ad%ec%82%ac%ed%9a%8c%ed%8f%ac%eb%9f%bc%ea%b2%a9%eb%8f%99%ec%9d%98-%ec%9d%b4%ec%a7%91%ed%8a%b8%ec%a4%91%eb%8f%99%ec%9d%98-%eb%af%bc%ec%a4%91%eb%b0%98%eb%9e%80%ea%b3%bc-%ec%97%b0/
+guid: http://marx.mytory.net/2011/02/19/%ed%95%9c%ea%b5%ad%ec%82%ac%ed%9a%8c%ed%8f%ac%eb%9f%bc%ea%b2%a9%eb%8f%99%ec%9d%98-%ec%9d%b4%ec%a7%91%ed%8a%b8%ec%a4%91%eb%8f%99%ec%9d%98-%eb%af%bc%ec%a4%91%eb%b0%98%eb%9e%80%ea%b3%bc-%ec%97%b0/
 permalink: /archives/449
 categories:
   - 강연회/토론회 후기
@@ -32,7 +32,7 @@ tags:
 이집트의 존엄과 자유를 위해 싸운 분들을 위해 묵념하자.(묵념)
 
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile27.uf.2044F24B4D5F742733B7B4.jpg" class="aligncenter" width="610" height="343" alt="" filename="IMG_3100.MOV_20110219_163911.jpg" filemime="image/jpeg" /> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile27.uf.2044F24B4D5F742733B7B4.jpg" class="aligncenter" width="610" height="343" alt="" filename="IMG_3100.MOV_20110219_163911.jpg" filemime="image/jpeg" /> 
 
 이집트 공화국은 나세르와 자유 장교단의 쿠데타로 시작됐다. 나세르는 모든 권한을 자신에게 집중했다. 나세르 이후 권력자들에게 갈수록 그런 권력은 집중됐다. 무슬림으로서 나는 한 인간에게 권력이 집중되는 것에 반대한다. 무바라크는 생사여탈권을 제외하고 모든 것을 가졌다.
 

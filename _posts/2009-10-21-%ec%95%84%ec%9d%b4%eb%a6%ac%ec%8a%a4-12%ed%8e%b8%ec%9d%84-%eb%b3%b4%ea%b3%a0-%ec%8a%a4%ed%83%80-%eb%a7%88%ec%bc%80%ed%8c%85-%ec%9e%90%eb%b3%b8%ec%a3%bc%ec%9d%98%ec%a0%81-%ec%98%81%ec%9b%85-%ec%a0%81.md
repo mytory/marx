@@ -4,7 +4,7 @@ title: '아이리스 1,2편을 보고 &#8211; 스타 마케팅, 자본주의적 
 date: 2009-10-21T02:24:30+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/10/21/%ec%95%84%ec%9d%b4%eb%a6%ac%ec%8a%a4-12%ed%8e%b8%ec%9d%84-%eb%b3%b4%ea%b3%a0-%ec%8a%a4%ed%83%80-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%9e%90%eb%b3%b8%ec%a3%bc%ec%9d%98%ec%a0%81-%ec%98%81%ec%9b%85-%ec%a0%81/
+guid: http://marx.mytory.net/2009/10/21/%ec%95%84%ec%9d%b4%eb%a6%ac%ec%8a%a4-12%ed%8e%b8%ec%9d%84-%eb%b3%b4%ea%b3%a0-%ec%8a%a4%ed%83%80-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%9e%90%eb%b3%b8%ec%a3%bc%ec%9d%98%ec%a0%81-%ec%98%81%ec%9b%85-%ec%a0%81/
 permalink: /archives/308
 categories:
   - 리뷰
@@ -20,7 +20,7 @@ tags:
 ---
 ## 톱스타 마케팅
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile7.uf.126962244ADE70051CE49D.jpg" class="alignright" width="250" height="373" alt="" filename="cfile7.uf.126962244ADE70051CE49D.jpg" filemime="" />톱스타 마케팅에 내성이 있다고 자부하며 살아왔건만&#8230; 오호 통재라! 결국 김태희 앞에는 무릎을 꿇고야 말았던 것이던가&#8230;
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile7.uf.126962244ADE70051CE49D.jpg" class="alignright" width="250" height="373" alt="" filename="cfile7.uf.126962244ADE70051CE49D.jpg" filemime="" />톱스타 마케팅에 내성이 있다고 자부하며 살아왔건만&#8230; 오호 통재라! 결국 김태희 앞에는 무릎을 꿇고야 말았던 것이던가&#8230;
 
 선덕여왕의 고현정에게도 내성이 있던 나였지만, 김태희가 나온다는 말에 솔깃해 드라마에 관심을 가졌고, 결국 몹시 아팠던 어제, 1,2편을 다운받아 보고야 말았다.
 
@@ -89,7 +89,7 @@ KBS와 협정을 맺었다는 안내문이 나오면서 회당 700원의 정보�
 
 ## 적군파
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile25.uf.122E9E264ADE70A231F7C8.jpg" class="alignright" width="250" height="354" alt="" filename="바더마인호프.jpg" filemime="image/jpeg" />2편에서 적으로 등장한 야마모토가 적군파의 후예로 나온 것은 황당하기 짝이 없다. 적군파는 극단적 폭력을 선택했기 때문에 실패한 혁명가들이고, 그들의 방식을 지지할 수는 없지만, 기본적으로 &#8216;혁명가&#8217;들이었다. 자본주의 사회의 빈부격차와 부르주아 계급의 지배를 증오했던 이들이라는 말이다. 그런 이들의 후예가 카지노를 하고 여자를 꼬셔서 고급 호텔에서 하룻밤 주무시려고 하고 어제 본 여자에게 돈을 펑펑 써가면서 옷을 선물한다? 마약상이나 무기상들 같은 조폭에게나 어울릴 법한 역할을, 일본 테러리스트라는 조잡한 조합을 시도하다가 적군파에게 준 게 아닌가 하는 의심을 지울 수 없다.
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile25.uf.122E9E264ADE70A231F7C8.jpg" class="alignright" width="250" height="354" alt="" filename="바더마인호프.jpg" filemime="image/jpeg" />2편에서 적으로 등장한 야마모토가 적군파의 후예로 나온 것은 황당하기 짝이 없다. 적군파는 극단적 폭력을 선택했기 때문에 실패한 혁명가들이고, 그들의 방식을 지지할 수는 없지만, 기본적으로 &#8216;혁명가&#8217;들이었다. 자본주의 사회의 빈부격차와 부르주아 계급의 지배를 증오했던 이들이라는 말이다. 그런 이들의 후예가 카지노를 하고 여자를 꼬셔서 고급 호텔에서 하룻밤 주무시려고 하고 어제 본 여자에게 돈을 펑펑 써가면서 옷을 선물한다? 마약상이나 무기상들 같은 조폭에게나 어울릴 법한 역할을, 일본 테러리스트라는 조잡한 조합을 시도하다가 적군파에게 준 게 아닌가 하는 의심을 지울 수 없다.
 
 (참고할만한 글이 별로 없는데, <a href="http://blog.aladdin.co.kr/796537115/2314412" target="_blank">일본 적군파 지도자였던 시게노부 후사코란 사람이 쓴 자전적 에세이 일부</a>를 인용한 글을 참고하라. 당시 적군파의 생각을 알 수 있는 글이다. &lt;한겨레21&gt;에는 좀더 길게 <a href="http://h21.hani.co.kr/arti/world/world_general/25553.html" target="_blank">시게노부 후사코가 소개</a>돼 있다. 적군파가 무엇인지도 맨 하단에 간략히 소개돼 있다.)
 

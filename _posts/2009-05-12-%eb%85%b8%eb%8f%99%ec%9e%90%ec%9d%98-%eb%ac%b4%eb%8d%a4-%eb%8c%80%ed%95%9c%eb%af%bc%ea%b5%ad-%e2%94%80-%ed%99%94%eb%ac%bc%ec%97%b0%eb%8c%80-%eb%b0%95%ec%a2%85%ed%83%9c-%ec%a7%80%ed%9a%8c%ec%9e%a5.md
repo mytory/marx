@@ -4,7 +4,7 @@ title: 노동자의 무덤, 대한민국 ─ 화물연대 박종태 지회장을
 date: 2009-05-12T05:44:00+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/05/12/%eb%85%b8%eb%8f%99%ec%9e%90%ec%9d%98-%eb%ac%b4%eb%8d%a4-%eb%8c%80%ed%95%9c%eb%af%bc%ea%b5%ad-%e2%94%80-%ed%99%94%eb%ac%bc%ec%97%b0%eb%8c%80-%eb%b0%95%ec%a2%85%ed%83%9c-%ec%a7%80%ed%9a%8c%ec%9e%a5/
+guid: http://marx.mytory.net/2009/05/12/%eb%85%b8%eb%8f%99%ec%9e%90%ec%9d%98-%eb%ac%b4%eb%8d%a4-%eb%8c%80%ed%95%9c%eb%af%bc%ea%b5%ad-%e2%94%80-%ed%99%94%eb%ac%bc%ec%97%b0%eb%8c%80-%eb%b0%95%ec%a2%85%ed%83%9c-%ec%a7%80%ed%9a%8c%ec%9e%a5/
 permalink: /archives/192
 categories:
   - 투쟁
@@ -97,4 +97,4 @@ tags:
 
 화물연대가 총파업 투표를 한다고 한다. 마음 같아서는 그냥 바로 파업해버렸으면 좋겠지만, 부디 이번 파업은 전 국민의 지지를 받으면서 힘차게 나갔으면 좋겠다. 그게 노동자와 우리들이 (말 그대로) 살 길이다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile5.uf.1656A0214A0906EA843B7C.jpg" class="aligncenter" width="333" height="500" alt="" filename="HwamulWorkers.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.1656A0214A0906EA843B7C.jpg" class="aligncenter" width="333" height="500" alt="" filename="HwamulWorkers.jpg" filemime="image/jpeg" />

@@ -4,7 +4,7 @@ title: '대한민국, 노동자 폭행의 역사 &#8211; 최신판 금호타이�
 date: 2010-04-12T04:38:11+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2010/04/12/%eb%8c%80%ed%95%9c%eb%af%bc%ea%b5%ad-%eb%85%b8%eb%8f%99%ec%9e%90-%ed%8f%ad%ed%96%89%ec%9d%98-%ec%97%ad%ec%82%ac-%ec%b5%9c%ec%8b%a0%ed%8c%90-%ea%b8%88%ed%98%b8%ed%83%80%ec%9d%b4%ec%96%b4/
+guid: http://marx.mytory.net/2010/04/12/%eb%8c%80%ed%95%9c%eb%af%bc%ea%b5%ad-%eb%85%b8%eb%8f%99%ec%9e%90-%ed%8f%ad%ed%96%89%ec%9d%98-%ec%97%ad%ec%82%ac-%ec%b5%9c%ec%8b%a0%ed%8c%90-%ea%b8%88%ed%98%b8%ed%83%80%ec%9d%b4%ec%96%b4/
 permalink: /archives/374
 categories:
   - 투쟁
@@ -46,7 +46,7 @@ tags:
 
 때로는 사진 하나가 더 많은 메시지를 전달합니다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile24.uf.1561A3014BC29A632B990A.jpg" class="aligncenter" width="397" height="342" alt="" filename="구타2-2.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile24.uf.1561A3014BC29A632B990A.jpg" class="aligncenter" width="397" height="342" alt="" filename="구타2-2.jpg" filemime="image/jpeg" />
 
 <a href="http://spar2003.tistory.com/119" target="_blank" title="[http://spar2003.tistory.com/119]로 이동합니다.">&#8216;쌍용차 불법 진압 장면&#8217;</a>에 가면 더 많은 사진을 볼 수 있습니다.
 
@@ -86,7 +86,7 @@ tags:
 
 ## 국가의 노동자 폭행 최신 사례 &#8211; 어제 금호 타이어 농성장 침탈<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile21.uf.1719280E4BC2A13085D4AF.jpg" width="540" height="360" alt="금호타이어" filename="cfile21.uf.1719280E4BC2A13085D4AF.jpg" filemime="" /><figcaption class="wp-caption-text">△구조조정에 반대해 농성중이던 노동자들을 폭행해서 끌어내는 사측 관리자들.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile21.uf.1719280E4BC2A13085D4AF.jpg" width="540" height="360" alt="금호타이어" filename="cfile21.uf.1719280E4BC2A13085D4AF.jpg" filemime="" /><figcaption class="wp-caption-text">△구조조정에 반대해 농성중이던 노동자들을 폭행해서 끌어내는 사측 관리자들.</figcaption></figure> 
 
 금호타이어 노동자들은 &#8220;먹고 살 길을 마련해 달라&#8221;고 말했습니다.
 
@@ -108,4 +108,4 @@ tags:
 
 <span style="font-size: 18pt; "><b><font class="Apple-style-span" color="#EC9C2C">맞서 싸워 우리의 권리를 되찾아야 하지 않겠나.</font></b></span>
 
-<span style="font-size: 18pt; "><font class="Apple-style-span" color="#801FBF"><b><span style="font-size: 10pt; "><span style="font-size: 9pt; "><figure style="width: 500px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile23.uf.1756A5044BC2A31B54873A.jpg" width="500" height="328" alt="촛불 항쟁" filename="cfile23.uf.1756A5044BC2A31B54873A.jpg" filemime="" /><figcaption class="wp-caption-text">△또 다른 촛불은 멀지 않은 것 같다.</figcaption></figure></span></span></b></font></span>
+<span style="font-size: 18pt; "><font class="Apple-style-span" color="#801FBF"><b><span style="font-size: 10pt; "><span style="font-size: 9pt; "><figure style="width: 500px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile23.uf.1756A5044BC2A31B54873A.jpg" width="500" height="328" alt="촛불 항쟁" filename="cfile23.uf.1756A5044BC2A31B54873A.jpg" filemime="" /><figcaption class="wp-caption-text">△또 다른 촛불은 멀지 않은 것 같다.</figcaption></figure></span></span></b></font></span>

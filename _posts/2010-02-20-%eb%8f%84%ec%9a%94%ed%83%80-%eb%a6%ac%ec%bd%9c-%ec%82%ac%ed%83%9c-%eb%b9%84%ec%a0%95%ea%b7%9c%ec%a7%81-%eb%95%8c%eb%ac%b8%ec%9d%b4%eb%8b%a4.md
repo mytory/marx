@@ -4,7 +4,7 @@ title: 도요타 리콜 사태, 비정규직 때문이다?
 date: 2010-02-20T12:38:40+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2010/02/20/%eb%8f%84%ec%9a%94%ed%83%80-%eb%a6%ac%ec%bd%9c-%ec%82%ac%ed%83%9c-%eb%b9%84%ec%a0%95%ea%b7%9c%ec%a7%81-%eb%95%8c%eb%ac%b8%ec%9d%b4%eb%8b%a4/
+guid: http://marx.mytory.net/2010/02/20/%eb%8f%84%ec%9a%94%ed%83%80-%eb%a6%ac%ec%bd%9c-%ec%82%ac%ed%83%9c-%eb%b9%84%ec%a0%95%ea%b7%9c%ec%a7%81-%eb%95%8c%eb%ac%b8%ec%9d%b4%eb%8b%a4/
 permalink: /archives/354
 categories:
   - 정치논평
@@ -58,7 +58,7 @@ tags:
 
 그런데 너무나도 근시안적인 기업들은 이조차도 격렬한 투쟁이 있을 때만 허용했다. 자본주의의 초기 순수한 모습을 볼 수 있는 것은 산업시대 초기의 영국이다. 당시 영국 노동자들의 평균 수명은 30대가 체 못 됐다고 한다. 노동계급의 인구가 줄어들 지경이었다. 그런데도 기업은 이를 개선할 의지를 보이지 않았다. 영국 노동자들은 러다이트 운동, 차티스트 운동 등으로 거의 봉기에 가까운 저항을 일으켰다. 자본가들 중 노동계급의 상태가 너무 최악이라서 국가가 붕괴 위기에 처할 수도 있음을 걱정하던 소수가 이 때에야 영향력을 발휘할 수 있었다. 그래서 노동시간이 규제되기 시작했다.<figure style="width: 550px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile23.uf.16254E0D4B7FD7546FDA9A.jpg" width="550" height="289" alt="공장 라인에서 일하는 해골들" filename="cfile23.uf.16254E0D4B7FD7546FDA9A.jpg" filemime="" /><figcaption class="wp-caption-text">△산업화 시대, 부르주아들의 탐욕을 풍자한 삽화</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile23.uf.16254E0D4B7FD7546FDA9A.jpg" width="550" height="289" alt="공장 라인에서 일하는 해골들" filename="cfile23.uf.16254E0D4B7FD7546FDA9A.jpg" filemime="" /><figcaption class="wp-caption-text">△산업화 시대, 부르주아들의 탐욕을 풍자한 삽화</figcaption></figure> 
 
 만약 노동계급의 거대한 반란이 없었다면, 지배층의 ‘선각자들’은 자신들의 걱정을 ‘말하기’만 하고 결코 현실화하기 위한 강력한 압력을 넣지 않았을 것이다.(못했을 것이기도 하다. 그들이 무슨 수로 압력을 넣겠는가. 실질적 압력은 강제력을 수반한 것일 텐데, 강제력으로 이윤을 갉아먹는 조치를 하는 것은 부르주아 계급 출신인 그들에게 거의 불가능이다.)
 

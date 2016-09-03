@@ -4,7 +4,7 @@ title: 비정규직법 ─ 민주노총의 혼란
 date: 2009-07-06T13:19:19+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/07/06/%eb%b9%84%ec%a0%95%ea%b7%9c%ec%a7%81%eb%b2%95-%e2%94%80-%eb%af%bc%ec%a3%bc%eb%85%b8%ec%b4%9d%ec%9d%98-%ed%98%bc%eb%9e%80/
+guid: http://marx.mytory.net/2009/07/06/%eb%b9%84%ec%a0%95%ea%b7%9c%ec%a7%81%eb%b2%95-%e2%94%80-%eb%af%bc%ec%a3%bc%eb%85%b8%ec%b4%9d%ec%9d%98-%ed%98%bc%eb%9e%80/
 permalink: /archives/233
 categories:
   - 추천하고 싶은 글
@@ -17,7 +17,7 @@ tags:
 ---
 비정규직법 논란이 계속되고 있다. 아니, 정확히 말하자. 논란은 저들이 쓰는 말이다. 나쁜 법을 더 나쁘게 만들려는 생떼가 계속되고 있다.[footnote]한나라당의 어이없는 논리는 반박할 가치를 못 느낀다. 반박을 알고 싶은 분들은 찾아 보면 될 터.[/footnote] 정말이지 이 정부는&nbsp;서민 말살 정부다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile25.uf.1850BA1F4A51F9C405F7F7.jpg" class="aligncenter" width="550" height="322" alt="" filename="17065454_s090416727081.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile25.uf.1850BA1F4A51F9C405F7F7.jpg" class="aligncenter" width="550" height="322" alt="" filename="17065454_s090416727081.jpg" filemime="image/jpeg" />
 
 과거 민주노총의 통계를 보면 비정규직은 800만 명이었다. 이들이 정규직 전환됐을 리 없으니, 비정규직이 감소했다고 해도 대부분 무기계약직이 됐을 것이다.
 

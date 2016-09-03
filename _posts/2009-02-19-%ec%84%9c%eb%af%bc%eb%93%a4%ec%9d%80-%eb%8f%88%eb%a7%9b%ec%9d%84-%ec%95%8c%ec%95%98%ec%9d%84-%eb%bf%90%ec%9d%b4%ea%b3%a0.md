@@ -4,7 +4,7 @@ title: 서민들은 돈맛을 알았을 뿐이고?
 date: 2009-02-19T14:00:52+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/02/19/%ec%84%9c%eb%af%bc%eb%93%a4%ec%9d%80-%eb%8f%88%eb%a7%9b%ec%9d%84-%ec%95%8c%ec%95%98%ec%9d%84-%eb%bf%90%ec%9d%b4%ea%b3%a0/
+guid: http://marx.mytory.net/2009/02/19/%ec%84%9c%eb%af%bc%eb%93%a4%ec%9d%80-%eb%8f%88%eb%a7%9b%ec%9d%84-%ec%95%8c%ec%95%98%ec%9d%84-%eb%bf%90%ec%9d%b4%ea%b3%a0/
 permalink: /archives/147
 categories:
   - 마르크스주의

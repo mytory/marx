@@ -4,7 +4,7 @@ title: '[번역] 타이를 뒤흔든 민주주의의 위기'
 date: 2008-12-09T16:47:58+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/12/09/%eb%b2%88%ec%97%ad-%ed%83%80%ec%9d%b4%eb%a5%bc-%eb%92%a4%ed%9d%94%eb%93%a0-%eb%af%bc%ec%a3%bc%ec%a3%bc%ec%9d%98%ec%9d%98-%ec%9c%84%ea%b8%b0/
+guid: http://marx.mytory.net/2008/12/09/%eb%b2%88%ec%97%ad-%ed%83%80%ec%9d%b4%eb%a5%bc-%eb%92%a4%ed%9d%94%eb%93%a0-%eb%af%bc%ec%a3%bc%ec%a3%bc%ec%9d%98%ec%9d%98-%ec%9c%84%ea%b8%b0/
 permalink: /archives/58
 categories:
   - 추천하고 싶은 글

@@ -4,7 +4,7 @@ title: “종교는 인민의 아편이다”라는 말의 뜻
 date: 2013-07-24T03:53:15+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2013/07/24/%ec%a2%85%ea%b5%90%eb%8a%94-%ec%9d%b8%eb%af%bc%ec%9d%98-%ec%95%84%ed%8e%b8%ec%9d%b4%eb%8b%a4%eb%9d%bc%eb%8a%94-%eb%a7%90%ec%9d%98-%eb%9c%bb/
+guid: http://marx.mytory.net/2013/07/24/%ec%a2%85%ea%b5%90%eb%8a%94-%ec%9d%b8%eb%af%bc%ec%9d%98-%ec%95%84%ed%8e%b8%ec%9d%b4%eb%8b%a4%eb%9d%bc%eb%8a%94-%eb%a7%90%ec%9d%98-%eb%9c%bb/
 permalink: /archives/574
 categories:
   - 마르크스주의
@@ -12,7 +12,7 @@ categories:
 <span style="font-size: 9pt; line-height: 1.5;">아주 오해받는 마르크스의 말 중 하나가 바로 &#8220;종교는 인민의 아편&#8221;이라는 말이다.</span>
 
 <p style="text-align: center; clear: none; float: none;">
-  <figure style="width: 188px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile8.uf.26600E405215867A2707E3.jpg" width="188" height="188" alt="청년 시절 마르크스 사진" filename="young marx.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">마르크스는 감수성 풍부한 청년이었다.</figcaption></figure>
+  <figure style="width: 188px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile8.uf.26600E405215867A2707E3.jpg" width="188" height="188" alt="청년 시절 마르크스 사진" filename="young marx.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">마르크스는 감수성 풍부한 청년이었다.</figcaption></figure>
 </p>
 
 단도직입적으로 말해 마르크스 시대에 아편은 마약이 아니라 진통제였다. 마르크스 자신도 엉덩이의 종기 때문에 아편을 진통제로 복용했다고 한다.

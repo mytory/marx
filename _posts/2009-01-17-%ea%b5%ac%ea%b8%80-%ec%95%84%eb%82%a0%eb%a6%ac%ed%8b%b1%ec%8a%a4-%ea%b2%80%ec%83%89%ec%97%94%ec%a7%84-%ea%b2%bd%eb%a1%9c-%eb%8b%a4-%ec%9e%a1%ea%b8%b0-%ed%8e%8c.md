@@ -4,7 +4,7 @@ title: 구글 아날리틱스, 검색엔진 경로 다 잡기 (펌)
 date: 2009-01-17T07:57:19+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/01/17/%ea%b5%ac%ea%b8%80-%ec%95%84%eb%82%a0%eb%a6%ac%ed%8b%b1%ec%8a%a4-%ea%b2%80%ec%83%89%ec%97%94%ec%a7%84-%ea%b2%bd%eb%a1%9c-%eb%8b%a4-%ec%9e%a1%ea%b8%b0-%ed%8e%8c/
+guid: http://marx.mytory.net/2009/01/17/%ea%b5%ac%ea%b8%80-%ec%95%84%eb%82%a0%eb%a6%ac%ed%8b%b1%ec%8a%a4-%ea%b2%80%ec%83%89%ec%97%94%ec%a7%84-%ea%b2%bd%eb%a1%9c-%eb%8b%a4-%ec%9e%a1%ea%b8%b0-%ed%8e%8c/
 permalink: /archives/107
 categories:
   - 추천하고 싶은 글

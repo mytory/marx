@@ -4,7 +4,7 @@ title: '[포럼 필기] 2012 대선과 진보의 과제'
 date: 2012-11-29T12:01:58+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2012/11/29/%ed%8f%ac%eb%9f%bc-%ed%95%84%ea%b8%b0-2012-%eb%8c%80%ec%84%a0%ea%b3%bc-%ec%a7%84%eb%b3%b4%ec%9d%98-%ea%b3%bc%ec%a0%9c/
+guid: http://marx.mytory.net/2012/11/29/%ed%8f%ac%eb%9f%bc-%ed%95%84%ea%b8%b0-2012-%eb%8c%80%ec%84%a0%ea%b3%bc-%ec%a7%84%eb%b3%b4%ec%9d%98-%ea%b3%bc%ec%a0%9c/
 permalink: /archives/566
 categories:
   - 강연회/토론회 후기

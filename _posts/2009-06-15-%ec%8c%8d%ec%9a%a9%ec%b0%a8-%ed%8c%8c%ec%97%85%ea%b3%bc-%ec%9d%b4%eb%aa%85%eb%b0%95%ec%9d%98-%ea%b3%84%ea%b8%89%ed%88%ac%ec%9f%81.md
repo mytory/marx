@@ -4,7 +4,7 @@ title: 쌍용차 파업과 이명박의 계급투쟁
 date: 2009-06-15T02:19:52+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/06/15/%ec%8c%8d%ec%9a%a9%ec%b0%a8-%ed%8c%8c%ec%97%85%ea%b3%bc-%ec%9d%b4%eb%aa%85%eb%b0%95%ec%9d%98-%ea%b3%84%ea%b8%89%ed%88%ac%ec%9f%81/
+guid: http://marx.mytory.net/2009/06/15/%ec%8c%8d%ec%9a%a9%ec%b0%a8-%ed%8c%8c%ec%97%85%ea%b3%bc-%ec%9d%b4%eb%aa%85%eb%b0%95%ec%9d%98-%ea%b3%84%ea%b8%89%ed%88%ac%ec%9f%81/
 permalink: /archives/212
 categories:
   - 정치논평
@@ -22,7 +22,7 @@ tags:
   - 파업
 ---
 <p style="text-align: center; ">
-  <img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile4.uf.150157234A35AF9D741477.jpg" class="aligncenter" width="550" height="367" alt="" filename="sym1.jpg" filemime="image/jpeg" />△쌍용차 노동자들은&nbsp;6.10 범국민대회에 집단 참가했다.
+  <img src="http://marx.mytory.net/wp-content/uploads/1/cfile4.uf.150157234A35AF9D741477.jpg" class="aligncenter" width="550" height="367" alt="" filename="sym1.jpg" filemime="image/jpeg" />△쌍용차 노동자들은&nbsp;6.10 범국민대회에 집단 참가했다.
 </p>
 
 그 동안 쌍용차 점거 파업에 대해 써야지 써야지 생각하면서도 쓰지 못했다. 바빠서기도 하고, ‘뻔한 말’ 말고는 떠오르는 게 없기도 해서였다. 그러나 문득 생각났다. 내 생각이 ‘뻔한 생각’은 아님을. 내 견해는 마르크스주의적 견해다. 마르크스주의는 노동자 계급 스스로의 행동을 가장 중요하게 여기는 사상이다. 내 주장이 많은 사람들에게 하나의 견해로 취급됐으면 하는 바람을 가져 본다.

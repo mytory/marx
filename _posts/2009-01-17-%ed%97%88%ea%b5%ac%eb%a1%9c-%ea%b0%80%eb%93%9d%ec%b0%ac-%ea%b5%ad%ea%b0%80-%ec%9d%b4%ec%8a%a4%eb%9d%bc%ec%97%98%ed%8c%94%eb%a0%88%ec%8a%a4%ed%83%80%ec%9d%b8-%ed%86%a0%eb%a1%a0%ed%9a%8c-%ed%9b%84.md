@@ -4,7 +4,7 @@ title: 허구로 가득찬 국가 이스라엘(팔레스타인 토론회 후기1
 date: 2009-01-17T10:51:07+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/01/17/%ed%97%88%ea%b5%ac%eb%a1%9c-%ea%b0%80%eb%93%9d%ec%b0%ac-%ea%b5%ad%ea%b0%80-%ec%9d%b4%ec%8a%a4%eb%9d%bc%ec%97%98%ed%8c%94%eb%a0%88%ec%8a%a4%ed%83%80%ec%9d%b8-%ed%86%a0%eb%a1%a0%ed%9a%8c-%ed%9b%84/
+guid: http://marx.mytory.net/2009/01/17/%ed%97%88%ea%b5%ac%eb%a1%9c-%ea%b0%80%eb%93%9d%ec%b0%ac-%ea%b5%ad%ea%b0%80-%ec%9d%b4%ec%8a%a4%eb%9d%bc%ec%97%98%ed%8c%94%eb%a0%88%ec%8a%a4%ed%83%80%ec%9d%b8-%ed%86%a0%eb%a1%a0%ed%9a%8c-%ed%9b%84/
 permalink: /archives/108
 categories:
   - 강연회/토론회 후기

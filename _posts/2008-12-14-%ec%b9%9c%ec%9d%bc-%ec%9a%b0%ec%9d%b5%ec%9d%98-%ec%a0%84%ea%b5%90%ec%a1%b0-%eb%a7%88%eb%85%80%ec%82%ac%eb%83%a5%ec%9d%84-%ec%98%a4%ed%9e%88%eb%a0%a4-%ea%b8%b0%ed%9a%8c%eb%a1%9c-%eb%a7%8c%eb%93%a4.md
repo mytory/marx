@@ -4,7 +4,7 @@ title: 친일 우익의 전교조 마녀사냥을 오히려 기회로 만들자
 date: 2008-12-14T17:01:45+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/12/14/%ec%b9%9c%ec%9d%bc-%ec%9a%b0%ec%9d%b5%ec%9d%98-%ec%a0%84%ea%b5%90%ec%a1%b0-%eb%a7%88%eb%85%80%ec%82%ac%eb%83%a5%ec%9d%84-%ec%98%a4%ed%9e%88%eb%a0%a4-%ea%b8%b0%ed%9a%8c%eb%a1%9c-%eb%a7%8c%eb%93%a4/
+guid: http://marx.mytory.net/2008/12/14/%ec%b9%9c%ec%9d%bc-%ec%9a%b0%ec%9d%b5%ec%9d%98-%ec%a0%84%ea%b5%90%ec%a1%b0-%eb%a7%88%eb%85%80%ec%82%ac%eb%83%a5%ec%9d%84-%ec%98%a4%ed%9e%88%eb%a0%a4-%ea%b8%b0%ed%9a%8c%eb%a1%9c-%eb%a7%8c%eb%93%a4/
 permalink: /archives/62
 categories:
   - 마르크스주의

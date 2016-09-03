@@ -4,7 +4,7 @@ title: '아랍 혁명(중동 혁명)을 마르크스주의 입장에서 분석�
 date: 2011-04-17T15:48:54+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2011/04/17/%ec%95%84%eb%9e%8d-%ed%98%81%eb%aa%85%ec%a4%91%eb%8f%99-%ed%98%81%eb%aa%85%ec%9d%84-%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98-%ec%9e%85%ec%9e%a5%ec%97%90%ec%84%9c-%eb%b6%84%ec%84%9d/
+guid: http://marx.mytory.net/2011/04/17/%ec%95%84%eb%9e%8d-%ed%98%81%eb%aa%85%ec%a4%91%eb%8f%99-%ed%98%81%eb%aa%85%ec%9d%84-%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98-%ec%9e%85%ec%9e%a5%ec%97%90%ec%84%9c-%eb%b6%84%ec%84%9d/
 permalink: /archives/459
 categories:
   - 마르크스주의
@@ -20,7 +20,7 @@ tags:
 ---
 <a href="http://marx21.or.kr/" target="_blank" title="[http://marx21.or.kr/]로 이동합니다.">마르크스21</a> 9호가 나왔다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile3.uf.114FCE3F4DAB09C2117748.jpg" class="aligncenter" width="428" height="638" alt="" filename="cover09.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile3.uf.114FCE3F4DAB09C2117748.jpg" class="aligncenter" width="428" height="638" alt="" filename="cover09.jpg" filemime="image/jpeg" />
 
 표지에도 써 있지만 **아랍 혁명 특집호**다.&nbsp;
 

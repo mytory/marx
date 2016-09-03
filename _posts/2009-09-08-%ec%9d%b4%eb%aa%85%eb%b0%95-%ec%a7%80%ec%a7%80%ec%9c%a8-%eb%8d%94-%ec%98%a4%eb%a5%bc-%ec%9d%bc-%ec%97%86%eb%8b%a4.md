@@ -4,7 +4,7 @@ title: 이명박 지지율, 더 오를 일 없다
 date: 2009-09-08T15:51:47+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/09/08/%ec%9d%b4%eb%aa%85%eb%b0%95-%ec%a7%80%ec%a7%80%ec%9c%a8-%eb%8d%94-%ec%98%a4%eb%a5%bc-%ec%9d%bc-%ec%97%86%eb%8b%a4/
+guid: http://marx.mytory.net/2009/09/08/%ec%9d%b4%eb%aa%85%eb%b0%95-%ec%a7%80%ec%a7%80%ec%9c%a8-%eb%8d%94-%ec%98%a4%eb%a5%bc-%ec%9d%bc-%ec%97%86%eb%8b%a4/
 permalink: /archives/260
 categories:
   - 정치논평
@@ -28,7 +28,7 @@ tags:
 
 ## 한겨레의 분석<figure style="width: 610px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile22.uf.171198144AA67D1075911E.jpg" width="610" height="207" alt="이명박 대통령의 국정수행 지지도 추이" filename="cfile22.uf.171198144AA67D1075911E.jpg" filemime="" /><figcaption class="wp-caption-text">△출처 : 한겨레 같은 기사</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.171198144AA67D1075911E.jpg" width="610" height="207" alt="이명박 대통령의 국정수행 지지도 추이" filename="cfile22.uf.171198144AA67D1075911E.jpg" filemime="" /><figcaption class="wp-caption-text">△출처 : 한겨레 같은 기사</figcaption></figure> 
 
 &lt;한겨레&gt;는 <a href="http://www.hani.co.kr/arti/politics/politics_general/375231.html" target="_blank">중도층 지지 45%로 상승…쏠쏠한 ‘서민 마케팅’</a>이라는 제목의 기사에서 &#8220;중도실용·친서민 노선은 특히 자신을 이념적으로 ‘중도’라고 생각하는 계층에 상당한 호감을 주고 있는 것으로 분석된다&#8221;고 했는데 나는 이 분석에 동의한다. 
 

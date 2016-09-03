@@ -4,7 +4,7 @@ title: 개성공단 봉쇄(?)와 제국주의
 date: 2009-03-17T00:04:50+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/03/17/%ea%b0%9c%ec%84%b1%ea%b3%b5%eb%8b%a8-%eb%b4%89%ec%87%84%ec%99%80-%ec%a0%9c%ea%b5%ad%ec%a3%bc%ec%9d%98/
+guid: http://marx.mytory.net/2009/03/17/%ea%b0%9c%ec%84%b1%ea%b3%b5%eb%8b%a8-%eb%b4%89%ec%87%84%ec%99%80-%ec%a0%9c%ea%b5%ad%ec%a3%bc%ec%9d%98/
 permalink: /archives/162
 categories:
   - 마르크스주의
@@ -16,7 +16,7 @@ tags:
   - 이명박
   - 중국
 ---
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile21.uf.2065EA0F49BEE7A02EB134.jpg" class="aligncenter" width="540" height="360" alt="한미의 군사훈련은 여전히 남북관계가 동북아관계에 종속돼 있음을 보여 주는 것 아닐까? 출처: 통일뉴스" title="한미의 군사훈련은 여전히 남북관계가 동북아관계에 종속돼 있음을 보여 주는 것 아닐까? 출처: 통일뉴스" filename="1236874911-left001-p05.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile21.uf.2065EA0F49BEE7A02EB134.jpg" class="aligncenter" width="540" height="360" alt="한미의 군사훈련은 여전히 남북관계가 동북아관계에 종속돼 있음을 보여 주는 것 아닐까? 출처: 통일뉴스" title="한미의 군사훈련은 여전히 남북관계가 동북아관계에 종속돼 있음을 보여 주는 것 아닐까? 출처: 통일뉴스" filename="1236874911-left001-p05.jpg" filemime="image/jpeg" />
 
 남북관계에 따듯한 봄이 왔고, 남북관계는 역사의 큰 물줄기에 의해 안정적인 관계에 들어섰다는 전망이 많았다. 다소간의 껄끄러운 상황은 있겠지만 큰 물줄기는 변하지 않을 것이라는 관측이 있었다. 아마 이런 관측을 했던 사람들은 여전히 이 관측을 폐기처분하려 하지는 않을 것 같다.
 

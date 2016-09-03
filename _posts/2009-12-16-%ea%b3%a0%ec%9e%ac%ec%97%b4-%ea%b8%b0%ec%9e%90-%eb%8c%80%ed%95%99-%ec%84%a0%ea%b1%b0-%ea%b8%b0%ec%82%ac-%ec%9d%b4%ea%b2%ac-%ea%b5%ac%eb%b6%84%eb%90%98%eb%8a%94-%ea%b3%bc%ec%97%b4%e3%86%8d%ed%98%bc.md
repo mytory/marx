@@ -4,7 +4,7 @@ title: '고재열 기자 대학 선거 기사 이견 &#8211; 구분되는 과열
 date: 2009-12-16T02:11:58+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2009/12/16/%ea%b3%a0%ec%9e%ac%ec%97%b4-%ea%b8%b0%ec%9e%90-%eb%8c%80%ed%95%99-%ec%84%a0%ea%b1%b0-%ea%b8%b0%ec%82%ac-%ec%9d%b4%ea%b2%ac-%ea%b5%ac%eb%b6%84%eb%90%98%eb%8a%94-%ea%b3%bc%ec%97%b4%e3%86%8d%ed%98%bc/
+guid: http://marx.mytory.net/2009/12/16/%ea%b3%a0%ec%9e%ac%ec%97%b4-%ea%b8%b0%ec%9e%90-%eb%8c%80%ed%95%99-%ec%84%a0%ea%b1%b0-%ea%b8%b0%ec%82%ac-%ec%9d%b4%ea%b2%ac-%ea%b5%ac%eb%b6%84%eb%90%98%eb%8a%94-%ea%b3%bc%ec%97%b4%e3%86%8d%ed%98%bc/
 permalink: /archives/326
 categories:
   - 정치논평
@@ -29,7 +29,7 @@ tags:
 
 그러나 <a href="http://www.sisain.co.kr/news/articleView.html?idxno=5942" target="_blank" title="[http://www.sisain.co.kr/news/articleView.html?idxno=5942]로 이동합니다.">고재열 기자의 이번 기사</a>에는 문제가 있어 보여 짤막하게 쓴다.<figure style="width: 590px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile23.uf.1469C0034B2841597003F1.jpg" width="590" height="263" alt="서울대 총학선거 부정 제기하는 장면" filename="cfile23.uf.1469C0034B2841597003F1.jpg" filemime="" /><figcaption class="wp-caption-text">지난 11월26일 예스위캔 쪽에서 감청 내용을 공개하며 박진혁 전 선거관리위원장 등의 부정선거 의혹을 제기하고 있다(오른쪽). 예스위캔이 정리한 채록 문서. &lt;서울대저널&gt; 동영상 캡처. 출처는 &lt;한겨레21&gt; http://h21.hani.co.kr/arti/special/special_general/26295.html 아래쪽에 인용과 기사 링크도 있다.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile23.uf.1469C0034B2841597003F1.jpg" width="590" height="263" alt="서울대 총학선거 부정 제기하는 장면" filename="cfile23.uf.1469C0034B2841597003F1.jpg" filemime="" /><figcaption class="wp-caption-text">지난 11월26일 예스위캔 쪽에서 감청 내용을 공개하며 박진혁 전 선거관리위원장 등의 부정선거 의혹을 제기하고 있다(오른쪽). 예스위캔이 정리한 채록 문서. &lt;서울대저널&gt; 동영상 캡처. 출처는 &lt;한겨레21&gt; http://h21.hani.co.kr/arti/special/special_general/26295.html 아래쪽에 인용과 기사 링크도 있다.</figcaption></figure> 
 
 ## 모함에 비리까지 ‘대학 선거’ 맞아?
 

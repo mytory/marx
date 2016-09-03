@@ -4,7 +4,7 @@ title: '유럽의 긴축과 저항 &#8211; 알렉스 캘리니코스 맑시즘 2
 date: 2011-07-21T11:10:10+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2011/07/21/%ec%9c%a0%eb%9f%bd%ec%9d%98-%ea%b8%b4%ec%b6%95%ea%b3%bc-%ec%a0%80%ed%95%ad-%ec%95%8c%eb%a0%89%ec%8a%a4-%ec%ba%98%eb%a6%ac%eb%8b%88%ec%bd%94%ec%8a%a4-%eb%a7%91%ec%8b%9c%ec%a6%98-2011-%ea%b0%9c%eb%a7%89/
+guid: http://marx.mytory.net/2011/07/21/%ec%9c%a0%eb%9f%bd%ec%9d%98-%ea%b8%b4%ec%b6%95%ea%b3%bc-%ec%a0%80%ed%95%ad-%ec%95%8c%eb%a0%89%ec%8a%a4-%ec%ba%98%eb%a6%ac%eb%8b%88%ec%bd%94%ec%8a%a4-%eb%a7%91%ec%8b%9c%ec%a6%98-2011-%ea%b0%9c%eb%a7%89/
 permalink: /archives/507
 categories:
   - 강연회/토론회 후기
@@ -16,7 +16,7 @@ tags:
   - 튀니지
   - 혁명
 ---
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile25.uf.1423AD404E280910130A4F.jpg" class="aligncenter" width="400" alt="" filename="itistory-photo-1" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile25.uf.1423AD404E280910130A4F.jpg" class="aligncenter" width="400" alt="" filename="itistory-photo-1" filemime="image/jpeg" />
 
 우리는 역사적 시기에 살고 있다. 체제의 위기가 지속되고 있다. 
 

@@ -4,7 +4,7 @@ title: 1945년 해방 직후 조선공산당의 국제정세 인식, 경제 토�
 date: 2010-01-15T17:12:23+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2010/01/15/1945%eb%85%84-%ed%95%b4%eb%b0%a9-%ec%a7%81%ed%9b%84-%ec%a1%b0%ec%84%a0%ea%b3%b5%ec%82%b0%eb%8b%b9%ec%9d%98-%ea%b5%ad%ec%a0%9c%ec%a0%95%ec%84%b8-%ec%9d%b8%ec%8b%9d-%ea%b2%bd%ec%a0%9c-%ed%86%a0%eb%8c%80/
+guid: http://marx.mytory.net/2010/01/15/1945%eb%85%84-%ed%95%b4%eb%b0%a9-%ec%a7%81%ed%9b%84-%ec%a1%b0%ec%84%a0%ea%b3%b5%ec%82%b0%eb%8b%b9%ec%9d%98-%ea%b5%ad%ec%a0%9c%ec%a0%95%ec%84%b8-%ec%9d%b8%ec%8b%9d-%ea%b2%bd%ec%a0%9c-%ed%86%a0%eb%8c%80/
 permalink: /archives/342
 categories:
   - 학습
@@ -96,7 +96,7 @@ tags:
   
 
 
-<figure style="width: 143px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile8.uf.124550104B50A1CF028238.jpg" width="143" height="200" alt="" filename="cfile8.uf.124550104B50A1CF028238.jpg" filemime="" /><figcaption class="wp-caption-text">△&lt;조선인민보&gt; 1946.5.12. 1945년 9월 8일 서울에서 가장 먼저 나온 일간 신문으로 '진보적 민주주의'를 표방하였다. 1946년 9월 6일 미군정청은 미군 축출을 선동했다는 구실로 신문을 정간(停刊)시켰다. (출처 : http://www.kmoh.org/kmoh\_exh\_2f_02.html )</figcaption></figure>
+<figure style="width: 143px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile8.uf.124550104B50A1CF028238.jpg" width="143" height="200" alt="" filename="cfile8.uf.124550104B50A1CF028238.jpg" filemime="" /><figcaption class="wp-caption-text">△&lt;조선인민보&gt; 1946.5.12. 1945년 9월 8일 서울에서 가장 먼저 나온 일간 신문으로 '진보적 민주주의'를 표방하였다. 1946년 9월 6일 미군정청은 미군 축출을 선동했다는 구실로 신문을 정간(停刊)시켰다. (출처 : http://www.kmoh.org/kmoh\_exh\_2f_02.html )</figcaption></figure>
   
 
 

@@ -4,7 +4,7 @@ title: '고려대 &#8216;교수 감금&#8217;과 출교 사건의 진실'
 date: 2011-02-11T18:31:47+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2011/02/11/%ea%b3%a0%eb%a0%a4%eb%8c%80-%ea%b5%90%ec%88%98-%ea%b0%90%ea%b8%88%ea%b3%bc-%ec%b6%9c%ea%b5%90-%ec%82%ac%ea%b1%b4%ec%9d%98-%ec%a7%84%ec%8b%a4/
+guid: http://marx.mytory.net/2011/02/11/%ea%b3%a0%eb%a0%a4%eb%8c%80-%ea%b5%90%ec%88%98-%ea%b0%90%ea%b8%88%ea%b3%bc-%ec%b6%9c%ea%b5%90-%ec%82%ac%ea%b1%b4%ec%9d%98-%ec%a7%84%ec%8b%a4/
 permalink: /archives/438
 categories:
   - 투쟁
@@ -50,7 +50,7 @@ tags:
 
 이 덕에 처장단 사표는 모두 반려됐고, 징계 대상자도 확 줄었다.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile1.uf.126AFB454EC795531AF79C.jpg" class="aligncenter" width="550" height="331" alt="" filename="이건희 시위.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile1.uf.126AFB454EC795531AF79C.jpg" class="aligncenter" width="550" height="331" alt="" filename="이건희 시위.jpg" filemime="image/jpeg" />
 
 <p style="text-align: center; ">
   △이건희 반대 시위 이후 징계 반대 서명운동 할 때의 나. 벌써 6년 전이다 ㅎㄷㄷ;;
@@ -139,7 +139,7 @@ tags:
 
 아래 사진 두 장.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile25.uf.155DEE454EC7955325D3F6.jpg" class="aligncenter" width="550" height="734" alt="" filename="감금의_진실.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile25.uf.155DEE454EC7955325D3F6.jpg" class="aligncenter" width="550" height="734" alt="" filename="감금의_진실.jpg" filemime="image/jpeg" />
 
 위 사진은 현장 사진인데, 내가 웃고 있는 거, 그리고 보직 교수 중 하나가 웃고 있는 것이다.&nbsp;당시 현장 분위기가 &#8216;감금&#8217;이라고 할 수 있는 것이었을까. 심지어 보직교수 중 하나는 학생들이 들고 온 떡을 먹기도 했다. 이 문제 해결을 위해 머리를 맞대고 이야기하자고 하니까 진짜로 머리를 맞대는 개그를 펼친 보직 교수도 있었다. ㅡㅡ;; 또 하나, 학교 당국은 의자에도 못 앉게 했다고 왜곡하는데, 다들 의자에 앉아 있다.
 
@@ -213,13 +213,13 @@ tags:
 
 **3. 내가 뻐큐를 하고 담배연기를 교수 얼굴에 뿜었다는 소문**도 있는데 역시 사실무근. 뻐큐는 보건대생들이 그린 대자보 그림에 있던 건데, 당시 보건대생들 심정을 생각한다면 이해 못 할 바도 아니다. 담배연기는 내가 복도에서 담배를 피웠다는 학교 측 &#8216;감금일지&#8217; 내용과 내가 연구처장에게 &#8216;달려들고 삿대질&#8217;했다는 역시 &#8216;감금일지&#8217;의 내용이 겹쳐서 나온 소문 같은데, 좀 뭘 정확히 읽고 소문냈으면 좋겠다. 역시 난 개인적으로 뻐큐 별로 안 좋아한다. 보건대생들이 그린 뻐큐는 얼마든지 이해할 수 있지만 말이다.</p> 
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile27.uf.176665454EC795531F37A1.jpg" class="aligncenter" width="558" height="370" alt="" filename="이게 어딜 봐서 뻐큐냐 원본.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile27.uf.176665454EC795531F37A1.jpg" class="aligncenter" width="558" height="370" alt="" filename="이게 어딜 봐서 뻐큐냐 원본.jpg" filemime="image/jpeg" />
 
 고파스에서 안형우로 검색하니까 이 사진이 나온다. 아항! 이걸 보고 뻐큐라고 한 거구나. 옆 사람이랑 이야기하는 사진이고, 이 앞에 보직 교수들 없다. 학생이 발언하고 있다. 여기에 뻐큐를 날릴 이유가 없다.&nbsp;
 
 사진을 좀더 확대해 보자.
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile5.uf.137CE7454EC795540AEBBF.jpg" class="aligncenter" width="300" height="300" alt="" filename="이게 어딜 봐서 뻐큐냐.jpg" filemime="image/jpeg" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.137CE7454EC795540AEBBF.jpg" class="aligncenter" width="300" height="300" alt="" filename="이게 어딜 봐서 뻐큐냐.jpg" filemime="image/jpeg" />
 
 손가락 한 개가 아니고 두 개다. 이야기할 때 제스쳐 취하는 모습이다. 나 제스쳐는 좋아한다. 깔래도 사실을 갖고 까길.
 

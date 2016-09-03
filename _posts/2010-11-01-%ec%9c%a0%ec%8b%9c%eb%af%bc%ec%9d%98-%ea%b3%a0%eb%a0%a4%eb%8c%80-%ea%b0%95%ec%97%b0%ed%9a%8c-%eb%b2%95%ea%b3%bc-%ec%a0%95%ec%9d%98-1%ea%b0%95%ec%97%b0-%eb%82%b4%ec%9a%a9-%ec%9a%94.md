@@ -4,7 +4,7 @@ title: '유시민의 고려대 강연회 “법과 정의” &#8211; (1)강연 �
 date: 2010-11-01T13:49:19+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2010/11/01/%ec%9c%a0%ec%8b%9c%eb%af%bc%ec%9d%98-%ea%b3%a0%eb%a0%a4%eb%8c%80-%ea%b0%95%ec%97%b0%ed%9a%8c-%eb%b2%95%ea%b3%bc-%ec%a0%95%ec%9d%98-1%ea%b0%95%ec%97%b0-%eb%82%b4%ec%9a%a9-%ec%9a%94/
+guid: http://marx.mytory.net/2010/11/01/%ec%9c%a0%ec%8b%9c%eb%af%bc%ec%9d%98-%ea%b3%a0%eb%a0%a4%eb%8c%80-%ea%b0%95%ec%97%b0%ed%9a%8c-%eb%b2%95%ea%b3%bc-%ec%a0%95%ec%9d%98-1%ea%b0%95%ec%97%b0-%eb%82%b4%ec%9a%a9-%ec%9a%94/
 permalink: /archives/420
 categories:
   - 강연회/토론회 후기
@@ -20,7 +20,7 @@ tags:
 
 저녁을 먹어야 강연에 집중할 수 있을 것 같아서 샌드위치를 먹고 들어간 게 화근일까. 7시 10분에 들어갔는데, 앉을 자리가 없었다. 유시민의 인기를 확인할 수 있는 자리였다. 심상정, 노회찬, 이정희가 왔다고 해도 이 정도로 많은 학생들이 모이지는 않았을 것이다.<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile29.uf.141BD9374CCEB7E710BD02.jpg" width="540" height="403" alt="" filename="cfile29.uf.141BD9374CCEB7E710BD02.jpg" filemime="" /><figcaption class="wp-caption-text">△강연장의 2/3쯤이 잡힌 사진이다. 오른쪽이 유시민. 보면 알겠지만 맨 앞줄은 다 복도에 앉은 사람들이다. 벽 옆에 서 있는 사람들 옆에는 또 별 옆 계단에 앉은 사람들이 빼곡했다.</figcaption></figure> 
+<img src="http://marx.mytory.net/wp-content/uploads/1/cfile29.uf.141BD9374CCEB7E710BD02.jpg" width="540" height="403" alt="" filename="cfile29.uf.141BD9374CCEB7E710BD02.jpg" filemime="" /><figcaption class="wp-caption-text">△강연장의 2/3쯤이 잡힌 사진이다. 오른쪽이 유시민. 보면 알겠지만 맨 앞줄은 다 복도에 앉은 사람들이다. 벽 옆에 서 있는 사람들 옆에는 또 별 옆 계단에 앉은 사람들이 빼곡했다.</figcaption></figure> 
 
 사람들이 바닥에 많이들 앉아 있었기 때문에 나도 되도록 앞쪽에, 편한 복도를 찾아서 자리를 잡고 앉았다.
 

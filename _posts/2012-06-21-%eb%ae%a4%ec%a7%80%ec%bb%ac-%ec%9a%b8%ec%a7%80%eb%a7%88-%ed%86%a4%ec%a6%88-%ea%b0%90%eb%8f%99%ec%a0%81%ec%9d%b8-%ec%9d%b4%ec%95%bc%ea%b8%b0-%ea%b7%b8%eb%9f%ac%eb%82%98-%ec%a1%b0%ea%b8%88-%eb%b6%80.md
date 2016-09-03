@@ -4,7 +4,7 @@ title: '[뮤지컬] 울지마 톤즈, 감동적인 이야기 &#8211; 그러나 �
 date: 2012-06-21T17:19:17+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2012/06/21/%eb%ae%a4%ec%a7%80%ec%bb%ac-%ec%9a%b8%ec%a7%80%eb%a7%88-%ed%86%a4%ec%a6%88-%ea%b0%90%eb%8f%99%ec%a0%81%ec%9d%b8-%ec%9d%b4%ec%95%bc%ea%b8%b0-%ea%b7%b8%eb%9f%ac%eb%82%98-%ec%a1%b0%ea%b8%88-%eb%b6%80/
+guid: http://marx.mytory.net/2012/06/21/%eb%ae%a4%ec%a7%80%ec%bb%ac-%ec%9a%b8%ec%a7%80%eb%a7%88-%ed%86%a4%ec%a6%88-%ea%b0%90%eb%8f%99%ec%a0%81%ec%9d%b8-%ec%9d%b4%ec%95%bc%ea%b8%b0-%ea%b7%b8%eb%9f%ac%eb%82%98-%ec%a1%b0%ea%b8%88-%eb%b6%80/
 permalink: /archives/559
 categories:
   - 리뷰

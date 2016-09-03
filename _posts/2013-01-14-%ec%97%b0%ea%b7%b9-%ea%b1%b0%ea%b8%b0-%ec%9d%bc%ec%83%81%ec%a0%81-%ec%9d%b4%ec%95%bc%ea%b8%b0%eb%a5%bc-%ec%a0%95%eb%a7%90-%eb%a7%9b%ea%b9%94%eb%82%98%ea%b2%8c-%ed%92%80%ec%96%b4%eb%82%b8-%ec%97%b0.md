@@ -4,7 +4,7 @@ title: '[연극] 거기 &#8211; 일상적 이야기를 정말 맛깔나게 풀�
 date: 2013-01-14T02:38:10+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2013/01/14/%ec%97%b0%ea%b7%b9-%ea%b1%b0%ea%b8%b0-%ec%9d%bc%ec%83%81%ec%a0%81-%ec%9d%b4%ec%95%bc%ea%b8%b0%eb%a5%bc-%ec%a0%95%eb%a7%90-%eb%a7%9b%ea%b9%94%eb%82%98%ea%b2%8c-%ed%92%80%ec%96%b4%eb%82%b8-%ec%97%b0/
+guid: http://marx.mytory.net/2013/01/14/%ec%97%b0%ea%b7%b9-%ea%b1%b0%ea%b8%b0-%ec%9d%bc%ec%83%81%ec%a0%81-%ec%9d%b4%ec%95%bc%ea%b8%b0%eb%a5%bc-%ec%a0%95%eb%a7%90-%eb%a7%9b%ea%b9%94%eb%82%98%ea%b2%8c-%ed%92%80%ec%96%b4%eb%82%b8-%ec%97%b0/
 permalink: /archives/571
 categories:
   - 리뷰
@@ -12,7 +12,7 @@ categories:
 극단 <a href="http://www.stageship.com/" target="_blank" class="tx-link">차이무</a>에서 문자가 왔다. 웹사이트 회원들에게 &lt;거기&gt;라는 연극을 특별 할인해 준다는 거다. 3만 원짜리 연극을 1만 원에 볼 수 있는 기회! 놓칠 필요가 없었다. 차이무라면 극의 품질도 걱정할 것 없다고 생각했다. 그리고 역시나였다.
 
 <p style="text-align: center; clear: none; float: none;">
-  <figure style="width: 400px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile8.uf.241C624150F36BD40A7A76.jpg" width="400" height="300" filename="거기 티켓.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">인증샷 ㅋ</figcaption></figure>
+  <figure style="width: 400px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile8.uf.241C624150F36BD40A7A76.jpg" width="400" height="300" filename="거기 티켓.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">인증샷 ㅋ</figcaption></figure>
 </p>
 
 스토리라고 할 만한 게 없다. 아주 단순하다. 강원도 산골. 관광지라 여름 말고는 사람이 거의 없는 곳에 호프를 운영하는 병도, 병도의 호프에서 맥주 한 잔 하며 하루를 마감하는 낙으로 사는 카센터 사장&nbsp;장우, 여자를 밝힌다는 것때문에 장우에게 밉보인 춘발, 나름 똑똑하고 사람 좋은 진수. 그리고 방금 여기로 이사온 여자, 정!
@@ -20,7 +20,7 @@ categories:
 춘발이 동네 구경을 시켜 준다며 정을 병도네 호프로 데려 오면서 이야기는 시작된다. 그런데 그게 다다. 무대는 그냥 호프집이다. 그리고 그 흔한 무대 변경 한 번 없이 호프집에서 이야기하는 걸로 연극은 계속된다.
 
 <p style="text-align: center; clear: none; float: none;">
-  <figure style="width: 580px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile23.uf.2055824450F36D972F339C.jpg" width="580" height="435" filename="연극 거기 무대.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">이게 무대 전부다.</figcaption></figure>
+  <figure style="width: 580px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile23.uf.2055824450F36D972F339C.jpg" width="580" height="435" filename="연극 거기 무대.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">이게 무대 전부다.</figcaption></figure>
 </p>
 
 시작하고 병도와 장우가 한 20분쯤 대화를 주고 받는다. 강원도 사투리에 밝지 않아 그런지 몰라도 정말 사투리처럼 사투리를 사용한다. 연기가 참 좋았다. 캐릭터의 성격을 드러내 주는 대화. 작지만 또렷이 들리는 목소리. 와우~

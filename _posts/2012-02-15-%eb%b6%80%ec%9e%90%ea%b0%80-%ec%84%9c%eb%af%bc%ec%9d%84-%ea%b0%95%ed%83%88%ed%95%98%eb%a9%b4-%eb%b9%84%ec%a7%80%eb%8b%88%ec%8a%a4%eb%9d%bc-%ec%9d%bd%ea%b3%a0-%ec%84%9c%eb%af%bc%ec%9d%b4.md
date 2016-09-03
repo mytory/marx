@@ -4,7 +4,7 @@ title: “부자가 서민을 강탈하면 비지니스라 읽고 서민이 맞�
 date: 2012-02-15T14:34:12+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2012/02/15/%eb%b6%80%ec%9e%90%ea%b0%80-%ec%84%9c%eb%af%bc%ec%9d%84-%ea%b0%95%ed%83%88%ed%95%98%eb%a9%b4-%eb%b9%84%ec%a7%80%eb%8b%88%ec%8a%a4%eb%9d%bc-%ec%9d%bd%ea%b3%a0-%ec%84%9c%eb%af%bc%ec%9d%b4/
+guid: http://marx.mytory.net/2012/02/15/%eb%b6%80%ec%9e%90%ea%b0%80-%ec%84%9c%eb%af%bc%ec%9d%84-%ea%b0%95%ed%83%88%ed%95%98%eb%a9%b4-%eb%b9%84%ec%a7%80%eb%8b%88%ec%8a%a4%eb%9d%bc-%ec%9d%bd%ea%b3%a0-%ec%84%9c%eb%af%bc%ec%9d%b4/
 permalink: /archives/543
 categories:
   - 투쟁
@@ -17,7 +17,7 @@ tags:
 감명 깊은 이미지를 만났다.
 
 <p style="text-align: center; ">
-  <a href="https://twitter.com/#!/spartacus1980/status/169594597746552833" target="_blank" title="[https://twitter.com/#!/spartacus1980/status/169594597746552833]로 이동합니다."><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile25.uf.191CE5494F3BC2AB172DD0.png" class="aligncenter" width="532" height="610" alt="" filename="세계화.png" filemime="image/jpeg" /></a>
+  <a href="https://twitter.com/#!/spartacus1980/status/169594597746552833" target="_blank" title="[https://twitter.com/#!/spartacus1980/status/169594597746552833]로 이동합니다."><img src="http://marx.mytory.net/wp-content/uploads/1/cfile25.uf.191CE5494F3BC2AB172DD0.png" class="aligncenter" width="532" height="610" alt="" filename="세계화.png" filemime="image/jpeg" /></a>
 </p>
 
 출처는 <a href="https://twitter.com/#!/spartacus1980/status/169594597746552833" target="_blank" title="[https://twitter.com/#!/spartacus1980/status/169594597746552833]로 이동합니다.">여기</a>다.

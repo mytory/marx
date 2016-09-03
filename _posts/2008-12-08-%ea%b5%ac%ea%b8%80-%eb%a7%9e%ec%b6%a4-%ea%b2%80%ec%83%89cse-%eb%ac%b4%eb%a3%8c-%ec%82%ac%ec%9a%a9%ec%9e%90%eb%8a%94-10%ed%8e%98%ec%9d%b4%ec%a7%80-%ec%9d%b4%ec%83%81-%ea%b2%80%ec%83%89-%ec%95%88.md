@@ -4,7 +4,7 @@ title: 구글 맞춤 검색(CSE), 무료 사용자는 10페이지 이상 검색 
 date: 2008-12-08T15:08:37+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2008/12/08/%ea%b5%ac%ea%b8%80-%eb%a7%9e%ec%b6%a4-%ea%b2%80%ec%83%89cse-%eb%ac%b4%eb%a3%8c-%ec%82%ac%ec%9a%a9%ec%9e%90%eb%8a%94-10%ed%8e%98%ec%9d%b4%ec%a7%80-%ec%9d%b4%ec%83%81-%ea%b2%80%ec%83%89-%ec%95%88/
+guid: http://marx.mytory.net/2008/12/08/%ea%b5%ac%ea%b8%80-%eb%a7%9e%ec%b6%a4-%ea%b2%80%ec%83%89cse-%eb%ac%b4%eb%a3%8c-%ec%82%ac%ec%9a%a9%ec%9e%90%eb%8a%94-10%ed%8e%98%ec%9d%b4%ec%a7%80-%ec%9d%b4%ec%83%81-%ea%b2%80%ec%83%89-%ec%95%88/
 permalink: /archives/55
 categories:
   - 웹
@@ -160,7 +160,7 @@ We reserve the right to change these limits in response to usage and capacity co
   
 
 
-<img src="http://work.local/marx.mytory.net/wp-content/uploads/1/493d3736eeb9e91.jpg" class="aligncenter" width="272" height="69" alt="" filename="google-search.jpg" filemime="" />
+<img src="http://marx.mytory.net/wp-content/uploads/1/493d3736eeb9e91.jpg" class="aligncenter" width="272" height="69" alt="" filename="google-search.jpg" filemime="" />
 
 
   

@@ -4,7 +4,7 @@ title: '[사진전] 국민 대한민국을 찍다 &#8211; 웹에서 보기'
 date: 2010-04-21T11:01:26+00:00
 author: mytory
 layout: post
-guid: http://work.local/marx.mytory.net/2010/04/21/%ec%82%ac%ec%a7%84%ec%a0%84-%ea%b5%ad%eb%af%bc-%eb%8c%80%ed%95%9c%eb%af%bc%ea%b5%ad%ec%9d%84-%ec%b0%8d%eb%8b%a4-%ec%9b%b9%ec%97%90%ec%84%9c-%eb%b3%b4%ea%b8%b0/
+guid: http://marx.mytory.net/2010/04/21/%ec%82%ac%ec%a7%84%ec%a0%84-%ea%b5%ad%eb%af%bc-%eb%8c%80%ed%95%9c%eb%af%bc%ea%b5%ad%ec%9d%84-%ec%b0%8d%eb%8b%a4-%ec%9b%b9%ec%97%90%ec%84%9c-%eb%b3%b4%ea%b8%b0/
 permalink: /archives/380
 categories:
   - 세상살이
@@ -25,7 +25,7 @@ tags:
 내가 인상깊게 본 사진 하나 소개한다. 나머지는 가서 봐라.</p> 
 
 <p style="text-align: center;">
-  <figure style="width: 610px" class="wp-caption aligncenter"><img src="http://work.local/marx.mytory.net/wp-content/uploads/1/cfile7.uf.131B28164BCEDA5275AE84.jpg" width="610" height="407" alt="국민과의 대화" filename="cfile7.uf.131B28164BCEDA5275AE84.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">△국민과의 대화. 한겨레 박종식. 2009.11.27</figcaption></figure>
+  <figure style="width: 610px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile7.uf.131B28164BCEDA5275AE84.jpg" width="610" height="407" alt="국민과의 대화" filename="cfile7.uf.131B28164BCEDA5275AE84.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">△국민과의 대화. 한겨레 박종식. 2009.11.27</figcaption></figure>
 </p></p> 
 
 &#8216;국민과의 대화&#8217;라는 제목의 사진이다. 정말 극적인 대비를 이룬다.
