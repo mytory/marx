@@ -257,6 +257,25 @@ a.post-link {
         border: 1px solid #ddd;
         padding: .5em;
     }
+
+    figure {
+        max-width: 100%;
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    }
+
+    span[style="font-family: 돋움; font-size: 9pt; line-height: 1.5;"],
+    span[style="font-size: 9pt; line-height: 1.5;"] {
+        font: inherit!important;
+        line-height: inherit!important;
+    }
+
+    .aligncenter {
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 .video-container {
@@ -281,3 +300,13 @@ a.post-link {
     }
 }
   
+.footnotes {
+    background: #eee;
+    padding: 1em;
+    border-radius: 5px;
+    border-top: 5px dashed #ccc;
+    margin-bottom: 1em;
+    li:last-child p {
+        margin-bottom: 0;
+    }
+}
