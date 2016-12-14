@@ -16,11 +16,12 @@
             color: #000;
             padding: 0;
             margin: 0;
-            padding-bottom: 100px;
+            padding-bottom: 2em;
         }
 
         h1, h2, h3 {
             line-height: 1.2;
+            word-break: keep-all;
         }
 
         h2 {
@@ -44,6 +45,13 @@
 
         strong {
             color: black
+        }
+
+        .wrapper {
+            max-width: 640px;
+            margin: 0 auto;
+            text-align: left;
+            padding: 0 20px;
         }
 
         .imagebox {
@@ -93,13 +101,12 @@
 </head>
 <body>
 <div style="text-align:center;">
-    <div style="max-width:600px;margin:0 auto;text-align:left">
+    <div class="wrapper">
         <img style="width: 100%;" src="2016-yej.jpg">
         <h1>
             <small>미래대학 설립 반대 본관 점거 운동을 이끌고 있는</small>
             <br>
-            연은정
-            <small>(국교11)</small>
+            연은정<small>(국교11)</small>
             동지를 후원합시다
         </h1>
         <p style="text-align: right; font-weight: bold;">차승일(법학99)</p>
@@ -151,9 +158,9 @@
         <div class="box">
             <h2>다음 계좌로 후원금을 보내 주십시오.</h2>
 
-            <p><strong>하나은행 391-810202-76607(예금주: 차승일)</strong></p>
+            <p><strong>하나은행 <code>391-810202-76607</code> (예금주: 차승일)</strong></p>
 
-            <p>* 입금자 누락을 방지하기 위해 입금 후에는 차승일(010-2627-2473)에게 문자 주시기 바랍니다.</p>
+            <p>* 입금자 누락을 방지하기 위해 입금 후에는 차승일(<code>010-2627-2473</code>)에게 문자 주시기 바랍니다.</p>
         </div>
 
         <div class="video-wrapper">
