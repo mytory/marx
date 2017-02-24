@@ -4,7 +4,7 @@ title: ‘바보’ 노무현의 상실, 그리고 추락에 대한 단상
 date: 2009-04-20T13:17:21+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/04/20/%eb%b0%94%eb%b3%b4-%eb%85%b8%eb%ac%b4%ed%98%84%ec%9d%98-%ec%83%81%ec%8b%a4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%b6%94%eb%9d%bd%ec%97%90-%eb%8c%80%ed%95%9c-%eb%8b%a8%ec%83%81/
+guid: https://marx.mytory.net/2009/04/20/%eb%b0%94%eb%b3%b4-%eb%85%b8%eb%ac%b4%ed%98%84%ec%9d%98-%ec%83%81%ec%8b%a4-%ea%b7%b8%eb%a6%ac%ea%b3%a0-%ec%b6%94%eb%9d%bd%ec%97%90-%eb%8c%80%ed%95%9c-%eb%8b%a8%ec%83%81/
 permalink: /archives/175
 categories:
   - 정치논평
@@ -22,7 +22,7 @@ tags:
   - 이학수
   - 파병
 ---
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile21.uf.14265D0F49EC75AC45620A.jpg" class="aligncenter" width="550" height="431" alt="" filename="Rho2.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile21.uf.14265D0F49EC75AC45620A.jpg" class="aligncenter" width="550" height="431" alt="" filename="Rho2.jpg" filemime="image/jpeg" />
 
 ## 노무현에 대한 단상
 
@@ -62,7 +62,7 @@ tags:
 
 <a href="http://wspaper.org/article/4074" target="_blank" title="강동훈, 한미FTA는 양극화 확대ㆍ강화 협정이다, 맞불, 2007-04-21">한미 FTA 추진</a>과 <a href="http://wspaper.org/article/3641" target="_blank" title="한규한, 진정한 폭력배는 우익과 노무현 정부다, 맞불, 2006-12-02">하중근ㆍ전용철 씨의 사망</a>. 이어지는 죽음들. 절망을 이기지 못한 비정규직 노동자들의 분신에 “죽음으로 투쟁하던 시기는 끝났다”는 차가운 한 마디.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.141D260E49EC75504EEF6B.jpg" class="aligncenter" width="580" height="387" alt="" filename="Rho.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile5.uf.141D260E49EC75504EEF6B.jpg" class="aligncenter" width="580" height="387" alt="" filename="Rho.jpg" filemime="image/jpeg" />
 
 김선일 씨가 이라크의 무장 저항세력들에 붙잡혔을 때 <a href="http://wspaper.org/article/1369" target="_blank" title="정부의 파병 강행 방침이 김선일 씨를 죽였다, 격주간 〈다함께〉, 2004-06-26">노무현은 “파병 재검토 없다”고 냉혹한 한 마디를 던졌다.</a>
 

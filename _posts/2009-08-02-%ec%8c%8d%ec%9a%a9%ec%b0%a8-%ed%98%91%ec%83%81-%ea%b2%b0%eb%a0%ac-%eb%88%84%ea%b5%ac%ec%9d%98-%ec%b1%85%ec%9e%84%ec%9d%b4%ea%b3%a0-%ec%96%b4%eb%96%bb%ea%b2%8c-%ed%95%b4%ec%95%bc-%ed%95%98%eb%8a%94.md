@@ -4,7 +4,7 @@ title: 쌍용차 협상 결렬, 누구의 책임이고 어떻게 해야 하는�
 date: 2009-08-02T14:41:03+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/08/02/%ec%8c%8d%ec%9a%a9%ec%b0%a8-%ed%98%91%ec%83%81-%ea%b2%b0%eb%a0%ac-%eb%88%84%ea%b5%ac%ec%9d%98-%ec%b1%85%ec%9e%84%ec%9d%b4%ea%b3%a0-%ec%96%b4%eb%96%bb%ea%b2%8c-%ed%95%b4%ec%95%bc-%ed%95%98%eb%8a%94/
+guid: https://marx.mytory.net/2009/08/02/%ec%8c%8d%ec%9a%a9%ec%b0%a8-%ed%98%91%ec%83%81-%ea%b2%b0%eb%a0%ac-%eb%88%84%ea%b5%ac%ec%9d%98-%ec%b1%85%ec%9e%84%ec%9d%b4%ea%b3%a0-%ec%96%b4%eb%96%bb%ea%b2%8c-%ed%95%b4%ec%95%bc-%ed%95%98%eb%8a%94/
 permalink: /archives/239
 categories:
   - 정치논평
@@ -21,7 +21,7 @@ tags:
 ---
 7월 30일부터 3일 간 진행된 끝장 교섭이 사측의 결렬 선언으로 끝났다. 내가 즐겨 보는 언론 &lt;레프트21&gt;에 신속하게 이 결렬을 평가한 온라인 기사가 올라왔으므로, 요약 정리한다.<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.114621184A75A5464E2AA5.jpg" width="540" height="360" alt="점거 파업 중인 쌍용차 노동자들" filename="cfile22.uf.114621184A75A5464E2AA5.jpg" filemime="" /><figcaption class="wp-caption-text">출처 : 레프트21, http://wspaper.org/article/6830</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile22.uf.114621184A75A5464E2AA5.jpg" width="540" height="360" alt="점거 파업 중인 쌍용차 노동자들" filename="cfile22.uf.114621184A75A5464E2AA5.jpg" filemime="" /><figcaption class="wp-caption-text">출처 : 레프트21, http://wspaper.org/article/6830</figcaption></figure> 
 
 사실, 이런 글을 아무나 쓸 수 있는 것이 아니다. 쌍용차 투쟁에 깊숙이 들어가 취재를 해야 쓸 수 있는 글로, 주류 언론에서는 찾아볼 수 없는 글이다. 물론, 나도 이런 글을 쓸 수 없다. 현장에서 발로 뛴 사람만이 쓸 수 있는 기사의 요약본을 읽어 보라. 원문은 <a target="_blank" href="http://wspaper.org/article/6851">&#8216;쌍용차 사측의 협상 결렬 선언 ─ 지금 당장 연대 투쟁과 연대 파업이 조직돼야 한다!&#8217;</a>다.
 

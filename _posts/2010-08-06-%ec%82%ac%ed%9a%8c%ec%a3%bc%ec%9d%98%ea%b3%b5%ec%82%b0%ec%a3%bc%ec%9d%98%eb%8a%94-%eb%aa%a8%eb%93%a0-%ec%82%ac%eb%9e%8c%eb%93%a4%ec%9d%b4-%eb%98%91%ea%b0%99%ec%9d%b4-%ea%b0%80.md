@@ -4,7 +4,7 @@ title: 사회주의/공산주의는 모든 사람들이 ‘똑같이’ 가져�
 date: 2010-08-06T05:04:48+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2010/08/06/%ec%82%ac%ed%9a%8c%ec%a3%bc%ec%9d%98%ea%b3%b5%ec%82%b0%ec%a3%bc%ec%9d%98%eb%8a%94-%eb%aa%a8%eb%93%a0-%ec%82%ac%eb%9e%8c%eb%93%a4%ec%9d%b4-%eb%98%91%ea%b0%99%ec%9d%b4-%ea%b0%80/
+guid: https://marx.mytory.net/2010/08/06/%ec%82%ac%ed%9a%8c%ec%a3%bc%ec%9d%98%ea%b3%b5%ec%82%b0%ec%a3%bc%ec%9d%98%eb%8a%94-%eb%aa%a8%eb%93%a0-%ec%82%ac%eb%9e%8c%eb%93%a4%ec%9d%b4-%eb%98%91%ea%b0%99%ec%9d%b4-%ea%b0%80/
 permalink: /archives/393
 categories:
   - 마르크스주의
@@ -44,7 +44,7 @@ tags:
 
 나는 이렇게 대답하곤 한다. “내가 ㅂㅅ이냐, 다 똑같이 나누게? 이건 뭐 말이 되는 소리를 해야지.”<figure style="width: 480px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.172BBE054C5B96C16ACA65.gif" width="480" height="360" alt="" filename="cfile22.uf.172BBE054C5B96C16ACA65.gif" filemime="" /><figcaption class="wp-caption-text">△이것들이 누굴 ㅂㅅ으로 아나?!</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile22.uf.172BBE054C5B96C16ACA65.gif" width="480" height="360" alt="" filename="cfile22.uf.172BBE054C5B96C16ACA65.gif" filemime="" /><figcaption class="wp-caption-text">△이것들이 누굴 ㅂㅅ으로 아나?!</figcaption></figure> 
 
 그렇다. 마르크스는 똑같이 나누는 사회를 사회주의라고 말한 적이 없다. 그런 생각은 멍청한 우파거나 교활한 우파가, 여튼간에 중요한 건 우파가 퍼뜨려 놓은 사회주의에 대한 온갖 구라들 중 하나일 뿐이다.
 
@@ -70,7 +70,7 @@ tags:
 
 공기는 풍부하다. 그래서 공기의 평등, 공기의 정의 따위 존재하지 않는다. 그냥 있는 그대로 들이마시면 된다.<figure style="width: 550px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile4.uf.1179240B4C5B9723879AF4.jpg" width="550" height="387" alt="숨쉬지마 산소 아까워" filename="cfile4.uf.1179240B4C5B9723879AF4.jpg" filemime="" /><figcaption class="wp-caption-text">△뭐 이런 경우라면 또 모르겠다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile4.uf.1179240B4C5B9723879AF4.jpg" width="550" height="387" alt="숨쉬지마 산소 아까워" filename="cfile4.uf.1179240B4C5B9723879AF4.jpg" filemime="" /><figcaption class="wp-caption-text">△뭐 이런 경우라면 또 모르겠다.</figcaption></figure> 
 
 이쯤에서 “마르크스는 궁극 목표는 평등한 분배가 아니라 필요에 따른 분배라고 주장했다”는 문장이 나오는 문단을 그대로 인용해 보자.
 

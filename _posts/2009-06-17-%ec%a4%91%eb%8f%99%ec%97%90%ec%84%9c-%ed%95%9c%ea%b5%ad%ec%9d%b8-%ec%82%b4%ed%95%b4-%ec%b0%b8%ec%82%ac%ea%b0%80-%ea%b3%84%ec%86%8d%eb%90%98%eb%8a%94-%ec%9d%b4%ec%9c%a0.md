@@ -4,7 +4,7 @@ title: 중동에서 한국인 살해 참사가 계속되는 이유
 date: 2009-06-17T01:52:48+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/06/17/%ec%a4%91%eb%8f%99%ec%97%90%ec%84%9c-%ed%95%9c%ea%b5%ad%ec%9d%b8-%ec%82%b4%ed%95%b4-%ec%b0%b8%ec%82%ac%ea%b0%80-%ea%b3%84%ec%86%8d%eb%90%98%eb%8a%94-%ec%9d%b4%ec%9c%a0/
+guid: https://marx.mytory.net/2009/06/17/%ec%a4%91%eb%8f%99%ec%97%90%ec%84%9c-%ed%95%9c%ea%b5%ad%ec%9d%b8-%ec%82%b4%ed%95%b4-%ec%b0%b8%ec%82%ac%ea%b0%80-%ea%b3%84%ec%86%8d%eb%90%98%eb%8a%94-%ec%9d%b4%ec%9c%a0/
 permalink: /archives/214
 categories:
   - 정치논평
@@ -90,7 +90,7 @@ tags:
 
 예멘은 사우디아라비아 끝에 있고, 소말리아와 해협을 두고 있다. 아래 지도를 보라.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile21.uf.196C84274A3842E44AB7FC.jpg" class="aligncenter" width="540" height="360" alt="" filename="1237552253-left001-yeman.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile21.uf.196C84274A3842E44AB7FC.jpg" class="aligncenter" width="540" height="360" alt="" filename="1237552253-left001-yeman.jpg" filemime="image/jpeg" />
 
 <a href="http://wspaper.org/article/4785" target="_blank" title="켄 올렌드, 소말리아와 ‘테러와의 전쟁’, 맞불, 2007-11-24">에티오피아의 소말리아 침공</a>은 예멘을 더욱 불안정하게 만들었다. 에티오피아가 소말리아를 침공한 것도 소말리아의 저항군이 승리한 것을 뒤엎으려는 제국주의의 책동 탓이었다.
 

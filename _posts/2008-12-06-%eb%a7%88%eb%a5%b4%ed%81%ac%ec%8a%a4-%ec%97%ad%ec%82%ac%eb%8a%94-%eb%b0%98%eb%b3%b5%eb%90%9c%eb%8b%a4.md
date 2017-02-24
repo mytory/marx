@@ -4,7 +4,7 @@ title: 마르크스, “역사는 반복된다…”
 date: 2008-12-06T16:41:30+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/12/06/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4-%ec%97%ad%ec%82%ac%eb%8a%94-%eb%b0%98%eb%b3%b5%eb%90%9c%eb%8b%a4/
+guid: https://marx.mytory.net/2008/12/06/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4-%ec%97%ad%ec%82%ac%eb%8a%94-%eb%b0%98%eb%b3%b5%eb%90%9c%eb%8b%a4/
 permalink: /archives/47
 categories:
   - 마르크스주의

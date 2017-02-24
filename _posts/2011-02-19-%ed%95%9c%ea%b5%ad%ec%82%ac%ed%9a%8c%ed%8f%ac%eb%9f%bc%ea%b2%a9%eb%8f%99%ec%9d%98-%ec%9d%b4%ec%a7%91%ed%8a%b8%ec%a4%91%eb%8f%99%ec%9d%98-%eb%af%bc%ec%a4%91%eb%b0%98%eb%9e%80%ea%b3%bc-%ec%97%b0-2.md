@@ -4,7 +4,7 @@ title: '[한국사회포럼]격동의 이집트:중동의 민중반란과 연속
 date: 2011-02-19T07:47:28+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2011/02/19/%ed%95%9c%ea%b5%ad%ec%82%ac%ed%9a%8c%ed%8f%ac%eb%9f%bc%ea%b2%a9%eb%8f%99%ec%9d%98-%ec%9d%b4%ec%a7%91%ed%8a%b8%ec%a4%91%eb%8f%99%ec%9d%98-%eb%af%bc%ec%a4%91%eb%b0%98%eb%9e%80%ea%b3%bc-%ec%97%b0-2/
+guid: https://marx.mytory.net/2011/02/19/%ed%95%9c%ea%b5%ad%ec%82%ac%ed%9a%8c%ed%8f%ac%eb%9f%bc%ea%b2%a9%eb%8f%99%ec%9d%98-%ec%9d%b4%ec%a7%91%ed%8a%b8%ec%a4%91%eb%8f%99%ec%9d%98-%eb%af%bc%ec%a4%91%eb%b0%98%eb%9e%80%ea%b3%bc-%ec%97%b0-2/
 permalink: /archives/451
 categories:
   - 강연회/토론회 후기
@@ -33,7 +33,7 @@ tags:
 
 이집트 민중에게 축하와 연대의 인사를 보낸다. 이집트 민중에게 혁명적 신의 가호가 함께 하기를 바란다.<figure style="width: 550px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile28.uf.182D68514D5F7556219495.jpg" width="550" height="309" alt="" filename="cfile28.uf.182D68514D5F7556219495.jpg" filemime="" /><figcaption class="wp-caption-text">△레프트21 발행인 김인식</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile28.uf.182D68514D5F7556219495.jpg" width="550" height="309" alt="" filename="cfile28.uf.182D68514D5F7556219495.jpg" filemime="" /><figcaption class="wp-caption-text">△레프트21 발행인 김인식</figcaption></figure> 
 
 ## 혁명의 시대
 

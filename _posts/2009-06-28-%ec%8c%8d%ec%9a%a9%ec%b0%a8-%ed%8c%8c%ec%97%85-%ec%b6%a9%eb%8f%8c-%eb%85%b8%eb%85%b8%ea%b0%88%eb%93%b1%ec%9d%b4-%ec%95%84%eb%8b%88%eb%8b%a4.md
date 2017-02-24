@@ -4,7 +4,7 @@ title: 쌍용차 파업 충돌, 노노갈등이 아니다
 date: 2009-06-28T13:48:28+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/06/28/%ec%8c%8d%ec%9a%a9%ec%b0%a8-%ed%8c%8c%ec%97%85-%ec%b6%a9%eb%8f%8c-%eb%85%b8%eb%85%b8%ea%b0%88%eb%93%b1%ec%9d%b4-%ec%95%84%eb%8b%88%eb%8b%a4/
+guid: https://marx.mytory.net/2009/06/28/%ec%8c%8d%ec%9a%a9%ec%b0%a8-%ed%8c%8c%ec%97%85-%ec%b6%a9%eb%8f%8c-%eb%85%b8%eb%85%b8%ea%b0%88%eb%93%b1%ec%9d%b4-%ec%95%84%eb%8b%88%eb%8b%a4/
 permalink: /archives/221
 categories:
   - 정치논평
@@ -38,7 +38,7 @@ tags:
 >   <a href="http://wspaper.org/article/6705" target="_blank" title="새 창에서 기사를 엽니다">김문성 객원기자, “국민 여러분 쌍용차로 와 주십시오”, 레프트21, 2009-06-27</a>
 > </p>
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.1234591A4A47742DDCC310.jpg" class="aligncenter" width="550" height="371" alt="" filename="27121900_DSC04868(1).jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile22.uf.1234591A4A47742DDCC310.jpg" class="aligncenter" width="550" height="371" alt="" filename="27121900_DSC04868(1).jpg" filemime="image/jpeg" />
 
 ## 사측의 시나리오
 
@@ -48,7 +48,7 @@ tags:
 
 ## 강도
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile2.uf.197CC91E4A47745EAB121D.jpg" class="aligncenter" width="550" height="362" alt="" filename="27021807_CHUL0887.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile2.uf.197CC91E4A47745EAB121D.jpg" class="aligncenter" width="550" height="362" alt="" filename="27021807_CHUL0887.jpg" filemime="image/jpeg" />
 
 쌍용차 사측이 하는 짓은, 말하자면 강도질이다. 여기다 양보를 말하는 건 강도한테 양보하라고 집주인을 설득하는 거나 다름 없다.
 

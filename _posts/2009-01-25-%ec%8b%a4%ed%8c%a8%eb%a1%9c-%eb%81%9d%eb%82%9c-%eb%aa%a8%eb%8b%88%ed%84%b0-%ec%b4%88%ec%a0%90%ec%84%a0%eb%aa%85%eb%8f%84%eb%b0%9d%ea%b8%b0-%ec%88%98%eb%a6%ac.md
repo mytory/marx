@@ -4,7 +4,7 @@ title: 실패로 끝난 모니터 초점/선명도/밝기 수리
 date: 2009-01-25T18:01:36+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/01/25/%ec%8b%a4%ed%8c%a8%eb%a1%9c-%eb%81%9d%eb%82%9c-%eb%aa%a8%eb%8b%88%ed%84%b0-%ec%b4%88%ec%a0%90%ec%84%a0%eb%aa%85%eb%8f%84%eb%b0%9d%ea%b8%b0-%ec%88%98%eb%a6%ac/
+guid: https://marx.mytory.net/2009/01/25/%ec%8b%a4%ed%8c%a8%eb%a1%9c-%eb%81%9d%eb%82%9c-%eb%aa%a8%eb%8b%88%ed%84%b0-%ec%b4%88%ec%a0%90%ec%84%a0%eb%aa%85%eb%8f%84%eb%b0%9d%ea%b8%b0-%ec%88%98%eb%a6%ac/
 permalink: /archives/119
 categories:
   - 하드웨어
@@ -34,7 +34,7 @@ tags:
 그런데 왠걸 내 모니터에는 나사가 없는 것이었다!!! 그래서 한 30분을 헤맸다. 그리고 그 결과, 내 모니터는 다음 그림 형식으로 끼워져 있다는 것을 발견했다.
 
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/497995751d432B0.jpg" class="aligncenter" width="384" height="452" alt="" filename="my-monitor-nasa.jpg" filemime="" /> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/497995751d432B0.jpg" class="aligncenter" width="384" height="452" alt="" filename="my-monitor-nasa.jpg" filemime="" /> 
 
 사진을 찍어두지 못해서 엉성한 이미지로 설명하는 것을 미안하게 생각한다. 어쨌든, 내 조언은, **나사 박혀 있는 곳에 똑 같이 모니터 케이스 고정시키는 게 있다**는 거다. 나사 대신 다른 걸로 돼 있을 뿐이다. 괜히 다른 데서 헤매지 말기를.
 
@@ -42,11 +42,11 @@ tags:
 
 그래서 결단을 내렸다. 저 위에 모니터를 고정하고 있는 세모난 부분을 **뺀찌로 그냥 부숴버린 것.** 와우~ 그러니까 아주 잘 열렸다. ^^
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/4979971a29eb5CQ.jpg" class="aligncenter" width="300" height="300" alt="" filename="my-monitor-nasa-2.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/4979971a29eb5CQ.jpg" class="aligncenter" width="300" height="300" alt="" filename="my-monitor-nasa-2.jpg" filemime="" />
 
 아차, 아래쪽은 잘 열렸는데 모니터 위쪽 부분에 뭔가 걸려 있었다. 다음 그림을 참조하면 도움이 될 거다. 나는 어차피 부순거 더 부순다고 안 될 거 있겠나 싶어서 강제로 열었는데, 그래서 결국 하나를 더 부쉈다. ㅎㅎ;;
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/497ca74d6260cBX.jpg" class="aligncenter" width="450" height="207" alt="" filename="my-monitor-pressing.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/497ca74d6260cBX.jpg" class="aligncenter" width="450" height="207" alt="" filename="my-monitor-pressing.jpg" filemime="" />
 
 위 그림에 보이는 대로 윗부분에 서로 맞물려 있는 부분이 또 있다. 그래서 화살표 방향대로 힘을 줘서 맞물린 부분을 빼 줘야 자연스럽게 열린다. 물론, 나처럼 부순 다음에 녹테잎 같은 걸로 붙여도 무방하다. 어차피 모니터 뭐&#8230; ㅎㅎ;;
 
@@ -100,7 +100,7 @@ tags:
 
 모니터에서 총 3개가 빛을 뿌리는 듯하다. 각각 빨간색, 초록색, 파란색을 쏘는 놈이 있는 것 같은데, 이게 서로 다른 방향을 쏘면 골치아파지는 거다. 예컨대, 초록색을 뿌리는 놈이 엉뚱한 방향으로 쏜다? 그러면 아래처럼 되는 거다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/497ca394afa80CH.jpg" class="aligncenter" width="191" height="69" alt="" filename="my-monitor-chojeom-break.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/497ca394afa80CH.jpg" class="aligncenter" width="191" height="69" alt="" filename="my-monitor-chojeom-break.jpg" filemime="" />
 
 자, 설명을 잘 들어 보는 게 좋을 거다. 무작정 노가다만 할 수는 없는 노릇 아닌가. 이렇게 저렇게 반복해서 하는 거, 잠깐 해서 운 좋게 되면야 모르겠지만, 안 그럼 진짜 짜증난다. 우리가 원시인이 아닌 이상, 과학적으로 해 보자.
 

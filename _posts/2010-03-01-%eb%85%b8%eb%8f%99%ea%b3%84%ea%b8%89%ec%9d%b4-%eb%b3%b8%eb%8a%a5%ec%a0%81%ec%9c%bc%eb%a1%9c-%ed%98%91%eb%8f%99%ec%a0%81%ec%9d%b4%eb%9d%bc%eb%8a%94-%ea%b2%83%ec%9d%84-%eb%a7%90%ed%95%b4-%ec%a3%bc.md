@@ -4,7 +4,7 @@ title: 노동계급이 본능적으로 협동적(?)이라는 것을 말해 주�
 date: 2010-03-01T10:33:52+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2010/03/01/%eb%85%b8%eb%8f%99%ea%b3%84%ea%b8%89%ec%9d%b4-%eb%b3%b8%eb%8a%a5%ec%a0%81%ec%9c%bc%eb%a1%9c-%ed%98%91%eb%8f%99%ec%a0%81%ec%9d%b4%eb%9d%bc%eb%8a%94-%ea%b2%83%ec%9d%84-%eb%a7%90%ed%95%b4-%ec%a3%bc/
+guid: https://marx.mytory.net/2010/03/01/%eb%85%b8%eb%8f%99%ea%b3%84%ea%b8%89%ec%9d%b4-%eb%b3%b8%eb%8a%a5%ec%a0%81%ec%9c%bc%eb%a1%9c-%ed%98%91%eb%8f%99%ec%a0%81%ec%9d%b4%eb%9d%bc%eb%8a%94-%ea%b2%83%ec%9d%84-%eb%a7%90%ed%95%b4-%ec%a3%bc/
 permalink: /archives/359
 categories:
   - 마르크스주의
@@ -19,7 +19,7 @@ tags:
 
 그 사람은 자기가 만드는 걸, 하나를 만들 때 3만 원을 받는다고 말했다.<figure style="width: 300px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile29.uf.206419164B8B97C36231DA.jpg" width="300" height="451" alt="레닌 평전2" filename="cfile29.uf.206419164B8B97C36231DA.jpg" filemime="" /><figcaption class="wp-caption-text">△레닌은 노동계급이 근본적으로 사회주의자라고 했다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile29.uf.206419164B8B97C36231DA.jpg" width="300" height="451" alt="레닌 평전2" filename="cfile29.uf.206419164B8B97C36231DA.jpg" filemime="" /><figcaption class="wp-caption-text">△레닌은 노동계급이 근본적으로 사회주의자라고 했다.</figcaption></figure> 
 
 저쪽에 있던 사람은 하나에 1만5천 원을 받는다고 했다.&nbsp;
 

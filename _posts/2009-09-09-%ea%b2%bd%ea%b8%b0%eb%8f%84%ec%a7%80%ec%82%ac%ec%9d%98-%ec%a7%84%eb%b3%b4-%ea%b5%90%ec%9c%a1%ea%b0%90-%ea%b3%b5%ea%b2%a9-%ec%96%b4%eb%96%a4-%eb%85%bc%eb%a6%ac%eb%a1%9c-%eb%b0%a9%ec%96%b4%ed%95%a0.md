@@ -4,7 +4,7 @@ title: 경기도지사의 진보 교육감 공격, 어떤 논리로 방어할까
 date: 2009-09-09T02:06:49+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/09/09/%ea%b2%bd%ea%b8%b0%eb%8f%84%ec%a7%80%ec%82%ac%ec%9d%98-%ec%a7%84%eb%b3%b4-%ea%b5%90%ec%9c%a1%ea%b0%90-%ea%b3%b5%ea%b2%a9-%ec%96%b4%eb%96%a4-%eb%85%bc%eb%a6%ac%eb%a1%9c-%eb%b0%a9%ec%96%b4%ed%95%a0/
+guid: https://marx.mytory.net/2009/09/09/%ea%b2%bd%ea%b8%b0%eb%8f%84%ec%a7%80%ec%82%ac%ec%9d%98-%ec%a7%84%eb%b3%b4-%ea%b5%90%ec%9c%a1%ea%b0%90-%ea%b3%b5%ea%b2%a9-%ec%96%b4%eb%96%a4-%eb%85%bc%eb%a6%ac%eb%a1%9c-%eb%b0%a9%ec%96%b4%ed%95%a0/
 permalink: /archives/262
 categories:
   - 정치논평
@@ -33,7 +33,7 @@ tags:
 
 나는 이런 식의 비판이, 제 발목잡기라고 생각한다. 형식논리에 의한 비판이기 때문이다. 만약, 서울시장이 진보 성향이고, 교육감이 공정택 같은 또라이라서 서울시가 독자적으로 진보적 교육 정책을 추진하려 해도 같은 논리로 비판할 것인가? &lt;한겨레&gt;는 그렇게 할 수 있을지 몰라도, 나는 그렇게 되면 서울시를 지지할 것이다. <figure style="width: 330px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile8.uf.1551B0194AA70D800CE099.jpg" width="330" height="440" alt="김상곤 교육감" filename="cfile8.uf.1551B0194AA70D800CE099.jpg" filemime="" /><figcaption class="wp-caption-text">△나는 김상곤 교육감이 무상급식, 학생 인권 보호 등을 추진하기 때문에 지지한다. 경기도지사 김문수가 이런 정책을 무력화하기 때문에 교육국 신설에 반대한다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile8.uf.1551B0194AA70D800CE099.jpg" width="330" height="440" alt="김상곤 교육감" filename="cfile8.uf.1551B0194AA70D800CE099.jpg" filemime="" /><figcaption class="wp-caption-text">△나는 김상곤 교육감이 무상급식, 학생 인권 보호 등을 추진하기 때문에 지지한다. 경기도지사 김문수가 이런 정책을 무력화하기 때문에 교육국 신설에 반대한다.</figcaption></figure> 
 
 사실, &lt;한겨레&gt;도 경기도지사 김문수의 조치를 반대하는 진짜 이유를 밝혔다. 아래 인용을 보라. 같은 사설에서 인용한 것이다.
 

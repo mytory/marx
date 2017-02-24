@@ -4,7 +4,7 @@ title: ‘국가’라는 개념에 대한 메모
 date: 2009-03-28T03:52:37+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/03/28/%ea%b5%ad%ea%b0%80%eb%9d%bc%eb%8a%94-%ea%b0%9c%eb%85%90%ec%97%90-%eb%8c%80%ed%95%9c-%eb%a9%94%eb%aa%a8/
+guid: https://marx.mytory.net/2009/03/28/%ea%b5%ad%ea%b0%80%eb%9d%bc%eb%8a%94-%ea%b0%9c%eb%85%90%ec%97%90-%eb%8c%80%ed%95%9c-%eb%a9%94%eb%aa%a8/
 permalink: /archives/165
 categories:
   - 마르크스주의

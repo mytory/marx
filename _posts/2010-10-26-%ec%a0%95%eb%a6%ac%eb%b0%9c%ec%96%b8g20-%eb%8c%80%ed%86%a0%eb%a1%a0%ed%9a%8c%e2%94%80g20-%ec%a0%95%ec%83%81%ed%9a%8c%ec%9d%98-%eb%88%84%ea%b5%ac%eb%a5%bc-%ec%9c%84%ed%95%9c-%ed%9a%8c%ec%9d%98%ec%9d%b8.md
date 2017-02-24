@@ -4,7 +4,7 @@ title: '[정리발언]G20 대토론회─G20 정상회의, 누구를 위한 회�
 date: 2010-10-26T12:33:26+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2010/10/26/%ec%a0%95%eb%a6%ac%eb%b0%9c%ec%96%b8g20-%eb%8c%80%ed%86%a0%eb%a1%a0%ed%9a%8c%e2%94%80g20-%ec%a0%95%ec%83%81%ed%9a%8c%ec%9d%98-%eb%88%84%ea%b5%ac%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%9a%8c%ec%9d%98%ec%9d%b8/
+guid: https://marx.mytory.net/2010/10/26/%ec%a0%95%eb%a6%ac%eb%b0%9c%ec%96%b8g20-%eb%8c%80%ed%86%a0%eb%a1%a0%ed%9a%8c%e2%94%80g20-%ec%a0%95%ec%83%81%ed%9a%8c%ec%9d%98-%eb%88%84%ea%b5%ac%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%9a%8c%ec%9d%98%ec%9d%b8/
 permalink: /archives/415
 categories:
   - 강연회/토론회 후기
@@ -22,7 +22,7 @@ tags:
 
 받아적고 바로 올린 것이기 때문에 오타와 오류가 당연히 있습니다. 염두에 두고 보세요.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.136A0C164CCAB6670C44BD.jpg" class="aligncenter" width="540" height="360" alt="" filename="20101027011008_0024.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile22.uf.136A0C164CCAB6670C44BD.jpg" class="aligncenter" width="540" height="360" alt="" filename="20101027011008_0024.jpg" filemime="image/jpeg" />
 
 허영구 대표님이 말씀하신 12일과 관련한 시위 일정 변경에 대해, G20 운영위가 고심을 했다. 공동운영위원장님이 말씀하신 것에 공감을 표한다. 그러나 민주노총이 하루 파업을 선언하지 않은 상황에서, (물론 진지하게 동원 노력을 하고 있다), 쉽지 않았다. 민중행동에서는 7일 노동자대회에 G20이 포함돼 있다. 10일 밤에는 전야제가 있다. 11일 오후 3시에는 집회가 있다. (자세한 일정은 <a href="http://www.putpeoplefirst.kr/?mid=G20_program&listStyle=list" target="_blank" title="[http://www.putpeoplefirst.kr/?mid=G20_program&listStyle=list]로 이동합니다.">&#8220;사람이 우선이다! G20대응민중행동&#8221; 웹사이트</a>에서 확인해 보세요.)
 

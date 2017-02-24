@@ -4,7 +4,7 @@ title: '노무현 서거 이후 &#8211; 민주당이 잘 할까?'
 date: 2009-06-03T14:21:25+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/06/03/%eb%85%b8%eb%ac%b4%ed%98%84-%ec%84%9c%ea%b1%b0-%ec%9d%b4%ed%9b%84-%eb%af%bc%ec%a3%bc%eb%8b%b9%ec%9d%b4-%ec%9e%98-%ed%95%a0%ea%b9%8c/
+guid: https://marx.mytory.net/2009/06/03/%eb%85%b8%eb%ac%b4%ed%98%84-%ec%84%9c%ea%b1%b0-%ec%9d%b4%ed%9b%84-%eb%af%bc%ec%a3%bc%eb%8b%b9%ec%9d%b4-%ec%9e%98-%ed%95%a0%ea%b9%8c/
 permalink: /archives/199
 categories:
   - 정치논평
@@ -71,7 +71,7 @@ tags:
 이명박은 노무현 서거에 대한 책임론에서도 다소 자유로워 보인다. 다음 그래프를 보라.
 
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile24.uf.122CB6154A26865B6D00A3.jpg" class="aligncenter" width="540" height="357" alt="" filename="20090601hani_whos.jpg" filemime="image/jpeg" /> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile24.uf.122CB6154A26865B6D00A3.jpg" class="aligncenter" width="540" height="357" alt="" filename="20090601hani_whos.jpg" filemime="image/jpeg" /> 
 
 그래프
     

@@ -4,7 +4,7 @@ title: 뭄바이 폭파 사건 ─ 인도 무슬림들의 분노와 저항
 date: 2008-12-01T17:12:18+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/12/01/%eb%ad%84%eb%b0%94%ec%9d%b4-%ed%8f%ad%ed%8c%8c-%ec%82%ac%ea%b1%b4-%e2%94%80-%ec%9d%b8%eb%8f%84-%eb%ac%b4%ec%8a%ac%eb%a6%bc%eb%93%a4%ec%9d%98-%eb%b6%84%eb%85%b8%ec%99%80-%ec%a0%80%ed%95%ad/
+guid: https://marx.mytory.net/2008/12/01/%eb%ad%84%eb%b0%94%ec%9d%b4-%ed%8f%ad%ed%8c%8c-%ec%82%ac%ea%b1%b4-%e2%94%80-%ec%9d%b8%eb%8f%84-%eb%ac%b4%ec%8a%ac%eb%a6%bc%eb%93%a4%ec%9d%98-%eb%b6%84%eb%85%b8%ec%99%80-%ec%a0%80%ed%95%ad/
 permalink: /archives/44
 categories:
   - 추천하고 싶은 글

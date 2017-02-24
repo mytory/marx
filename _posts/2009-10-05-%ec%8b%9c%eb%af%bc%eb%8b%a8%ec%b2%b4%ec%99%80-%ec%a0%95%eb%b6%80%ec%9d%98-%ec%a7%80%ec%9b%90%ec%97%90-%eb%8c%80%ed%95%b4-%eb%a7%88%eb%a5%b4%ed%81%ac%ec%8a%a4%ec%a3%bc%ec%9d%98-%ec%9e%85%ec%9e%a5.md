@@ -4,7 +4,7 @@ title: 시민단체와 정부의 지원에 대해, 마르크스주의 입장
 date: 2009-10-05T03:06:08+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/10/05/%ec%8b%9c%eb%af%bc%eb%8b%a8%ec%b2%b4%ec%99%80-%ec%a0%95%eb%b6%80%ec%9d%98-%ec%a7%80%ec%9b%90%ec%97%90-%eb%8c%80%ed%95%b4-%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98-%ec%9e%85%ec%9e%a5/
+guid: https://marx.mytory.net/2009/10/05/%ec%8b%9c%eb%af%bc%eb%8b%a8%ec%b2%b4%ec%99%80-%ec%a0%95%eb%b6%80%ec%9d%98-%ec%a7%80%ec%9b%90%ec%97%90-%eb%8c%80%ed%95%b4-%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98-%ec%9e%85%ec%9e%a5/
 permalink: /archives/304
 categories:
   - 마르크스주의
@@ -19,7 +19,7 @@ tags:
 ---
 지금 &lt;시사인&gt;은 작가 조정래의 이야기를 연재하고 있다.(인터뷰인데, 뭐라고 적당히 이름 붙일 말이 없어 &#8216;이야기&#8217;라고 했다. 단순한 인터뷰는 아니기 때문에.)
 
-<a href="http://blog.ohmynews.com/gkfnzl/158080" target="_blank" title="[http://blog.ohmynews.com/gkfnzl/158080]로 이동합니다."><figure style="width: 500px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile25.uf.1460C2154AC9623A324910.jpg" width="500" height="333" alt="" filename="cfile25.uf.1460C2154AC9623A324910.jpg" filemime="" /><figcaption class="wp-caption-text">△&lt;태백산맥&gt;의 저자 조정래 작가. 촬영 : 오마이뉴스 권우성 / 퍼온곳 : http://blog.ohmynews.com/gkfnzl/158080</figcaption></figure></a> 
+<a href="http://blog.ohmynews.com/gkfnzl/158080" target="_blank" title="[http://blog.ohmynews.com/gkfnzl/158080]로 이동합니다."><figure style="width: 500px" class="wp-caption aligncenter"><img src="https://marx.mytory.net/wp-content/uploads/1/cfile25.uf.1460C2154AC9623A324910.jpg" width="500" height="333" alt="" filename="cfile25.uf.1460C2154AC9623A324910.jpg" filemime="" /><figcaption class="wp-caption-text">△&lt;태백산맥&gt;의 저자 조정래 작가. 촬영 : 오마이뉴스 권우성 / 퍼온곳 : http://blog.ohmynews.com/gkfnzl/158080</figcaption></figure></a> 
 
 지난 호 인터뷰는 <a target="_blank" href="http://www.sisain.co.kr/news/articleView.html?idxno=5364">&#8220;내 인생 정리한 유서로 봐도 좋다&#8221;</a>라는 제목이었다. 조정래의 자전적 에세이&nbsp;&lt;황홀한 글감옥&gt;에 대한 소개가 주된 내용이었고, 현 정부에 대한 평가 등등 여러 가지 내용이 있는 인터뷰였다.
 

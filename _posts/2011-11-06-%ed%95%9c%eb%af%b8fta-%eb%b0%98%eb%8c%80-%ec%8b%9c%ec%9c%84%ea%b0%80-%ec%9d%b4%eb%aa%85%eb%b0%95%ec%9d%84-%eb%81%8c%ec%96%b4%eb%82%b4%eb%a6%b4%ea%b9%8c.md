@@ -4,7 +4,7 @@ title: 한미FTA 반대 시위가 이명박을 끌어내릴까?
 date: 2011-11-06T13:02:57+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2011/11/06/%ed%95%9c%eb%af%b8fta-%eb%b0%98%eb%8c%80-%ec%8b%9c%ec%9c%84%ea%b0%80-%ec%9d%b4%eb%aa%85%eb%b0%95%ec%9d%84-%eb%81%8c%ec%96%b4%eb%82%b4%eb%a6%b4%ea%b9%8c/
+guid: https://marx.mytory.net/2011/11/06/%ed%95%9c%eb%af%b8fta-%eb%b0%98%eb%8c%80-%ec%8b%9c%ec%9c%84%ea%b0%80-%ec%9d%b4%eb%aa%85%eb%b0%95%ec%9d%84-%eb%81%8c%ec%96%b4%eb%82%b4%eb%a6%b4%ea%b9%8c/
 permalink: /archives/527
 categories:
   - 정치논평
@@ -15,7 +15,7 @@ categories:
 
 여튼간에, 이번 FTA 반대 촛불은 이명박 정권 하에서 2008년 촛불 이후 벌어진 어떤 투쟁들 보다도 더욱 가능성이 있는 투쟁이라는 생각이 든다.<figure style="width: 550px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile1.uf.167269484EB68001213CF8.jpg" width="550" height="411" alt="" filename="cfile1.uf.167269484EB68001213CF8.jpg" filemime="" /><figcaption class="wp-caption-text">△2011-11-05 대한문 앞 한미FTA 반대 시위. 내가 찍은 거다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile1.uf.167269484EB68001213CF8.jpg" width="550" height="411" alt="" filename="cfile1.uf.167269484EB68001213CF8.jpg" filemime="" /><figcaption class="wp-caption-text">△2011-11-05 대한문 앞 한미FTA 반대 시위. 내가 찍은 거다.</figcaption></figure> 
 
 ## 민족주의 정서
 
@@ -61,7 +61,7 @@ categories:
 
 그리스에서는 얼마 전 사상 최대의 시위가 벌어졌다고 한다. <a href="http://wspaper.org/article/10382" target="_blank" title="[http://wspaper.org/article/10382]로 이동합니다.">무려 이틀 총파업이었다.</a> 그리스 얘네는 요새 총파업하면 정말 거리에 개미새끼 한 마리 안 다닌다고 한다. 아는 사람이 그리스 여행갔었는데, 작년이었다. 총파업한다고 하길래 한국 총파업처럼 생각하고 밖에 나갔다가 개고생하고 들어왔다는 이야길 들었다.(<a href="http://wspaper.org/article/8122" target="_blank" title="[http://wspaper.org/article/8122]로 이동합니다.">▷그리스 여행에서 물씬 느낀 저항 분위기</a>)<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.1867A4454EB685642FDF56.jpg" width="540" height="360" alt="" filename="cfile22.uf.1867A4454EB685642FDF56.jpg" filemime="" /><figcaption class="wp-caption-text">△2011년 2월 이집트 혁명의 하루 - 이런 투쟁을 통해 대중은 급속히 발전한다. ⓒ사진 호쌈 엘하말라위</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile22.uf.1867A4454EB685642FDF56.jpg" width="540" height="360" alt="" filename="cfile22.uf.1867A4454EB685642FDF56.jpg" filemime="" /><figcaption class="wp-caption-text">△2011년 2월 이집트 혁명의 하루 - 이런 투쟁을 통해 대중은 급속히 발전한다. ⓒ사진 호쌈 엘하말라위</figcaption></figure> 
 
 아랍 혁명은 여전히 진행중이다. 얼마 전 카다피가 죽었고<a href="http://wspaper.org/article/10366" target="_blank" title="[http://wspaper.org/article/10366]로 이동합니다."></a>, 유럽이 승전한 군대처럼 리비아를 지배하려고 하겠지만, <a href="http://wspaper.org/article/10366" target="_blank" title="[http://wspaper.org/article/10366]로 이동합니다.">리비아 민중들의 반발도 녹록치 않을 거다.</a> 이집트 혁명은 노동자 대투쟁과 함께 진행중이다. <a href="http://wspaper.org/article/10368" target="_blank" title="[http://wspaper.org/article/10368]로 이동합니다.">이집트 군부는 점점 더 통치에 한계를 느끼고 있다.</a> 큰 충돌이 불가피하다.&nbsp; 
 

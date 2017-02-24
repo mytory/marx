@@ -4,7 +4,7 @@ title: 권력의 시녀 경찰, 검찰
 date: 2009-01-28T01:34:29+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/01/28/%ea%b6%8c%eb%a0%a5%ec%9d%98-%ec%8b%9c%eb%85%80-%ea%b2%bd%ec%b0%b0-%ea%b2%80%ec%b0%b0/
+guid: https://marx.mytory.net/2009/01/28/%ea%b6%8c%eb%a0%a5%ec%9d%98-%ec%8b%9c%eb%85%80-%ea%b2%bd%ec%b0%b0-%ea%b2%80%ec%b0%b0/
 permalink: /archives/127
 categories:
   - 마르크스주의

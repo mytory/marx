@@ -4,7 +4,7 @@ title: 〈한겨레〉를 보며 착찹한 이유는…
 date: 2008-12-19T01:16:30+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/12/19/%e3%80%88%ed%95%9c%ea%b2%a8%eb%a0%88%e3%80%89%eb%a5%bc-%eb%b3%b4%eb%a9%b0-%ec%b0%a9%ec%b0%b9%ed%95%9c-%ec%9d%b4%ec%9c%a0%eb%8a%94/
+guid: https://marx.mytory.net/2008/12/19/%e3%80%88%ed%95%9c%ea%b2%a8%eb%a0%88%e3%80%89%eb%a5%bc-%eb%b3%b4%eb%a9%b0-%ec%b0%a9%ec%b0%b9%ed%95%9c-%ec%9d%b4%ec%9c%a0%eb%8a%94/
 permalink: /archives/64
 categories:
   - 정치논평

@@ -4,7 +4,7 @@ title: 바른말 하면 잡아가는 나라 ─ 노회찬을 지켜주세요
 date: 2009-01-20T19:06:15+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/01/20/%eb%b0%94%eb%a5%b8%eb%a7%90-%ed%95%98%eb%a9%b4-%ec%9e%a1%ec%95%84%ea%b0%80%eb%8a%94-%eb%82%98%eb%9d%bc-%e2%94%80-%eb%85%b8%ed%9a%8c%ec%b0%ac%ec%9d%84-%ec%a7%80%ec%bc%9c%ec%a3%bc%ec%84%b8%ec%9a%94/
+guid: https://marx.mytory.net/2009/01/20/%eb%b0%94%eb%a5%b8%eb%a7%90-%ed%95%98%eb%a9%b4-%ec%9e%a1%ec%95%84%ea%b0%80%eb%8a%94-%eb%82%98%eb%9d%bc-%e2%94%80-%eb%85%b8%ed%9a%8c%ec%b0%ac%ec%9d%84-%ec%a7%80%ec%bc%9c%ec%a3%bc%ec%84%b8%ec%9a%94/
 permalink: /archives/115
 categories:
   - 정치논평

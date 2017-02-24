@@ -4,7 +4,7 @@ title: '드라마 &lt;아이리스&gt;를 보면서 숨이 막혀오는 이유'
 date: 2009-11-23T18:53:29+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/11/23/%eb%93%9c%eb%9d%bc%eb%a7%88-%ec%95%84%ec%9d%b4%eb%a6%ac%ec%8a%a4%eb%a5%bc-%eb%b3%b4%eb%a9%b4%ec%84%9c-%ec%88%a8%ec%9d%b4-%eb%a7%89%ed%98%80%ec%98%a4%eb%8a%94-%ec%9d%b4%ec%9c%a0/
+guid: https://marx.mytory.net/2009/11/23/%eb%93%9c%eb%9d%bc%eb%a7%88-%ec%95%84%ec%9d%b4%eb%a6%ac%ec%8a%a4%eb%a5%bc-%eb%b3%b4%eb%a9%b4%ec%84%9c-%ec%88%a8%ec%9d%b4-%eb%a7%89%ed%98%80%ec%98%a4%eb%8a%94-%ec%9d%b4%ec%9c%a0/
 permalink: /archives/314
 categories:
   - 리뷰
@@ -38,7 +38,7 @@ tags:
 
 작품을 내재적으로 비평할 것이냐, 내재적으로 비평할 것이냐 하는 것은 꽤 논란거리다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.1502EF204B0AD9F6124857.jpg" class="aligncenter" width="500" height="375" alt="" filename="200907250700451001_1.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile5.uf.1502EF204B0AD9F6124857.jpg" class="aligncenter" width="500" height="375" alt="" filename="200907250700451001_1.jpg" filemime="image/jpeg" />
 
 지금 내가 하는 식으로 적용하는 경우도 있는지는 모르겠는데, &lt;아이리스&gt;의 경우에는 내재적으로 볼 때 정말 별볼일 없다고 나는 생각한다.
 

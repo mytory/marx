@@ -4,7 +4,7 @@ title: '배운 것 없는 사람들도 알 건 안다 &#8211; 러시아 10월 �
 date: 2011-06-21T19:25:38+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2011/06/21/%eb%b0%b0%ec%9a%b4-%ea%b2%83-%ec%97%86%eb%8a%94-%ec%82%ac%eb%9e%8c%eb%93%a4%eb%8f%84-%ec%95%8c-%ea%b1%b4-%ec%95%88%eb%8b%a4-%eb%9f%ac%ec%8b%9c%ec%95%84-10%ec%9b%94-%ed%98%81%eb%aa%85-%eb%8b%b9/
+guid: https://marx.mytory.net/2011/06/21/%eb%b0%b0%ec%9a%b4-%ea%b2%83-%ec%97%86%eb%8a%94-%ec%82%ac%eb%9e%8c%eb%93%a4%eb%8f%84-%ec%95%8c-%ea%b1%b4-%ec%95%88%eb%8b%a4-%eb%9f%ac%ec%8b%9c%ec%95%84-10%ec%9b%94-%ed%98%81%eb%aa%85-%eb%8b%b9/
 permalink: /archives/505
 categories:
   - 리뷰
@@ -16,7 +16,7 @@ tags:
   - 세계를 뒤흔든 열흘
   - 존 리드
 ---
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile29.uf.145174574E00EFFC1658DE.jpg" class="aligncenter" width="240" height="350" alt="" filename="cfile29.uf.145174574E00EFFC1658DE.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile29.uf.145174574E00EFFC1658DE.jpg" class="aligncenter" width="240" height="350" alt="" filename="cfile29.uf.145174574E00EFFC1658DE.jpg" filemime="" />
 
 
   

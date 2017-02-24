@@ -4,7 +4,7 @@ title: ‘고대녀’ 김지윤을 세 번째 징계한 고려대 당국
 date: 2009-04-02T19:25:03+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/04/02/%ea%b3%a0%eb%8c%80%eb%85%80-%ea%b9%80%ec%a7%80%ec%9c%a4%ec%9d%84-%ec%84%b8-%eb%b2%88%ec%a7%b8-%ec%a7%95%ea%b3%84%ed%95%9c-%ea%b3%a0%eb%a0%a4%eb%8c%80-%eb%8b%b9%ea%b5%ad/
+guid: https://marx.mytory.net/2009/04/02/%ea%b3%a0%eb%8c%80%eb%85%80-%ea%b9%80%ec%a7%80%ec%9c%a4%ec%9d%84-%ec%84%b8-%eb%b2%88%ec%a7%b8-%ec%a7%95%ea%b3%84%ed%95%9c-%ea%b3%a0%eb%a0%a4%eb%8c%80-%eb%8b%b9%ea%b5%ad/
 permalink: /archives/167
 categories:
   - 정치논평
@@ -91,4 +91,4 @@ tags:
 
 여하튼, 또 한 번 천박한 자들의 잔상이 나를 불타게 한다. 무기정학, 총장 결재를 기다리고 있다고 하는데 조금이라도 정신 박힌 총장이라면 멍청한 결정 하지 않기를.
 
-<a href="http://marx.mytory.net/wp-content/uploads/1/cfile2.uf.201C281949D50FB5087FCD.hwp" class="aligncenter" filename="출교최종판결문(퇴학1심).hwp"  filemime="" />cfile2.uf.201C281949D50FB5087FCD.hwp</a>
+<a href="https://marx.mytory.net/wp-content/uploads/1/cfile2.uf.201C281949D50FB5087FCD.hwp" class="aligncenter" filename="출교최종판결문(퇴학1심).hwp"  filemime="" />cfile2.uf.201C281949D50FB5087FCD.hwp</a>

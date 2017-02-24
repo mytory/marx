@@ -4,7 +4,7 @@ title: 신입사원 임금 깎는 게 실업대책인 나라
 date: 2009-01-16T07:09:09+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/01/16/%ec%8b%a0%ec%9e%85%ec%82%ac%ec%9b%90-%ec%9e%84%ea%b8%88-%ea%b9%8e%eb%8a%94-%ea%b2%8c-%ec%8b%a4%ec%97%85%eb%8c%80%ec%b1%85%ec%9d%b8-%eb%82%98%eb%9d%bc/
+guid: https://marx.mytory.net/2009/01/16/%ec%8b%a0%ec%9e%85%ec%82%ac%ec%9b%90-%ec%9e%84%ea%b8%88-%ea%b9%8e%eb%8a%94-%ea%b2%8c-%ec%8b%a4%ec%97%85%eb%8c%80%ec%b1%85%ec%9d%b8-%eb%82%98%eb%9d%bc/
 permalink: /archives/104
 categories:
   - 정치논평
@@ -91,7 +91,7 @@ tags:
 
 마지막으로 그래프 하나 제시하고 끝내련다. 위에서 언급한 <a href="http://mel21.tistory.com/entry/%EB%8C%80%EC%A1%B8%EC%B4%88%EC%9E%84-%EA%B2%BD%EC%B4%9D" title="대졸초임 삭감해야한다는 한국경영자총협회(경총)의 허구" target="_blank">대졸초임 삭감해야한다는 한국경영자총협회(경총)의 허구</a>에서 발견한 것을 보기 좋게 수정한 것이니, 자세히 보고픈 사람은 저 글을 읽기 바란다. 진짜 열심히 찾은 것 같으니.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/49702e21b447a9L.jpg" class="aligncenter" width="586" height="435" alt="" filename="Hourly-compensation-costs.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/49702e21b447a9L.jpg" class="aligncenter" width="586" height="435" alt="" filename="Hourly-compensation-costs.jpg" filemime="" />
 
 <p class="link">
   <a href="http://cfs8.tistory.com/image/13/tistory/2008/06/30/10/16/486833e071014" target="_blank">제조업 시간당 보상임금 원본 그림</a>

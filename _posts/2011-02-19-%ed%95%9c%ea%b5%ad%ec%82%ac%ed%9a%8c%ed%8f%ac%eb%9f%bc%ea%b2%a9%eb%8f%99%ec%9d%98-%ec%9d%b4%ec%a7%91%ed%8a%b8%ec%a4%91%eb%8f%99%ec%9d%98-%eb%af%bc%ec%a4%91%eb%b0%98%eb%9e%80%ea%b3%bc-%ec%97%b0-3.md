@@ -4,7 +4,7 @@ title: '[한국사회포럼]격동의 이집트:중동의 민중반란과 연속
 date: 2011-02-19T07:50:58+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2011/02/19/%ed%95%9c%ea%b5%ad%ec%82%ac%ed%9a%8c%ed%8f%ac%eb%9f%bc%ea%b2%a9%eb%8f%99%ec%9d%98-%ec%9d%b4%ec%a7%91%ed%8a%b8%ec%a4%91%eb%8f%99%ec%9d%98-%eb%af%bc%ec%a4%91%eb%b0%98%eb%9e%80%ea%b3%bc-%ec%97%b0-3/
+guid: https://marx.mytory.net/2011/02/19/%ed%95%9c%ea%b5%ad%ec%82%ac%ed%9a%8c%ed%8f%ac%eb%9f%bc%ea%b2%a9%eb%8f%99%ec%9d%98-%ec%9d%b4%ec%a7%91%ed%8a%b8%ec%a4%91%eb%8f%99%ec%9d%98-%eb%af%bc%ec%a4%91%eb%b0%98%eb%9e%80%ea%b3%bc-%ec%97%b0-3/
 permalink: /archives/453
 categories:
   - 강연회/토론회 후기
@@ -31,7 +31,7 @@ tags:
 
 이집트 혁명이 일어났다 하고 완료형으로 말하는 것은 옳지 않다. 89년 동유럽이나 한국 6.29 이후 상황, 또는 98년 인도네시아 상황처럼 &#8216;민주화 이행&#8217;을 밟으리라는 생각과 주장도 옳지 않다. 이 두 가지를 연결해서 하는 생각과 주장은 옳지 않다.<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile6.uf.112994544D5F7629223639.jpg" width="540" height="360" alt="" filename="cfile6.uf.112994544D5F7629223639.jpg" filemime="" /><figcaption class="wp-caption-text">△무바라크의 깡패들로부터 타흐리르 광장을 지키고 있는 이집트 민중 이집트 혁명이 정치 혁명에서 사회 혁명으로 발전하려면 아래로부터 건설되는 민중 권력 기관이 필요하다. ⓒ사진 출처 Nasser Nouri
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile6.uf.112994544D5F7629223639.jpg" width="540" height="360" alt="" filename="cfile6.uf.112994544D5F7629223639.jpg" filemime="" /><figcaption class="wp-caption-text">△무바라크의 깡패들로부터 타흐리르 광장을 지키고 있는 이집트 민중 이집트 혁명이 정치 혁명에서 사회 혁명으로 발전하려면 아래로부터 건설되는 민중 권력 기관이 필요하다. ⓒ사진 출처 Nasser Nouri
    
 http://wspaper.org/article/9240</figcaption></figure> 
 

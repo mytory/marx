@@ -4,7 +4,7 @@ title: 문근영 ‘빨갱이’ 사건과 수구보수의 위기감
 date: 2008-11-18T18:26:45+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/11/18/%eb%ac%b8%ea%b7%bc%ec%98%81-%eb%b9%a8%ea%b0%b1%ec%9d%b4-%ec%82%ac%ea%b1%b4%ea%b3%bc-%ec%88%98%ea%b5%ac%eb%b3%b4%ec%88%98%ec%9d%98-%ec%9c%84%ea%b8%b0%ea%b0%90/
+guid: https://marx.mytory.net/2008/11/18/%eb%ac%b8%ea%b7%bc%ec%98%81-%eb%b9%a8%ea%b0%b1%ec%9d%b4-%ec%82%ac%ea%b1%b4%ea%b3%bc-%ec%88%98%ea%b5%ac%eb%b3%b4%ec%88%98%ec%9d%98-%ec%9c%84%ea%b8%b0%ea%b0%90/
 permalink: /archives/32
 categories:
   - 정치논평
@@ -33,7 +33,7 @@ tags:
 
 사실 문근영에 대한 지만원의 마녀사냥은 너무 나간 것이다. &lt;조선일보&gt; 같은 세련된 논법을 사용<font color="gray">(해서 자기 본질을 숨기기 잘)</font>하는 신문은 저런 실수를 잘 하지 않는다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/4923082211e2c9Z.jpg" class="aligncenter" width="500" height="350" alt="" filename="red-hunting.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/4923082211e2c9Z.jpg" class="aligncenter" width="500" height="350" alt="" filename="red-hunting.jpg" filemime="" />
 
 그러나 “미친놈” 하고 넘기기보다 이 사건을 통해 이 땅 수구보수에 대해 알아보는 시간을 갖자. 빨갱이 마녀사냥은 수구보수가 즐겨 사용하는 위기 대응책이기 때문이다.
 

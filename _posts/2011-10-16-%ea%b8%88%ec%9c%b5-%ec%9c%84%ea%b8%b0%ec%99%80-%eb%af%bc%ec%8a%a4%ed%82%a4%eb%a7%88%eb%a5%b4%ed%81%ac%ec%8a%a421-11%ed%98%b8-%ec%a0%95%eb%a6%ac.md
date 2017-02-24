@@ -4,7 +4,7 @@ title: 금융 위기와 민스키(마르크스21 11호) 정리
 date: 2011-10-16T13:38:17+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2011/10/16/%ea%b8%88%ec%9c%b5-%ec%9c%84%ea%b8%b0%ec%99%80-%eb%af%bc%ec%8a%a4%ed%82%a4%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a421-11%ed%98%b8-%ec%a0%95%eb%a6%ac/
+guid: https://marx.mytory.net/2011/10/16/%ea%b8%88%ec%9c%b5-%ec%9c%84%ea%b8%b0%ec%99%80-%eb%af%bc%ec%8a%a4%ed%82%a4%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a421-11%ed%98%b8-%ec%a0%95%eb%a6%ac/
 permalink: /archives/525
 categories:
   - 마르크스주의
@@ -14,7 +14,7 @@ tags:
 ---
 이 글은 마르크스21 11호에 실린 [금융 위기와 민스키(이정구)](http://marx21.or.kr/article/pageView.marx?articleNo=147&pageNo=1)를 요약 정리한 것이다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.14435C434E9ADE490F8CFE.jpg" class="aligncenter" width="400" alt="" filename="itistory-photo-1" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile5.uf.14435C434E9ADE490F8CFE.jpg" class="aligncenter" width="400" alt="" filename="itistory-photo-1" filemime="image/jpeg" />
 
 &#8212;- 여기부터 요약 시작 &#8212;-
 

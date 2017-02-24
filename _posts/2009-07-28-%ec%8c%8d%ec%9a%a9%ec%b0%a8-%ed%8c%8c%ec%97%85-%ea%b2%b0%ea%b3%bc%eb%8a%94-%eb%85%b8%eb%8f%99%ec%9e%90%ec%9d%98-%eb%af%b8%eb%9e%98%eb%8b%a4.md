@@ -4,7 +4,7 @@ title: 쌍용차 파업 결과는 노동자의 미래다
 date: 2009-07-28T13:50:49+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/07/28/%ec%8c%8d%ec%9a%a9%ec%b0%a8-%ed%8c%8c%ec%97%85-%ea%b2%b0%ea%b3%bc%eb%8a%94-%eb%85%b8%eb%8f%99%ec%9e%90%ec%9d%98-%eb%af%b8%eb%9e%98%eb%8b%a4/
+guid: https://marx.mytory.net/2009/07/28/%ec%8c%8d%ec%9a%a9%ec%b0%a8-%ed%8c%8c%ec%97%85-%ea%b2%b0%ea%b3%bc%eb%8a%94-%eb%85%b8%eb%8f%99%ec%9e%90%ec%9d%98-%eb%af%b8%eb%9e%98%eb%8b%a4/
 permalink: /archives/237
 categories:
   - 투쟁
@@ -56,7 +56,7 @@ tags:
 
 (연설 녹음은 <a href="http://www.marxism.or.kr/2009" target="_blank" title="[http://www.marxism.or.kr/2009]로 이동합니다.">http://www.marxism.or.kr/2009</a> 에서 들을 수 있다.)</p> 
 
-<figure style="width: 90px" class="wp-caption alignleft"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile3.uf.202490264A6F020F23A9B5.jpg" width="90" height="110.00000000000001" alt="쌍용차 가족대책위 이정아 대표" filename="cfile3.uf.202490264A6F020F23A9B5.jpg" filemime="" /><figcaption class="wp-caption-text">이정아 대표</figcaption></figure>너무나 큰 박수 고맙습니다. 저희가 오늘 원래 몇 명이 같이 오고자 했는데 저 혼자밖에 오지 못했습니다. 월요일부터 시작된, 전쟁터를 방불케 하는 평택 공장 상황 때문에 엄마들이 마음을 뗄 수가 없습니다. 공장 앞에서 발걸음이 떨어지지 않습니다.
+<figure style="width: 90px" class="wp-caption alignleft"><img src="https://marx.mytory.net/wp-content/uploads/1/cfile3.uf.202490264A6F020F23A9B5.jpg" width="90" height="110.00000000000001" alt="쌍용차 가족대책위 이정아 대표" filename="cfile3.uf.202490264A6F020F23A9B5.jpg" filemime="" /><figcaption class="wp-caption-text">이정아 대표</figcaption></figure>너무나 큰 박수 고맙습니다. 저희가 오늘 원래 몇 명이 같이 오고자 했는데 저 혼자밖에 오지 못했습니다. 월요일부터 시작된, 전쟁터를 방불케 하는 평택 공장 상황 때문에 엄마들이 마음을 뗄 수가 없습니다. 공장 앞에서 발걸음이 떨어지지 않습니다.
 
 공장 앞에 가족대책위 천막이 있습니다. 공장을 바라보고 두 동을 쳤습니다. 거기 앉아서 하루를 시작합니다. 회의를 하고 밥을 먹고 아이들을 돌보고, 촛불집회를 하고 집으로 돌아갑니다. 저희가 거기 앉아있다고 할 수 있는 일이라고는 아무 것도 없습니다. 남편들 얼굴도 볼 수가 없습니다. 그래서 남편들이 도장반이라는 곳 옥상에 올라옵니다. 망원경을 들고 있으니 천막 옆에 서라, 그러면 망원경으로 보겠다 이렇게 해서 가족들이 천막 앞으로 나와서 서면 남편들이 옥상에서 저희들 얼굴을 보고 핸드폰으로 통화를 하고 손을 흔들어 줍니다. 그러면 옥상 위에서 손을 흔드는 남편이 보입니다.
 

@@ -4,7 +4,7 @@ title: '아이티 지진의 사회학 &#8211; 수만 명의 죽음을 누가 책
 date: 2010-01-15T19:27:13+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2010/01/15/%ec%95%84%ec%9d%b4%ed%8b%b0-%ec%a7%80%ec%a7%84%ec%9d%98-%ec%82%ac%ed%9a%8c%ed%95%99-%ec%88%98%eb%a7%8c-%eb%aa%85%ec%9d%98-%ec%a3%bd%ec%9d%8c%ec%9d%84-%eb%88%84%ea%b0%80-%ec%b1%85%ec%9e%84%ec%a0%b8/
+guid: https://marx.mytory.net/2010/01/15/%ec%95%84%ec%9d%b4%ed%8b%b0-%ec%a7%80%ec%a7%84%ec%9d%98-%ec%82%ac%ed%9a%8c%ed%95%99-%ec%88%98%eb%a7%8c-%eb%aa%85%ec%9d%98-%ec%a3%bd%ec%9d%8c%ec%9d%84-%eb%88%84%ea%b0%80-%ec%b1%85%ec%9e%84%ec%a0%b8/
 permalink: /archives/350
 categories:
   - 정치논평
@@ -34,7 +34,7 @@ tags:
 
 하지만 더 날카로운 언론이라면 끝까지 파고들어서 진실을 외쳐야 한다. 왜? 아이티 권력자들은 왜 무능한가. 아이티는 왜 지진위험이 있는 국가임에도 가난해서 내진설계 하나 제대로 못하는가. 왜?<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile1.uf.15791E134B50918F347BB6.JPG" width="540" height="418" alt="" filename="cfile1.uf.15791E134B50918F347BB6.JPG" filemime="" /><figcaption class="wp-caption-text">△중국 스촨성 대지진 사진. 지진은 항상 가난한 사람들의 집을 무너뜨린다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile1.uf.15791E134B50918F347BB6.JPG" width="540" height="418" alt="" filename="cfile1.uf.15791E134B50918F347BB6.JPG" filemime="" /><figcaption class="wp-caption-text">△중국 스촨성 대지진 사진. 지진은 항상 가난한 사람들의 집을 무너뜨린다.</figcaption></figure> 
 
 많은 사람들에게 이제는 낯설지만은 않은 단어, **제국주의**라는 단어에 그 정답이 들어있다.
 

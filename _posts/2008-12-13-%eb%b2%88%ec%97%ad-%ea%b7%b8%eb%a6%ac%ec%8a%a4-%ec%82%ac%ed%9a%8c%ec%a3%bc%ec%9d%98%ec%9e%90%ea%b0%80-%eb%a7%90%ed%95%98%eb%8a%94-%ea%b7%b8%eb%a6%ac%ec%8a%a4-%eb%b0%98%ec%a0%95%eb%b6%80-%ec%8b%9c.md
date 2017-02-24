@@ -4,7 +4,7 @@ title: '[번역] 그리스 사회주의자가 말하는 그리스 반정부 시�
 date: 2008-12-13T14:10:42+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/12/13/%eb%b2%88%ec%97%ad-%ea%b7%b8%eb%a6%ac%ec%8a%a4-%ec%82%ac%ed%9a%8c%ec%a3%bc%ec%9d%98%ec%9e%90%ea%b0%80-%eb%a7%90%ed%95%98%eb%8a%94-%ea%b7%b8%eb%a6%ac%ec%8a%a4-%eb%b0%98%ec%a0%95%eb%b6%80-%ec%8b%9c/
+guid: https://marx.mytory.net/2008/12/13/%eb%b2%88%ec%97%ad-%ea%b7%b8%eb%a6%ac%ec%8a%a4-%ec%82%ac%ed%9a%8c%ec%a3%bc%ec%9d%98%ec%9e%90%ea%b0%80-%eb%a7%90%ed%95%98%eb%8a%94-%ea%b7%b8%eb%a6%ac%ec%8a%a4-%eb%b0%98%ec%a0%95%eb%b6%80-%ec%8b%9c/
 permalink: /archives/60
 categories:
   - 추천하고 싶은 글
@@ -24,7 +24,7 @@ tags:
 
 ## 그리스에서 국가에 맞선 대중운동이 분출하다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/4943bf6b15b3fDH.jpg" class="aligncenter" width="250" height="188" alt="" filename="chimage.jpg" filemime="△일요일에 아테네는 알렉산드로스 그리고로풀로스 살해에 대한 대규모 항의시위로 들썩였다. (사진 : [그리스] 노동자 연대)" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/4943bf6b15b3fDH.jpg" class="aligncenter" width="250" height="188" alt="" filename="chimage.jpg" filemime="△일요일에 아테네는 알렉산드로스 그리고로풀로스 살해에 대한 대규모 항의시위로 들썩였다. (사진 : [그리스] 노동자 연대)" />
 
 <p align="center">
   △일요일에 아테네는 알렉산드로스 그리고로풀로스 살해에 대한 대규모 항의시위로 들썩였다. <br /> (사진 : [그리스] &lt;워커스 솔리다리티&gt;)

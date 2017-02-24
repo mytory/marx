@@ -4,7 +4,7 @@ title: 마르크스주의는 실천 철학이다
 date: 2011-12-10T10:21:02+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2011/12/10/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98%eb%8a%94-%ec%8b%a4%ec%b2%9c-%ec%b2%a0%ed%95%99%ec%9d%b4%eb%8b%a4/
+guid: https://marx.mytory.net/2011/12/10/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98%eb%8a%94-%ec%8b%a4%ec%b2%9c-%ec%b2%a0%ed%95%99%ec%9d%b4%eb%8b%a4/
 permalink: /archives/539
 categories:
   - 마르크스주의
@@ -45,7 +45,7 @@ categories:
 
 그리고 그 결과는? 미국 패권의 약화였다. 반전 운동에 사람들을 참가시키려고 한참 설득을 하고 다닐 때 내가 몇 번이고 반복해서 말했던 게 떠오른다. &#8220;미국의 중동 전략이 실패한다면 미국의 세계적 패권이 약화될 거다. 그러면 전 세계에서 미국이 저지르고 있는 만행에 불만을 품은 사람들이 저항하기 더 쉬워질 거다. 당연히 한국에서도 마찬가지다.&#8221;
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile7.uf.190B814F4EE3326F3290E6.jpg" class="aligncenter" width="441" height="366" alt="" filename="이말년_만화.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile7.uf.190B814F4EE3326F3290E6.jpg" class="aligncenter" width="441" height="366" alt="" filename="이말년_만화.jpg" filemime="image/jpeg" />
 
 그런데 그것이 실제로 일어났습니다.
 

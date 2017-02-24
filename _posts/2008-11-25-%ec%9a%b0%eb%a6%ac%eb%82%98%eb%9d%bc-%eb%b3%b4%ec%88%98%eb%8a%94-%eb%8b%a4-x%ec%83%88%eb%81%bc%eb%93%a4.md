@@ -4,7 +4,7 @@ title: 우리나라 보수는 다 ×새끼들
 date: 2008-11-25T13:32:32+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/11/25/%ec%9a%b0%eb%a6%ac%eb%82%98%eb%9d%bc-%eb%b3%b4%ec%88%98%eb%8a%94-%eb%8b%a4-x%ec%83%88%eb%81%bc%eb%93%a4/
+guid: https://marx.mytory.net/2008/11/25/%ec%9a%b0%eb%a6%ac%eb%82%98%eb%9d%bc-%eb%b3%b4%ec%88%98%eb%8a%94-%eb%8b%a4-x%ec%83%88%eb%81%bc%eb%93%a4/
 permalink: /archives/41
 categories:
   - 세상살이

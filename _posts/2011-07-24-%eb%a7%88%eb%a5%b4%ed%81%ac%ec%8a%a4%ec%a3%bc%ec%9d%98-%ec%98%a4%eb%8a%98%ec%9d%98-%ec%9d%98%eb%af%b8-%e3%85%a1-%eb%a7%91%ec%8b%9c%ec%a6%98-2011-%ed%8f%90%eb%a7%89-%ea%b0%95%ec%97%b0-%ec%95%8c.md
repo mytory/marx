@@ -4,7 +4,7 @@ title: 마르크스주의 오늘의 의미 ㅡ 맑시즘 2011 폐막 강연, 알
 date: 2011-07-24T09:01:41+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2011/07/24/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98-%ec%98%a4%eb%8a%98%ec%9d%98-%ec%9d%98%eb%af%b8-%e3%85%a1-%eb%a7%91%ec%8b%9c%ec%a6%98-2011-%ed%8f%90%eb%a7%89-%ea%b0%95%ec%97%b0-%ec%95%8c/
+guid: https://marx.mytory.net/2011/07/24/%eb%a7%88%eb%a5%b4%ed%81%ac%ec%8a%a4%ec%a3%bc%ec%9d%98-%ec%98%a4%eb%8a%98%ec%9d%98-%ec%9d%98%eb%af%b8-%e3%85%a1-%eb%a7%91%ec%8b%9c%ec%a6%98-2011-%ed%8f%90%eb%a7%89-%ea%b0%95%ec%97%b0-%ec%95%8c/
 permalink: /archives/513
 categories:
   - 강연회/토론회 후기
@@ -15,7 +15,7 @@ tags:
 ---
 맑시즘 2011 폐막 강연을 아이폰으로 필기해 올린다. 현재 청중토론이 진행중이다. → 나중에 컴으로 수정을 봤다.<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.195160554E3BBCFA246507.jpg" width="540" height="362" alt="" filename="cfile22.uf.195160554E3BBCFA246507.jpg" filemime="" /><figcaption class="wp-caption-text">△폐막 강연을 듣고 있는 청중들</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile22.uf.195160554E3BBCFA246507.jpg" width="540" height="362" alt="" filename="cfile22.uf.195160554E3BBCFA246507.jpg" filemime="" /><figcaption class="wp-caption-text">△폐막 강연을 듣고 있는 청중들</figcaption></figure> 
 
 ## 마르크스주의 오늘의 의미
 

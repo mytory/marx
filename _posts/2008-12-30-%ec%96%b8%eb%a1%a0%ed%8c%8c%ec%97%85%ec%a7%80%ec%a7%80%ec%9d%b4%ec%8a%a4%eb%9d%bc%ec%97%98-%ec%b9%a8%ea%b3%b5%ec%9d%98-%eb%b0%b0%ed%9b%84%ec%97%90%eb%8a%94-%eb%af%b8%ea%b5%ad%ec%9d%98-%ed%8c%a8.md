@@ -4,7 +4,7 @@ title: '[언론파업지지]이스라엘 침공의 배후에는 미국의 패배
 date: 2008-12-30T16:32:11+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/12/30/%ec%96%b8%eb%a1%a0%ed%8c%8c%ec%97%85%ec%a7%80%ec%a7%80%ec%9d%b4%ec%8a%a4%eb%9d%bc%ec%97%98-%ec%b9%a8%ea%b3%b5%ec%9d%98-%eb%b0%b0%ed%9b%84%ec%97%90%eb%8a%94-%eb%af%b8%ea%b5%ad%ec%9d%98-%ed%8c%a8/
+guid: https://marx.mytory.net/2008/12/30/%ec%96%b8%eb%a1%a0%ed%8c%8c%ec%97%85%ec%a7%80%ec%a7%80%ec%9d%b4%ec%8a%a4%eb%9d%bc%ec%97%98-%ec%b9%a8%ea%b3%b5%ec%9d%98-%eb%b0%b0%ed%9b%84%ec%97%90%eb%8a%94-%eb%af%b8%ea%b5%ad%ec%9d%98-%ed%8c%a8/
 permalink: /archives/82
 categories:
   - 정치논평

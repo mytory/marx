@@ -4,7 +4,7 @@ title: '추천, 노동OTL &#8211; 오늘을 사는 전태일들'
 date: 2009-11-26T17:33:40+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/11/26/%ec%b6%94%ec%b2%9c-%eb%85%b8%eb%8f%99otl-%ec%98%a4%eb%8a%98%ec%9d%84-%ec%82%ac%eb%8a%94-%ec%a0%84%ed%83%9c%ec%9d%bc%eb%93%a4/
+guid: https://marx.mytory.net/2009/11/26/%ec%b6%94%ec%b2%9c-%eb%85%b8%eb%8f%99otl-%ec%98%a4%eb%8a%98%ec%9d%84-%ec%82%ac%eb%8a%94-%ec%a0%84%ed%83%9c%ec%9d%bc%eb%93%a4/
 permalink: /archives/316
 categories:
   - 마르크스주의
@@ -23,7 +23,7 @@ tags:
 ---
 선배에게 &lt;한겨레21&gt;이 연재하는 노동OTL이라는 게 있단 소릴 들었다. 이 사회 가장 밑바닥에서 시급 4천 원짜리 일을 하며 인생을 살아가는 사람들의 이야기를 담았다고 했다. 기자가 직접 체험하고 쓴 기사라고 했다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile8.uf.1564561B4B0EBB7802060C.jpg" class="aligncenter" width="200" height="204" alt="노동OTL" filename="cfile8.uf.1564561B4B0EBB7802060C.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile8.uf.1564561B4B0EBB7802060C.jpg" class="aligncenter" width="200" height="204" alt="노동OTL" filename="cfile8.uf.1564561B4B0EBB7802060C.jpg" filemime="" />
 
 기사를 일일이 긁어 텍스트 파일로 만들었다. 핸드폰에 넣어 지하철에서 읽으면서 다녔다.
 

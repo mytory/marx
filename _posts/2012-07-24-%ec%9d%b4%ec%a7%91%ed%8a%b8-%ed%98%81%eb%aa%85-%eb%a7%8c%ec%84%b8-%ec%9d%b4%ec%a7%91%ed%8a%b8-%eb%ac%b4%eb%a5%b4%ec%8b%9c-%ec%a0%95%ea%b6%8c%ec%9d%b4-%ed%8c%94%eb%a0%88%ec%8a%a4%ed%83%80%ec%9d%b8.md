@@ -4,7 +4,7 @@ title: 이집트 혁명 만세! 이집트 무르시 정권이 팔레스타인 �
 date: 2012-07-24T12:53:52+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2012/07/24/%ec%9d%b4%ec%a7%91%ed%8a%b8-%ed%98%81%eb%aa%85-%eb%a7%8c%ec%84%b8-%ec%9d%b4%ec%a7%91%ed%8a%b8-%eb%ac%b4%eb%a5%b4%ec%8b%9c-%ec%a0%95%ea%b6%8c%ec%9d%b4-%ed%8c%94%eb%a0%88%ec%8a%a4%ed%83%80%ec%9d%b8/
+guid: https://marx.mytory.net/2012/07/24/%ec%9d%b4%ec%a7%91%ed%8a%b8-%ed%98%81%eb%aa%85-%eb%a7%8c%ec%84%b8-%ec%9d%b4%ec%a7%91%ed%8a%b8-%eb%ac%b4%eb%a5%b4%ec%8b%9c-%ec%a0%95%ea%b6%8c%ec%9d%b4-%ed%8c%94%eb%a0%88%ec%8a%a4%ed%83%80%ec%9d%b8/
 permalink: /archives/560
 categories:
   - 정치논평
@@ -12,7 +12,7 @@ categories:
 <a href="https://maps.google.com/maps?q=%EA%B0%80%EC%9E%90%EC%A7%80%EA%B5%AC&hl=ko&ie=UTF8&view=map&ftid=0x14fd844104b258a9:0x7e8955cbe285984e&ftt=44&geocode=FTRv3gEd2oILAg&split=0&sll=31.410246,34.388693&sspn=0.381111,0.357185&hq=&hnear=Gaza+Strip&t=m&z=11&vpsrc=0&iwloc=A" target="_blank" class="tx-link">가자 지구</a>와 <a href="https://maps.google.com/maps?f=q&source=s_q&hl=ko&geocode=&q=West+Bank,+Nablus,+Israel&aq=0&oq=west+bank&sll=31.354676,34.308826&sspn=0.337161,0.617294&vpsrc=6&ie=UTF8&hq=&hnear=Nablus&ll=32.049989,35.595703&spn=2.676941,4.938354&t=m&z=8&iwloc=A" target="_blank" class="tx-link">웨스트 뱅크</a>(서안 지구)는 모두 팔레스타인인들이 격리돼 사는 곳이다. 가자 지구는 이스라엘의 남서쪽에 이집트와 닿아 있고, 웨스트 뱅크는 이스라엘의 동쪽에 요르단과 닿아 있다.&nbsp;
 
 <p style="text-align: center; clear: none; float: none; ">
-  <figure style="width: 252px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile27.uf.152C4144500E9A2305B957.png" width="252" height="290" filename="팔레스타인.png" filemime="image/jpeg" /><figcaption class="wp-caption-text">좌측이 가자, 우측이 웨스트 뱅크다.</figcaption></figure>
+  <figure style="width: 252px" class="wp-caption aligncenter"><img src="https://marx.mytory.net/wp-content/uploads/1/cfile27.uf.152C4144500E9A2305B957.png" width="252" height="290" filename="팔레스타인.png" filemime="image/jpeg" /><figcaption class="wp-caption-text">좌측이 가자, 우측이 웨스트 뱅크다.</figcaption></figure>
 </p>
 
 이 글은 이집트가 가자에 국경을 개방하고 에너지를 지원함으로써 가자 지구와 웨스트 뱅크가 멀어질 것이라고 예측하고 있는데, 억압받은 민족의 저항적 민족주의를 과소평가한다는 생각이 든다. 그러나 이집트와 팔레스타인 소식을 알 수 있기 때문에 번역한 가치가 있다고 생각한다. 원문은 2012년 7월 23일 새벽 3시에 작성됐다.

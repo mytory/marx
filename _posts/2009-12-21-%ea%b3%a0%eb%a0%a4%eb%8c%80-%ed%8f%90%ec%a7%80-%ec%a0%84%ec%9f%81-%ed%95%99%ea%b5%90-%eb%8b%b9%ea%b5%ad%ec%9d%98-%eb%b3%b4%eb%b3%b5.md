@@ -4,7 +4,7 @@ title: 고려대 ‘폐지 전쟁’, 학교 당국의 보복
 date: 2009-12-21T11:21:59+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/12/21/%ea%b3%a0%eb%a0%a4%eb%8c%80-%ed%8f%90%ec%a7%80-%ec%a0%84%ec%9f%81-%ed%95%99%ea%b5%90-%eb%8b%b9%ea%b5%ad%ec%9d%98-%eb%b3%b4%eb%b3%b5/
+guid: https://marx.mytory.net/2009/12/21/%ea%b3%a0%eb%a0%a4%eb%8c%80-%ed%8f%90%ec%a7%80-%ec%a0%84%ec%9f%81-%ed%95%99%ea%b5%90-%eb%8b%b9%ea%b5%ad%ec%9d%98-%eb%b3%b4%eb%b3%b5/
 permalink: /archives/330
 categories:
   - 투쟁
@@ -36,7 +36,7 @@ tags:
 
 “관련업체들과 재계약할 때 미화업체 직원이 섭섭해 하는 부분이 생기지 않게 최대한 고려”하는 것의 실체가 드러났다. 노조 파괴로 유명한 용역업체를 들여 오는 것이었다.<figure style="width: 500px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile29.uf.2043D80E4B2F59F517D83E.jpg" width="500" height="366" alt="" filename="cfile29.uf.2043D80E4B2F59F517D83E.jpg" filemime="" /><figcaption class="wp-caption-text">김연아 선수 옆에서 껄떡대기나 하고, 힘없는 노동자들에게는 막 대하고. 재수없는 ‘놈’들의 전형적인 모습 아닌가</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile29.uf.2043D80E4B2F59F517D83E.jpg" width="500" height="366" alt="" filename="cfile29.uf.2043D80E4B2F59F517D83E.jpg" filemime="" /><figcaption class="wp-caption-text">김연아 선수 옆에서 껄떡대기나 하고, 힘없는 노동자들에게는 막 대하고. 재수없는 ‘놈’들의 전형적인 모습 아닌가</figcaption></figure> 
 
 이기수 총장의 저 말은, 한 마디로 “섭섭해 하지도 못하게 입을 다 틀어 막겠다”는 말이었던 것이다.
 

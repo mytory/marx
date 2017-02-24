@@ -4,7 +4,7 @@ title: '[대학생 토론회] 기후변화를 어떻게 멈출 수 있을까? �
 date: 2010-03-14T09:56:35+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2010/03/14/%eb%8c%80%ed%95%99%ec%83%9d-%ed%86%a0%eb%a1%a0%ed%9a%8c-%ea%b8%b0%ed%9b%84%eb%b3%80%ed%99%94%eb%a5%bc-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%a9%88%ec%b6%9c-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c-%ec%9a%94/
+guid: https://marx.mytory.net/2010/03/14/%eb%8c%80%ed%95%99%ec%83%9d-%ed%86%a0%eb%a1%a0%ed%9a%8c-%ea%b8%b0%ed%9b%84%eb%b3%80%ed%99%94%eb%a5%bc-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%a9%88%ec%b6%9c-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c-%ec%9a%94/
 permalink: /archives/363
 categories:
   - 학습
@@ -19,7 +19,7 @@ tags:
 ---
 발표자는 <a href="http://wspaper.org/3_search.php?keyword=장호종+기자" target="_blank" title="[http://wspaper.org/3_search.php?keyword=장호종+기자]로 이동합니다.">장호종 &lt;레프트21&gt; 기자</a>였다. 이 토론회는 <a href="http://stu.alltogether.or.kr/" target="_blank" title="[http://stu.alltogether.or.kr/]로 이동합니다.">대학생다함께</a>가 주최한 것이었고, <a href="http://club.cyworld.com/studream" target="_blank" title="[http://club.cyworld.com/studream]로 이동합니다.">공식 사이트</a>에 가면 더 많은 정보를 볼 수 있다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile23.uf.136C640C4B9C9DB634FAE8.jpg" class="aligncenter" width="610" height="458" alt="" filename="100314-0004.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile23.uf.136C640C4B9C9DB634FAE8.jpg" class="aligncenter" width="610" height="458" alt="" filename="100314-0004.jpg" filemime="image/jpeg" />
 
 ## 코펜하겐 기후변화 회의의
 
@@ -105,7 +105,7 @@ there is no Planet B : 지구는 두 개가 아니다.
 
 체르노빌. 사고 당시 네 번째 원자로가 녹았다. 안전하다고 하는데, 당시에도 기술은 문제 없었다. 사람이 문제였다. 원자로 온도가 높아지면 상부에 보고해야 하는데, 잘리니까 보고를 안 했다. 소련은 이를 감췄다. 유럽의 방사능 측정기에서 난리가 나서 추적 결과 알게 된 것이다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile1.uf.186FF5224B9C9F82091C95.jpg" class="aligncenter" width="300" height="324" alt="" filename="300px-Chornobyl_radiation_map.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile1.uf.186FF5224B9C9F82091C95.jpg" class="aligncenter" width="300" height="324" alt="" filename="300px-Chornobyl_radiation_map.jpg" filemime="image/jpeg" />
 
 체르노빌 관련 지도를 보면, 빨간색은 수백만 년이 지나도 사람이 살 수 없는 곳. 벨로루시는 낙진으로 인해 1%만 농사 가능.
 

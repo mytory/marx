@@ -4,7 +4,7 @@ title: 애드센스를 내리며
 date: 2009-06-29T14:41:02+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/06/29/%ec%95%a0%eb%93%9c%ec%84%bc%ec%8a%a4%eb%a5%bc-%eb%82%b4%eb%a6%ac%eb%a9%b0/
+guid: https://marx.mytory.net/2009/06/29/%ec%95%a0%eb%93%9c%ec%84%bc%ec%8a%a4%eb%a5%bc-%eb%82%b4%eb%a6%ac%eb%a9%b0/
 permalink: /archives/224
 categories:
   - 웹
@@ -13,7 +13,7 @@ tags:
   - 구글 애드센스
   - 블로그
 ---
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile21.uf.1810C61F4A48D245B8DDB9.gif" class="aligncenter" width="420" height="233" alt="" filename="adsense.gif" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile21.uf.1810C61F4A48D245B8DDB9.gif" class="aligncenter" width="420" height="233" alt="" filename="adsense.gif" filemime="image/jpeg" />
 
 얼마 전에 애드센스를 달았다. 그리고 정확히 2주가 흘렀다. 오늘 애드센스를 내렸다. 비용 대비 효과가 거의 최악이었기 때문이다.
 

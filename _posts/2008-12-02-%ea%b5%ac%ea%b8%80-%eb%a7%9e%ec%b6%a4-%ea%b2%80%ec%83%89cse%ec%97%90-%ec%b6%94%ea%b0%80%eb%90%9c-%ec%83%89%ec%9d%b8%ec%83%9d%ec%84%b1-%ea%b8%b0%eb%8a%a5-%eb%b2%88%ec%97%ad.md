@@ -4,7 +4,7 @@ title: 구글 맞춤 검색(CSE)에 추가된 ‘색인생성’ 기능 (번역)
 date: 2008-12-02T05:59:32+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/12/02/%ea%b5%ac%ea%b8%80-%eb%a7%9e%ec%b6%a4-%ea%b2%80%ec%83%89cse%ec%97%90-%ec%b6%94%ea%b0%80%eb%90%9c-%ec%83%89%ec%9d%b8%ec%83%9d%ec%84%b1-%ea%b8%b0%eb%8a%a5-%eb%b2%88%ec%97%ad/
+guid: https://marx.mytory.net/2008/12/02/%ea%b5%ac%ea%b8%80-%eb%a7%9e%ec%b6%a4-%ea%b2%80%ec%83%89cse%ec%97%90-%ec%b6%94%ea%b0%80%eb%90%9c-%ec%83%89%ec%9d%b8%ec%83%9d%ec%84%b1-%ea%b8%b0%eb%8a%a5-%eb%b2%88%ec%97%ad/
 permalink: /archives/45
 categories:
   - 웹
@@ -63,7 +63,7 @@ tags:
 
 ‘색인생성(맞춤 색인)’을 이용하면 제출한 사이트의 페이지를 빠르게 색인할 수 있다. ‘색인생성(맞춤 색인)’을 이용하면 제출한 페이지들의 가장 최신 버젼들을 24시간 내로 <a title="[http://www.google.co.kr/cse]로 이동합니다." href="http://www.google.co.kr/cse" target="_blank">맞춤 검색 엔진(CSE)</a>에 색인할 수 있다.
 
-<span style="FONT-WEIGHT: bold"></span><img src="http://marx.mytory.net/wp-content/uploads/1/4934cd6f73727AH.JPG" class="aligncenter" width="610" height="457" alt="최근 구글 맞춤 검색에서 서비스하기 시작한 ‘색인생성’" filename="on-demand_indexing.JPG" filemime="" />
+<span style="FONT-WEIGHT: bold"></span><img src="https://marx.mytory.net/wp-content/uploads/1/4934cd6f73727AH.JPG" class="aligncenter" width="610" height="457" alt="최근 구글 맞춤 검색에서 서비스하기 시작한 ‘색인생성’" filename="on-demand_indexing.JPG" filemime="" />
 
 <span style="FONT-WEIGHT: bold">어떻게 이용하나?</span>
 

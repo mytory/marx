@@ -4,7 +4,7 @@ title: '[파업지지] 알아두면 유용한 구글 크롬 단축키'
 date: 2009-01-05T10:34:16+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/01/05/%ed%8c%8c%ec%97%85%ec%a7%80%ec%a7%80-%ec%95%8c%ec%95%84%eb%91%90%eb%a9%b4-%ec%9c%a0%ec%9a%a9%ed%95%9c-%ea%b5%ac%ea%b8%80-%ed%81%ac%eb%a1%ac-%eb%8b%a8%ec%b6%95%ed%82%a4/
+guid: https://marx.mytory.net/2009/01/05/%ed%8c%8c%ec%97%85%ec%a7%80%ec%a7%80-%ec%95%8c%ec%95%84%eb%91%90%eb%a9%b4-%ec%9c%a0%ec%9a%a9%ed%95%9c-%ea%b5%ac%ea%b8%80-%ed%81%ac%eb%a1%ac-%eb%8b%a8%ec%b6%95%ed%82%a4/
 permalink: /archives/91
 categories:
   - 웹
@@ -17,7 +17,7 @@ tags:
   - 크롬
   - 크롬 단축키
 ---
-<img src="http://marx.mytory.net/wp-content/uploads/1/4961e215d85d9CW.jpg" class="aligncenter" width="540" height="276" alt="" filename="chrome-shortcut.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/4961e215d85d9CW.jpg" class="aligncenter" width="540" height="276" alt="" filename="chrome-shortcut.jpg" filemime="" />
 
 원래 <a href="http://www.mdiwebma.com/webma2/main/" target="_blank" title="[http://www.mdiwebma.com/webma2/main/]로 이동합니다.">웹브라우저로 웹마를 사용</a>하던 나는, <a href="http://www.google.com/chrome/?hl=ko" target="_blank" title="[http://www.google.com/chrome/?hl=ko]로 이동합니다.">구글 크롬(google chrome)</a>이 출시된 이후 크롬으로 갈아탔다. 이유는 간단하다. 웹마의 기능이 뛰어난 점이 많지만, 크롬이 빠르기 때문이다.
 

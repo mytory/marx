@@ -4,7 +4,7 @@ title: 지하철공사의 불쾌한 아침인사 ㅡ 부실을 가리는 친절
 date: 2009-04-28T18:16:09+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/04/28/%ec%a7%80%ed%95%98%ec%b2%a0%ea%b3%b5%ec%82%ac%ec%9d%98-%eb%b6%88%ec%be%8c%ed%95%9c-%ec%95%84%ec%b9%a8%ec%9d%b8%ec%82%ac-%e3%85%a1-%eb%b6%80%ec%8b%a4%ec%9d%84-%ea%b0%80%eb%a6%ac%eb%8a%94-%ec%b9%9c/
+guid: https://marx.mytory.net/2009/04/28/%ec%a7%80%ed%95%98%ec%b2%a0%ea%b3%b5%ec%82%ac%ec%9d%98-%eb%b6%88%ec%be%8c%ed%95%9c-%ec%95%84%ec%b9%a8%ec%9d%b8%ec%82%ac-%e3%85%a1-%eb%b6%80%ec%8b%a4%ec%9d%84-%ea%b0%80%eb%a6%ac%eb%8a%94-%ec%b9%9c/
 permalink: /archives/178
 categories:
   - 세상살이

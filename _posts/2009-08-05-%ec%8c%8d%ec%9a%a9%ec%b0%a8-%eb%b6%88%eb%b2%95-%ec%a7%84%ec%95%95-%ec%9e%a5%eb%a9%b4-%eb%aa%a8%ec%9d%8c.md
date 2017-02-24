@@ -4,7 +4,7 @@ title: 쌍용차 불법 진압 장면 모음
 date: 2009-08-05T12:10:38+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/08/05/%ec%8c%8d%ec%9a%a9%ec%b0%a8-%eb%b6%88%eb%b2%95-%ec%a7%84%ec%95%95-%ec%9e%a5%eb%a9%b4-%eb%aa%a8%ec%9d%8c/
+guid: https://marx.mytory.net/2009/08/05/%ec%8c%8d%ec%9a%a9%ec%b0%a8-%eb%b6%88%eb%b2%95-%ec%a7%84%ec%95%95-%ec%9e%a5%eb%a9%b4-%eb%aa%a8%ec%9d%8c/
 permalink: /archives/243
 categories:
   - 투쟁
@@ -46,14 +46,14 @@ SBS 등 방송카메라 기자는 포위돼 카메라 파손 위협을 받으며
 </div>
 
 <div>
-  <img src="http://marx.mytory.net/wp-content/uploads/1/cfile23.uf.1266EF144A79722EA7F7C1.jpg" /><img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.1277F0144A79722F75A240.jpg" /><img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.1409BC144A7972314D5718.jpg" />&nbsp;
+  <img src="https://marx.mytory.net/wp-content/uploads/1/cfile23.uf.1266EF144A79722EA7F7C1.jpg" /><img src="https://marx.mytory.net/wp-content/uploads/1/cfile22.uf.1277F0144A79722F75A240.jpg" /><img src="https://marx.mytory.net/wp-content/uploads/1/cfile5.uf.1409BC144A7972314D5718.jpg" />&nbsp;
 </div>
 
 <div>
 </div>
 
 <div>
-  <img src="http://marx.mytory.net/wp-content/uploads/1/cfile1.uf.193463254A7973398D3EC9.jpg" /><img src="http://marx.mytory.net/wp-content/uploads/1/cfile4.uf.172638254A79733A50B297.jpg" /><img src="http://marx.mytory.net/wp-content/uploads/1/cfile21.uf.11265C254A79733B8A8B5B.jpg" /><img src="http://marx.mytory.net/wp-content/uploads/1/cfile24.uf.1546CE254A79733C1C0121.jpg" /></p> 
+  <img src="https://marx.mytory.net/wp-content/uploads/1/cfile1.uf.193463254A7973398D3EC9.jpg" /><img src="https://marx.mytory.net/wp-content/uploads/1/cfile4.uf.172638254A79733A50B297.jpg" /><img src="https://marx.mytory.net/wp-content/uploads/1/cfile21.uf.11265C254A79733B8A8B5B.jpg" /><img src="https://marx.mytory.net/wp-content/uploads/1/cfile24.uf.1546CE254A79733C1C0121.jpg" /></p> 
   
   <p>
     대낮에 국회의원을 패고, 국민을 패는 경찰력. 민중의 지팡이인가 몽둥이인가.

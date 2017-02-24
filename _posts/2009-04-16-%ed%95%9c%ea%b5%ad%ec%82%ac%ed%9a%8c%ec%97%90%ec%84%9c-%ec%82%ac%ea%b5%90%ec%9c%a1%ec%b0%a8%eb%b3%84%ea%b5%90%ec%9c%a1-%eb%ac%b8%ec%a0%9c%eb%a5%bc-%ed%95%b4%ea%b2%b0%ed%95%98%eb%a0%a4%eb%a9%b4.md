@@ -4,7 +4,7 @@ title: 한국사회에서 사교육/차별교육 문제를 해결하려면
 date: 2009-04-16T00:23:49+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/04/16/%ed%95%9c%ea%b5%ad%ec%82%ac%ed%9a%8c%ec%97%90%ec%84%9c-%ec%82%ac%ea%b5%90%ec%9c%a1%ec%b0%a8%eb%b3%84%ea%b5%90%ec%9c%a1-%eb%ac%b8%ec%a0%9c%eb%a5%bc-%ed%95%b4%ea%b2%b0%ed%95%98%eb%a0%a4%eb%a9%b4/
+guid: https://marx.mytory.net/2009/04/16/%ed%95%9c%ea%b5%ad%ec%82%ac%ed%9a%8c%ec%97%90%ec%84%9c-%ec%82%ac%ea%b5%90%ec%9c%a1%ec%b0%a8%eb%b3%84%ea%b5%90%ec%9c%a1-%eb%ac%b8%ec%a0%9c%eb%a5%bc-%ed%95%b4%ea%b2%b0%ed%95%98%eb%a0%a4%eb%a9%b4/
 permalink: /archives/171
 categories:
   - 정치논평

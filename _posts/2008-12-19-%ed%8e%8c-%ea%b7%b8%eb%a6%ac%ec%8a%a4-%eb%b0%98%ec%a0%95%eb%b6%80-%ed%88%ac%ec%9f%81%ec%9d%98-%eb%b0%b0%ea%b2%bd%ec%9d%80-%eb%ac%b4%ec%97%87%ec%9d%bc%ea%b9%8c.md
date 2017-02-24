@@ -4,7 +4,7 @@ title: '[펌] 그리스 반정부 투쟁의 배경은 무엇일까'
 date: 2008-12-19T13:53:52+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/12/19/%ed%8e%8c-%ea%b7%b8%eb%a6%ac%ec%8a%a4-%eb%b0%98%ec%a0%95%eb%b6%80-%ed%88%ac%ec%9f%81%ec%9d%98-%eb%b0%b0%ea%b2%bd%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9d%bc%ea%b9%8c/
+guid: https://marx.mytory.net/2008/12/19/%ed%8e%8c-%ea%b7%b8%eb%a6%ac%ec%8a%a4-%eb%b0%98%ec%a0%95%eb%b6%80-%ed%88%ac%ec%9f%81%ec%9d%98-%eb%b0%b0%ea%b2%bd%ec%9d%80-%eb%ac%b4%ec%97%87%ec%9d%bc%ea%b9%8c/
 permalink: /archives/66
 categories:
   - 추천하고 싶은 글

@@ -4,7 +4,7 @@ title: 민주당이 운동의 발목을 잡는다는 얘기
 date: 2009-09-11T14:51:21+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/09/11/%eb%af%bc%ec%a3%bc%eb%8b%b9%ec%9d%b4-%ec%9a%b4%eb%8f%99%ec%9d%98-%eb%b0%9c%eb%aa%a9%ec%9d%84-%ec%9e%a1%eb%8a%94%eb%8b%a4%eb%8a%94-%ec%96%98%ea%b8%b0/
+guid: https://marx.mytory.net/2009/09/11/%eb%af%bc%ec%a3%bc%eb%8b%b9%ec%9d%b4-%ec%9a%b4%eb%8f%99%ec%9d%98-%eb%b0%9c%eb%aa%a9%ec%9d%84-%ec%9e%a1%eb%8a%94%eb%8b%a4%eb%8a%94-%ec%96%98%ea%b8%b0/
 permalink: /archives/264
 categories:
   - 정치논평
@@ -31,7 +31,7 @@ tags:
 
 삼성 떡찰 얘기는 민주당 정권 때 나왔던 얘기다. X-File 제대로 처벌 안 된 것도 민주당 정권 때 일이다.(얼마 전에 또 뭔가 판결이 있었지만.)<figure style="width: 550px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile8.uf.113B3B254AAA60652C2CB5.jpg" width="550" height="367" alt="전용철 농민 살해한 책임자를 처벌하라" filename="cfile8.uf.113B3B254AAA60652C2CB5.jpg" filemime="" /><figcaption class="wp-caption-text">이게 '민주당' 정권 때 있었던 일이다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile8.uf.113B3B254AAA60652C2CB5.jpg" width="550" height="367" alt="전용철 농민 살해한 책임자를 처벌하라" filename="cfile8.uf.113B3B254AAA60652C2CB5.jpg" filemime="" /><figcaption class="wp-caption-text">이게 '민주당' 정권 때 있었던 일이다.</figcaption></figure> 
 
 노무현은 권력이 시장으로 넘어갔다고 말했지만, 그것을 바꾸기 위한 진지한 시도를 벌였는지 의문이다. 대통령 직을 걸고 싸울 만한 일이 그런 일 아니었을까?
 
@@ -39,7 +39,7 @@ tags:
 
 한마디로 이거다. 비정규직 개악안에 목숨걸고 반대할 수 있는가? 민주당은 점잖게, 그러나 이렇게 말할 것이다. “적당히 넘어 가죠.” ㅡ 사실 민주당은 비정규직 정규직화를 진지하게 하려고 하면 사장들이 반발할 것이 뻔하다는 것을 알고 있을 테고, 그건 민주당 의원들도 평소에 잘 알고 지내던 김 사장, 박 사장, 최 사장 등등등 여러 사장들한테 원성을 산다는 걸 의미할 것이다.<figure style="width: 550px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile2.uf.152ED1254AAA60E44542D5.jpg" width="550" height="367" alt="2005년 농민 시위에서 경찰에 맞아 피흘리고 있는 농민" filename="cfile2.uf.152ED1254AAA60E44542D5.jpg" filemime="" /><figcaption class="wp-caption-text">이게 '민주당'의 민주주의다. '민주당' 정권 아래서 이런 일 벌어질 때 정세균은 뭐했나.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile2.uf.152ED1254AAA60E44542D5.jpg" width="550" height="367" alt="2005년 농민 시위에서 경찰에 맞아 피흘리고 있는 농민" filename="cfile2.uf.152ED1254AAA60E44542D5.jpg" filemime="" /><figcaption class="wp-caption-text">이게 '민주당'의 민주주의다. '민주당' 정권 아래서 이런 일 벌어질 때 정세균은 뭐했나.</figcaption></figure> 
 
 언제나 국가 경제를 걱정하는 민주당은 분명히 비정규직 정규직화가 국가 경제에 악영향을 주므로, 국가 경제에 해가 안 되는 선에서 조금씩은 어떻게 해 보자고 생각할 것이다.
 
@@ -67,7 +67,7 @@ tags:
 
 그러나 2년은 너무 길고 삶은 너무 힘들고, 그것도 극히 일부만 나아질 때&#8230; 사람들이 나설까? 힘이 빠지는 게 당연하지 않을까?
 
-<figure style="width: 396px" class="wp-caption alignleft"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile7.uf.1458DC254AAA626F0525DA.jpg" width="396" height="342" alt="쌍용차 노동자를 구타하는 경찰" filename="cfile7.uf.1458DC254AAA626F0525DA.jpg" filemime="" /><figcaption class="wp-caption-text">쌍용차 노동자들(=서민)을 대상으로 살인 진압이 벌어질 때 민주당은 뭐했나.</figcaption></figure>노동자들이 국가 경제를 위해 희생해야 한다는 생각을 근저에 깔고 있는 정당이, 사람이, 정리해고를 목숨걸고 막을까?
+<figure style="width: 396px" class="wp-caption alignleft"><img src="https://marx.mytory.net/wp-content/uploads/1/cfile7.uf.1458DC254AAA626F0525DA.jpg" width="396" height="342" alt="쌍용차 노동자를 구타하는 경찰" filename="cfile7.uf.1458DC254AAA626F0525DA.jpg" filemime="" /><figcaption class="wp-caption-text">쌍용차 노동자들(=서민)을 대상으로 살인 진압이 벌어질 때 민주당은 뭐했나.</figcaption></figure>노동자들이 국가 경제를 위해 희생해야 한다는 생각을 근저에 깔고 있는 정당이, 사람이, 정리해고를 목숨걸고 막을까?
 
 민주당과 연합해 반MB에만 방점을 찍는다면, 이렇게 될 것이다. &#8220;이명박이 나쁜놈이에요. 지금 완전 혼자 독주해요. 민주주의를 파탄내고 있어요. 정리해고땜에 죽을 맛이라고요? 어쩌죠;; 정리해고는 우리가 입장을 못 냅니다.&#8221;
 
@@ -89,7 +89,7 @@ tags:
 
 사실 걔네가 하고 싶은 말은 &#8220;너넨 투표만 해&#8221;.<figure style="width: 400px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile25.uf.171641264AAA631F832C58.jpg" width="400" height="400" alt="원더걸스 모델의 투표 홍보 포스터" filename="cfile25.uf.171641264AAA631F832C58.jpg" filemime="" /><figcaption class="wp-caption-text">사실 투표해봐야 그놈이 그놈이라고 느끼는 사람들이 많으니까, 이런 포스터가 나오는 거다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile25.uf.171641264AAA631F832C58.jpg" width="400" height="400" alt="원더걸스 모델의 투표 홍보 포스터" filename="cfile25.uf.171641264AAA631F832C58.jpg" filemime="" /><figcaption class="wp-caption-text">사실 투표해봐야 그놈이 그놈이라고 느끼는 사람들이 많으니까, 이런 포스터가 나오는 거다.</figcaption></figure> 
 
 ## 민주당 자격 있나
 

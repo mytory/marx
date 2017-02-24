@@ -4,7 +4,7 @@ title: 초보자를 위한 팁, 윈도우 기본기능을 이용해 속도 높�
 date: 2009-01-08T09:31:22+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/01/08/%ec%b4%88%eb%b3%b4%ec%9e%90%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%8c%81-%ec%9c%88%eb%8f%84%ec%9a%b0-%ea%b8%b0%eb%b3%b8%ea%b8%b0%eb%8a%a5%ec%9d%84-%ec%9d%b4%ec%9a%a9%ed%95%b4-%ec%86%8d%eb%8f%84-%eb%86%92/
+guid: https://marx.mytory.net/2009/01/08/%ec%b4%88%eb%b3%b4%ec%9e%90%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%8c%81-%ec%9c%88%eb%8f%84%ec%9a%b0-%ea%b8%b0%eb%b3%b8%ea%b8%b0%eb%8a%a5%ec%9d%84-%ec%9d%b4%ec%9a%a9%ed%95%b4-%ec%86%8d%eb%8f%84-%eb%86%92/
 permalink: /archives/95
 categories:
   - 소프트웨어
@@ -30,15 +30,15 @@ tags:
 
 일단 제어판을 연다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/4965c53456f2aDM.JPG" class="aligncenter" width="610" height="457" alt="" filename="1.JPG" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/4965c53456f2aDM.JPG" class="aligncenter" width="610" height="457" alt="" filename="1.JPG" filemime="" />
 
 위 그림에 선택한대로 제어판에 들어가 시스템을 더블클릭하자.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/4965c53505e0eDQ.JPG" class="aligncenter" width="487" height="435" alt="" filename="2.JPG" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/4965c53505e0eDQ.JPG" class="aligncenter" width="487" height="435" alt="" filename="2.JPG" filemime="" />
 
 더블클릭해서 나온 화면에 &#8216;고급&#8217; 탭을 선택한다. 거기에서 &#8216;성능&#8217; 부분의 &#8216;설정&#8217;을 클릭한다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/4965c535a72ddDS.JPG" class="aligncenter" width="425" height="497" alt="" filename="3.JPG" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/4965c535a72ddDS.JPG" class="aligncenter" width="425" height="497" alt="" filename="3.JPG" filemime="" />
 
 처음 들어가면 아래쪽 기능이 모두 켜져 있을 것이다. 위에서 일단 &#8216;최적 성능으로 조정&#8217;을 클릭하라. 그러면 아래쪽 체크된 것들이 모두 꺼진다.
 

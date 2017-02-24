@@ -4,7 +4,7 @@ title: '&#8220;맑스주의는 현재의 대공황을 보는 정확한 시각&#8
 date: 2008-11-25T15:50:31+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/11/25/%eb%a7%91%ec%8a%a4%ec%a3%bc%ec%9d%98%eb%8a%94-%ed%98%84%ec%9e%ac%ec%9d%98-%eb%8c%80%ea%b3%b5%ed%99%a9%ec%9d%84-%eb%b3%b4%eb%8a%94-%ec%a0%95%ed%99%95%ed%95%9c-%ec%8b%9c%ea%b0%81-%eb%af%bc%ec%a4%91/
+guid: https://marx.mytory.net/2008/11/25/%eb%a7%91%ec%8a%a4%ec%a3%bc%ec%9d%98%eb%8a%94-%ed%98%84%ec%9e%ac%ec%9d%98-%eb%8c%80%ea%b3%b5%ed%99%a9%ec%9d%84-%eb%b3%b4%eb%8a%94-%ec%a0%95%ed%99%95%ed%95%9c-%ec%8b%9c%ea%b0%81-%eb%af%bc%ec%a4%91/
 permalink: /archives/42
 categories:
   - 추천하고 싶은 글

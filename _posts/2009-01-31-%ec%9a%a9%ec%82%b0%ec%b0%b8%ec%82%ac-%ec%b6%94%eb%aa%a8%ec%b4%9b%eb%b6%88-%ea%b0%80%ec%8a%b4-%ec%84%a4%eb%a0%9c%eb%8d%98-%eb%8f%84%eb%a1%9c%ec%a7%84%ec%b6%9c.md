@@ -4,7 +4,7 @@ title: 용산참사 추모촛불, 가슴 설렜던 도로진출
 date: 2009-01-31T17:10:28+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/01/31/%ec%9a%a9%ec%82%b0%ec%b0%b8%ec%82%ac-%ec%b6%94%eb%aa%a8%ec%b4%9b%eb%b6%88-%ea%b0%80%ec%8a%b4-%ec%84%a4%eb%a0%9c%eb%8d%98-%eb%8f%84%eb%a1%9c%ec%a7%84%ec%b6%9c/
+guid: https://marx.mytory.net/2009/01/31/%ec%9a%a9%ec%82%b0%ec%b0%b8%ec%82%ac-%ec%b6%94%eb%aa%a8%ec%b4%9b%eb%b6%88-%ea%b0%80%ec%8a%b4-%ec%84%a4%eb%a0%9c%eb%8d%98-%eb%8f%84%eb%a1%9c%ec%a7%84%ec%b6%9c/
 permalink: /archives/131
 categories:
   - 정치논평

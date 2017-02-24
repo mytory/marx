@@ -4,7 +4,7 @@ title: 총학생회 선거, 운동권 대거 당선
 date: 2009-12-19T04:57:35+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/12/19/%ec%b4%9d%ed%95%99%ec%83%9d%ed%9a%8c-%ec%84%a0%ea%b1%b0-%ec%9a%b4%eb%8f%99%ea%b6%8c-%eb%8c%80%ea%b1%b0-%eb%8b%b9%ec%84%a0/
+guid: https://marx.mytory.net/2009/12/19/%ec%b4%9d%ed%95%99%ec%83%9d%ed%9a%8c-%ec%84%a0%ea%b1%b0-%ec%9a%b4%eb%8f%99%ea%b6%8c-%eb%8c%80%ea%b1%b0-%eb%8b%b9%ec%84%a0/
 permalink: /archives/328
 categories:
   - 추천하고 싶은 글
@@ -31,7 +31,7 @@ tags:
 
 내가 즐겨 읽는 언론이고 가장 신뢰하는 언론인 &lt;레프트21&gt;의 분석은 다르다. 기사 제목부터가 다르다. &lt;레프트21&gt;의 기사 제목은 <a target="_blank" href="http://wspaper.org/article/7392">‘2010년 대학 총학생회 선거 결과 &#8211;&nbsp;‘운동권’ 후보들의 대거 당선, ‘비권’의 좌향좌’</a>다.<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile9.uf.13311A134B2C5CA22D7EBD.jpg" width="540" height="357" alt="반값 등록금 실현 손팻말을 든 대학생" filename="cfile9.uf.13311A134B2C5CA22D7EBD.jpg" filemime="" /><figcaption class="wp-caption-text">△&lt;레프트21&gt;은 이런 활동이 올해 운동권 대거 당선을 낳을 수 있었다고 분석한다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile9.uf.13311A134B2C5CA22D7EBD.jpg" width="540" height="357" alt="반값 등록금 실현 손팻말을 든 대학생" filename="cfile9.uf.13311A134B2C5CA22D7EBD.jpg" filemime="" /><figcaption class="wp-caption-text">△&lt;레프트21&gt;은 이런 활동이 올해 운동권 대거 당선을 낳을 수 있었다고 분석한다.</figcaption></figure> 
 
 일부를 인용할 테니 나머지는 사이트 가서 읽어보길 권한다. 내용 보면 알겠지만, 주류 언론들이 꼽은 &#8216;선거 부정&#8217;은 대부분 “‘비권’ 경향 선관위의 부정행위와 편파적 결정에서 비롯한 경우가 많았다”는 게 &lt;레프트21&gt;의 분석이다.
 

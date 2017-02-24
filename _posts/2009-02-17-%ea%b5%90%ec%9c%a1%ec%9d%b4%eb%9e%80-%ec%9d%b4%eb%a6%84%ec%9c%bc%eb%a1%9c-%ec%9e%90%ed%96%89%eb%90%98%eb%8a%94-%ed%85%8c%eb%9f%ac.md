@@ -4,7 +4,7 @@ title: 교육이란 이름으로 자행되는 테러
 date: 2009-02-17T14:41:02+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/02/17/%ea%b5%90%ec%9c%a1%ec%9d%b4%eb%9e%80-%ec%9d%b4%eb%a6%84%ec%9c%bc%eb%a1%9c-%ec%9e%90%ed%96%89%eb%90%98%eb%8a%94-%ed%85%8c%eb%9f%ac/
+guid: https://marx.mytory.net/2009/02/17/%ea%b5%90%ec%9c%a1%ec%9d%b4%eb%9e%80-%ec%9d%b4%eb%a6%84%ec%9c%bc%eb%a1%9c-%ec%9e%90%ed%96%89%eb%90%98%eb%8a%94-%ed%85%8c%eb%9f%ac/
 permalink: /archives/143
 categories:
   - 마르크스주의
@@ -21,7 +21,7 @@ tags:
   - 최일붕
   - 학업성취도평가
 ---
-<img src="http://marx.mytory.net/wp-content/uploads/1/499acc14c7d20BK.jpg" class="aligncenter" width="450" height="311" alt="" filename="1195004185-c65-edu.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/499acc14c7d20BK.jpg" class="aligncenter" width="450" height="311" alt="" filename="1195004185-c65-edu.jpg" filemime="" />
 
 일제고사를 보지 않을 권리를 학생들에게 설명한 서울 교사 7명이 중징계를 당했고, 얼마 전 서울에서 한 명이 추가돼 8명이 됐다. 다른 지역에서도 중징계를 당한 교사가 있었다. 장수중 교장은 ‘멍청하게’ 문맥을 읽지 못하고 말 그대로 교육청이 시키는대로 교사들과 논의를 통해 볼지 안 볼지 결정했다가 또 징계를 당했다. 바람 잘 날 없는 교육이다.
 

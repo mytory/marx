@@ -4,7 +4,7 @@ title: 현대차 비정규직 파업 _ 조선일보의 더러운 논리
 date: 2010-11-23T00:03:00+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2010/11/23/%ed%98%84%eb%8c%80%ec%b0%a8-%eb%b9%84%ec%a0%95%ea%b7%9c%ec%a7%81-%ed%8c%8c%ec%97%85-%ec%a1%b0%ec%84%a0%ec%9d%bc%eb%b3%b4%ec%9d%98-%eb%8d%94%eb%9f%ac%ec%9a%b4-%eb%85%bc%eb%a6%ac/
+guid: https://marx.mytory.net/2010/11/23/%ed%98%84%eb%8c%80%ec%b0%a8-%eb%b9%84%ec%a0%95%ea%b7%9c%ec%a7%81-%ed%8c%8c%ec%97%85-%ec%a1%b0%ec%84%a0%ec%9d%bc%eb%b3%b4%ec%9d%98-%eb%8d%94%eb%9f%ac%ec%9a%b4-%eb%85%bc%eb%a6%ac/
 permalink: /archives/427
 categories:
   - 정치논평
@@ -24,7 +24,7 @@ tags:
 조선일보는 현대차 비정규직들이 연봉 4천만 원의 고임금을 받는다고 했단다. 어이가 없다.[footnote]정확히 말한다면 검증없는 현대차 사측 말 받아쓰기.[/footnote] 현대차 사측의 태도에 항의하며 분신한 황인화 동지. 노동귀족?(출처는 레프트21 http://wspaper.org/article/8882 )&#8221;]
 
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile2.uf.177D521C4CEABBCE0723E8.jpg" width="540" height="360" alt="" filename="cfile2.uf.177D521C4CEABBCE0723E8.jpg" filemime="" /> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile2.uf.177D521C4CEABBCE0723E8.jpg" width="540" height="360" alt="" filename="cfile2.uf.177D521C4CEABBCE0723E8.jpg" filemime="" /> 
 
 18년차 비정규직 노동자가 잔업특근 다하고 주말에도 일하면 가까스로 4천만 원을 받을 수 있다고 한다.
 

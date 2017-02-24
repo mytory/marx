@@ -4,7 +4,7 @@ title: '사회민주주의 &#8211; 의회를 통해 사회주의에 이를 수 �
 date: 2011-08-11T11:37:24+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2011/08/11/%ec%82%ac%ed%9a%8c%eb%af%bc%ec%a3%bc%ec%a3%bc%ec%9d%98-%ec%9d%98%ed%9a%8c%eb%a5%bc-%ed%86%b5%ed%95%b4-%ec%82%ac%ed%9a%8c%ec%a3%bc%ec%9d%98%ec%97%90-%ec%9d%b4%eb%a5%bc-%ec%88%98-%ec%9e%88%eb%8a%94/
+guid: https://marx.mytory.net/2011/08/11/%ec%82%ac%ed%9a%8c%eb%af%bc%ec%a3%bc%ec%a3%bc%ec%9d%98-%ec%9d%98%ed%9a%8c%eb%a5%bc-%ed%86%b5%ed%95%b4-%ec%82%ac%ed%9a%8c%ec%a3%bc%ec%9d%98%ec%97%90-%ec%9d%b4%eb%a5%bc-%ec%88%98-%ec%9e%88%eb%8a%94/
 permalink: /archives/517
 categories:
   - 강연회/토론회 후기
@@ -16,7 +16,7 @@ tags:
 ---
 포럼 필기다. 연사는 강철구 다함께 활동가였다. 여기부터 필기 시작.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile29.uf.11321F334E43F2FD190149.jpg" class="aligncenter" width="540" height="403" alt="" filename="IMG_4691.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile29.uf.11321F334E43F2FD190149.jpg" class="aligncenter" width="540" height="403" alt="" filename="IMG_4691.jpg" filemime="image/jpeg" />
 
 반값등록금 집회 때 &#8220;2012년에 보자&#8221; 하는 구호가 많았다. 이건 선거를 통해서 바꾸자는 것이다.
 

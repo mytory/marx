@@ -4,7 +4,7 @@ title: '[파업지지] 국회 침탈, 제2촛불로 번질까'
 date: 2009-01-03T17:27:56+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/01/03/%ed%8c%8c%ec%97%85%ec%a7%80%ec%a7%80-%ea%b5%ad%ed%9a%8c-%ec%b9%a8%ed%83%88-%ec%a0%9c2%ec%b4%9b%eb%b6%88%eb%a1%9c-%eb%b2%88%ec%a7%88%ea%b9%8c/
+guid: https://marx.mytory.net/2009/01/03/%ed%8c%8c%ec%97%85%ec%a7%80%ec%a7%80-%ea%b5%ad%ed%9a%8c-%ec%b9%a8%ed%83%88-%ec%a0%9c2%ec%b4%9b%eb%b6%88%eb%a1%9c-%eb%b2%88%ec%a7%88%ea%b9%8c/
 permalink: /archives/89
 categories:
   - 정치논평

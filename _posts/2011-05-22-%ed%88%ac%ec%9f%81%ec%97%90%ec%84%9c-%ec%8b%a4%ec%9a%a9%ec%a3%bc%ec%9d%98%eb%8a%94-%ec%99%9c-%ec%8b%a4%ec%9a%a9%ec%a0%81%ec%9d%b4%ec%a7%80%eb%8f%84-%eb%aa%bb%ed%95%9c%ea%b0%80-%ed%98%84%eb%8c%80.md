@@ -4,7 +4,7 @@ title: '투쟁에서 실용주의는 왜 실용적이지도 못한가 &#8211; �
 date: 2011-05-22T15:01:37+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2011/05/22/%ed%88%ac%ec%9f%81%ec%97%90%ec%84%9c-%ec%8b%a4%ec%9a%a9%ec%a3%bc%ec%9d%98%eb%8a%94-%ec%99%9c-%ec%8b%a4%ec%9a%a9%ec%a0%81%ec%9d%b4%ec%a7%80%eb%8f%84-%eb%aa%bb%ed%95%9c%ea%b0%80-%ed%98%84%eb%8c%80/
+guid: https://marx.mytory.net/2011/05/22/%ed%88%ac%ec%9f%81%ec%97%90%ec%84%9c-%ec%8b%a4%ec%9a%a9%ec%a3%bc%ec%9d%98%eb%8a%94-%ec%99%9c-%ec%8b%a4%ec%9a%a9%ec%a0%81%ec%9d%b4%ec%a7%80%eb%8f%84-%eb%aa%bb%ed%95%9c%ea%b0%80-%ed%98%84%eb%8c%80/
 permalink: /archives/461
 categories:
   - 정치논평
@@ -18,7 +18,7 @@ tags:
 ---
 &lt;레프트21&gt;에서 <a href="http://wspaper.org/article/9713" target="_blank" title="[http://wspaper.org/article/9713]로 이동합니다.">&#8216;[현대차 비정규직] 전주지회장은 교섭에 연연 말고 투쟁에 나서야&#8217;</a>라는 글을 봤다.<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile3.uf.171C48494DD9250A06E423.jpg" width="540" height="504" alt="" filename="cfile3.uf.171C48494DD9250A06E423.jpg" filemime="" /><figcaption class="wp-caption-text">△현대차 비정규직 노동자들의 투쟁은 모든 노동자들에게 용기를 줬다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile3.uf.171C48494DD9250A06E423.jpg" width="540" height="504" alt="" filename="cfile3.uf.171C48494DD9250A06E423.jpg" filemime="" /><figcaption class="wp-caption-text">△현대차 비정규직 노동자들의 투쟁은 모든 노동자들에게 용기를 줬다.</figcaption></figure> 
 
 <a href="http://wspaper.org/6_issue.php?issue_no=85" target="_blank" title="[http://wspaper.org/6_issue.php?issue_no=85]로 이동합니다.">현대차 비정규직 노동자들의 파업</a>에 대한 보복으로 현대차 사측이 대량 징계를 감행하고 있는 시점에 비정규직 노조 전주 지회장이 &#8220;징계 철회&#8221;가 아니라 &#8220;징계 최소화&#8221;로 요구사항을 수정하고 협상에 임하려는 태도를 비판하는 기사다. 일부 인용해 본다.
 

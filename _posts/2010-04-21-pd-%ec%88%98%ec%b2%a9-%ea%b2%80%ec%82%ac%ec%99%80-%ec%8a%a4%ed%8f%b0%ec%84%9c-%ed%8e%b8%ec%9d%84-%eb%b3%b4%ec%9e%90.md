@@ -4,7 +4,7 @@ title: PD 수첩, 검사와 스폰서 편을 보자
 date: 2010-04-21T09:48:03+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2010/04/21/pd-%ec%88%98%ec%b2%a9-%ea%b2%80%ec%82%ac%ec%99%80-%ec%8a%a4%ed%8f%b0%ec%84%9c-%ed%8e%b8%ec%9d%84-%eb%b3%b4%ec%9e%90/
+guid: https://marx.mytory.net/2010/04/21/pd-%ec%88%98%ec%b2%a9-%ea%b2%80%ec%82%ac%ec%99%80-%ec%8a%a4%ed%8f%b0%ec%84%9c-%ed%8e%b8%ec%9d%84-%eb%b3%b4%ec%9e%90/
 permalink: /archives/378
 categories:
   - 단상
@@ -31,7 +31,7 @@ PD수첩 진행자가 마지막 부분에 밝혔듯, 우리는 이미 &#8216;떡
 
 검사라는 작자의 교양을 보자. 아래는 <a title="[http://www.hani.co.kr/arti/society/society_general/417076.html]로 이동합니다." target="_blank" href="http://www.hani.co.kr/arti/society/society_general/417076.html">한겨레 기사</a>에서 퍼온 것이다. 
 
-<figure style="width: 483px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile27.uf.152AC0044BCEC64959D2FA.jpg" width="483" height="793" alt="검사와 스폰서, 출처 한겨레" filename="cfile27.uf.152AC0044BCEC64959D2FA.jpg" filemime="" /><figcaption class="wp-caption-text">△아예... 대단하십니다. (출처 : 한겨레 기사. 링크는 위에 있다.)</figcaption></figure>검사와 스폰서 방영 대화 내용이다. 
+<figure style="width: 483px" class="wp-caption aligncenter"><img src="https://marx.mytory.net/wp-content/uploads/1/cfile27.uf.152AC0044BCEC64959D2FA.jpg" width="483" height="793" alt="검사와 스폰서, 출처 한겨레" filename="cfile27.uf.152AC0044BCEC64959D2FA.jpg" filemime="" /><figcaption class="wp-caption-text">△아예... 대단하십니다. (출처 : 한겨레 기사. 링크는 위에 있다.)</figcaption></figure>검사와 스폰서 방영 대화 내용이다. 
 
 검사 : 아니 네가 뭔데? 
 

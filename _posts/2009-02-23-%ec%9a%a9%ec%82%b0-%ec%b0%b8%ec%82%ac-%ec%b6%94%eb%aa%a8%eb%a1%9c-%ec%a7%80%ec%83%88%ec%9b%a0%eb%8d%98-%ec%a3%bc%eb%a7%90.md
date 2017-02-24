@@ -4,7 +4,7 @@ title: 용산 참사 추모로 지새웠던 주말
 date: 2009-02-23T01:22:07+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/02/23/%ec%9a%a9%ec%82%b0-%ec%b0%b8%ec%82%ac-%ec%b6%94%eb%aa%a8%eb%a1%9c-%ec%a7%80%ec%83%88%ec%9b%a0%eb%8d%98-%ec%a3%bc%eb%a7%90/
+guid: https://marx.mytory.net/2009/02/23/%ec%9a%a9%ec%82%b0-%ec%b0%b8%ec%82%ac-%ec%b6%94%eb%aa%a8%eb%a1%9c-%ec%a7%80%ec%83%88%ec%9b%a0%eb%8d%98-%ec%a3%bc%eb%a7%90/
 permalink: /archives/149
 categories:
   - 추천하고 싶은 글
@@ -64,7 +64,7 @@ tags:
 
 저런다고 안나올 국민들이 아닌데 말이죠.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/49a1f97850f26DQ.jpg" class="aligncenter" width="400" height="299" alt="" filename="img_1295_samuiel.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/49a1f97850f26DQ.jpg" class="aligncenter" width="400" height="299" alt="" filename="img_1295_samuiel.jpg" filemime="" />
   
 사진에선 잘 안보이겠지만
 
@@ -115,7 +115,7 @@ tags:
   
 &nbsp;
   
-<img src="http://marx.mytory.net/wp-content/uploads/1/49a1f98bcc8a5EH.jpg" class="aligncenter" width="400" height="299" alt="" filename="img_1297_samuiel.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/49a1f98bcc8a5EH.jpg" class="aligncenter" width="400" height="299" alt="" filename="img_1297_samuiel.jpg" filemime="" />
   
 &#8212;
 

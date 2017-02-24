@@ -4,7 +4,7 @@ title: 고대녀 김지윤 체포 ㅡ 이명박. 미친 정권.
 date: 2009-05-28T14:45:20+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/05/28/%ea%b3%a0%eb%8c%80%eb%85%80-%ea%b9%80%ec%a7%80%ec%9c%a4-%ec%b2%b4%ed%8f%ac-%e3%85%a1-%ec%9d%b4%eb%aa%85%eb%b0%95-%eb%af%b8%ec%b9%9c-%ec%a0%95%ea%b6%8c/
+guid: https://marx.mytory.net/2009/05/28/%ea%b3%a0%eb%8c%80%eb%85%80-%ea%b9%80%ec%a7%80%ec%9c%a4-%ec%b2%b4%ed%8f%ac-%e3%85%a1-%ec%9d%b4%eb%aa%85%eb%b0%95-%eb%af%b8%ec%b9%9c-%ec%a0%95%ea%b6%8c/
 permalink: /archives/196
 categories:
   - 정치논평
@@ -51,7 +51,7 @@ tags:
 
 ## 벼락스타가 아니다
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile25.uf.1830DD144A1EA34D31A6B6.jpg" class="alignleft" width="300" height="403" alt="" filename="kimjy2.jpg" filemime="image/jpeg" />연예계, 스포츠계에서도 벼락 신인이 갑자기 떴다가 금세 꺼지곤 한다. 오랜 기간 단련된 사람일수록 그런 비율이 낮을 거라 생각한다. 지윤인, 촛불이 낳은 ‘스타’인 건 분명하지만 벼락 스타는 아니다. 지윤이는 정말 오랫동안 그런 일들을 해왔다.
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile25.uf.1830DD144A1EA34D31A6B6.jpg" class="alignleft" width="300" height="403" alt="" filename="kimjy2.jpg" filemime="image/jpeg" />연예계, 스포츠계에서도 벼락 신인이 갑자기 떴다가 금세 꺼지곤 한다. 오랜 기간 단련된 사람일수록 그런 비율이 낮을 거라 생각한다. 지윤인, 촛불이 낳은 ‘스타’인 건 분명하지만 벼락 스타는 아니다. 지윤이는 정말 오랫동안 그런 일들을 해왔다.
 
 고려대 학생들의 진보매체인 〈고대문화〉에서 활동했었고, 고려대 전쟁 반대 네트워크 간사 역할을 오랫동안 했었다. 등록금 문제, 학내 민주주의 문제에서도 앞장서서 싸워왔던 투사다. 그리고, 2006년 4월, 차별받는 병설 보건대 학생들과 **함께** 싸우다가 표적 징계를 당해 그 힘든 천막 농성을 2년 동안 함께 했다. 출교생 7명 중에 지윤이만 여성이었다. 이 사회에서 여성이 공동으로 천막 생활을 하는 게 얼마나 힘든 일인 줄 알 것이다.
 
@@ -74,7 +74,7 @@ tags:
 그래서 저들은 몇 안 되는 ‘김지윤’을 잡아 가두면, 어쩌면 48시간만 잡아 가두면 자신이 생존할 수 있을 거라 기대한다.
 
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.20686D114A1EA2D41F7880.jpg" class="aligncenter" width="540" height="363" alt="" filename="eye.jpg" filemime="image/jpeg" /> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile22.uf.20686D114A1EA2D41F7880.jpg" class="aligncenter" width="540" height="363" alt="" filename="eye.jpg" filemime="image/jpeg" /> 
 
 어림도 없는 소리다. 수많은 민초가 저들을 똑똑히 바라보고 있다. 두 눈 부릅뜨고 바라보고 있다. 제 1의 김지윤들을 잡아가면, 제2의 김지윤들이 나올 것이다. 그래, 사실 김지윤이 촛불을 상징하는 것처럼, 촛불 전체가 바로 김지윤이다.
 

@@ -4,7 +4,7 @@ title: 메타 블로그 이올린(eolin.com)에 글 보내기를 해 보자
 date: 2008-11-13T10:02:59+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/11/13/%eb%a9%94%ed%83%80-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%9d%b4%ec%98%ac%eb%a6%b0eolincom%ec%97%90-%ea%b8%80-%eb%b3%b4%eb%82%b4%ea%b8%b0%eb%a5%bc-%ed%95%b4-%eb%b3%b4%ec%9e%90/
+guid: https://marx.mytory.net/2008/11/13/%eb%a9%94%ed%83%80-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%9d%b4%ec%98%ac%eb%a6%b0eolincom%ec%97%90-%ea%b8%80-%eb%b3%b4%eb%82%b4%ea%b8%b0%eb%a5%bc-%ed%95%b4-%eb%b3%b4%ec%9e%90/
 permalink: /archives/14
 categories:
   - 웹
@@ -26,7 +26,7 @@ tags:
 
 “이올린은 태터툴즈 기반 블로그(티스토리, 오마이뉴스 블로그 등)에서 발행한 글을 모아 보여주는 블로그 메타사이트입니다. 포탈사이트나 기타 설치형 블로그는 이올린 발행기능이 없어 수집이 되지 않”는다.(<a href="http://blog.eolin.com/category/도움말" target="_blank" title="[http://blog.eolin.com/category/도움말]로 이동합니다.">출처:이올린 도움말</a>)
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/491bf59455f14ES.jpg" class="aligncenter" width="410" height="467" alt="" filename="eolin1.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/491bf59455f14ES.jpg" class="aligncenter" width="410" height="467" alt="" filename="eolin1.jpg" filemime="" />
 
 △ 이올린에 글 보내기 플러그인이 보인다
 
@@ -34,27 +34,27 @@ daum 블로거 뉴스는 daum 아이디가 있어야 하는데 주민등록번�
 
 이올린 홈페이지에 가서 가입하기를 누르면 아래와 같은 화면이 뜬다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/491bf6594e5709P.jpg" class="aligncenter" width="410" height="239" alt="" filename="eolin2.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/491bf6594e5709P.jpg" class="aligncenter" width="410" height="239" alt="" filename="eolin2.jpg" filemime="" />
 
 이것 외에 추가로 요구하는 사항은 없다.
 
 이메일 주소를 입력하고 인증키 받기를 누르면 인증키가 발송되었다고 나온다. 이제 자기 이메일로 로그인하면 다음과 같은 화면이 나온다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/491bf6b0dd0be9E.jpg" class="aligncenter" width="410" height="294" alt="" filename="eolin3.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/491bf6b0dd0be9E.jpg" class="aligncenter" width="410" height="294" alt="" filename="eolin3.jpg" filemime="" />
 
 인증하기 버튼을 누르면 되는데, 이메일에 따라 이미지를 보여 주지 않는 경우가 있다. 이 때는 <font color="red"><strong>이미지 보기를 눌러 줘야 인증하기 버튼이 보인다.</strong></font> (나는 한메일, G메일에서 이런 기능을 봤는데 다른 메일들도 아마 있지 싶다.) 안 그러면 “아래 인증하기를 클릭”하라는 말만 있고, 인증하기 버튼은 안 나온다.(이올린에서 이런 것을 감안해 인증하기 버튼을 이미지 처리하지 말고 텍스트로 처리하면 어떨까 하는 생각도 든다.)
 
 인증하고 나면 회원정보 수정란으로 가게 되는데 비밀번호를 입력해 주고, 아래쪽에 자기 블로그 정보를 입력한다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/491bf85bc0b94AD.jpg" class="aligncenter" width="410" height="237" alt="" filename="eolin4.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/491bf85bc0b94AD.jpg" class="aligncenter" width="410" height="237" alt="" filename="eolin4.jpg" filemime="" />
 
 위에 내가 빨간 테두리로 강조해 놓은 것이 자기 블로그임을 인증받기 위한 것인데, 자기가 쓴 글 중 하나에 저 트랙백 주소를 입력하면 된다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/491bf8b82cd27AP.jpg" class="aligncenter" width="410" height="76" alt="" filename="eolin5.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/491bf8b82cd27AP.jpg" class="aligncenter" width="410" height="76" alt="" filename="eolin5.jpg" filemime="" />
 
 위의 노란 불빛이 나는 곳에 이올린(Eolin)에서 제공한 트랙백 주소를 붙이면 된다. 그러면 글이 그쪽으로 보내지고, 이올린(Eolin)에 자신의 블로그가 등록된다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/491bf92a74b00AX.jpg" class="aligncenter" width="410" height="288" alt="" filename="eolin6.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/491bf92a74b00AX.jpg" class="aligncenter" width="410" height="288" alt="" filename="eolin6.jpg" filemime="" />
 
 이올린(Eolin)에 내 블로그가 등록된 모습이다.
 

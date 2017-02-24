@@ -4,13 +4,13 @@ title: '[연극] 그 놈을 잡아라 &#8211; 볼 만한 수사극'
 date: 2013-01-12T09:56:27+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2013/01/12/%ec%97%b0%ea%b7%b9-%ea%b7%b8-%eb%86%88%ec%9d%84-%ec%9e%a1%ec%95%84%eb%9d%bc-%eb%b3%bc-%eb%a7%8c%ed%95%9c-%ec%88%98%ec%82%ac%ea%b7%b9/
+guid: https://marx.mytory.net/2013/01/12/%ec%97%b0%ea%b7%b9-%ea%b7%b8-%eb%86%88%ec%9d%84-%ec%9e%a1%ec%95%84%eb%9d%bc-%eb%b3%bc-%eb%a7%8c%ed%95%9c-%ec%88%98%ec%82%ac%ea%b7%b9/
 permalink: /archives/567
 categories:
   - 리뷰
 ---
 <p style="text-align: center; clear: none; float: none;">
-  <figure style="width: 320px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile23.uf.2403DA4150F367CA22CF99.jpg" width="320" height="426" filename="그놈을 잡아라 티켓.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">인증샷 ㅋ</figcaption></figure>
+  <figure style="width: 320px" class="wp-caption aligncenter"><img src="https://marx.mytory.net/wp-content/uploads/1/cfile23.uf.2403DA4150F367CA22CF99.jpg" width="320" height="426" filename="그놈을 잡아라 티켓.jpg" filemime="image/jpeg" /><figcaption class="wp-caption-text">인증샷 ㅋ</figcaption></figure>
 </p>
 
 서스펜스 수사극이라는 이름이 붙은 연극이다. 특별히 논할 만한 말이 많지는 않고, 추리물로서 꽤 괜찮은 구성을 보여 준다.&nbsp;

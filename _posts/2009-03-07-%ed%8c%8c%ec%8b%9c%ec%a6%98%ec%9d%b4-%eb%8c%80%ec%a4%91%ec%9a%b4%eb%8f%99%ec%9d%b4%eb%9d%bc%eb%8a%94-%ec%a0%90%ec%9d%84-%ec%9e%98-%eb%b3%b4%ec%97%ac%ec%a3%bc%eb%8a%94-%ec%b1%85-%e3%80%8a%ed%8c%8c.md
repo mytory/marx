@@ -4,7 +4,7 @@ title: 파시즘이 대중운동이라는 점을 잘 보여주는 책, 《파도
 date: 2009-03-07T16:34:06+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/03/07/%ed%8c%8c%ec%8b%9c%ec%a6%98%ec%9d%b4-%eb%8c%80%ec%a4%91%ec%9a%b4%eb%8f%99%ec%9d%b4%eb%9d%bc%eb%8a%94-%ec%a0%90%ec%9d%84-%ec%9e%98-%eb%b3%b4%ec%97%ac%ec%a3%bc%eb%8a%94-%ec%b1%85-%e3%80%8a%ed%8c%8c/
+guid: https://marx.mytory.net/2009/03/07/%ed%8c%8c%ec%8b%9c%ec%a6%98%ec%9d%b4-%eb%8c%80%ec%a4%91%ec%9a%b4%eb%8f%99%ec%9d%b4%eb%9d%bc%eb%8a%94-%ec%a0%90%ec%9d%84-%ec%9e%98-%eb%b3%b4%ec%97%ac%ec%a3%bc%eb%8a%94-%ec%b1%85-%e3%80%8a%ed%8c%8c/
 permalink: /archives/156
 categories:
   - 리뷰

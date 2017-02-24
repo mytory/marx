@@ -4,7 +4,7 @@ title: 메타 블로그 믹시(mixsh)에 글 보내기 위해 가입하기
 date: 2008-11-13T05:16:22+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/11/13/%eb%a9%94%ed%83%80-%eb%b8%94%eb%a1%9c%ea%b7%b8-%eb%af%b9%ec%8b%9cmixsh%ec%97%90-%ea%b8%80-%eb%b3%b4%eb%82%b4%ea%b8%b0-%ec%9c%84%ed%95%b4-%ea%b0%80%ec%9e%85%ed%95%98%ea%b8%b0/
+guid: https://marx.mytory.net/2008/11/13/%eb%a9%94%ed%83%80-%eb%b8%94%eb%a1%9c%ea%b7%b8-%eb%af%b9%ec%8b%9cmixsh%ec%97%90-%ea%b8%80-%eb%b3%b4%eb%82%b4%ea%b8%b0-%ec%9c%84%ed%95%b4-%ea%b0%80%ec%9e%85%ed%95%98%ea%b8%b0/
 permalink: /archives/7
 categories:
   - 웹
@@ -22,13 +22,13 @@ tags:
 
 그래서 혹시나 하고 mixsh에 보내보려 한 것인데 여기도 가입을 해야 하는가?! 하는 생각을 하던 찰나, <font color="#006600"><strong>아하! 믹시(mixsh)는 가입에 개인정보를 요구하지 않았다.</strong></font>
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/491bb60af05d6AO.jpg" class="aligncenter" width="410" height="226" alt="" filename="mixsh.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/491bb60af05d6AO.jpg" class="aligncenter" width="410" height="226" alt="" filename="mixsh.jpg" filemime="" />
 
 위는 믹시(mixsh)의 가입화면이다. 보다시피 아이디, 닉네임, 이메일, 비밀번호만 요구하고 있다.
 
 가입절차를 마치면 자신의 블로그라는 것을 인증하기 위한 절차를 거쳐야 한다. 일단 자신의 블로그 주소를 입력하면 두 번째로 인증코드를 입력하는 절차가 나온다. 블로그 새글쓰기를 해서 본문이나 제목에 인증코드를 삽입하라는 내용이 뜨고 인증코드를 보여 준다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/491bba956c126D1.jpg" class="aligncenter" width="410" height="85" alt="" filename="mixsh-qualification.jpg" filemime="" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/491bba956c126D1.jpg" class="aligncenter" width="410" height="85" alt="" filename="mixsh-qualification.jpg" filemime="" />
 
 위 그림이 인증코드를 넣으라는 그림이다.
 

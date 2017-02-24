@@ -4,7 +4,7 @@ title: '용산참사 장례식을 보며 &#8211; 용산참사 항의 투쟁은 �
 date: 2010-01-10T06:07:31+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2010/01/10/%ec%9a%a9%ec%82%b0%ec%b0%b8%ec%82%ac-%ec%9e%a5%eb%a1%80%ec%8b%9d%ec%9d%84-%eb%b3%b4%eb%a9%b0-%ec%9a%a9%ec%82%b0%ec%b0%b8%ec%82%ac-%ed%95%ad%ec%9d%98-%ed%88%ac%ec%9f%81%ec%9d%80-%eb%ac%b4%ec%97%87/
+guid: https://marx.mytory.net/2010/01/10/%ec%9a%a9%ec%82%b0%ec%b0%b8%ec%82%ac-%ec%9e%a5%eb%a1%80%ec%8b%9d%ec%9d%84-%eb%b3%b4%eb%a9%b0-%ec%9a%a9%ec%82%b0%ec%b0%b8%ec%82%ac-%ed%95%ad%ec%9d%98-%ed%88%ac%ec%9f%81%ec%9d%80-%eb%ac%b4%ec%97%87/
 permalink: /archives/338
 categories:
   - 투쟁
@@ -30,7 +30,7 @@ tags:
 
 그러나 김석기는 결국 내정자에서 물러날 수밖에 없었다. 용산 참사 항의 운동이 제2의 촛불을 만들어낼 수도 있는 파괴력을 지녔기 때문이었다. 이명박 정부는 정말 싫었겠지만 양보할 수밖에 없었다. 경찰청장을 날려 버린 것이 바로 운동의 힘이었다.<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.153562184B496CF48AB6A8.jpg" width="540" height="359" alt="살인정권 이명박 OUT 손팻말 들고 있는 집회 참가자들" filename="cfile22.uf.153562184B496CF48AB6A8.jpg" filemime="" /><figcaption class="wp-caption-text">△이런 운동의 힘이 바로 김석기를 물러나게 했다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile22.uf.153562184B496CF48AB6A8.jpg" width="540" height="359" alt="살인정권 이명박 OUT 손팻말 들고 있는 집회 참가자들" filename="cfile22.uf.153562184B496CF48AB6A8.jpg" filemime="" /><figcaption class="wp-caption-text">△이런 운동의 힘이 바로 김석기를 물러나게 했다.</figcaption></figure> 
 
 김석기 사퇴가 이 땅 &#8216;명빠&#8217;들에게 보여 준 것이 있을 것이다. &#8220;과잉 충성&#8221;이 오히려 독이 될 수도 있다. &#8220;충성&#8221;도 좋지만 눈치 봐 가며 해야 하는 경우도 있는 거다. 이런 교훈 말이다. 바로 이런 &#8220;실질적 교훈&#8221;이 이 땅의 민주주의를 진척시킨다. 용산 참사 항의 운동은 일단 여기서 이 땅의 민주주의에 기여했다.
 

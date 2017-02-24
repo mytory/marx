@@ -4,7 +4,7 @@ title: 1945년 해방 직후 조선공산당이 본 혁명의 성격과 수단
 date: 2010-01-15T17:43:06+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2010/01/15/1945%eb%85%84-%ed%95%b4%eb%b0%a9-%ec%a7%81%ed%9b%84-%ec%a1%b0%ec%84%a0%ea%b3%b5%ec%82%b0%eb%8b%b9%ec%9d%b4-%eb%b3%b8-%ed%98%81%eb%aa%85%ec%9d%98-%ec%84%b1%ea%b2%a9%ea%b3%bc-%ec%88%98%eb%8b%a8/
+guid: https://marx.mytory.net/2010/01/15/1945%eb%85%84-%ed%95%b4%eb%b0%a9-%ec%a7%81%ed%9b%84-%ec%a1%b0%ec%84%a0%ea%b3%b5%ec%82%b0%eb%8b%b9%ec%9d%b4-%eb%b3%b8-%ed%98%81%eb%aa%85%ec%9d%98-%ec%84%b1%ea%b2%a9%ea%b3%bc-%ec%88%98%eb%8b%a8/
 permalink: /archives/344
 categories:
   - 학습
@@ -55,7 +55,7 @@ tags:
 
 박헌영이 8월 테제에서 제시한 대안 권력은 &#8220;혁명적 민주주의정권&#8221;이다. 내 생각에 이는 &#8220;노동자 권력&#8221;을 의미하는 게 아닌 듯하다.(사실 혁명론 자체가 부르주아 민주주의 혁명이니 노동자 권력이 대안 권력이 될 수는 없을 것이다.) <figure style="width: 427px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile7.uf.1175AA154B50A8EC08DEB7.jpg" width="427" height="278" alt="" filename="cfile7.uf.1175AA154B50A8EC08DEB7.jpg" filemime="" /><figcaption class="wp-caption-text">△모스코바 삼상회의 결정에 따라 '미.소 공위' 절차를 토의하는 미측의 하지 중장(왼쪽)과 소측의 스티코프 중장. / 해방된 조선의 운명은 이들의 협상으로 정해졌다. 출처 : http://koreanliterature.kaist.ac.kr/leesangkyung/picture/picture_15.htm</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile7.uf.1175AA154B50A8EC08DEB7.jpg" width="427" height="278" alt="" filename="cfile7.uf.1175AA154B50A8EC08DEB7.jpg" filemime="" /><figcaption class="wp-caption-text">△모스코바 삼상회의 결정에 따라 '미.소 공위' 절차를 토의하는 미측의 하지 중장(왼쪽)과 소측의 스티코프 중장. / 해방된 조선의 운명은 이들의 협상으로 정해졌다. 출처 : http://koreanliterature.kaist.ac.kr/leesangkyung/picture/picture_15.htm</figcaption></figure> 
 
 이 책도 그렇게 보는 입장인 듯한데, 미소연합이 공고한 채 유지되고, 세계가 민주적으로 발전할 것이라고 굳게 믿은 &#8220;작관적 정세판단 하에서 조공은 반제국주의혁명의 대상을 일제잔재 청산으로 좁혔던 것&#8221;이라고 평가하고 있다.
 

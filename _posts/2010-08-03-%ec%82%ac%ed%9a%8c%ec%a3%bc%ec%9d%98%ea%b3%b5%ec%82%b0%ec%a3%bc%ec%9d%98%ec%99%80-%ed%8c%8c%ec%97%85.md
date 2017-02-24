@@ -4,7 +4,7 @@ title: 사회주의/공산주의와 파업
 date: 2010-08-03T15:15:04+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2010/08/03/%ec%82%ac%ed%9a%8c%ec%a3%bc%ec%9d%98%ea%b3%b5%ec%82%b0%ec%a3%bc%ec%9d%98%ec%99%80-%ed%8c%8c%ec%97%85/
+guid: https://marx.mytory.net/2010/08/03/%ec%82%ac%ed%9a%8c%ec%a3%bc%ec%9d%98%ea%b3%b5%ec%82%b0%ec%a3%bc%ec%9d%98%ec%99%80-%ed%8c%8c%ec%97%85/
 permalink: /archives/388
 categories:
   - 마르크스주의
@@ -45,7 +45,7 @@ tags:
 
 어라? 내 머리는 한 순간에 새로운 지평으로 들어섰다. 유혈혁명이 아니라 파업이라- 매력적이었다.<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile6.uf.167801234C578F2AD27EC0.jpg" width="540" height="362" alt="" filename="cfile6.uf.167801234C578F2AD27EC0.jpg" filemime="" /><figcaption class="wp-caption-text">△KBS 파업 집회 모습. 이런 식으로 세상을 바꿀 수 있다는데 어찌 아니 매력적일까.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile6.uf.167801234C578F2AD27EC0.jpg" width="540" height="362" alt="" filename="cfile6.uf.167801234C578F2AD27EC0.jpg" filemime="" /><figcaption class="wp-caption-text">△KBS 파업 집회 모습. 이런 식으로 세상을 바꿀 수 있다는데 어찌 아니 매력적일까.</figcaption></figure> 
 
 나는 노동자 파업 옹호론자였다. 수많은 게시판[footnote]오프라인에서 관계맺고 있는 사람들의 커뮤니티에서 오간 논쟁이기 때문에 생산적이었다[/footnote]에서 파업이 이기주의니 하는 주장에 맞서서 내 의견을 개진하는 과정이 있었다. 파업권은 생존의 마지막 보루, 혹은 인간의 권리로서 내 머리속에 자리매김하고 있었다. 따라서 내 개념상 파업은 폭력이 아니었다. 파업을 부수는 것이야말로 폭력이었다. 파업으로 노동자들을 내모는 과정이야말로 구조적 폭력이었다.
 
@@ -73,7 +73,7 @@ tags:
 
 어떤 환경미화 노동자들은 밥 먹을 공간이 없어서 화장실 대변보는 칸에서 밥을 먹었다고 한다. 밥을 먹다가 사람이 들어와서 변을 보면 밥 먹는 것을 들키지 않으려고 변 떨어지는 소리를 들으면서 숨죽였다고 한다.<figure style="width: 330px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile6.uf.201823034C578FC523D72C.jpg" width="330" height="247" alt="" filename="cfile6.uf.201823034C578FC523D72C.jpg" filemime="" /><figcaption class="wp-caption-text">△이화여대 환경미화 노동자들의 휴게실. http://blogs.ildaro.com/652</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile6.uf.201823034C578FC523D72C.jpg" width="330" height="247" alt="" filename="cfile6.uf.201823034C578FC523D72C.jpg" filemime="" /><figcaption class="wp-caption-text">△이화여대 환경미화 노동자들의 휴게실. http://blogs.ildaro.com/652</figcaption></figure> 
 
 아마 말도 여러 번 했을 것이다. 견디다 못해 때려 친 사람들도 있을 것이다. 남은 사람들은 “그래도 여기가 낫지” 하는 생각으로 버텼을 것이다.
 
@@ -129,7 +129,7 @@ IMF가 왔고, 대학들도 긴축을 해야 했다. 대학 당국들은 고민�
 
 사회주의자들은 이를&nbsp;**정당방위**라고 말한다.<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile22.uf.195F3C0F4C57907D1A89BC.jpg" width="540" height="264" alt="" filename="cfile22.uf.195F3C0F4C57907D1A89BC.jpg" filemime="" /><figcaption class="wp-caption-text">△이것은 공격인가 정당방위인가?</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile22.uf.195F3C0F4C57907D1A89BC.jpg" width="540" height="264" alt="" filename="cfile22.uf.195F3C0F4C57907D1A89BC.jpg" filemime="" /><figcaption class="wp-caption-text">△이것은 공격인가 정당방위인가?</figcaption></figure> 
 
 ## 무기한 총파업
 
@@ -143,7 +143,7 @@ IMF가 왔고, 대학들도 긴축을 해야 했다. 대학 당국들은 고민�
 
 &lt;이웃집 남자&gt;라는 영화를 본 사람은 알 거다. 주인공은 여기저기서 돈을 끌어모아 땅투기를 하는 부동산 업자다. 그런데 환경 파괴에 반대하는 초등학교 교사가 지역 개발에 반대한다. 그래서 공사가 늦어진다. 주인공에게 돈을 맡긴 사람들이 돈을 날릴까봐 걱정한다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile23.uf.180ABF1B4C578ECF17EFE3.jpg" class="aligncenter" width="320" height="457" alt="" filename="1-themannextdoor-poster.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile23.uf.180ABF1B4C578ECF17EFE3.jpg" class="aligncenter" width="320" height="457" alt="" filename="1-themannextdoor-poster.jpg" filemime="image/jpeg" />
 
 주인공과 내연관계인 한 돈 많은 여자는 제발 투자해 달라는 주인공을 외면한다.
 

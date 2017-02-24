@@ -4,7 +4,7 @@ title: 사회주의/공산주의는 개인 소유 자체를 부정하는가
 date: 2009-05-03T11:12:38+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/05/03/%ec%82%ac%ed%9a%8c%ec%a3%bc%ec%9d%98%ea%b3%b5%ec%82%b0%ec%a3%bc%ec%9d%98%eb%8a%94-%ea%b0%9c%ec%9d%b8-%ec%86%8c%ec%9c%a0-%ec%9e%90%ec%b2%b4%eb%a5%bc-%eb%b6%80%ec%a0%95%ed%95%98%eb%8a%94%ea%b0%80/
+guid: https://marx.mytory.net/2009/05/03/%ec%82%ac%ed%9a%8c%ec%a3%bc%ec%9d%98%ea%b3%b5%ec%82%b0%ec%a3%bc%ec%9d%98%eb%8a%94-%ea%b0%9c%ec%9d%b8-%ec%86%8c%ec%9c%a0-%ec%9e%90%ec%b2%b4%eb%a5%bc-%eb%b6%80%ec%a0%95%ed%95%98%eb%8a%94%ea%b0%80/
 permalink: /archives/187
 categories:
   - 마르크스주의
@@ -77,7 +77,7 @@ tags:
 > 
 > (역시 혐오하는 신문에 링크를 주지 않는다.)
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile1.uf.1662A72349FD7A1BD23727.jpg" class="aligncenter" width="480" height="563" alt="" filename="marx.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile1.uf.1662A72349FD7A1BD23727.jpg" class="aligncenter" width="480" height="563" alt="" filename="marx.jpg" filemime="image/jpeg" />
 
 경제 위기가 사회주의에 대한 관심을 높이고 있다. 그래서 나는 혹시나 관심 가진 사람들이 검색할까 싶어 사회주의가 개인 소유를 무조건 엄금하는 사상인지 써 보려고 한다.
 

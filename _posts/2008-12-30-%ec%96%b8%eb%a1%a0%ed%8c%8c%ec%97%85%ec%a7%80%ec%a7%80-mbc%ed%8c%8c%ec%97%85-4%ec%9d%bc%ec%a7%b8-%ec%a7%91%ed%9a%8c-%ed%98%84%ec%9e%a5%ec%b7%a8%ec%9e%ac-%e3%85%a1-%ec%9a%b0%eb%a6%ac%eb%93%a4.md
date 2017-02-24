@@ -4,7 +4,7 @@ title: '[언론파업지지] MBC파업 4일째 집회 현장취재 ㅡ “우리
 date: 2008-12-30T03:28:32+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/12/30/%ec%96%b8%eb%a1%a0%ed%8c%8c%ec%97%85%ec%a7%80%ec%a7%80-mbc%ed%8c%8c%ec%97%85-4%ec%9d%bc%ec%a7%b8-%ec%a7%91%ed%9a%8c-%ed%98%84%ec%9e%a5%ec%b7%a8%ec%9e%ac-%e3%85%a1-%ec%9a%b0%eb%a6%ac%eb%93%a4/
+guid: https://marx.mytory.net/2008/12/30/%ec%96%b8%eb%a1%a0%ed%8c%8c%ec%97%85%ec%a7%80%ec%a7%80-mbc%ed%8c%8c%ec%97%85-4%ec%9d%bc%ec%a7%b8-%ec%a7%91%ed%9a%8c-%ed%98%84%ec%9e%a5%ec%b7%a8%ec%9e%ac-%e3%85%a1-%ec%9a%b0%eb%a6%ac%eb%93%a4/
 permalink: /archives/80
 categories:
   - 추천하고 싶은 글

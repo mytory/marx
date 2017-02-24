@@ -4,7 +4,7 @@ title: 아이작 도이처 트로츠키 3부작에서 트로츠키의 반스탈�
 date: 2009-12-25T13:55:44+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/12/25/%ec%95%84%ec%9d%b4%ec%9e%91-%eb%8f%84%ec%9d%b4%ec%b2%98-%ed%8a%b8%eb%a1%9c%ec%b8%a0%ed%82%a4-3%eb%b6%80%ec%9e%91%ec%97%90%ec%84%9c-%ed%8a%b8%eb%a1%9c%ec%b8%a0%ed%82%a4%ec%9d%98-%eb%b0%98%ec%8a%a4/
+guid: https://marx.mytory.net/2009/12/25/%ec%95%84%ec%9d%b4%ec%9e%91-%eb%8f%84%ec%9d%b4%ec%b2%98-%ed%8a%b8%eb%a1%9c%ec%b8%a0%ed%82%a4-3%eb%b6%80%ec%9e%91%ec%97%90%ec%84%9c-%ed%8a%b8%eb%a1%9c%ec%b8%a0%ed%82%a4%ec%9d%98-%eb%b0%98%ec%8a%a4/
 permalink: /archives/332
 categories:
   - 마르크스주의
@@ -17,7 +17,7 @@ tags:
 
 닐 데이비슨이 쓴 ‘현대 진보사상 조류 &#8211; 트로츠키 전기 작가 아이작 도이처’(<a href="http://www.isj.org.uk/index.php4?id=11&issue=104" target="_blank" title="[http://www.isj.org.uk/index.php4?id=11&issue=104]로 이동합니다.">원문</a>)다. 《마르크스21》의 웹사이트는 없다. 글을 링크하지 못해 좀 안타깝다. 온라인 구입은 가능한데, <a target="_blank" href="http://alltogether.or.kr/">다함께 홈페이지</a>에 곧 올라올 것 같다.<figure style="width: 158px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile5.uf.180795174B3B3BDCAD0EC5.jpg" width="158" height="220.00000000000003" alt="아이작 도이처 사진" filename="cfile5.uf.180795174B3B3BDCAD0EC5.jpg" filemime="" /><figcaption class="wp-caption-text">△아이작 도이처는 트로츠키주의의 전통을 후대에 남기는 데 혁혁한 역할을 했다. 물론 왜곡된 형태로 남기기는 했지만 말이다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile5.uf.180795174B3B3BDCAD0EC5.jpg" width="158" height="220.00000000000003" alt="아이작 도이처 사진" filename="cfile5.uf.180795174B3B3BDCAD0EC5.jpg" filemime="" /><figcaption class="wp-caption-text">△아이작 도이처는 트로츠키주의의 전통을 후대에 남기는 데 혁혁한 역할을 했다. 물론 왜곡된 형태로 남기기는 했지만 말이다.</figcaption></figure> 
 
 내가 지난 번에 쓴 ‘<a target="_blank" href="http://spar2003.tistory.com/123">아이작 도이처, 《비무장의 예언자 트로츠키 : 1921-1929》</a>’에는 이런 구절이 나온다.
 

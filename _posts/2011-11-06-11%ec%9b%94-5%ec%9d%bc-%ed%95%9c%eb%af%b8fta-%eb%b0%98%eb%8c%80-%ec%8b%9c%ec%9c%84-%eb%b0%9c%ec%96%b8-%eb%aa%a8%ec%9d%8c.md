@@ -4,7 +4,7 @@ title: 11월 5일 한미FTA 반대 시위 발언 모음
 date: 2011-11-06T13:19:07+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2011/11/06/11%ec%9b%94-5%ec%9d%bc-%ed%95%9c%eb%af%b8fta-%eb%b0%98%eb%8c%80-%ec%8b%9c%ec%9c%84-%eb%b0%9c%ec%96%b8-%eb%aa%a8%ec%9d%8c/
+guid: https://marx.mytory.net/2011/11/06/11%ec%9b%94-5%ec%9d%bc-%ed%95%9c%eb%af%b8fta-%eb%b0%98%eb%8c%80-%ec%8b%9c%ec%9c%84-%eb%b0%9c%ec%96%b8-%eb%aa%a8%ec%9d%8c/
 permalink: /archives/530
 categories:
   - 투쟁
@@ -17,7 +17,7 @@ categories:
 
 여튼간에, 11월 5일 한미FTA반대 집회의 자유발언들은 참 좋았다. 특히 좋았던 것은 맨 마지막에서 두 번째로 발언한 비정규직 노동자의 것이었는데 아쉽게도 손이 너무 아파서 타이핑하지 못했다. 내가 타이핑한 걸 올린다.<figure style="width: 540px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile9.uf.192013404EB68929128121.jpg" width="540" height="403" alt="" filename="cfile9.uf.192013404EB68929128121.jpg" filemime="" /><figcaption class="wp-caption-text">△2011-11-05 한미FTA 반대 집회 사진. 내가 찍었다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile9.uf.192013404EB68929128121.jpg" width="540" height="403" alt="" filename="cfile9.uf.192013404EB68929128121.jpg" filemime="" /><figcaption class="wp-caption-text">△2011-11-05 한미FTA 반대 집회 사진. 내가 찍었다.</figcaption></figure> 
 
 ## 서울대병원 노동자
 

@@ -4,7 +4,7 @@ title: G20 대토론회─G20정상회의, 누구를 위한 회의인가? 발제
 date: 2010-10-26T12:06:01+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2010/10/26/g20-%eb%8c%80%ed%86%a0%eb%a1%a0%ed%9a%8c%e2%94%80g20%ec%a0%95%ec%83%81%ed%9a%8c%ec%9d%98-%eb%88%84%ea%b5%ac%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%9a%8c%ec%9d%98%ec%9d%b8%ea%b0%80-%eb%b0%9c%ec%a0%9c/
+guid: https://marx.mytory.net/2010/10/26/g20-%eb%8c%80%ed%86%a0%eb%a1%a0%ed%9a%8c%e2%94%80g20%ec%a0%95%ec%83%81%ed%9a%8c%ec%9d%98-%eb%88%84%ea%b5%ac%eb%a5%bc-%ec%9c%84%ed%95%9c-%ed%9a%8c%ec%9d%98%ec%9d%b8%ea%b0%80-%eb%b0%9c%ec%a0%9c/
 permalink: /archives/413
 categories:
   - 강연회/토론회 후기
@@ -31,7 +31,7 @@ tags:
 
 개인적으로 열심히 받아적었지만 부정확한 게 당연히 있습니다. 여기 내용에 오류가 있다면 내 탓일 확률이 큽니다. 발제자 분들에게 누가 되지 않았으면 합니다.
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile25.uf.117293174CCAB61054D6E7.jpg" class="aligncenter" width="540" height="360" alt="" filename="20101027011008_0004.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile25.uf.117293174CCAB61054D6E7.jpg" class="aligncenter" width="540" height="360" alt="" filename="20101027011008_0004.jpg" filemime="image/jpeg" />
 
 그래도 핵심적인 내용은 잘 받아 적었을 것입니다. G20에 대해 궁금한 분들에게 도움이 됐으면 합니다.
 

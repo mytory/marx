@@ -4,7 +4,7 @@ title: 철거민 사망 ─ 되풀이되는 ‘난장이가 쏘아올린 작은 
 date: 2009-01-20T02:31:06+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/01/20/%ec%b2%a0%ea%b1%b0%eb%af%bc-%ec%82%ac%eb%a7%9d-%e2%94%80-%eb%90%98%ed%92%80%ec%9d%b4%eb%90%98%eb%8a%94-%eb%82%9c%ec%9e%a5%ec%9d%b4%ea%b0%80-%ec%8f%98%ec%95%84%ec%98%ac%eb%a6%b0-%ec%9e%91/
+guid: https://marx.mytory.net/2009/01/20/%ec%b2%a0%ea%b1%b0%eb%af%bc-%ec%82%ac%eb%a7%9d-%e2%94%80-%eb%90%98%ed%92%80%ec%9d%b4%eb%90%98%eb%8a%94-%eb%82%9c%ec%9e%a5%ec%9d%b4%ea%b0%80-%ec%8f%98%ec%95%84%ec%98%ac%eb%a6%b0-%ec%9e%91/
 permalink: /archives/113
 categories:
   - 정치논평

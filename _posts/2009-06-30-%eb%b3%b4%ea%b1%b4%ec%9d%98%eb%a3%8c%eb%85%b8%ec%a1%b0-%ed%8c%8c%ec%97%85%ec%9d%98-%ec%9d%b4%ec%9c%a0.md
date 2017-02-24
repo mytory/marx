@@ -4,7 +4,7 @@ title: 보건의료노조 파업의 이유
 date: 2009-06-30T15:35:14+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/06/30/%eb%b3%b4%ea%b1%b4%ec%9d%98%eb%a3%8c%eb%85%b8%ec%a1%b0-%ed%8c%8c%ec%97%85%ec%9d%98-%ec%9d%b4%ec%9c%a0/
+guid: https://marx.mytory.net/2009/06/30/%eb%b3%b4%ea%b1%b4%ec%9d%98%eb%a3%8c%eb%85%b8%ec%a1%b0-%ed%8c%8c%ec%97%85%ec%9d%98-%ec%9d%b4%ec%9c%a0/
 permalink: /archives/226
 categories:
   - 투쟁
@@ -34,14 +34,14 @@ tags:
 [#M_더보기|접기| 
 
 <div>
-  <img src="http://marx.mytory.net/wp-content/uploads/1/cfile25.uf.196D8C1E4A4A2F8E286FFB.jpg" class="aligncenter" width="610" height="862" alt="" filename="고대병원-노조-성과급제-의료민영화-반대-유.jpg" filemime="" /><br /> <img src="http://marx.mytory.net/wp-content/uploads/1/cfile3.uf.1173331E4A4A2F9CCED331.jpg" class="aligncenter" width="610" height="839" alt="" filename="고대병원-노조-성과급제-의료민영화-반대-유.jpg" filemime="" />
+  <img src="https://marx.mytory.net/wp-content/uploads/1/cfile25.uf.196D8C1E4A4A2F8E286FFB.jpg" class="aligncenter" width="610" height="862" alt="" filename="고대병원-노조-성과급제-의료민영화-반대-유.jpg" filemime="" /><br /> <img src="https://marx.mytory.net/wp-content/uploads/1/cfile3.uf.1173331E4A4A2F9CCED331.jpg" class="aligncenter" width="610" height="839" alt="" filename="고대병원-노조-성과급제-의료민영화-반대-유.jpg" filemime="" />
 </div>
 
 _M#]
 
 ## 쟁점1
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile3.uf.203AB41E4A4A276451A6D8.jpg" class="aligncenter" width="540" height="341" alt="" filename="20090630고대병원노조집회.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile3.uf.203AB41E4A4A276451A6D8.jpg" class="aligncenter" width="540" height="341" alt="" filename="20090630고대병원노조집회.jpg" filemime="image/jpeg" />
 
 오늘 노조는 집회를 열었고, 쟁점은 두 가지다. 노조는 새 인사제도에 반대하고 있다. 이미 많이들 주장한 것처럼, 성과급제를 도입하면 노동환경이 악화되기 때문이다. 그렇다고 **작업 효율이 좋아지는 것도 아니**고 말이다. 성과급제를 통해 거둘 수 있는 건 단 하나다. 사측의 **노동 통제**가 쉬워진다. 그래서 노동자들을 더 막 부려먹을 수 있다. **그래서 이윤이 늘어난다.**
 

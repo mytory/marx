@@ -4,7 +4,7 @@ title: 그리스 노동계급의 놀라운 투쟁을 지켜 보며
 date: 2010-06-13T17:21:22+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2010/06/13/%ea%b7%b8%eb%a6%ac%ec%8a%a4-%eb%85%b8%eb%8f%99%ea%b3%84%ea%b8%89%ec%9d%98-%eb%86%80%eb%9d%bc%ec%9a%b4-%ed%88%ac%ec%9f%81%ec%9d%84-%ec%a7%80%ec%bc%9c-%eb%b3%b4%eb%a9%b0/
+guid: https://marx.mytory.net/2010/06/13/%ea%b7%b8%eb%a6%ac%ec%8a%a4-%eb%85%b8%eb%8f%99%ea%b3%84%ea%b8%89%ec%9d%98-%eb%86%80%eb%9d%bc%ec%9a%b4-%ed%88%ac%ec%9f%81%ec%9d%84-%ec%a7%80%ec%bc%9c-%eb%b3%b4%eb%a9%b0/
 permalink: /archives/385
 categories:
   - 투쟁
@@ -23,7 +23,7 @@ tags:
   - 총파업
   - 파업
 ---
-<figure style="width: 540px" class="wp-caption aligncenter"><img src="http://marx.mytory.net/wp-content/uploads/1/cfile29.uf.114FD9104C150DABD2164B.jpg" width="540" height="252" alt="그리스 시위 모습" filename="cfile29.uf.114FD9104C150DABD2164B.jpg" filemime="" /><figcaption class="wp-caption-text">△총파업이 반자본주의 사상을 확산시키고 있다. 출처 : http://wspaper.org/article/8205</figcaption></figure>놀라운 일이 벌어졌다. 그리스다. 유로존 금융 위기의 새로운 진원지로 꼽히는 그리스다. 총파업이 수개월째 반복됐고, 사람들은 자본주의 자체에 의문을 제기하고 있다. 유럽에서 말이다. 좀 과장해서 말하면 **마치 혁명 전야같다.**(물론 혁명 전야는 아니다. 당연히.)
+<figure style="width: 540px" class="wp-caption aligncenter"><img src="https://marx.mytory.net/wp-content/uploads/1/cfile29.uf.114FD9104C150DABD2164B.jpg" width="540" height="252" alt="그리스 시위 모습" filename="cfile29.uf.114FD9104C150DABD2164B.jpg" filemime="" /><figcaption class="wp-caption-text">△총파업이 반자본주의 사상을 확산시키고 있다. 출처 : http://wspaper.org/article/8205</figcaption></figure>놀라운 일이 벌어졌다. 그리스다. 유로존 금융 위기의 새로운 진원지로 꼽히는 그리스다. 총파업이 수개월째 반복됐고, 사람들은 자본주의 자체에 의문을 제기하고 있다. 유럽에서 말이다. 좀 과장해서 말하면 **마치 혁명 전야같다.**(물론 혁명 전야는 아니다. 당연히.)
 
 2008-2009년 경제 위기로 아이슬란드가 파산했고, 때문에 정권이 교체됐다는 이야기는 들었다. 그러나 그리고 끝이었다. 그곳 새로운 정권은 다시 노동자들을 옥죌 가능성이 클 테다. 노동자들은 자신들의 손으로 뽑은, 자신들을 대변할 것이라고 생각한 정권이 왜 자신들을 공격하는지 혼란스러워할 것이고, 나름대로 실망할 것이다. 누군가는 어쩔 수 없다고 생각할지 모른다.
 
@@ -89,7 +89,7 @@ tags:
 
 ## 그리스 투쟁의 생생한 소식을 듣고 싶다면<figure style="width: 92px" class="wp-caption alignleft">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile1.uf.1335A9274C151319E77BF7.jpg" width="92" height="131" alt="파노스 가르가나스 얼굴" filename="cfile1.uf.1335A9274C151319E77BF7.jpg" filemime="" /><figcaption class="wp-caption-text">△파노스 가르가나스. 그리스 사회주의노동자당 창립자다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile1.uf.1335A9274C151319E77BF7.jpg" width="92" height="131" alt="파노스 가르가나스 얼굴" filename="cfile1.uf.1335A9274C151319E77BF7.jpg" filemime="" /><figcaption class="wp-caption-text">△파노스 가르가나스. 그리스 사회주의노동자당 창립자다.</figcaption></figure> 
 
 마지막으로&#8230; 그리스 투쟁 소식을 생생하게 전해 줄, <a href="http://www.sek-ist.gr/" target="_blank" title="[http://www.sek-ist.gr/]로 이동합니다.">그리스 사회주의노동자당</a>(<a href="http://translate.google.co.kr/translate?hl=ko&sl=auto&tl=en&u=http://www.sek-ist.gr/" target="_blank" title="[http://translate.google.co.kr/translate?hl=ko&sl=auto&tl=en&u=http://www.sek-ist.gr/]로 이동합니다.">영어번역 페이지</a>) 활동가가 7월 23일에 한국에 와서 연설한다. 이름은 파노스 가르가나스,&nbsp;<a href="http://wspaper.org/3_search.php?keyword=%ED%8C%8C%EB%85%B8%EC%8A%A4+%EA%B0%80%EB%A5%B4%EA%B0%80%EB%82%98%EC%8A%A4" target="_blank" title="[http://wspaper.org/3_search.php?keyword=%ED%8C%8C%EB%85%B8%EC%8A%A4+%EA%B0%80%EB%A5%B4%EA%B0%80%EB%82%98%EC%8A%A4]로 이동합니다.">&lt;레프트21&gt;에 그리스 관련한 글</a>도 많이 쓴 사람이다. 7월에 있는&nbsp;**<a href="http://marxism.or.kr/2010/" target="_blank" title="[http://marxism.or.kr/2010/]로 이동합니다.">한국 최대 규모의 진보 포럼 맑시즘2010</a>**에서 연설한다.&nbsp;
 

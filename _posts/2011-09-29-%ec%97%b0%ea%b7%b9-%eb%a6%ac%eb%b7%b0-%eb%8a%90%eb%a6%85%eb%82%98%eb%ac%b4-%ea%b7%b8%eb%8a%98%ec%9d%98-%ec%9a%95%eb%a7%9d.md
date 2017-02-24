@@ -4,7 +4,7 @@ title: '[연극 리뷰] 느릅나무 그늘의 욕망'
 date: 2011-09-29T17:11:04+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2011/09/29/%ec%97%b0%ea%b7%b9-%eb%a6%ac%eb%b7%b0-%eb%8a%90%eb%a6%85%eb%82%98%eb%ac%b4-%ea%b7%b8%eb%8a%98%ec%9d%98-%ec%9a%95%eb%a7%9d/
+guid: https://marx.mytory.net/2011/09/29/%ec%97%b0%ea%b7%b9-%eb%a6%ac%eb%b7%b0-%eb%8a%90%eb%a6%85%eb%82%98%eb%ac%b4-%ea%b7%b8%eb%8a%98%ec%9d%98-%ec%9a%95%eb%a7%9d/
 permalink: /archives/521
 categories:
   - 리뷰
@@ -13,7 +13,7 @@ tags:
   - 느릅나무 그늘의 욕망
   - 유진 오닐
 ---
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile6.uf.1568D94A4E849D1F301E8A.jpg" class="aligncenter" width="610" height="455" alt="" filename="IMG_5601.jpg" filemime="image/jpeg" />
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile6.uf.1568D94A4E849D1F301E8A.jpg" class="aligncenter" width="610" height="455" alt="" filename="IMG_5601.jpg" filemime="image/jpeg" />
 
 유진 오닐의 &lt;느릅나무 그늘의 욕망&gt;(<a href="http://www.sungjwa.com/" target="_blank" title="[http://www.sungjwa.com/]로 이동합니다.">극단 성좌 웹사이트</a>)을 봤다.(R석 3만 원, S석 2만 원. 만24세 이하는 40% 할인. 기타 할인들이 좀 있으니 예매 사이트에 가서 보시길. 장소는 동국대역 근처에 있는 국립극장 하늘극장이다.)
 
@@ -53,7 +53,7 @@ tags:
 
 나는 &#8220;비극이네&#8221; 하고 말했는데 친구는 &#8220;나름 희극&#8221;이라고 주장했다. 마지막에 어쨌든 에비와 에본은 사랑을 유지하기 때문이다.<figure style="width: 610px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile2.uf.1404683A4E84A49F26705B.jpg" width="610" height="455" alt="" filename="cfile2.uf.1404683A4E84A49F26705B.jpg" filemime="" /><figcaption class="wp-caption-text">△연극, 느릅나무 그늘의 욕망 무대. 좌측에 느릅나무가 있기는 한데 별로 역할은 안 한다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile2.uf.1404683A4E84A49F26705B.jpg" width="610" height="455" alt="" filename="cfile2.uf.1404683A4E84A49F26705B.jpg" filemime="" /><figcaption class="wp-caption-text">△연극, 느릅나무 그늘의 욕망 무대. 좌측에 느릅나무가 있기는 한데 별로 역할은 안 한다.</figcaption></figure> 
 
 느릅나무는 배경에 그냥 서 있는데, 별다른 역할도, 상징도 하지 않는다. 원래 희곡에서는 어땠을지 몰라도 이 연극에서는 별로 비중이 없었다. 대사로도 별로 등장하지 않는다.
 
@@ -65,7 +65,7 @@ tags:
 
 여튼간에, 그걸 그냥 잘 보여 줬다. 굳이 메세지를 찾으려고 하지 않아도 되겠지.<figure style="width: 610px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile7.uf.131BDD394E84A5B2311FD8.jpg" width="610" height="455" alt="" filename="cfile7.uf.131BDD394E84A5B2311FD8.jpg" filemime="" /><figcaption class="wp-caption-text">△연극이 끝나고 나가는 사람들. 극장은 꽤 널찍하고 쾌적했다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile7.uf.131BDD394E84A5B2311FD8.jpg" width="610" height="455" alt="" filename="cfile7.uf.131BDD394E84A5B2311FD8.jpg" filemime="" /><figcaption class="wp-caption-text">△연극이 끝나고 나가는 사람들. 극장은 꽤 널찍하고 쾌적했다.</figcaption></figure> 
 
 우리 좌석은 측면 중간쯤이었는데, 평일 저녁이라 역시 빈 자리가 많았다. 그래서 맨 앞으로 옮겨 가서 봤다.
 

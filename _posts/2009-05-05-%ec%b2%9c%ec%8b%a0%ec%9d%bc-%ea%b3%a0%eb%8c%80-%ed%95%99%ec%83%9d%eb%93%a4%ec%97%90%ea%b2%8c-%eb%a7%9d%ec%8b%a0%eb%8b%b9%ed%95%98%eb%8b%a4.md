@@ -4,7 +4,7 @@ title: 천신일, 고대 학생들에게 망신당하다
 date: 2009-05-05T06:41:50+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/05/05/%ec%b2%9c%ec%8b%a0%ec%9d%bc-%ea%b3%a0%eb%8c%80-%ed%95%99%ec%83%9d%eb%93%a4%ec%97%90%ea%b2%8c-%eb%a7%9d%ec%8b%a0%eb%8b%b9%ed%95%98%eb%8b%a4/
+guid: https://marx.mytory.net/2009/05/05/%ec%b2%9c%ec%8b%a0%ec%9d%bc-%ea%b3%a0%eb%8c%80-%ed%95%99%ec%83%9d%eb%93%a4%ec%97%90%ea%b2%8c-%eb%a7%9d%ec%8b%a0%eb%8b%b9%ed%95%98%eb%8b%a4/
 permalink: /archives/190
 categories:
   - 투쟁

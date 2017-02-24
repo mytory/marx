@@ -4,7 +4,7 @@ title: 《세상 끝 외딴 섬》, 제2차세계대전의 광기를 담담히 �
 date: 2008-11-12T18:52:48+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2008/11/12/%e3%80%8a%ec%84%b8%ec%83%81-%eb%81%9d-%ec%99%b8%eb%94%b4-%ec%84%ac%e3%80%8b-%ec%a0%9c2%ec%b0%a8%ec%84%b8%ea%b3%84%eb%8c%80%ec%a0%84%ec%9d%98-%ea%b4%91%ea%b8%b0%eb%a5%bc-%eb%8b%b4%eb%8b%b4%ed%9e%88/
+guid: https://marx.mytory.net/2008/11/12/%e3%80%8a%ec%84%b8%ec%83%81-%eb%81%9d-%ec%99%b8%eb%94%b4-%ec%84%ac%e3%80%8b-%ec%a0%9c2%ec%b0%a8%ec%84%b8%ea%b3%84%eb%8c%80%ec%a0%84%ec%9d%98-%ea%b4%91%ea%b8%b0%eb%a5%bc-%eb%8b%b4%eb%8b%b4%ed%9e%88/
 permalink: /archives/5
 categories:
   - 리뷰
@@ -18,7 +18,7 @@ tags:
 <table align="center" width="295" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="http://marx.mytory.net/wp-content/uploads/1/491b25951ab0dCA.jpg" class="aligncenter" width="295" height="450" alt="" filename="end_of_world.jpg" filemime="" />
+      <img src="https://marx.mytory.net/wp-content/uploads/1/491b25951ab0dCA.jpg" class="aligncenter" width="295" height="450" alt="" filename="end_of_world.jpg" filemime="" />
     </td>
   </tr>
   

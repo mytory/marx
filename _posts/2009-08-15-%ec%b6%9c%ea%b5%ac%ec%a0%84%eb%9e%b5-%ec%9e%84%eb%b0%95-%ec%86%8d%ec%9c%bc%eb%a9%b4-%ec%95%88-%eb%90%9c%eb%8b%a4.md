@@ -4,7 +4,7 @@ title: 출구전략 임박? 속으면 안 된다
 date: 2009-08-15T13:12:39+00:00
 author: mytory
 layout: post
-guid: http://marx.mytory.net/2009/08/15/%ec%b6%9c%ea%b5%ac%ec%a0%84%eb%9e%b5-%ec%9e%84%eb%b0%95-%ec%86%8d%ec%9c%bc%eb%a9%b4-%ec%95%88-%eb%90%9c%eb%8b%a4/
+guid: https://marx.mytory.net/2009/08/15/%ec%b6%9c%ea%b5%ac%ec%a0%84%eb%9e%b5-%ec%9e%84%eb%b0%95-%ec%86%8d%ec%9c%bc%eb%a9%b4-%ec%95%88-%eb%90%9c%eb%8b%a4/
 permalink: /archives/256
 categories:
   - 정치논평
@@ -27,7 +27,7 @@ tags:
 
 ## 경기 낙관론은 틀렸다<figure style="width: 550px" class="wp-caption aligncenter">
 
-<img src="http://marx.mytory.net/wp-content/uploads/1/cfile24.uf.1375BC0E4A86B3E8817438.jpg" width="550" height="277" alt="미국에서 상위 10퍼센트의 소득이 전체 소득에서 차지하는 비중  : 1917~2006 / 출처 : http://wspaper.org/article/5822" filename="cfile24.uf.1375BC0E4A86B3E8817438.jpg" filemime="" /><figcaption class="wp-caption-text">미국에서 상위 10퍼센트의 소득이 전체 소득에서 차지하는 비중 : 1917~2006 / 출처 : http://wspaper.org/article/5822 - 정성진 교수는 이런 지표를 보면 미국 경제가 위기에 있다는 것을 알 수 있다고 말한다.</figcaption></figure> 
+<img src="https://marx.mytory.net/wp-content/uploads/1/cfile24.uf.1375BC0E4A86B3E8817438.jpg" width="550" height="277" alt="미국에서 상위 10퍼센트의 소득이 전체 소득에서 차지하는 비중  : 1917~2006 / 출처 : http://wspaper.org/article/5822" filename="cfile24.uf.1375BC0E4A86B3E8817438.jpg" filemime="" /><figcaption class="wp-caption-text">미국에서 상위 10퍼센트의 소득이 전체 소득에서 차지하는 비중 : 1917~2006 / 출처 : http://wspaper.org/article/5822 - 정성진 교수는 이런 지표를 보면 미국 경제가 위기에 있다는 것을 알 수 있다고 말한다.</figcaption></figure> 
 
 여기저기서 주워들은 말로 긴 글은 못 쓰겠고, 몇 가지 근거만 대면서 아직 경기 회복을 기대하지 말라고 강조하고 싶다.
 
