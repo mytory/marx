@@ -223,7 +223,7 @@ a.post-link {
 }
 
 .post-content {
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit * 2;
 
     h2 {
         font-size: 32px;
@@ -309,4 +309,21 @@ a.post-link {
     li:last-child p {
         margin-bottom: 0;
     }
+}
+
+.comment {
+    margin-bottom: $spacing-unit;
+}
+
+.comment__header {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: $spacing-unit / 2;
+}
+
+.comment_img, .comment__username {
+    margin-right: $spacing-unit / 2;
+}
+
+.comment__body p:last-child {
+    margin-bottom: 0;
 }
