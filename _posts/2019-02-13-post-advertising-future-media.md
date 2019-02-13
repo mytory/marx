@@ -2,6 +2,7 @@
 title: 광고 후기 시대 미디어의 오래된 미래 — 뉴스가 19세기로 회귀중인 이유
 layout: post
 author: 데렉 톰슨(Derek Thompson)
+translator: 이원웅
 ---
 
 〈아틀란틱〉의 "[The Media’s Post-Advertising Future Is Also Its Past — Why the news is going back to the 19th century][original]"를 번역했다.
