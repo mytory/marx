@@ -101,4 +101,4 @@ comment_issue_id: 2
 
 ----
 
-데렉 톰슨(Derek Thompson)은 경제, 노동 시장, 그리고 언론에 관해 쓰는 〈아틀란틱〉의 기자(staff writer)다. [〈히트 메이커(Hit Maker)〉](https://www.amazon.com/Hit-Makers-Science-Popularity-Distraction/dp/110198032X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)의 저자기도 하다.
+데렉 톰슨(Derek Thompson)은 경제, 노동 시장, 그리고 언론에 관해 쓰는 〈아틀란틱〉의 기자(staff writer)다. [《히트 메이커(Hit Maker)》](https://www.amazon.com/Hit-Makers-Science-Popularity-Distraction/dp/110198032X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)의 저자기도 하다.
