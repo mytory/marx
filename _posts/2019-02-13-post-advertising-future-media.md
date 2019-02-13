@@ -33,7 +33,7 @@ author: 데렉 톰슨(Derek Thompson)
 
 [silicon-valley]: https://www.theatlantic.com/magazine/archive/2017/09/when-silicon-valley-took-over-journalism/534195/
 
-1 지나치게 많은 경쟁자
+1\. 지나치게 많은 경쟁자
 -----------------------
 
 페이스북과 구글만이 아니라 거의 [모든 거대 기술 기업이 광고 사업을 고려](https://twitter.com/modestproposal1/status/1072216004548313089)하고 있다. 거의 모든 거대 기술 기업이 광고 수입을 둘러싼 경쟁에 뛰어든다는 것이다. 
@@ -42,7 +42,7 @@ author: 데렉 톰슨(Derek Thompson)
 
 이 기술 기업들은 기존 미디어 기업은 꿈도 못 꿀만큼의 청중과 데이터를 보유하고 있다. 따라서 더 많은 광고는 [인공지능 기반 프로그램에 의한 광고 매출](https://www.theatlantic.com/business/archive/2018/02/advertising-jobs-programmatic-tech/552629/)로 쏠릴 뿐만 아니라, 뉴스 취재 사업을 주되게 하지 않는(혹은 전혀 하지 않는) 기업들로 쏠릴 것이다.
 
-2 구원자의 부재
+2\. 구원자의 부재
 ---------------
 
 광고가 디지털 플랫폼으로 이동하자 뉴스 미디어는 영웅을 찾기 시작했다. 한 때는 아이패드가 [미디어를 구원할 것](https://pando.com/2013/01/15/the-ipad-our-mobile-advertising-savior/)이라 했다. 그 다음은 [벤처 자본](https://www.tandfonline.com/doi/pdf/10.1080/21670811.2016.1272064)이었다. 그 다음은 ["뉴스판 훌루"](https://gigaom.com/2011/02/03/419-nytcos-nisenholtz-ongo-is-hulu-for-news/)가 신비로운 가능성으로 떠올랐다\[훌루는 온라인 스트리밍 서비스 기업이다]. 그 다음은 [페이스북의 비디오 플랫폼](https://mic.com/articles/189692/mic-to-launch-correspondent-led-newsmagazine-show-on-facebook-watch-mic-dispatch)이었다. 아, [팟캐스트](https://techcrunch.com/2017/04/14/can-podcasting-save-the-world/)도 있다!
@@ -51,7 +51,7 @@ author: 데렉 톰슨(Derek Thompson)
 
 \[참고: [페이스북과 스냅챗은 새로운 텔레비전](https://www.theatlantic.com/business/archive/2016/06/the-social-video-network/485345/)\]
 
-3 각본의 부재
+3\. 각본의 부재
 -------------
 
 뉴스 조직들은 온갖 실험을 닥치는 대로 했다.
@@ -64,7 +64,7 @@ author: 데렉 톰슨(Derek Thompson)
 
 [subsides]: https://www.cjr.org/opinion/government-subsidy-facebook.php "The American experiment was built on a government-supported press"
 
-4 상이한 수준의 후원자들
+4\. 상이한 수준의 후원자들
 -------------------
 
 한 때 대중을 상대로 한 기업 활동의 꽃으로 여겨지던 출판물들은 부유한 후원자들의 품 안에서 피난처를 찾았다. 많은 유서 깊은 출판물들은 이미 백만장자와 억만장자에게 신세를 졌다. 〈타임〉은 셀즈포스의 설립자인 마크 베니오프(Marc Benioff)에게, 〈포춘〉은 태국의 기업가인 차차바르 쟈라바논(Chatchaval Jiaravanon)에게, 〈워싱턴 포스트〉는 아마존의 설립자인 제프 베조스(Jeff Bezos)에게 팔렸다. 억만장자인 로렌 파월(Laurene Powell Jobs)이 설립한 조직인 에머슨 콜렉티브(Emerson Collective)는 2017년에 〈아틀란틱〉의 다수 지분을 매입했다.
