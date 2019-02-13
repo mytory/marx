@@ -327,3 +327,32 @@ a.post-link {
 .comment__body p:last-child {
     margin-bottom: 0;
 }
+
+@media print {
+    @page {
+      margin: 2cm;
+    }
+
+    .site-header {
+      display: none;
+    }
+
+    .post-content p {
+      font-family: 'kopubbatang medium', serif;
+      margin: 0;
+      text-indent: 1em;
+      font-size: 10.5pt;
+    }
+
+    .post-content h2, .post-content h3 {
+      margin: 1em 0;
+    }
+
+    .post-content h2 {
+      font-size: 1.3em;
+    }
+
+    .post-content h3 {
+      font-size: 1.1em;
+    }
+}
