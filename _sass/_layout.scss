@@ -215,7 +215,7 @@ a.post-link {
 .post-title {
     font-size: 42px;
     letter-spacing: -1px;
-    line-height: 1;
+    line-height: 1.3;
     word-break: keep-all;
 
     @include media-query($on-laptop) {
@@ -344,7 +344,6 @@ a.post-link {
 
     .post-title {
         font-size: 1.6em;
-        line-height: 1.3;
     }
 
     .site-header, .site-footer, .no-print {
