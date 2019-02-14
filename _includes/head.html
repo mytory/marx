@@ -21,4 +21,13 @@
         <link rel="stylesheet" href="{{ "/css/ie.css" | prepend: site.baseurl }}">
         <script src="{{ site.baseurl }}/js-lib/html5shiv.min.js"></script>
     <![endif]--> 
+
+    <script src="/js/mytory-webfont.js"></script>
+    <script>
+    mytoryWebfont({
+        woffPath: ['/fonts/noto-serif-cjk-kr-normal.woff.css'],
+        woff2Path: ['/fonts/noto-serif-cjk-kr-normal.woff2.css'],
+        renderingType: 'onReady' // onReady, onNextPage
+    });
+    </script>
 </head>
