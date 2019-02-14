@@ -347,7 +347,8 @@ a.post-link {
     }
 
     .wrapper {
-        width: 100%;
+        max-width: none;
+        padding: 0;
     }
 
     .site-header, .site-footer, .no-print {
