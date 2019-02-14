@@ -6,7 +6,7 @@ translator: 이원웅
 comment_issue_id: 2
 ---
 
-〈아틀란틱〉의 "[The Media’s Post-Advertising Future Is Also Its Past — Why the news is going back to the 19th century][original]"를 번역했다.
+〈아틀란틱〉의 “[The Media’s Post-Advertising Future Is Also Its Past — Why the news is going back to the 19th century][original]”를 번역했다.
 
 [original]: https://www.theatlantic.com/ideas/archive/2018/12/post-advertising-future-media/578917/
 
