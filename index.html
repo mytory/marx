@@ -21,20 +21,20 @@ layout: default
   <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page and paginator.previous_page != 1 %}
-    <a href="{{site.url}}/page/{{ paginator.previous_page }}" class="previous">Previous</a>
+    <a href="{{site.url}}/page/{{ paginator.previous_page }}" class="previous">이전 ←</a>
   {% else if paginator.previous_page and paginator.previous_page == 1 %}
-    <a href="{{site.url}}/" class="previous">Previous</a>
+    <a href="{{site.url}}/" class="previous">이전 ←</a>
   {% else %}
-    <span class="previous">Previous</span>
+    <span class="previous">이전 ←</span>
   {% endif %}
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <span class="page_number ">{{ paginator.page }}페이지 / {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
-    <a href="{{site.url}}/page/{{ paginator.next_page }}" class="next">Next</a>
+    <a href="{{site.url}}/page/{{ paginator.next_page }}" class="next">→ 다음</a>
   {% else %}
-    <span class="next ">Next</span>
+    <span class="next">→ 다음</span>
   {% endif %}
 </div>
 
-  <p class="rss-subscribe">subscribe <a href="http://marx.mytory.net/feed.xml">via RSS</a></p>
+  <p class="rss-subscribe"><a href="http://marx.mytory.net/feed.xml">RSS 구독</a></p>
 
 </div>
