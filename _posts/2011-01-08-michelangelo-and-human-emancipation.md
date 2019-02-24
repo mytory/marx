@@ -5,8 +5,6 @@ date: 2011-01-08T06:31:16+00:00
 author: 존 몰리뉴
 translator: 이원웅
 layout: post
-categories:
-  - 예술
 tags:
   - 계급
   - 다비드
