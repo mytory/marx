@@ -10,10 +10,10 @@ $serif-font-family: NotoSerifCJKkrWeb, NotoSerifCJKkr, 'KopubWorldBatang', 'Kopu
 $sans-serif-font-family: 'Apple SD Gothic Neo','애플 SD 고딕 Neo','Malgun Gothic','맑은 고딕','NanumBarunGothic','NanumGothic','NanumGothicOTF', '나눔고딕','나눔고딕OTF',sans-serif;
 $monospace-font-family: Consolas,"Liberation Mono",Menlo,Courier,monospace;
 $base-font-size:   18px;
-$small-font-size:  $base-font-size * 0.875;
+$small-font-size:  0.875rem;
 $base-line-height: 1.8;
 
-$spacing-unit:     $base-font-size * 2;
+$spacing-unit:     2rem;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);

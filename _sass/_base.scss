@@ -1,10 +1,22 @@
-/**
- * Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
+}
+
+html {
+  font-size: $base-font-size;
+  font-family: $serif-font-family;
+  line-height: $base-line-height;
+  color: $text-color;
+  background-color: #fff;
+  word-break: break-all;
+  -webkit-text-size-adjust: 100%;
+
+  @include media-query($on-laptop) {
+      font-size: $base-font-size + 2px;
+  }
 }
 
 address {
@@ -32,19 +44,11 @@ hr {
 
 /**
  * Basic styling */
-body {
-  font-family: $serif-font-family;
-  font-size: $base-font-size;
-  line-height: $base-line-height;
-  font-weight: light;
-  color: $text-color;
-  background-color: #fff;
-  word-break: break-all;
-  -webkit-text-size-adjust: 100%;
-}
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $sans-serif-font-family;
+  font-weight: 500;
+  word-break: keep-all;
 }
 
 /**
@@ -111,10 +115,10 @@ a {
 /**
  * Blockquotes */
 blockquote {
-  font-size: 0.9em;
-  font-family: serif;
+  font-size: 0.95em;
+  font-family: $serif-font-family;
   color: $grey-color-dark;
-  padding-left: $spacing-unit / 2;
+  padding-left: $spacing-unit;
 
   > :last-child {}
 }
