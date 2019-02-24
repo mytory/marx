@@ -9,6 +9,6 @@ paginate_path: "page/:num"
 email: "mail@mytory.net"
 twitter_username: "spar2003"
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
