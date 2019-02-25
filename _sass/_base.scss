@@ -13,10 +13,6 @@ html {
   background-color: #fff;
   word-break: break-all;
   -webkit-text-size-adjust: 100%;
-
-  @include media-query($on-laptop) {
-      font-size: $base-font-size + 2px;
-  }
 }
 
 address {
