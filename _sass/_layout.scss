@@ -237,6 +237,10 @@ a.post-link {
         font-weight: normal;
     }
 
+    strong {
+        font-family: $sans-serif-font-family;
+    }
+
     table {
         border-collapse: collapse;
     }
@@ -244,6 +248,14 @@ a.post-link {
     td, th {
         border: 1px solid #ddd;
         padding: .5em;
+    }
+
+    img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin-right: auto;
+        margin-left: auto;
     }
 
     figure {
