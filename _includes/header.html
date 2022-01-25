@@ -4,18 +4,12 @@
 
     <a class="logo" href="/">
       <span class="logo__img">{% include logo.svg.html %}</span>
-      <!-- <span class="logo__title">{% include site-name.svg.html %}</span> -->
       <span class="logo__title">마르크스의 눈</span>
     </a>
 
     <nav class="site-nav  site-nav--palm">
-        <div class="wrapper"><!--
-          {% for page in site.pages %}
-            {% if page.title and page.dir != "/jquery-validate-demo" and page.title != 'PayPal 후원' %}
-            --><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a><!--
-            {% endif %}
-          {% endfor %}
-          -->
+        <div class="wrapper">
+          <a class="page-link" href="/about.html">소개</a>
         </div>
       </nav>
 
@@ -24,13 +18,8 @@
     </div>
   </div>
   <nav class="site-nav  site-nav--laptop">
-    <div class="wrapper"><!--
-      {% for page in site.pages %}
-        {% if page.title and page.dir != "/jquery-validate-demo" and page.title != 'PayPal 후원' %}
-        --><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a><!--
-        {% endif %}
-      {% endfor %}
-      -->
+    <div class="wrapper">
+      <a class="page-link" href="/about.html">소개</a>
     </div>
   </nav>
 </header>
